@@ -1,5 +1,318 @@
 [
   {
+    "id": "twitter_1980396579975807003",
+    "source": "twitter",
+    "author": "_archienorman",
+    "content": "@anthonyronning_ @FactoryAI @elevenlabsio Love the orbs- are they custom or elevenlabs components?",
+    "url": "https://x.com/_archienorman/status/1980396579975807003",
+    "timestamp": "2025-10-20T22:11:53.000Z",
+    "metadata": {
+      "conversation_id": "1980396579975807003",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980395377254887657",
+    "source": "twitter",
+    "author": "AdvicebyAimar",
+    "content": "@damien_r_h @WisprFlow @FactoryAI exactly how i'm building, feels insane",
+    "url": "https://x.com/AdvicebyAimar/status/1980395377254887657",
+    "timestamp": "2025-10-20T22:07:06.000Z",
+    "metadata": {
+      "conversation_id": "1980395377254887657",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1980390300888756318",
+    "source": "twitter",
+    "author": "hqmank",
+    "content": "@damien_r_h @WisprFlow @FactoryAI I’m also using both of these.",
+    "url": "https://x.com/hqmank/status/1980390300888756318",
+    "timestamp": "2025-10-20T21:46:56.000Z",
+    "metadata": {
+      "conversation_id": "1980390300888756318",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980386946586140875",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "I have just setup a @GoogleCloudTech ADK project less than 15 mins.\nModels used: \n-Haiku 4.5 for planning (in spec mode)\n- GPT-5 (High) for execution\n1- Setup @Context7AI mcp server in @FactoryAI .\n2- \"Read everything on ADK docs, learn and create a structured plan, add this into AGENTS[.]md \"\n3- Implement.\n\nHaiku 4.5 for planning is lightning fast.",
+    "url": "https://x.com/CloudTrader4/status/1980386946586140875",
+    "timestamp": "2025-10-20T21:33:36.000Z",
+    "metadata": {
+      "conversation_id": "1980386946586140875",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980386739287142696",
+    "source": "twitter",
+    "author": "TimHerby",
+    "content": "@FactoryAI are you down? https://t.co/3pG81uCGTG is return 504s (blocking sign-in), but https://t.co/Mdj9C08EEB shows green",
+    "url": "https://x.com/TimHerby/status/1980386739287142696",
+    "timestamp": "2025-10-20T21:32:47.000Z",
+    "metadata": {
+      "conversation_id": "1980386739287142696",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980382764227870928",
+    "source": "twitter",
+    "author": "KalGrinberg",
+    "content": "@falanfantana @matanSF @FactoryAI So great to finally meet irl! 🔥",
+    "url": "https://x.com/KalGrinberg/status/1980382764227870928",
+    "timestamp": "2025-10-20T21:16:59.000Z",
+    "metadata": {
+      "conversation_id": "1980382764227870928",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980381260389454153",
+    "source": "twitter",
+    "author": "falanfantana",
+    "content": "Awesome finally meeting you in person today @matanSF @KalGrinberg. Thanks for the warm welcome at the stunning @FactoryAI HQ! https://t.co/v1Q6kNmmfo",
+    "url": "https://x.com/falanfantana/status/1980381260389454153",
+    "timestamp": "2025-10-20T21:11:00.000Z",
+    "metadata": {
+      "conversation_id": "1980381260389454153",
+      "likes": 8,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980380239176802703",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JoelDeTeves @FactoryAI hell yeah!",
+    "url": "https://x.com/bentossell/status/1980380239176802703",
+    "timestamp": "2025-10-20T21:06:57.000Z",
+    "metadata": {
+      "conversation_id": "1980380239176802703",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980378621673107772",
+    "source": "twitter",
+    "author": "noahmits",
+    "content": "@CloudTrader4 @FactoryAI I don't have enough credits",
+    "url": "https://x.com/noahmits/status/1980378621673107772",
+    "timestamp": "2025-10-20T21:00:31.000Z",
+    "metadata": {
+      "conversation_id": "1980378621673107772",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980378221750440100",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@damien_r_h @WisprFlow @FactoryAI 🧠",
+    "url": "https://x.com/francesca_lab/status/1980378221750440100",
+    "timestamp": "2025-10-20T20:58:56.000Z",
+    "metadata": {
+      "conversation_id": "1980378221750440100",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980376668125745192",
+    "source": "twitter",
+    "author": "flatoy_",
+    "content": "I was excited to try @FactoryAI but i'm not able to login, their https://t.co/h6eDloKTpD url is down. \n\nand their bridge is non responding. \n\nwhat a shame. \n\nback to shipping with @claudeai",
+    "url": "https://x.com/flatoy_/status/1980376668125745192",
+    "timestamp": "2025-10-20T20:52:45.000Z",
+    "metadata": {
+      "conversation_id": "1980376668125745192",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980372536694321325",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "Thanks for the cool @FactoryAI schwag @bentossell! #DroidMode https://t.co/cATDpdvU4h",
+    "url": "https://x.com/JoelDeTeves/status/1980372536694321325",
+    "timestamp": "2025-10-20T20:36:20.000Z",
+    "metadata": {
+      "conversation_id": "1980372536694321325",
+      "likes": 8,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980372061794283922",
+    "source": "twitter",
+    "author": "ingoa_dev",
+    "content": "@singular_prism @kcosr @FactoryAI Thanks, made me consider.\n\nHow much gpt5 do I get for the $20 plan - just like API would cost? There is no gpt5-high, correct?\n\nIt reads just like that stpd Cursor plan :)",
+    "url": "https://x.com/ingoa_dev/status/1980372061794283922",
+    "timestamp": "2025-10-20T20:34:27.000Z",
+    "metadata": {
+      "conversation_id": "1980372061794283922",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980364935386525897",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@theharshjadhav @FactoryAI Hey, could you DM me your email and I'll take a look?",
+    "url": "https://x.com/alvinsng/status/1980364935386525897",
+    "timestamp": "2025-10-20T20:06:08.000Z",
+    "metadata": {
+      "conversation_id": "1980364935386525897",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980363405728051515",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@SadeqSardari @bitdoze @FactoryAI @astrodotbuild oh no - dm your email and i'll look into it for you!",
+    "url": "https://x.com/bentossell/status/1980363405728051515",
+    "timestamp": "2025-10-20T20:00:03.000Z",
+    "metadata": {
+      "conversation_id": "1980363405728051515",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980358748435783753",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@nateliason @every @AnthropicAI @danshipper @kieranklaassen @FactoryAI yep, I'm a big factory fan. We've got a vibecheck of droid coming out soon",
+    "url": "https://x.com/DannyAziz97/status/1980358748435783753",
+    "timestamp": "2025-10-20T19:41:33.000Z",
+    "metadata": {
+      "conversation_id": "1980358748435783753",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980354838065213863",
+    "source": "twitter",
+    "author": "0xAgentKitchen",
+    "content": "Cool kids are moving from Claude Code and Codex to Droid (from @FactoryAI)? \n\nOr it's just the flavour of the month and they'll go back to Claude Code / Codex?",
+    "url": "https://x.com/0xAgentKitchen/status/1980354838065213863",
+    "timestamp": "2025-10-20T19:26:01.000Z",
+    "metadata": {
+      "conversation_id": "1980354838065213863",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980347509110370352",
+    "source": "twitter",
+    "author": "bitdoze",
+    "content": "@jeff_behnke_ @FactoryAI @astrodotbuild View transitions are not useless, but it depends who you ask.",
+    "url": "https://x.com/bitdoze/status/1980347509110370352",
+    "timestamp": "2025-10-20T18:56:53.000Z",
+    "metadata": {
+      "conversation_id": "1980347509110370352",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980346727875117207",
+    "source": "twitter",
+    "author": "bernaferrari",
+    "content": "@SadeqSardari @bitdoze @FactoryAI @astrodotbuild If Droid is full of bugs, I don't know what you are going to use, it is one of the best ones by far. I subscribe to Codex and something as basic as /compact doesn't work anymore (auto-compact then, never worked). If you don't want the $520 feel free to send to me. I'll be happy.",
+    "url": "https://x.com/bernaferrari/status/1980346727875117207",
+    "timestamp": "2025-10-20T18:53:47.000Z",
+    "metadata": {
+      "conversation_id": "1980346727875117207",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980346353281823102",
+    "source": "twitter",
+    "author": "jeff_behnke_",
+    "content": "@bitdoze @FactoryAI @astrodotbuild And I am over here writing rules to stop LLMs from adding useless animations and transitions for no reason",
+    "url": "https://x.com/jeff_behnke_/status/1980346353281823102",
+    "timestamp": "2025-10-20T18:52:18.000Z",
+    "metadata": {
+      "conversation_id": "1980346353281823102",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -10,6 +323,19 @@
       "type": "issue",
       "labels": [],
       "number": 217
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -26,6 +352,45 @@
     }
   },
   {
+    "id": "reddit_1ob2dsx",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -36,6 +401,32 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1oayeuk",
+    "source": "reddit",
+    "author": "Malek262",
+    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
+    "timestamp": "2025-10-19T19:18:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oapxet",
+    "source": "reddit",
+    "author": "Chemical_Bid_2195",
+    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
+    "timestamp": "2025-10-19T13:40:51.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -104,6 +495,19 @@
     }
   },
   {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -114,6 +518,32 @@
       "type": "issue",
       "labels": [],
       "number": 203
+    }
+  },
+  {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
