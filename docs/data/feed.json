@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1980256063526961352",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@aeitroc should I use the \"Spec Mode\" in @FactoryAI Droid with the orchestrator? Or just use the default mode? \nAlso I created the tasks folders but it doesn't put any tasks in it. Am I doing something wrong here?",
+    "url": "https://x.com/pascallammers_/status/1980256063526961352",
+    "timestamp": "2025-10-20T12:53:31.000Z",
+    "metadata": {
+      "conversation_id": "1980256063526961352",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980254348262207819",
+    "source": "twitter",
+    "author": "nmw_dev",
+    "content": "@aeitroc @AnthropicAI @FactoryAI Maybe you need to learn how to use it.. I don’t know",
+    "url": "https://x.com/nmw_dev/status/1980254348262207819",
+    "timestamp": "2025-10-20T12:46:42.000Z",
+    "metadata": {
+      "conversation_id": "1980254348262207819",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980253534785331220",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "Testing this rn\nLooks good so far \n@FactoryAI will also have a look into it and maybe implement it straight away (which would be super nice I think) \n\nthanks @aeitroc for that repo :)",
+    "url": "https://x.com/pascallammers_/status/1980253534785331220",
+    "timestamp": "2025-10-20T12:43:28.000Z",
+    "metadata": {
+      "conversation_id": "1980253534785331220",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980252495432523895",
+    "source": "twitter",
+    "author": "d3layd",
+    "content": "@aeitroc @AnthropicAI @FactoryAI What are you talking about lmfao",
+    "url": "https://x.com/d3layd/status/1980252495432523895",
+    "timestamp": "2025-10-20T12:39:20.000Z",
+    "metadata": {
+      "conversation_id": "1980252495432523895",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980249693599752433",
+    "source": "twitter",
+    "author": "MI_Patriotic",
+    "content": "@lllIIIIlIlIaa @aeitroc @AnthropicAI @FactoryAI A guy ~450 followers is gonna be paid and his post is going to get the CEO of @AnthropicAI who is obsessed with “safety” to buy a company for something like $2B?\n\nMaybe it’s just facts being spoken by the market place and actual users!",
+    "url": "https://x.com/MI_Patriotic/status/1980249693599752433",
+    "timestamp": "2025-10-20T12:28:12.000Z",
+    "metadata": {
+      "conversation_id": "1980249693599752433",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980243256043860062",
+    "source": "twitter",
+    "author": "BigForestFarms",
+    "content": "Ok, setup @FactoryAI Droids to work on my first big claude 3.5 megaslop monolith -- lets see how far its gotten in the morning. https://t.co/CLFht1oBTh",
+    "url": "https://x.com/BigForestFarms/status/1980243256043860062",
+    "timestamp": "2025-10-20T12:02:38.000Z",
+    "metadata": {
+      "conversation_id": "1980243256043860062",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980240460334747907",
     "source": "twitter",
     "author": "bentossell",
@@ -8,7 +98,7 @@
     "timestamp": "2025-10-20T11:51:31.000Z",
     "metadata": {
       "conversation_id": "1980240460334747907",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,7 +113,7 @@
     "timestamp": "2025-10-20T11:51:26.000Z",
     "metadata": {
       "conversation_id": "1980240437643272475",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,7 +128,7 @@
     "timestamp": "2025-10-20T11:49:23.000Z",
     "metadata": {
       "conversation_id": "1980239921672515993",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +158,7 @@
     "timestamp": "2025-10-20T11:40:53.000Z",
     "metadata": {
       "conversation_id": "1980237784733618279",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -186,7 +276,7 @@
     "timestamp": "2025-10-20T10:31:18.000Z",
     "metadata": {
       "conversation_id": "1980220272587493452",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -223,109 +313,6 @@
     }
   },
   {
-    "id": "twitter_1980216408404562124",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "@dctmfoo @FactoryAI Most likely yes.",
-    "url": "https://x.com/JoelDeTeves/status/1980216408404562124",
-    "timestamp": "2025-10-20T10:15:57.000Z",
-    "metadata": {
-      "conversation_id": "1980216408404562124",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980215953838490103",
-    "source": "twitter",
-    "author": "damien_r_h",
-    "content": "Using @WisprFlow with @FactoryAI Droid is like I just grew another cortical lobe.",
-    "url": "https://x.com/damien_r_h/status/1980215953838490103",
-    "timestamp": "2025-10-20T10:14:08.000Z",
-    "metadata": {
-      "conversation_id": "1980215953838490103",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980215652721004738",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "@FactoryAI @EnoReyes update: seems to be working again! https://t.co/gUfiiHb5yE",
-    "url": "https://x.com/5aikat/status/1980215652721004738",
-    "timestamp": "2025-10-20T10:12:56.000Z",
-    "metadata": {
-      "conversation_id": "1980215652721004738",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980214176648929776",
-    "source": "twitter",
-    "author": "kcosr",
-    "content": "@bentossell @FactoryAI Submitted via email. This looks to be the same thing @RayFernando1337 encountered on his stream yesterday.",
-    "url": "https://x.com/kcosr/status/1980214176648929776",
-    "timestamp": "2025-10-20T10:07:04.000Z",
-    "metadata": {
-      "conversation_id": "1980214176648929776",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980207299114496136",
-    "source": "twitter",
-    "author": "dalu_hey",
-    "content": "@FactoryAI needs a $50 plan or something between $20 and $200.",
-    "url": "https://x.com/dalu_hey/status/1980207299114496136",
-    "timestamp": "2025-10-20T09:39:45.000Z",
-    "metadata": {
-      "conversation_id": "1980207299114496136",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980204193941188656",
-    "source": "twitter",
-    "author": "grok",
-    "content": "Thanks for the screenshot—it shows Factory AI acknowledging the up arrow issue as a bug they're fixing (from Oct 10). On referral nuking, I checked r/FactoryAi (empty) and broader searches but found no reports of shady practices. If you have a specific post or link, share it so I can investigate further?",
-    "url": "https://x.com/grok/status/1980204193941188656",
-    "timestamp": "2025-10-20T09:27:24.000Z",
-    "metadata": {
-      "conversation_id": "1980204193941188656",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 0,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_215",
     "source": "github",
     "author": "iota9star",
@@ -339,45 +326,6 @@
     }
   },
   {
-    "id": "reddit_1ob2dsx",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
-    "timestamp": "2025-10-19T21:56:23.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 0,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oazqru",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
-    "timestamp": "2025-10-19T20:10:35.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -388,32 +336,6 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
-  },
-  {
-    "id": "reddit_1oayeuk",
-    "source": "reddit",
-    "author": "Malek262",
-    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
-    "timestamp": "2025-10-19T19:18:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oapxet",
-    "source": "reddit",
-    "author": "Chemical_Bid_2195",
-    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
-    "timestamp": "2025-10-19T13:40:51.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -508,19 +430,6 @@
     }
   },
   {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -531,19 +440,6 @@
       "type": "issue",
       "labels": [],
       "number": 203
-    }
-  },
-  {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -648,32 +544,6 @@
       "type": "issue",
       "labels": [],
       "number": 191
-    }
-  },
-  {
-    "id": "reddit_1o6tivb",
-    "source": "reddit",
-    "author": "stevilg",
-    "content": "byok / custom_models\n\nIs Bring your own keys / custom\\_models working for anybody? I've tried a few combinations and no luck; droid never shows it on the list. Below is in my projects directory e.g. /project/.factory/config.json and I can confirm POST to [http://localhost:8317/v1/chat/completions](http://localhost:8317/v1/chat/completions) does work and so does GET to [http://localhost:8317/v1/models](http://localhost:8317/v1/models)\n\n    {\n      \"custom_models\": [\n        {\n          \"model_display_name\": \"qwen3-cod",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6tivb/byok_custom_models/",
-    "timestamp": "2025-10-14T22:13:49.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o6jgc5",
-    "source": "reddit",
-    "author": "Kindly_District",
-    "content": "attach a image to the droid cli?\n\nIs there a way to attach a design image to the droid cli?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6jgc5/attach_a_image_to_the_droid_cli/",
-    "timestamp": "2025-10-14T15:58:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
