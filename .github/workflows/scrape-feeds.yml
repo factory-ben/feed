@@ -1,0 +1,42 @@
+name: Scrape Feeds
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Every 10 minutes
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches: [main]  # Also run on push for testing
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          TEAM_TWITTER_USERNAMES: ${{ secrets.TEAM_TWITTER_USERNAMES }}
+        run: node src/scraper-cli.js
+
+      - name: Commit and push feed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/feed.json
+          git diff --staged --quiet || git commit -m "Update feed data [skip ci]"
+          git push || echo "No changes to push"

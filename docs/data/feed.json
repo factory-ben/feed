@@ -1,0 +1,522 @@
+[
+  {
+    "id": "github_issue_216",
+    "source": "github",
+    "author": "v-senninha-v",
+    "content": "[Issue] Error message at startup\n\nWhen launching Droid in a Windows 11 environment with PowerShell 7.5.3, the following message is displayed. (This message started appearing in a slightly earlier version.)\nThis message is not displayed when launched in a PowerShell 5.1.26100.6899 environment.\nIs it possible to avoid this message when launching with PowerShell 7?\n<img width=\"1792\" height=\"1319\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/39b4d2ea-be29-46f0-b085-1d304655952a\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/216",
+    "timestamp": "2025-10-20T07:08:19Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 216
+    }
+  },
+  {
+    "id": "github_issue_215",
+    "source": "github",
+    "author": "iota9star",
+    "content": "[Issue] JSON Parse error occurs during execution (versions 0.19–0.21.4)\n\n<img width=\"732\" height=\"408\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1d96dc85-9c3d-4866-bf12-06e6330fe069\" />\n\n**Environment:**\n- **OS:** macOS  \n- **Editor:** VSCode and Terminal  \n- **Droid Version:** 0.21.4  \n\n**Description:**  \nDuring execution, Droid occasionally encounters a JSON parsing error.  \nThis has been happening since version **0.19** and still occurs in **0.21.4**.  \nThe issue typically appears after a command such as:  \n```\nEXECUTE (git add ., impact: high)\n ",
+    "url": "https://github.com/Factory-AI/factory/issues/215",
+    "timestamp": "2025-10-20T02:12:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 215
+    }
+  },
+  {
+    "id": "github_discussion_214",
+    "source": "github",
+    "author": "0xStuart",
+    "content": "[Discussion] JetBrains Plugin\n\nThe documentation says there is a JetBrains Plugin in the marketplace, but I can't find it.",
+    "url": "https://github.com/Factory-AI/factory/discussions/214",
+    "timestamp": "2025-10-19T19:55:35Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 214
+    }
+  },
+  {
+    "id": "github_issue_213",
+    "source": "github",
+    "author": "joeldeteves",
+    "content": "[Issue] BUG: custom droids can no longer assign tasks\n\nAs of the latest hotfix, my specialized \"orchestrator\" droid is failing to assign tasks to other droids.\n\nThis was one of my most powerful droid workflows but it doesn't work any more because of this change.\n\nThis seems like a new behavior - it always fails with \"Task failed.\"\n\nWhen i queried droid CLI as to why it was failing, it reported as follows:\n\nThe Problem:\n The orchestrator droid is designed to call the Task tool internally to delegate work to specialized droids. But when the orchestrat",
+    "url": "https://github.com/Factory-AI/factory/issues/213",
+    "timestamp": "2025-10-19T05:42:08Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 213
+    }
+  },
+  {
+    "id": "github_issue_212",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Issue] Specialst Droids only support built-in models in definition\n\nSpecialist droids can have a model defined in their YAML config https://docs.factory.ai/cli/configuration/custom-droids#custom-droids-subagents\n\n> \nmodel | inherit (use parent session’s model), or specify an available model name. Run /models in the CLI to see available options.\n-- | --\n\nHowever this only support built-in models and not custom models like Droid or Droid Exec can.\n\nSnip from logs:\n\n[2025-10-18T22:23:27.124Z] ERROR: Invalid droid configuration\nError: Droid validation failed\n    at ",
+    "url": "https://github.com/Factory-AI/factory/issues/212",
+    "timestamp": "2025-10-18T22:29:10Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 212
+    }
+  },
+  {
+    "id": "github_issue_211",
+    "source": "github",
+    "author": "shaunie2fly",
+    "content": "[Issue] Specialist Droid hangs on requests.\n\n# Issue Report: Specialist Droid Tasks Hang Without Completion\n\n## Issue Summary\n\nSpecialist droid agents (invoked via `Task` tool) acknowledge task requests but fail to complete execution, causing workflow to hang indefinitely without returning results.\n\n---\n\n## Priority\n\n**HIGH** - Blocks workflow execution and forces users to manually perform tasks that should be automated by specialist droids.\n\n---\n\n## Affected Components\n\n- **Tool**: `Task` (task-cli)\n- **Affected Droids**: \n  - `flutter-ar",
+    "url": "https://github.com/Factory-AI/factory/issues/211",
+    "timestamp": "2025-10-18T12:28:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 211
+    }
+  },
+  {
+    "id": "github_issue_210",
+    "source": "github",
+    "author": "iota9star",
+    "content": "[Issue] Frequent errors when deleting files (versions 0.19–0.21.3)\n\n<img width=\"1262\" height=\"304\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/791ec316-718a-4691-9fd6-55969347f89d\" />\n\nEnvironment:\n\t•\tOS: macOS\n\t•\tEditor: VSCode and Terminal\n\t•\tDroid Version: 0.21.3\n\nDescription:\nI’ve noticed that deleting files often leads to errors in Droid. This behavior has been present since version 0.19 and continues up to 0.21.3.\nThe issue appears more frequently when performing file deletion operations, both in VSCode and in the terminal.\n\nSteps to Reprod",
+    "url": "https://github.com/Factory-AI/factory/issues/210",
+    "timestamp": "2025-10-18T03:18:12Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 210
+    }
+  },
+  {
+    "id": "github_issue_209",
+    "source": "github",
+    "author": "Phunguy65",
+    "content": "[Issue] Droid cli not working after run on version 0.21.3\n\nAfter update to version 0.21.3, droid is not working.\n\nHere is the log, please check again:\n\n```\n[2025-10-18T00:38:15.042Z] ERROR: An unexpected critical error occurred {\n  error: TypeError: Attempted to assign to readonly property.\n      at <anonymous> (/$bunfs/root/droid:148:15386)\n      at forEach (native:1:11)\n      at pt (/$bunfs/root/droid:148:15311)\n      at kA (/$bunfs/root/droid:151:105)\n      at error (/$bunfs/root/droid:1486:990)\n      at <anonymous> (/$bunfs/root/droid:1462:3009)\n   ",
+    "url": "https://github.com/Factory-AI/factory/issues/209",
+    "timestamp": "2025-10-18T02:07:57Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 209
+    }
+  },
+  {
+    "id": "github_issue_208",
+    "source": "github",
+    "author": "WhiteBite",
+    "content": "[Issue] Registration not working and not concact\n\nRegistration is not working and there are no contacts to contact.",
+    "url": "https://github.com/Factory-AI/factory/issues/208",
+    "timestamp": "2025-10-17T20:31:44Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 208
+    }
+  },
+  {
+    "id": "github_issue_207",
+    "source": "github",
+    "author": "boshaffer1",
+    "content": "[Issue] factory bridge doesnt download\n\ni try to download factory bridge for mac and doesnt work. can you give me the direct zip please \n",
+    "url": "https://github.com/Factory-AI/factory/issues/207",
+    "timestamp": "2025-10-17T18:48:36Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 207
+    }
+  },
+  {
+    "id": "github_issue_203",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] RubyMine  Integrations\n\nhttps://docs.factory.ai/cli/configuration/ide-integrations\n\nJetBrains IDEs Support",
+    "url": "https://github.com/Factory-AI/factory/issues/203",
+    "timestamp": "2025-10-17T06:55:04Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 203
+    }
+  },
+  {
+    "id": "github_issue_201",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] add notion on project/folder\n\n```bash\n╭─────────────────────────────────────────────\n│ Select a session\n│\n│   Modified    Created     Messages  Summary\n```\n\nIt would be so nice to see where each session belongs so I accidentally do not start a previous session in a wrong project. Depending on the implementation this could add some guardrail to not act outside the root of the project, but that is besides the point.",
+    "url": "https://github.com/Factory-AI/factory/issues/201",
+    "timestamp": "2025-10-16T15:18:37Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 201
+    }
+  },
+  {
+    "id": "github_issue_200",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Issue] [BUG] Number Pad enter key returns the text 4u\n\n<img width=\"422\" height=\"113\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c0433d0b-7767-48ae-9f82-5be0aa72674b\" />\n\nI don't have this issue on claude code\n\nCan someone else help test this ?",
+    "url": "https://github.com/Factory-AI/factory/issues/200",
+    "timestamp": "2025-10-16T13:11:02Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 200
+    }
+  },
+  {
+    "id": "github_issue_199",
+    "source": "github",
+    "author": "britannio",
+    "content": "[Issue] Emit session-id in droid exec json-stream output format\n\nA few https://github.com/BloopAI/vibe-kanban users are keen to use Droid within Vibe Kanban however the `droid exec` headless mode doesn't emit a session id in the `debug` or `stream-json` output formats. As a result, it's not possible to resume/fork a session initiated in this way.\n\nCould the --output-format stream-json mode include a system message containing the session id? Some CLI coding agents have opted to match the same output format used with Claude Code such that existing scripts can e",
+    "url": "https://github.com/Factory-AI/factory/issues/199",
+    "timestamp": "2025-10-16T09:17:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 199
+    }
+  },
+  {
+    "id": "github_issue_198",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Getting notifications when droid is done and waits for you\n\nOut of experience from other agentic toole like `aider` etc. it is really nice to get a desktop notification when droid awaits your command or is done.",
+    "url": "https://github.com/Factory-AI/factory/issues/198",
+    "timestamp": "2025-10-16T07:56:27Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 198
+    }
+  },
+  {
+    "id": "github_issue_197",
+    "source": "github",
+    "author": "tbrandenburg",
+    "content": "[Issue] Show command or tool outputs\n\nHej guys,\n\ndoes somebody from you know how to display the actual STDOUT from tools or command line commands?\n\nClaude Code has a keyboard shortcut for that:\nhttps://docs.claude.com/en/docs/claude-code/interactive-mode\nCtrl+O: Toggle verbose output (Shows detailed tool usage and execution)\n\nIt is very hard to judge to see what is going on \"under the hood\" without seeing the output, especially when debugging.\n\nIs there an equivalent in droid CLI?\n\nThanks!",
+    "url": "https://github.com/Factory-AI/factory/issues/197",
+    "timestamp": "2025-10-16T07:43:02Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 197
+    }
+  },
+  {
+    "id": "github_issue_195",
+    "source": "github",
+    "author": "iota9star",
+    "content": "[Issue] Screen flickering and occasional VSCode crashes on macOS\n\nhttps://github.com/user-attachments/assets/2569ab3e-f572-4373-8e56-545d85e73705\n\nEnvironment:\n\t•\tOS: macOS\n\t•\tEditor: VSCode\n\t•\tDroid Version: 0.20.0\n\nDescription:\nI’ve been using Droid since version 0.19, and since then, every version has shown frequent screen flickering issues. The flickering occurs both in VSCode and in the terminal. In addition, VSCode occasionally crashes when the flickering happens.\n\nSteps to Reproduce:\n\t1.\tOpen Droid in VSCode or in the terminal on macOS.\n\t2.\tUse the edit",
+    "url": "https://github.com/Factory-AI/factory/issues/195",
+    "timestamp": "2025-10-16T03:35:07Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 195
+    }
+  },
+  {
+    "id": "github_issue_194",
+    "source": "github",
+    "author": "jpr98",
+    "content": "[Issue] CLI diff missing last character of all changed lines + formatting\n\nThe CLI diff is missing the last character of every line and the formatting is off. I couldn't find another way to share this feedback!\nI'm a new user and this product is awesome! Thanks for building it.\nThis feedback is by no means critical, and maybe the team has it identified already, just thought I'd share it in case it's not in your radar :)\n\nsome examples:\n\n<img width=\"3832\" height=\"1108\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/49d5efcc-8a92-48c3-a1d6-42cea3002e91\" />\n\n",
+    "url": "https://github.com/Factory-AI/factory/issues/194",
+    "timestamp": "2025-10-16T00:22:06Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 194
+    }
+  },
+  {
+    "id": "github_issue_191",
+    "source": "github",
+    "author": "spirefyio",
+    "content": "[Issue] Terminal window scrolls for ever.. never stops redrawing\n\nFrom time to time.. I'll be going through a session (using GLM at this point).. and sometimes the scrolling juts goes nuts. Or rather.. it seems like its just redrawing the terminal window non stop. I end up having to tap ESC a few times then CTRL-C to exit out, losing ALL my context and work.. and lost tokens. I've wasted quite a bit on lost tokens having to redo context when restarting.\n\nAny chance there is a way to fix this? I had the same issue with Claude Code some time back..  they finally",
+    "url": "https://github.com/Factory-AI/factory/issues/191",
+    "timestamp": "2025-10-14T23:10:50Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 191
+    }
+  },
+  {
+    "id": "github_issue_186",
+    "source": "github",
+    "author": "0zl",
+    "content": "[Issue] Compiled CLI Binary Fails to Run on Older CPUs\n\nThe Droid/Factory CLI compiled binary appears to be built with Bun for Haswell CPU architecture, which lacks support for older CPUs. Running `droid` produces no output and force-closes. Providing a `baseline`[^1] build flavor would resolve this. Maybe.\n\nPotentially related issues: #111, #156, #170, #184.\n\n[^1]: https://bun.com/docs/installation#cpu-requirements-and-baseline-builds",
+    "url": "https://github.com/Factory-AI/factory/issues/186",
+    "timestamp": "2025-10-14T13:50:59Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 186
+    }
+  },
+  {
+    "id": "github_issue_185",
+    "source": "github",
+    "author": "zhengxilong",
+    "content": "[Issue] Installation hangs on Windows 10 1809, 17763.6414\n\nI could not install droid on my Windows 10 1809, 17763.6414. I know it's an old version and will not be supported by Microsoft soon. I would like droid team to tell what's the version supported. Thanks!\n\n```\n C:\\Users\\Administrator\\droid> irm https://app.factory.ai/cli/windows | iex\n\n==> Downloading Factory CLI v0.19.9 for Windows-x64\n```",
+    "url": "https://github.com/Factory-AI/factory/issues/185",
+    "timestamp": "2025-10-14T08:48:24Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 185
+    }
+  },
+  {
+    "id": "github_discussion_164",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Discussion] Droid Exec - custom models supported?\n\ncan we have support for custom models in droid exec? even if it were just simple endpoint/key.",
+    "url": "https://github.com/Factory-AI/factory/discussions/164",
+    "timestamp": "2025-10-10T18:34:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 164
+    }
+  },
+  {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    }
+  },
+  {
+    "id": "github_discussion_108",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Release v1.3.220\n\n---\r\n\r\nThis release brings HTTP MCP server support, a `/compress` command to optimize your context usage and droid exec for CDE.\r\n\r\n---\r\n\r\n## HTTP MCP Server Support\r\n\r\nFactory now supports streamable HTTP-based Model Context Protocol (MCP) servers in addition to stdio-based servers. This enables you to connect to MCP servers running as web services, making it easier to integrate with cloud-hosted tools and services.\r\n\r\nWhen adding an MCP server, Factory automatically detects whether it's HTTP o",
+    "url": "https://github.com/Factory-AI/factory/discussions/108",
+    "timestamp": "2025-10-03T20:21:56Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 108
+    }
+  },
+  {
+    "id": "github_discussion_99",
+    "source": "github",
+    "author": "Evan-Kim2028",
+    "content": "[Discussion] Droid source code\n\nIs droid closed source? I am not able to find any code. I would like to be able to see how the droid tools are implemented if the code is available to see",
+    "url": "https://github.com/Factory-AI/factory/discussions/99",
+    "timestamp": "2025-10-02T17:51:27Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 99
+    }
+  },
+  {
+    "id": "github_discussion_95",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.16.0 Release Notes\n\n- Sonnet 4.5 model is now available\r\n- Clear chat input using double ESC or Ctrl-C\r\n- User-configured allow and deny list of commands to execute\r\n- Option to disable droid commit co-authoring\r\n- Auth using FACTORY_API_KEY\r\n- Fixed UI bugs due to resizing",
+    "url": "https://github.com/Factory-AI/factory/discussions/95",
+    "timestamp": "2025-10-01T20:05:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 95
+    }
+  },
+  {
+    "id": "github_discussion_92",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] MCP tools filtering\n\nI would like to configure exactly what tools of a MCP server should be made available.\r\n\r\nMotivation: MCP servers with overlapping functionality and too many unneeded tools is confusing the models.",
+    "url": "https://github.com/Factory-AI/factory/discussions/92",
+    "timestamp": "2025-10-01T09:07:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 92
+    }
+  },
+  {
+    "id": "github_discussion_82",
+    "source": "github",
+    "author": "mweichert",
+    "content": "[Discussion] Web API?\n\nHi there! Is there a web API to create and manage sessions?",
+    "url": "https://github.com/Factory-AI/factory/discussions/82",
+    "timestamp": "2025-09-29T13:16:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 82
+    }
+  },
+  {
+    "id": "github_discussion_72",
+    "source": "github",
+    "author": "rubendn",
+    "content": "[Discussion] Droid selection in CLI?\n\nIs there a way to use one of the specialized Droids (Product, Tutorial, etc) via the CLI?  I don't see a way to select in the slash commands.\r\n\r\nAlso, is there a way on Windows to select a local workspace path besides ~\\?\r\n\r\nThanks!",
+    "url": "https://github.com/Factory-AI/factory/discussions/72",
+    "timestamp": "2025-09-29T05:17:49Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 72
+    }
+  },
+  {
+    "id": "github_discussion_66",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] 2 new community builds: use claude/codex max subscriptions with droid\n\n- [Factory CLI with ChatGPT Codex / Claude subscription via CLIProxyAPI](https://gist.github.com/chandika/c4b64c5b8f5e29f6112021d46c159fdd) - Guide to run Factory CLI against Claude Code Max or ChatGPT Codex through CLIProxyAPI by [chandika](https://github.com/chandika)\r\n- [Factory CLI with Claude subscription via CLIProxyAPI](https://gist.github.com/ben-vargas/9f1a14ac5f78d10eba56be437b7c76e5) - Setup instructions for using Factory CLI with Claude Code Max through CLIProxyAPI by [ben-vargas](ht",
+    "url": "https://github.com/Factory-AI/factory/discussions/66",
+    "timestamp": "2025-09-27T19:15:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Show + tell",
+      "number": 66
+    }
+  },
+  {
+    "id": "github_discussion_65",
+    "source": "github",
+    "author": "jimkyndemeyer",
+    "content": "[Discussion] BYOK with Anthropic models on Amazon Bedrock\n\nWould be great to have the option of using Amazon Bedrock for Anthropic models with BYOK.\r\n\r\nAnthropic has official SDKs for Bedrock, but the model env config is a bit different:\r\n- AWS region\r\n- Access key id\r\n- Secret access key",
+    "url": "https://github.com/Factory-AI/factory/discussions/65",
+    "timestamp": "2025-09-27T09:46:55Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 65
+    }
+  },
+  {
+    "id": "github_discussion_59",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] #1 on Terminal Bench\n\n<img width=\"1582\" height=\"972\" alt=\"Screenshot 2025-09-25 at 17 15 56\" src=\"https://github.com/user-attachments/assets/9e9c80b6-825c-41cc-b8c7-236b21e3f61c\" />\r\n\r\nRead how we did it: https://factory.ai/news/terminal-bench",
+    "url": "https://github.com/Factory-AI/factory/discussions/59",
+    "timestamp": "2025-09-25T19:22:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 59
+    }
+  },
+  {
+    "id": "github_discussion_32",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.7.0 Release Notes\n\nCLI Release (0.7.0)\r\n\r\n- Autonomy level selection: Users can now select any preferred autonomy level when confirming the ExitSpec tool\r\n- Claude reasoning support: Added support for Claude's reasoning capabilities\r\n- Session resumption: Users can now resume existing sessions when operating in Exec Mode\r\n- Image reading capabilities: The CLI can now read and process images",
+    "url": "https://github.com/Factory-AI/factory/discussions/32",
+    "timestamp": "2025-09-19T20:15:48Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 32
+    }
+  },
+  {
+    "id": "github_discussion_25",
+    "source": "github",
+    "author": "DannyAziz",
+    "content": "[Discussion] Change model even if I've already written a prompt out\n\nSometimes I write a message, then realise I want to drop down to Sonnet, and I have to delete my message to hit the slash command. I wish there was a way to do this without deleting everything.",
+    "url": "https://github.com/Factory-AI/factory/discussions/25",
+    "timestamp": "2025-09-16T22:58:36Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 25
+    }
+  },
+  {
+    "id": "github_discussion_20",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.5.0 Release Notes\n\nv0.5 release:\r\n\r\n- Users can now queue messages while the Droid works\r\n- Added clearer autonomy level & mode descriptions\r\n- Fixed many flickering issues\r\n- Revamped `--help` command\r\n- Automatic VSCode / Cursor / Windsurf CLI detection,\r\n- Windows delete key bug fixed\r\n- Lots of small UI improvements\r\n- Lots of quality of life and bug fixes\n\ncoming soon:\n- custom droids/subagents\n- notif sounds\n- much more\n\nany requests? ",
+    "url": "https://github.com/Factory-AI/factory/discussions/20",
+    "timestamp": "2025-09-16T06:27:29Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 20
+    }
+  },
+  {
+    "id": "github_discussion_19",
+    "source": "github",
+    "author": "fredrivett",
+    "content": "[Discussion] Hacked a lil hit counter for my site in a day w/ droid\n\nThe man @bentossell gave me access to droid last week, and I had the urge to add a retro hit counter to my site, so it was the perfect opportunity to test it out.\r\n\r\nBy the evening I'd gone back and forth on the tech, built it out and deployed it, with the widget live [on my site](https://www.fredrivett.com/).\r\n\r\nIt's live here: https://www.herenow.fyi/\r\nAnd I've since split out the core code into this open source repo so anyone can set their own up: https://github.com/fredrivett/here-now\r\n\r\nFee",
+    "url": "https://github.com/Factory-AI/factory/discussions/19",
+    "timestamp": "2025-09-15T20:42:07Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Show + tell",
+      "number": 19
+    }
+  },
+  {
+    "id": "github_discussion_17",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Early access 'Builder Program'\n\nWelcome to the Factory CLI early access - official docs [here](https://docs.factory.ai/factory-cli/getting-started/overview)\r\n\r\n* if you don't have a factory account, you can onboard direct via the CLI and use promo code: `YDSJPPgyyUB4A833iDkp`\r\n* or sign up on our web platform [here](https://app.factory.ai/?promo=YDSJPPgyyUB4A833iDkp)\r\n* both options should set you up a free trial account with plenty of tokens to use - if not, please ping me \r\n* by joining the program you agree to our [code of ",
+    "url": "https://github.com/Factory-AI/factory/discussions/17",
+    "timestamp": "2025-09-14T15:58:53Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 17
+    }
+  },
+  {
+    "id": "github_discussion_15",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Factory Release 1.6\n\n## To-do list tool, improved remote Droids, and browser tools\r\n\r\nFactory 1.6 introduces a new To-Do List Tool for multi-step work, several improvements to remote Droids, plus Browser Tools to navigate and interact with the web from Factory.\r\n\r\n\r\n### To-do list tool\r\n\r\nKeep longer tasks on track. The to-do list tool creates a live checklist that Droids follow and update as work progresses.\r\n\r\n **How it works**\r\n\r\nDroids break a goal into ordered tasks with clear acceptance criteria. Progress is t",
+    "url": "https://github.com/Factory-AI/factory/discussions/15",
+    "timestamp": "2025-09-13T12:36:54Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 15
+    }
+  },
+  {
+    "id": "github_discussion_13",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Factory Release 1.5\n\n## Session Revamp & Workflow Upgrades\r\n\r\nFactory 1.5 introduces a fully redesigned Session interface, transforming how you manage your Droids.\r\n\r\n\r\n### Session Revamp\r\n\r\nThe entire agentic workflow in Sessions has been rebuilt and simplified to reduce friction and keep you in control:\r\n\r\n- **Specification:** Start with a distraction-free, chat-only workspace to define scope, boundaries, and success criteria—without side panels stealing focus.\r\n- **Management:** Open the Context view to see exact",
+    "url": "https://github.com/Factory-AI/factory/discussions/13",
+    "timestamp": "2025-09-13T12:33:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 13
+    }
+  },
+  {
+    "id": "github_discussion_12",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Factory Release 1.4\n\n## Droids in Slack & UX Upgrades\r\n\r\nFactory 1.4 introduces Droids into Slack and delivers key improvements to onboarding and overall user experience. \r\n\r\n\r\n### Slack Support\r\n\r\nDroids can now read and write to your channels streamlining team workflows.\r\n\r\n#### How it works\r\n\r\nConnect your Slack workspace via the **Settings** page in Factory. Next, add the Factory app to any channel by typing **/invite** Factory in Slack. Once connected, Droids can see your channels, read conversations, and send ",
+    "url": "https://github.com/Factory-AI/factory/discussions/12",
+    "timestamp": "2025-09-13T12:33:05Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 12
+    }
+  }
+]

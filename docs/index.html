@@ -1,0 +1,2224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Factory Social Feed</title>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    :root {
+      --bg: #ffffff;
+      --card: #ffffff;
+      --border: #e5e7eb;
+      --text: #0a0a0a;
+      --text-muted: #737373;
+      --hover: #f5f5f5;
+    }
+
+    [data-theme="dark"] {
+      --bg: #0a0a0a;
+      --card: #171717;
+      --border: #262626;
+      --text: #fafafa;
+      --text-muted: #a3a3a3;
+      --hover: #262626;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      transition: background-color 0.2s, color 0.2s;
+      padding: 2rem 1rem;
+    }
+
+
+    .top-controls {
+      max-width: 800px;
+      margin: 0 auto 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .selection-bar {
+      max-width: 800px;
+      margin: 0 auto 1.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+      justify-content: space-between;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 9999px;
+      padding: 0.75rem 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 20;
+    }
+
+    .selection-info {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+
+    .selection-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .action-btn {
+      background: var(--text);
+      color: var(--bg);
+      border: none;
+      border-radius: 9999px;
+      padding: 0.45rem 0.9rem;
+      font-size: 0.8125rem;
+      cursor: pointer;
+      transition: opacity 0.2s, transform 0.2s;
+    }
+
+    .action-btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    .icon-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.35rem;
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 9999px;
+      padding: 0.45rem 0.75rem;
+      font-size: 0.8125rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .icon-btn:hover {
+      background: var(--hover);
+    }
+
+    .icon-btn.active {
+      background: var(--text);
+      color: var(--bg);
+    }
+
+    .icon-btn svg {
+      width: 16px;
+      height: 16px;
+    }
+
+    .icon-btn.icon-only {
+      padding: 0.45rem;
+      width: 36px;
+      height: 36px;
+    }
+
+    .hidden-handles-container {
+      position: relative;
+    }
+
+    .hidden-handles-dropdown, .time-filter-dropdown {
+      display: none;
+      position: absolute;
+      top: calc(100% + 0.5rem);
+      right: 0;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      width: 250px;
+      z-index: 50;
+      overflow: hidden;
+      flex-direction: column;
+    }
+
+    .hidden-handles-dropdown.open, .time-filter-dropdown.open {
+      display: flex;
+    }
+
+    .time-filter-option:hover {
+      background: var(--hover) !important;
+    }
+
+    [data-theme="dark"] .hidden-handles-dropdown {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    }
+
+    .hidden-handles-input {
+      padding: 0.75rem;
+      border: none;
+      border-bottom: 1px solid var(--border);
+      background: transparent;
+      color: var(--text);
+      font-size: 0.875rem;
+      outline: none;
+    }
+
+    .hidden-handles-list {
+      max-height: 200px;
+      overflow-y: auto;
+      flex: 1;
+    }
+
+    .hidden-handle-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.5rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.875rem;
+      transition: background 0.2s;
+    }
+
+    .hidden-handle-item:last-child {
+      border-bottom: none;
+    }
+
+    .hidden-handle-item:hover {
+      background: var(--hover);
+    }
+
+    .hidden-handle-item-name {
+      color: var(--text);
+    }
+
+    .hidden-handle-remove-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 20px;
+      height: 20px;
+      transition: color 0.2s;
+    }
+
+    .hidden-handle-remove-btn:hover {
+      color: var(--text);
+    }
+
+    .hidden-handles-empty {
+      padding: 1rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.875rem;
+    }
+
+    .controls-group {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+    }
+
+    .view-toggle {
+      display: flex;
+      border: 1px solid var(--border);
+      border-radius: 9999px;
+      overflow: hidden;
+    }
+
+    .view-btn {
+      background: var(--card);
+      border: none;
+      color: var(--text);
+      padding: 0.5rem 0.75rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .view-btn:not(:last-child) {
+      border-right: 1px solid var(--border);
+    }
+
+    .view-btn:hover {
+      background: var(--hover);
+    }
+
+    .view-btn.active {
+      background: var(--text);
+      color: var(--bg);
+    }
+
+    .view-btn svg {
+      width: 16px;
+      height: 16px;
+    }
+
+    .filter-pills {
+      display: flex;
+      gap: 0.375rem;
+    }
+
+    .filter-pill, .sort-dropdown, .theme-btn {
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 0.5rem 0.75rem;
+      border-radius: 9999px;
+      cursor: pointer;
+      font-size: 0.875rem;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+
+    .filter-pill:hover, .sort-dropdown:hover, .theme-btn:hover {
+      background: var(--hover);
+    }
+
+    .filter-pill.active {
+      background: var(--text);
+      color: var(--bg);
+    }
+
+    .filter-pill svg {
+      width: 16px;
+      height: 16px;
+    }
+
+    .filter-pill {
+      position: relative;
+    }
+
+    .new-badge {
+      position: absolute;
+      top: -6px;
+      right: -6px;
+      background: #ef4444;
+      color: white;
+      font-size: 0.625rem;
+      font-weight: 600;
+      padding: 0.125rem 0.375rem;
+      border-radius: 9999px;
+      min-width: 18px;
+      text-align: center;
+      line-height: 1.2;
+    }
+
+    .sort-dropdown {
+      position: relative;
+      padding-right: 2rem;
+    }
+
+    .sort-dropdown svg {
+      position: absolute;
+      right: 0.5rem;
+      width: 16px;
+      height: 16px;
+    }
+
+    .theme-btn {
+      width: 40px;
+      height: 40px;
+      padding: 0;
+      justify-content: center;
+    }
+
+    .theme-btn svg {
+      width: 18px;
+      height: 18px;
+    }
+
+    #refreshBtn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    #refreshBtn.loading svg {
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    select {
+      background: transparent;
+      border: none;
+      color: var(--text);
+      cursor: pointer;
+      font-size: 0.875rem;
+      outline: none;
+      appearance: none;
+      padding-right: 1.25rem;
+    }
+
+    .username-filter-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+      min-width: 220px;
+    }
+
+    .username-filter-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .username-filter-hint {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .feed {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .feed.columns {
+      flex-direction: row;
+      align-items: flex-start;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scroll-snap-type: x mandatory;
+      gap: 1rem;
+    }
+
+    .feed-column {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      min-width: 0;
+    }
+
+    @media (max-width: 640px) {
+      .feed.columns {
+        padding-bottom: 1rem;
+      }
+
+      .feed-column {
+        flex: 0 0 85%;
+        scroll-snap-align: start;
+      }
+    }
+
+    .feed-column-header {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1rem;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 0.875rem;
+      font-weight: 500;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .feed-column-header svg {
+      width: 18px;
+      height: 18px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      overflow: hidden;
+    }
+
+    .card:hover {
+      border-color: var(--text-muted);
+    }
+
+    .card.selected {
+      border-color: var(--text);
+      box-shadow: 0 0 0 2px rgba(10, 10, 10, 0.2);
+    }
+
+    .card.selected:hover {
+      border-color: var(--text);
+      box-shadow: 0 0 0 3px rgba(10, 10, 10, 0.35);
+      background: var(--hover);
+    }
+
+    .card.focused {
+      box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.35);
+    }
+
+    [data-theme="dark"] .card.selected {
+      box-shadow: 0 0 0 2px rgba(250, 250, 250, 0.2);
+    }
+
+    [data-theme="dark"] .card.selected:hover {
+      box-shadow: 0 0 0 3px rgba(250, 250, 250, 0.35);
+      background: var(--hover);
+    }
+
+    [data-theme="dark"] .card.focused {
+      box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.45);
+    }
+
+    .card.archived {
+      opacity: 0.55;
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .source-icon {
+      font-size: 1.25rem;
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+
+    .type-tag {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-family: 'Courier New', monospace;
+    }
+
+    .status-badge {
+      margin-left: auto;
+      font-size: 0.7rem;
+      padding: 0.15rem 0.5rem;
+      border-radius: 9999px;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+    }
+
+    .author {
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      margin-left: auto;
+    }
+
+    .content {
+      color: var(--text);
+      font-size: 0.9375rem;
+      margin-bottom: 0.75rem;
+      word-break: break-word;
+      white-space: pre-wrap;
+      text-align: left;
+      direction: ltr;
+    }
+
+    .content.collapsed {
+      display: -webkit-box !important;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-align: start;
+    }
+
+    .expand-btn {
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      cursor: pointer;
+      user-select: none;
+      margin-top: 0.5rem;
+    }
+
+    .expand-btn:hover {
+      color: var(--text);
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+    }
+
+    .mobile-link {
+      display: none;
+      margin-top: 0.75rem;
+      padding: 0.5rem 0.75rem;
+      background: var(--text);
+      color: var(--bg);
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 0.8125rem;
+      font-weight: 500;
+      text-align: center;
+      transition: opacity 0.2s;
+    }
+
+    .mobile-link:active {
+      opacity: 0.8;
+    }
+
+    @media (max-width: 640px) {
+      .mobile-link {
+        display: block;
+      }
+    }
+
+    .timestamp {
+      margin-left: auto;
+    }
+
+    .card-actions {
+      margin-top: 0.75rem;
+      display: flex;
+      gap: 0.5rem;
+      justify-content: flex-end;
+    }
+
+    .secondary-btn {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 9999px;
+      padding: 0.35rem 0.75rem;
+      font-size: 0.75rem;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .secondary-btn:hover {
+      background: var(--hover);
+    }
+
+    .loading {
+      text-align: center;
+      padding: 3rem;
+      color: var(--text-muted);
+    }
+
+    .error {
+      background: #fee;
+      color: #c33;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+    }
+
+    .status-message {
+      max-width: 800px;
+      margin: 0 auto 1rem;
+      border-radius: 8px;
+      padding: 0.75rem 1rem;
+      font-size: 0.875rem;
+      display: none;
+    }
+
+    .status-message.info {
+      background: #eef2ff;
+      color: #1d4ed8;
+    }
+
+    .status-message.error {
+      background: #fee2e2;
+      color: #b91c1c;
+    }
+
+    [data-theme="dark"] .status-message.info {
+      background: rgba(59, 130, 246, 0.15);
+      color: #bfdbfe;
+    }
+
+    [data-theme="dark"] .status-message.error {
+      background: rgba(239, 68, 68, 0.2);
+      color: #fecaca;
+    }
+
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(10, 10, 10, 0.75);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 100;
+      backdrop-filter: blur(4px);
+    }
+
+    .modal-overlay.open {
+      display: flex;
+    }
+
+    .access-modal, .settings-modal {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 2rem;
+      max-width: 400px;
+      width: 90%;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    }
+
+    .access-modal h2, .settings-modal h2 {
+      margin-bottom: 1rem;
+      font-size: 1.5rem;
+    }
+
+    .access-modal p, .settings-modal p {
+      color: var(--text-muted);
+      margin-bottom: 1.5rem;
+      font-size: 0.875rem;
+    }
+
+    .access-modal input, .settings-modal input, .settings-modal textarea {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 0.9375rem;
+      margin-bottom: 1rem;
+    }
+
+    .settings-modal textarea {
+      min-height: 200px;
+      font-family: 'Courier New', monospace;
+      font-size: 0.8125rem;
+    }
+
+    .access-modal button, .settings-modal button {
+      width: 100%;
+      padding: 0.75rem;
+      background: var(--text);
+      color: var(--bg);
+      border: none;
+      border-radius: 8px;
+      font-size: 0.9375rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: opacity 0.2s;
+    }
+
+    .access-modal button:hover, .settings-modal button:hover {
+      opacity: 0.9;
+    }
+
+    .access-modal .error-msg {
+      color: #ef4444;
+      font-size: 0.8125rem;
+      margin-top: -0.5rem;
+      margin-bottom: 1rem;
+      display: none;
+    }
+
+    .command-palette {
+      position: fixed;
+      inset: 0;
+      background: rgba(10, 10, 10, 0.45);
+      display: none;
+      align-items: flex-start;
+      justify-content: center;
+      padding-top: 10vh;
+      z-index: 100;
+    }
+
+    .command-palette.open {
+      display: flex;
+    }
+
+    .command-panel {
+      width: min(600px, 90vw);
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+      overflow: hidden;
+    }
+
+    .command-search {
+      width: 100%;
+      padding: 0.9rem 1rem;
+      border: none;
+      border-bottom: 1px solid var(--border);
+      background: transparent;
+      color: var(--text);
+      font-size: 0.95rem;
+      outline: none;
+    }
+
+    .command-list {
+      max-height: 280px;
+      overflow-y: auto;
+      list-style: none;
+    }
+
+    .command-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      transition: background 0.15s;
+      font-size: 0.9rem;
+    }
+
+    .command-item:last-child {
+      border-bottom: none;
+    }
+
+    .command-item.disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    .command-item.active:not(.disabled) {
+      background: var(--hover);
+    }
+
+    .command-shortcut {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    @media (max-width: 640px) {
+      body {
+        padding: 1rem 0.5rem;
+      }
+      
+      .top-controls {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .selection-bar {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .selection-actions {
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+      }
+
+      .username-filter-group {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="top-controls">
+    <div class="controls-group">
+      <div class="filter-pills">
+        <button class="filter-pill active" data-source="twitter" title="Twitter">
+          <i data-lucide="twitter"></i>
+        </button>
+        <button class="filter-pill active" data-source="reddit" title="Reddit">
+          <i data-lucide="message-square"></i>
+        </button>
+        <button class="filter-pill active" data-source="github" title="GitHub">
+          <i data-lucide="github"></i>
+        </button>
+      </div>
+      <div class="time-filter-container" style="position: relative;">
+        <button class="icon-btn" id="timeFilterBtn" title="Time filter">
+          <i data-lucide="clock"></i>
+          <span class="btn-text">24h</span>
+        </button>
+        <div id="timeFilterDropdown" class="hidden-handles-dropdown" style="min-width: 150px;">
+          <button class="time-filter-option" data-time-filter="1h" style="width: 100%; text-align: left; padding: 0.5rem 0.75rem; background: transparent; border: none; border-bottom: 1px solid var(--border); color: var(--text); cursor: pointer; transition: background 0.2s;">
+            Last 1 hour
+          </button>
+          <button class="time-filter-option" data-time-filter="12h" style="width: 100%; text-align: left; padding: 0.5rem 0.75rem; background: transparent; border: none; border-bottom: 1px solid var(--border); color: var(--text); cursor: pointer; transition: background 0.2s;">
+            Last 12 hours
+          </button>
+          <button class="time-filter-option" data-time-filter="24h" style="width: 100%; text-align: left; padding: 0.5rem 0.75rem; background: transparent; border: none; border-bottom: 1px solid var(--border); color: var(--text); cursor: pointer; transition: background 0.2s;">
+            Last 24 hours
+          </button>
+          <button class="time-filter-option" data-time-filter="custom" style="width: 100%; text-align: left; padding: 0.5rem 0.75rem; background: transparent; border: none; color: var(--text); cursor: pointer; transition: background 0.2s;">
+            Custom...
+          </button>
+        </div>
+      </div>
+      <button class="icon-btn icon-only" id="sortBtn" title="Sort: Newest first">
+        <i data-lucide="arrow-down"></i>
+      </button>
+    </div>
+    <div class="controls-group">
+      <div class="hidden-handles-container">
+        <button class="icon-btn icon-only" id="hiddenHandlesBtn" title="Hidden handles">
+          <i data-lucide="eye-off"></i>
+        </button>
+        <div id="hiddenHandlesDropdown" class="hidden-handles-dropdown">
+          <input 
+            type="text" 
+            id="hiddenHandlesInput" 
+            class="hidden-handles-input"
+            placeholder="Type handle and press Enter"
+            autocomplete="off"
+          />
+          <div id="hiddenHandlesList" class="hidden-handles-list"></div>
+        </div>
+      </div>
+      <div class="view-toggle">
+        <button class="view-btn" data-view="list" title="List view">
+          <i data-lucide="list"></i>
+        </button>
+        <button class="view-btn active" data-view="columns" title="Column view">
+          <i data-lucide="columns"></i>
+        </button>
+      </div>
+      <button class="icon-btn icon-only" id="settingsBtn" title="Settings">
+        <i data-lucide="settings"></i>
+      </button>
+      <button class="theme-btn" id="themeToggle" title="Toggle theme">
+        <i data-lucide="moon"></i>
+      </button>
+    </div>
+  </div>
+
+  <div class="selection-bar">
+    <div class="selection-info" id="selectionStatus">No posts selected</div>
+    <div class="selection-actions">
+      <button class="action-btn" id="archiveSelectedBtn" disabled>Archive selected</button>
+      <button class="action-btn" id="sendToSlackBtn" disabled>Send to Slack</button>
+      <button class="icon-btn icon-only" id="toggleArchivedBtn" title="Toggle archived posts">
+        <i data-lucide="archive"></i>
+      </button>
+      <button class="icon-btn icon-only" id="commandCenterBtn" title="Command center (⌘/Ctrl + K)">
+        <i data-lucide="command"></i>
+      </button>
+    </div>
+  </div>
+
+  <div class="container">
+    <div id="statusMessage" class="status-message info"></div>
+    <div id="error" class="error" style="display: none;"></div>
+    <div id="loading" class="loading">Loading feed...</div>
+    <div id="feed" class="feed"></div>
+  </div>
+
+  <div id="commandPalette" class="command-palette" aria-hidden="true">
+    <div class="command-panel">
+      <input id="commandPaletteInput" class="command-search" type="text" placeholder="Search commands..." autocomplete="off" />
+      <ul id="commandPaletteList" class="command-list"></ul>
+    </div>
+  </div>
+
+  <div id="accessModal" class="modal-overlay open">
+    <div class="access-modal">
+      <h2>🔐 Access Required</h2>
+      <p>Enter your access token to view the feed</p>
+      <input type="password" id="accessTokenInput" placeholder="Enter token..." autocomplete="off" />
+      <div class="error-msg" id="accessError">Invalid token. Please try again.</div>
+      <button id="accessSubmitBtn">Continue</button>
+    </div>
+  </div>
+
+  <div id="settingsModal" class="modal-overlay">
+    <div class="settings-modal">
+      <h2>⚙️ Settings</h2>
+      <p>Configure feed sources (changes saved to localStorage)</p>
+      <textarea id="configTextarea" placeholder="Loading configuration..."></textarea>
+      <button id="saveConfigBtn">Save Configuration</button>
+      <button id="closeSettingsBtn" style="margin-top: 0.5rem; background: transparent; color: var(--text); border: 1px solid var(--border);">Cancel</button>
+    </div>
+  </div>
+
+  <script>
+    // Access token hash (SHA-256 of your chosen password)
+    // IMPORTANT: Change this before deploying! This is a hash of "CHANGE_THIS_PASSWORD"
+    // Generate new hash with: echo -n "your_password" | shasum -a 256
+    const ACCESS_TOKEN_HASH = '528c291e315592e6c54795d834f5cd08a45f46249fae5eb5ce2ee976485e9edf'; // PLACEHOLDER - CHANGE THIS!
+    const ACCESS_TOKEN_KEY = 'factoryAccessToken';
+    
+    const ARCHIVE_STORAGE_KEY = 'factoryArchivedIds';
+    const HIDDEN_USERS_STORAGE_KEY = 'hiddenUsernames';
+    const LAST_SEEN_STORAGE_KEY = 'lastSeenTimestamps';
+    const THEME_STORAGE_KEY = 'theme';
+    const CONFIG_STORAGE_KEY = 'factoryFeedConfig';
+
+    const sourceNames = {
+      twitter: 'Twitter',
+      reddit: 'Reddit',
+      github: 'GitHub'
+    };
+
+    const sourceIcons = {
+      twitter: 'twitter',
+      reddit: 'message-square',
+      github: 'github'
+    };
+
+    let allItems = [];
+    let itemMap = new Map();
+    let currentTimeFilter = '24h';
+    let customDays = null;
+    let currentSortOrder = 'newest';
+    let activeFilters = new Set(['twitter', 'reddit', 'github']);
+    let currentView = 'columns';
+    let hiddenUsernames = new Set();
+    let lastSeenTimestamps = {};
+    let selectedIds = new Set();
+    let archivedIds = new Set();
+    let showArchived = false;
+    let activeCardId = null;
+    let visibleItems = [];
+    let commandPaletteOpen = false;
+    let commandPaletteItems = [];
+    let commandPaletteIndex = 0;
+    let statusTimeoutId = null;
+    let filterTimeout;
+
+    const feedContainer = document.getElementById('feed');
+    const loadingContainer = document.getElementById('loading');
+    const errorContainer = document.getElementById('error');
+    const statusMessage = document.getElementById('statusMessage');
+    const selectionStatus = document.getElementById('selectionStatus');
+    const archiveSelectedBtn = document.getElementById('archiveSelectedBtn');
+    const sendToSlackBtn = document.getElementById('sendToSlackBtn');
+    const toggleArchivedBtn = document.getElementById('toggleArchivedBtn');
+    const commandCenterBtn = document.getElementById('commandCenterBtn');
+    const commandPalette = document.getElementById('commandPalette');
+    const commandPaletteInput = document.getElementById('commandPaletteInput');
+    const commandPaletteList = document.getElementById('commandPaletteList');
+    const themeToggle = document.getElementById('themeToggle');
+    const settingsBtn = document.getElementById('settingsBtn');
+    const accessModal = document.getElementById('accessModal');
+    const accessTokenInput = document.getElementById('accessTokenInput');
+    const accessSubmitBtn = document.getElementById('accessSubmitBtn');
+    const accessError = document.getElementById('accessError');
+    const settingsModal = document.getElementById('settingsModal');
+    const configTextarea = document.getElementById('configTextarea');
+    const saveConfigBtn = document.getElementById('saveConfigBtn');
+    const closeSettingsBtn = document.getElementById('closeSettingsBtn');
+    const hiddenHandlesBtn = document.getElementById('hiddenHandlesBtn');
+    const hiddenHandlesDropdown = document.getElementById('hiddenHandlesDropdown');
+    const hiddenHandlesInput = document.getElementById('hiddenHandlesInput');
+    const hiddenHandlesList = document.getElementById('hiddenHandlesList');
+    const timeFilterBtn = document.getElementById('timeFilterBtn');
+    const timeFilterDropdown = document.getElementById('timeFilterDropdown');
+    const sortBtn = document.getElementById('sortBtn');
+    const viewButtons = document.querySelectorAll('.view-btn');
+
+    lucide.createIcons();
+
+    // Access Control
+    async function hashToken(token) {
+      const encoder = new TextEncoder();
+      const data = encoder.encode(token);
+      const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    async function validateAccess() {
+      const storedToken = localStorage.getItem(ACCESS_TOKEN_KEY);
+      if (!storedToken) return false;
+      const hash = await hashToken(storedToken);
+      return hash === ACCESS_TOKEN_HASH;
+    }
+
+    async function checkAccess() {
+      const valid = await validateAccess();
+      if (valid) {
+        accessModal.classList.remove('open');
+        initApp();
+      }
+    }
+
+    accessSubmitBtn.addEventListener('click', async () => {
+      const token = accessTokenInput.value.trim();
+      if (!token) return;
+      
+      const hash = await hashToken(token);
+      if (hash === ACCESS_TOKEN_HASH) {
+        localStorage.setItem(ACCESS_TOKEN_KEY, token);
+        accessModal.classList.remove('open');
+        accessError.style.display = 'none';
+        initApp();
+      } else {
+        accessError.style.display = 'block';
+        accessTokenInput.value = '';
+      }
+    });
+
+    accessTokenInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        accessSubmitBtn.click();
+      }
+    });
+
+    checkAccess();
+
+    function initApp() {
+      fetchFeed();
+      setInterval(fetchFeed, 60000); // Refresh every minute
+    }
+
+    const savedHidden = localStorage.getItem(HIDDEN_USERS_STORAGE_KEY);
+    if (savedHidden) {
+      try {
+        hiddenUsernames = new Set(JSON.parse(savedHidden));
+      } catch (error) {
+        console.error('Failed to load hidden usernames:', error);
+        hiddenUsernames = new Set();
+      }
+    }
+
+    const savedTimestamps = localStorage.getItem(LAST_SEEN_STORAGE_KEY);
+    if (savedTimestamps) {
+      try {
+        lastSeenTimestamps = JSON.parse(savedTimestamps);
+      } catch (error) {
+        console.error('Failed to load last seen timestamps:', error);
+        lastSeenTimestamps = {};
+      }
+    }
+
+    const savedArchived = localStorage.getItem(ARCHIVE_STORAGE_KEY);
+    if (savedArchived) {
+      try {
+        archivedIds = new Set(JSON.parse(savedArchived));
+      } catch (error) {
+        console.error('Failed to load archived IDs:', error);
+        archivedIds = new Set();
+      }
+    }
+
+    const savedTheme = localStorage.getItem(THEME_STORAGE_KEY) || 'light';
+    document.documentElement.setAttribute('data-theme', savedTheme);
+    updateThemeIcon(savedTheme);
+
+    updateTimeFilterButton();
+    updateSortButton();
+
+    themeToggle.addEventListener('click', () => {
+      const current = document.documentElement.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem(THEME_STORAGE_KEY, next);
+      updateThemeIcon(next);
+    });
+
+    document.querySelectorAll('.filter-pill[data-source]').forEach(pill => {
+      pill.addEventListener('click', () => {
+        const source = pill.dataset.source;
+        if (activeFilters.has(source)) {
+          activeFilters.delete(source);
+          pill.classList.remove('active');
+        } else {
+          activeFilters.add(source);
+          pill.classList.add('active');
+          markSourceAsSeen(source);
+        }
+        renderFeed(allItems);
+      });
+    });
+
+    timeFilterBtn.addEventListener('click', () => {
+      timeFilterDropdown.classList.toggle('open');
+    });
+
+    document.addEventListener('click', (event) => {
+      if (!timeFilterBtn.contains(event.target) && !timeFilterDropdown.contains(event.target)) {
+        timeFilterDropdown.classList.remove('open');
+      }
+      if (!hiddenHandlesBtn.contains(event.target) && !hiddenHandlesDropdown.contains(event.target)) {
+        hiddenHandlesDropdown.classList.remove('open');
+      }
+    });
+
+    document.querySelectorAll('[data-time-filter]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filter = btn.dataset.timeFilter;
+        if (filter === 'custom') {
+          const days = prompt('Enter number of days (e.g., 7):');
+          if (days !== null && !isNaN(days) && days > 0) {
+            customDays = parseInt(days);
+            currentTimeFilter = 'custom';
+            updateTimeFilterButton();
+            timeFilterDropdown.classList.remove('open');
+            renderFeed(allItems);
+          }
+        } else {
+          currentTimeFilter = filter;
+          customDays = null;
+          updateTimeFilterButton();
+          timeFilterDropdown.classList.remove('open');
+          renderFeed(allItems);
+        }
+      });
+    });
+
+    sortBtn.addEventListener('click', () => {
+      currentSortOrder = currentSortOrder === 'newest' ? 'oldest' : 'newest';
+      updateSortButton();
+      renderFeed(allItems);
+    });
+
+    viewButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        viewButtons.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentView = btn.dataset.view;
+        renderFeed(allItems);
+      });
+    });
+
+    hiddenHandlesBtn.addEventListener('click', () => {
+      hiddenHandlesDropdown.classList.toggle('open');
+      if (hiddenHandlesDropdown.classList.contains('open')) {
+        hiddenHandlesInput.focus();
+      }
+    });
+
+    hiddenHandlesInput.addEventListener('keydown', (event) => {
+      if (event.key === 'Enter') {
+        const handle = event.target.value.trim().toLowerCase();
+        if (handle && !hiddenUsernames.has(handle)) {
+          hiddenUsernames.add(handle);
+          saveHiddenHandles();
+          renderHiddenHandlesList();
+          renderFeed(allItems);
+          event.target.value = '';
+        }
+      }
+    });
+
+    archiveSelectedBtn.addEventListener('click', () => {
+      archiveSelected();
+    });
+
+    sendToSlackBtn.addEventListener('click', () => {
+      sendSelectedToSlackFlow();
+    });
+
+    toggleArchivedBtn.addEventListener('click', () => {
+      toggleShowArchived();
+    });
+
+    commandCenterBtn.addEventListener('click', () => {
+      openCommandPalette();
+    });
+
+    settingsBtn.addEventListener('click', () => {
+      openSettings();
+    });
+
+    saveConfigBtn.addEventListener('click', () => {
+      saveConfig();
+    });
+
+    closeSettingsBtn.addEventListener('click', () => {
+      settingsModal.classList.remove('open');
+    });
+
+    async function openSettings() {
+      const config = getConfig();
+      configTextarea.value = JSON.stringify(config, null, 2);
+      settingsModal.classList.add('open');
+    }
+
+    function saveConfig() {
+      try {
+        const config = JSON.parse(configTextarea.value);
+        localStorage.setItem(CONFIG_STORAGE_KEY, JSON.stringify(config));
+        settingsModal.classList.remove('open');
+        showStatusMessage('Configuration saved', 'info');
+      } catch (error) {
+        showStatusMessage('Invalid JSON configuration', 'error');
+      }
+    }
+
+    function getConfig() {
+      const saved = localStorage.getItem(CONFIG_STORAGE_KEY);
+      if (saved) {
+        try {
+          return JSON.parse(saved);
+        } catch (error) {
+          console.error('Failed to parse saved config:', error);
+        }
+      }
+      // Default config
+      return {
+        twitter: {
+          searchTerms: ["factoryai"],
+          excludeUsernames: ["FactoryAI"]
+        },
+        reddit: {
+          urls: [
+            "https://www.reddit.com/search/?q=factoryai&type=link&sort=new"
+          ]
+        },
+        github: {
+          usernames: ["anthropics", "vercel", "openai"],
+          topics: ["ai", "llm"]
+        }
+      };
+    }
+
+    commandPalette.addEventListener('click', (event) => {
+      if (event.target === commandPalette) {
+        closeCommandPalette();
+      }
+    });
+
+    commandPaletteInput.addEventListener('input', () => {
+      updateCommandPaletteList();
+    });
+
+    commandPaletteInput.addEventListener('keydown', (event) => {
+      handleCommandPaletteKeydown(event);
+    });
+
+    commandPaletteList.addEventListener('click', (event) => {
+      handleCommandPaletteClick(event);
+    });
+
+    document.addEventListener('keydown', (event) => {
+      handleGlobalKeydown(event);
+    });
+
+    updateSelectionStatus();
+    updateArchivedToggleButton();
+    hideStatusMessage();
+    renderHiddenHandlesList();
+
+    function updateThemeIcon(theme) {
+      const icon = findIconElement(themeToggle);
+      if (icon) {
+        icon.setAttribute('data-lucide', theme === 'dark' ? 'sun' : 'moon');
+        refreshIcons();
+      }
+    }
+
+    function refreshIcons() {
+      lucide.createIcons();
+    }
+
+    function findIconElement(root) {
+      if (!root) return null;
+      return root.querySelector('[data-lucide]') || root.querySelector('svg');
+    }
+
+    function markSourceAsSeen(source) {
+      const now = new Date().toISOString();
+      lastSeenTimestamps[source] = now;
+      localStorage.setItem(LAST_SEEN_STORAGE_KEY, JSON.stringify(lastSeenTimestamps));
+      updateNewBadges();
+    }
+
+    function getNewCounts() {
+      const counts = { twitter: 0, reddit: 0, github: 0 };
+      allItems.forEach(item => {
+        if (archivedIds.has(item.id)) return;
+        const lastSeen = lastSeenTimestamps[item.source];
+        if (!lastSeen || new Date(item.timestamp) > new Date(lastSeen)) {
+          counts[item.source]++;
+        }
+      });
+      return counts;
+    }
+
+    function updateNewBadges() {
+      const counts = getNewCounts();
+      document.querySelectorAll('.filter-pill').forEach(pill => {
+        const source = pill.dataset.source;
+        const count = counts[source] || 0;
+        const existingBadge = pill.querySelector('.new-badge');
+        if (existingBadge) {
+          existingBadge.remove();
+        }
+        if (count > 0) {
+          const badge = document.createElement('span');
+          badge.className = 'new-badge';
+          badge.textContent = count;
+          pill.appendChild(badge);
+        }
+      });
+    }
+
+    function getSourceIcon(source, metadata) {
+      let icon = `<span class="source-icon"><i data-lucide="${sourceIcons[source] || 'circle'}"></i>`;
+      if (source === 'github' && metadata?.type === 'issue') {
+        icon += `<span class="type-tag">[issue]</span>`;
+      }
+      icon += '</span>';
+      return icon;
+    }
+
+    function isWithinTimeRange(itemTimestamp) {
+      const itemDate = new Date(itemTimestamp);
+      const now = new Date();
+      const diffMs = now - itemDate;
+
+      if (currentTimeFilter === '1h') {
+        return diffMs <= 60 * 60 * 1000;
+      } else if (currentTimeFilter === '12h') {
+        return diffMs <= 12 * 60 * 60 * 1000;
+      } else if (currentTimeFilter === '24h') {
+        return diffMs <= 24 * 60 * 60 * 1000;
+      } else if (currentTimeFilter === 'custom' && customDays) {
+        return diffMs <= customDays * 24 * 60 * 60 * 1000;
+      }
+      return true;
+    }
+
+    function saveHiddenHandles() {
+      localStorage.setItem(HIDDEN_USERS_STORAGE_KEY, JSON.stringify(Array.from(hiddenUsernames)));
+    }
+
+    function renderHiddenHandlesList() {
+      if (hiddenUsernames.size === 0) {
+        hiddenHandlesList.innerHTML = '<div class="hidden-handles-empty">No hidden handles</div>';
+        return;
+      }
+      hiddenHandlesList.innerHTML = Array.from(hiddenUsernames).map(handle => `
+        <div class="hidden-handle-item">
+          <span class="hidden-handle-item-name">@${handle}</span>
+          <button class="hidden-handle-remove-btn" data-handle="${handle}" title="Remove">
+            <i data-lucide="x"></i>
+          </button>
+        </div>
+      `).join('');
+
+      hiddenHandlesList.querySelectorAll('.hidden-handle-remove-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const handle = btn.dataset.handle;
+          hiddenUsernames.delete(handle);
+          saveHiddenHandles();
+          renderHiddenHandlesList();
+          renderFeed(allItems);
+        });
+      });
+      lucide.createIcons();
+    }
+
+    function formatTimestamp(isoString) {
+      const date = new Date(isoString);
+      const now = new Date();
+      const diffMs = now - date;
+      const diffMins = Math.floor(diffMs / 60000);
+      const diffHours = Math.floor(diffMs / 3600000);
+      const diffDays = Math.floor(diffMs / 86400000);
+      if (diffMins < 1) return 'now';
+      if (diffMins < 60) return `${diffMins}m`;
+      if (diffHours < 24) return `${diffHours}h`;
+      if (diffDays < 7) return `${diffDays}d`;
+      return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    }
+
+    function truncateContent(content) {
+      return content.length > 240 ? content.substring(0, 240) : content;
+    }
+
+    function escapeSelector(value) {
+      if (window.CSS && typeof window.CSS.escape === 'function') {
+        return window.CSS.escape(value);
+      }
+      return value.replace(/"/g, '\\"');
+    }
+
+    function findItemById(id) {
+      return itemMap.get(id);
+    }
+
+    function scrollCardIntoView(id) {
+      if (!id) return;
+      const selector = `.card[data-id="${escapeSelector(id)}"]`;
+      const card = document.querySelector(selector);
+      if (card) {
+        card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+
+    function renderFeed(items, options = {}) {
+      const { forceActiveId } = options;
+
+      if (!items || items.length === 0) {
+        feedContainer.className = 'feed';
+        feedContainer.innerHTML = '<div class="loading">No items yet. Waiting for first poll...</div>';
+        visibleItems = [];
+        activeCardId = null;
+        updateSelectionStatus();
+        updateArchivedToggleButton();
+        if (commandPaletteOpen) {
+          updateCommandPaletteList();
+        }
+        refreshIcons();
+        return;
+      }
+
+      const filtered = items.filter(item => {
+        if (!activeFilters.has(item.source)) return false;
+        if (!showArchived && archivedIds.has(item.id)) return false;
+        if (hiddenUsernames.size > 0 && hiddenUsernames.has(item.author.toLowerCase())) return false;
+        if (!isWithinTimeRange(item.timestamp)) return false;
+        return true;
+      });
+
+      if (filtered.length === 0) {
+        feedContainer.className = 'feed';
+        feedContainer.innerHTML = '<div class="loading">No items match your filters</div>';
+        visibleItems = [];
+        activeCardId = null;
+        selectedIds = new Set();
+        updateSelectionStatus();
+        updateArchivedToggleButton();
+        if (commandPaletteOpen) {
+          updateCommandPaletteList();
+        }
+        refreshIcons();
+        return;
+      }
+
+      const filteredIds = new Set(filtered.map(item => item.id));
+      if (selectedIds.size > 0) {
+        selectedIds = new Set(Array.from(selectedIds).filter(id => filteredIds.has(id)));
+      }
+
+      const sorted = [...filtered].sort((a, b) => {
+        const dateA = new Date(a.timestamp);
+        const dateB = new Date(b.timestamp);
+        return currentSortOrder === 'newest' ? dateB - dateA : dateA - dateB;
+      });
+
+      let grouped = null;
+      let flattened = [];
+
+      if (currentView === 'columns') {
+        const sources = [...activeFilters];
+        grouped = sources.reduce((acc, source) => {
+          acc[source] = sorted.filter(item => item.source === source);
+          return acc;
+        }, {});
+        flattened = sources.reduce((acc, source) => acc.concat(grouped[source] || []), []);
+      } else {
+        flattened = sorted;
+      }
+
+      if (forceActiveId && flattened.some(item => item.id === forceActiveId)) {
+        activeCardId = forceActiveId;
+      } else if (!activeCardId || !flattened.some(item => item.id === activeCardId)) {
+        activeCardId = flattened[0]?.id || null;
+      }
+
+      visibleItems = flattened;
+
+      if (currentView === 'columns') {
+        renderColumnsView(grouped);
+      } else {
+        renderListView(flattened);
+      }
+
+      attachCardListeners();
+      updateSelectionStatus();
+      updateArchivedToggleButton();
+      updateNewBadges();
+      if (commandPaletteOpen) {
+        updateCommandPaletteList();
+      }
+      refreshIcons();
+    }
+
+    function renderListView(items) {
+      feedContainer.className = 'feed';
+      feedContainer.innerHTML = items.map(item => {
+        const contentText = (item.content || '').trim();
+        const needsExpand = contentText.length > 240;
+        const truncated = truncateContent(contentText);
+        const classes = ['card'];
+        if (selectedIds.has(item.id)) classes.push('selected');
+        if (archivedIds.has(item.id)) classes.push('archived');
+        if (item.id === activeCardId) classes.push('focused');
+        const statusBadge = archivedIds.has(item.id) ? '<span class="status-badge">Archived</span>' : '';
+        return `
+          <div class="${classes.join(' ')}" data-id="${item.id}" data-url="${item.url}" data-source="${item.source}">
+            <div class="card-header">
+              ${getSourceIcon(item.source, item.metadata)}
+              <span class="author">${item.author}</span>
+              ${statusBadge}
+            </div>
+            <div class="content ${needsExpand ? 'collapsed' : ''}">${needsExpand ? truncated + '...' : contentText}</div>
+            ${needsExpand ? '<div class="expand-btn" data-expanded="false">Show more</div>' : ''}
+            <div class="card-footer">
+              ${item.metadata?.likes ? `<span>♥ ${item.metadata.likes}</span>` : ''}
+              ${item.metadata?.retweets ? `<span>↻ ${item.metadata.retweets}</span>` : ''}
+              ${item.metadata?.replies ? `<span>💬 ${item.metadata.replies}</span>` : ''}
+              ${item.metadata?.score ? `<span>⬆ ${item.metadata.score}</span>` : ''}
+              <span class="timestamp">${formatTimestamp(item.timestamp)}</span>
+            </div>
+            ${archivedIds.has(item.id) ? '<div class="card-actions"><button class="secondary-btn unarchive-btn" type="button">Restore</button></div>' : ''}
+          </div>
+        `;
+      }).join('');
+    }
+
+    function renderColumnsView(grouped) {
+      feedContainer.className = 'feed columns';
+      const sources = [...activeFilters];
+      feedContainer.innerHTML = sources.map(source => {
+        const items = grouped[source] || [];
+        const cards = items.map(item => {
+          const contentText = (item.content || '').trim();
+          const needsExpand = contentText.length > 240;
+          const truncated = truncateContent(contentText);
+          const classes = ['card'];
+          if (selectedIds.has(item.id)) classes.push('selected');
+          if (archivedIds.has(item.id)) classes.push('archived');
+          if (item.id === activeCardId) classes.push('focused');
+          return `
+            <div class="${classes.join(' ')}" data-id="${item.id}" data-url="${item.url}" data-source="${item.source}">
+              <div class="card-header">
+                <span class="author">${item.author}</span>
+                ${item.source === 'github' && item.metadata?.type === 'issue' ? '<span class="type-tag">[issue]</span>' : ''}
+                ${archivedIds.has(item.id) ? '<span class="status-badge">Archived</span>' : ''}
+              </div>
+              <div class="content ${needsExpand ? 'collapsed' : ''}">${needsExpand ? truncated + '...' : contentText}</div>
+              ${needsExpand ? '<div class="expand-btn" data-expanded="false">Show more</div>' : ''}
+              <div class="card-footer">
+                ${item.metadata?.likes ? `<span>♥ ${item.metadata.likes}</span>` : ''}
+                ${item.metadata?.retweets ? `<span>↻ ${item.metadata.retweets}</span>` : ''}
+                ${item.metadata?.replies ? `<span>💬 ${item.metadata.replies}</span>` : ''}
+                ${item.metadata?.score ? `<span>⬆ ${item.metadata.score}</span>` : ''}
+                <span class="timestamp">${formatTimestamp(item.timestamp)}</span>
+              </div>
+              <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="mobile-link">View Post →</a>
+              ${archivedIds.has(item.id) ? '<div class="card-actions"><button class="secondary-btn unarchive-btn" type="button">Restore</button></div>' : ''}
+            </div>
+          `;
+        }).join('');
+        return `
+          <div class="feed-column">
+            <div class="feed-column-header">
+              <i data-lucide="${sourceIcons[source] || 'circle'}"></i>
+              ${sourceNames[source] || source}
+            </div>
+            ${cards || ''}
+          </div>
+        `;
+      }).join('');
+    }
+
+    function attachCardListeners() {
+      document.querySelectorAll('.card').forEach(card => {
+        card.addEventListener('click', (event) => {
+          handleCardClick(event, card);
+        });
+      });
+    }
+
+    function handleCardClick(event, card) {
+      const id = card.dataset.id;
+      const item = findItemById(id);
+      if (!item) return;
+
+      const expandBtn = event.target.closest('.expand-btn');
+      if (expandBtn) {
+        event.stopPropagation();
+        toggleExpand(expandBtn, card, item);
+        return;
+      }
+
+      const restoreBtn = event.target.closest('.unarchive-btn');
+      if (restoreBtn) {
+        event.stopPropagation();
+        unarchiveItems([id]);
+        return;
+      }
+
+      if (event.metaKey || event.ctrlKey) {
+        event.preventDefault();
+        activeCardId = id;
+        setTimeout(() => {
+          renderFeed(allItems, { forceActiveId: id });
+        }, 0);
+        window.open(card.dataset.url, '_blank', 'noopener,noreferrer');
+        return;
+      }
+
+      event.preventDefault();
+      toggleSelection(id);
+    }
+
+    function toggleExpand(button, card, item) {
+      const content = card.querySelector('.content');
+      const full = (item.content || '').trim();
+      if (button.dataset.expanded === 'false') {
+        content.textContent = full;
+        content.classList.remove('collapsed');
+        button.textContent = 'Show less';
+        button.dataset.expanded = 'true';
+      } else {
+        content.textContent = truncateContent(full) + '...';
+        content.classList.add('collapsed');
+        button.textContent = 'Show more';
+        button.dataset.expanded = 'false';
+      }
+    }
+
+    function toggleSelection(id) {
+      if (!id) return;
+      if (selectedIds.has(id)) {
+        selectedIds.delete(id);
+      } else {
+        selectedIds.add(id);
+      }
+      renderFeed(allItems, { forceActiveId: id });
+    }
+
+    function clearSelection() {
+      if (selectedIds.size === 0) return;
+      selectedIds.clear();
+      renderFeed(allItems);
+    }
+
+    function archiveSelected() {
+      if (selectedIds.size === 0) return;
+      let changed = false;
+      selectedIds.forEach(id => {
+        if (!archivedIds.has(id)) {
+          archivedIds.add(id);
+          changed = true;
+        }
+      });
+      if (changed) {
+        saveArchived();
+      }
+      const count = selectedIds.size;
+      selectedIds.clear();
+      renderFeed(allItems);
+      if (changed) {
+        showStatusMessage(`${count} post${count === 1 ? '' : 's'} archived`, 'info');
+      }
+    }
+
+    function unarchiveItems(ids) {
+      let changed = false;
+      ids.forEach(id => {
+        if (archivedIds.delete(id)) {
+          changed = true;
+        }
+      });
+      if (changed) {
+        saveArchived();
+      }
+      selectedIds = new Set(Array.from(selectedIds).filter(id => !archivedIds.has(id)));
+      renderFeed(allItems, { forceActiveId: ids[0] });
+      if (changed) {
+        showStatusMessage('Post restored', 'info');
+      }
+    }
+
+    function saveArchived() {
+      localStorage.setItem(ARCHIVE_STORAGE_KEY, JSON.stringify(Array.from(archivedIds)));
+    }
+
+    function toggleShowArchived() {
+      showArchived = !showArchived;
+      renderFeed(allItems);
+      showStatusMessage(showArchived ? 'Showing archived posts' : 'Hiding archived posts', 'info');
+    }
+
+    function sendSelectedToSlackFlow() {
+      if (selectedIds.size === 0) return;
+      const channelInput = prompt('Send to Slack channel (optional)');
+      if (channelInput === null) {
+        return;
+      }
+      const channel = channelInput.trim();
+      sendSelectedToSlack(Array.from(selectedIds), channel);
+    }
+
+    async function sendSelectedToSlack(ids, channel) {
+      if (ids.length === 0) return;
+      try {
+        const payload = { itemIds: ids };
+        if (channel) {
+          payload.channel = channel;
+        }
+        const response = await fetch('/api/slack/send', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+        if (!response.ok) {
+          throw new Error('Failed to send to Slack');
+        }
+        const count = ids.length;
+        selectedIds.clear();
+        renderFeed(allItems);
+        showStatusMessage(`Sent ${count} post${count === 1 ? '' : 's'} to Slack${channel ? ` (${channel})` : ''}`, 'info');
+      } catch (error) {
+        console.error('Slack send error:', error);
+        showStatusMessage('Failed to send to Slack', 'error');
+      }
+    }
+
+    function openCommandPalette() {
+      commandPaletteOpen = true;
+      commandPalette.classList.add('open');
+      commandPalette.setAttribute('aria-hidden', 'false');
+      commandPaletteInput.value = '';
+      commandPaletteIndex = 0;
+      updateCommandPaletteList();
+      setTimeout(() => commandPaletteInput.focus(), 0);
+    }
+
+    function closeCommandPalette() {
+      commandPaletteOpen = false;
+      commandPalette.classList.remove('open');
+      commandPalette.setAttribute('aria-hidden', 'true');
+      commandPaletteInput.value = '';
+    }
+
+    function getCommandActions() {
+      const selectedCount = selectedIds.size;
+      const hasArchivedSelected = Array.from(selectedIds).some(id => archivedIds.has(id));
+      const visibleCount = visibleItems.filter(item => !archivedIds.has(item.id)).length;
+      const sources = [...activeFilters];
+      const commands = [
+        {
+          id: 'archive',
+          label: selectedCount ? `Archive selected (${selectedCount})` : 'Archive selected',
+          shortcut: 'A',
+          enabled: selectedCount > 0,
+          handler: () => archiveSelected()
+        },
+        {
+          id: 'archive-all',
+          label: `Archive all visible (${visibleCount})`,
+          shortcut: 'Shift+A',
+          enabled: visibleCount > 0,
+          handler: () => archiveAllVisible()
+        },
+        {
+          id: 'unarchive',
+          label: 'Restore selected',
+          shortcut: 'U',
+          enabled: selectedCount > 0 && hasArchivedSelected,
+          handler: () => unarchiveItems(Array.from(selectedIds))
+        },
+        {
+          id: 'send-slack',
+          label: 'Send selected to Slack',
+          shortcut: 'S',
+          enabled: selectedCount > 0,
+          handler: () => sendSelectedToSlackFlow()
+        },
+        {
+          id: 'toggle-archived',
+          label: showArchived ? 'Hide archived posts' : 'Show archived posts',
+          shortcut: 'H',
+          enabled: true,
+          handler: () => toggleShowArchived()
+        },
+        {
+          id: 'select-all',
+          label: `Select all visible (${visibleCount})`,
+          shortcut: 'Cmd/Ctrl+A',
+          enabled: visibleCount > 0,
+          handler: () => selectAllVisible()
+        },
+        {
+          id: 'clear-selection',
+          label: 'Clear selection',
+          shortcut: 'Esc',
+          enabled: selectedCount > 0,
+          handler: () => clearSelection()
+        },
+        {
+          id: 'jump-next',
+          label: 'Jump to next selected (Shift+J)',
+          shortcut: 'Shift+J',
+          enabled: selectedIds.size > 1,
+          handler: () => focusNextSelected()
+        },
+        {
+          id: 'jump-prev',
+          label: 'Jump to previous selected (Shift+K)',
+          shortcut: 'Shift+K',
+          enabled: selectedIds.size > 1,
+          handler: () => focusPreviousSelected()
+        }
+      ];
+      sources.forEach(source => {
+        const sourceItems = visibleItems.filter(item => item.source === source && !archivedIds.has(item.id));
+        if (sourceItems.length > 0) {
+          commands.push({
+            id: `archive-${source}`,
+            label: `Archive all ${sourceNames[source]} posts (${sourceItems.length})`,
+            shortcut: '',
+            enabled: true,
+            handler: () => archiveBySource(source)
+          });
+          commands.push({
+            id: `select-${source}`,
+            label: `Select all ${sourceNames[source]} posts (${sourceItems.length})`,
+            shortcut: '',
+            enabled: true,
+            handler: () => selectBySource(source)
+          });
+        }
+      });
+      return commands;
+    }
+
+    function updateCommandPaletteList() {
+      const search = commandPaletteInput.value.trim().toLowerCase();
+      const actions = getCommandActions().filter(action => action.label.toLowerCase().includes(search));
+      commandPaletteItems = actions;
+      if (commandPaletteIndex >= actions.length) {
+        commandPaletteIndex = actions.length ? 0 : -1;
+      }
+      if (actions.length === 0) {
+        commandPaletteList.innerHTML = '<li class="command-item disabled">No commands</li>';
+        return;
+      }
+      commandPaletteList.innerHTML = actions.map((action, index) => {
+        const classes = ['command-item'];
+        if (!action.enabled) classes.push('disabled');
+        if (index === commandPaletteIndex) classes.push('active');
+        return `
+          <li class="${classes.join(' ')}" data-id="${action.id}">
+            <span>${action.label}</span>
+            <span class="command-shortcut">${action.shortcut}</span>
+          </li>
+        `;
+      }).join('');
+    }
+
+    function handleCommandPaletteKeydown(event) {
+      if (!commandPaletteOpen) return;
+      if (event.key === 'ArrowDown') {
+        event.preventDefault();
+        if (commandPaletteItems.length > 0) {
+          commandPaletteIndex = (commandPaletteIndex + 1) % commandPaletteItems.length;
+          updateCommandPaletteList();
+        }
+      } else if (event.key === 'ArrowUp') {
+        event.preventDefault();
+        if (commandPaletteItems.length > 0) {
+          commandPaletteIndex = (commandPaletteIndex - 1 + commandPaletteItems.length) % commandPaletteItems.length;
+          updateCommandPaletteList();
+        }
+      } else if (event.key === 'Enter') {
+        event.preventDefault();
+        const action = commandPaletteItems[commandPaletteIndex];
+        if (action && action.enabled) {
+          closeCommandPalette();
+          action.handler();
+        }
+      } else if (event.key === 'Escape') {
+        event.preventDefault();
+        closeCommandPalette();
+      }
+    }
+
+    function handleCommandPaletteClick(event) {
+      const item = event.target.closest('.command-item');
+      if (!item || item.classList.contains('disabled')) return;
+      const action = commandPaletteItems.find(action => action.id === item.dataset.id);
+      if (action && action.enabled) {
+        closeCommandPalette();
+        action.handler();
+      }
+    }
+
+    function handleGlobalKeydown(event) {
+      if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
+        event.preventDefault();
+        if (!commandPaletteOpen) {
+          openCommandPalette();
+        } else {
+          closeCommandPalette();
+        }
+        return;
+      }
+
+      if (commandPaletteOpen) {
+        return;
+      }
+
+      const target = event.target;
+      if (isTypingIntoField(target)) {
+        return;
+      }
+
+      const key = event.key.toLowerCase();
+
+      if (key === 'j' && !event.metaKey && !event.ctrlKey && !event.altKey) {
+        event.preventDefault();
+        if (event.shiftKey) {
+          focusNextSelected();
+        } else {
+          focusNextCard();
+        }
+      } else if (key === 'k' && !event.metaKey && !event.ctrlKey && !event.altKey) {
+        event.preventDefault();
+        if (event.shiftKey) {
+          focusPreviousSelected();
+        } else {
+          focusPreviousCard();
+        }
+      } else if (key === 'a' && !event.metaKey && !event.ctrlKey && !event.altKey) {
+        event.preventDefault();
+        if (event.shiftKey) {
+          archiveAllVisible();
+        } else {
+          archiveSelected();
+        }
+      } else if (key === 'a' && (event.metaKey || event.ctrlKey) && !event.altKey && !event.shiftKey) {
+        event.preventDefault();
+        selectAllVisible();
+      } else if (key === 's' && !event.metaKey && !event.ctrlKey) {
+        event.preventDefault();
+        sendSelectedToSlackFlow();
+      } else if (key === 'h' && !event.metaKey && !event.ctrlKey) {
+        event.preventDefault();
+        toggleShowArchived();
+      } else if (event.key === 'Enter' && !event.metaKey && !event.ctrlKey) {
+        event.preventDefault();
+        if (activeCardId) {
+          toggleSelection(activeCardId);
+        }
+      } else if (event.key === 'Escape') {
+        event.preventDefault();
+        clearSelection();
+      } else if (event.key === 'ArrowDown' && !event.metaKey && !event.ctrlKey) {
+        event.preventDefault();
+        focusNextCard();
+      } else if (event.key === 'ArrowUp' && !event.metaKey && !event.ctrlKey) {
+        event.preventDefault();
+        focusPreviousCard();
+      }
+    }
+
+    function isTypingIntoField(element) {
+      if (!element) return false;
+      const tag = element.tagName;
+      const editable = element.getAttribute && element.getAttribute('contenteditable');
+      return tag === 'INPUT' || tag === 'TEXTAREA' || editable === 'true';
+    }
+
+    function focusNextCard() {
+      if (!visibleItems.length) return;
+      const index = visibleItems.findIndex(item => item.id === activeCardId);
+      const nextIndex = Math.min(index + 1, visibleItems.length - 1);
+      const next = visibleItems[nextIndex];
+      if (next) {
+        setActiveCard(next.id);
+      }
+    }
+
+    function focusPreviousCard() {
+      if (!visibleItems.length) return;
+      const index = visibleItems.findIndex(item => item.id === activeCardId);
+      const prevIndex = Math.max(index - 1, 0);
+      const prev = visibleItems[prevIndex];
+      if (prev) {
+        setActiveCard(prev.id);
+      }
+    }
+
+    function focusNextSelected() {
+      const selectedVisible = visibleItems.filter(item => selectedIds.has(item.id));
+      if (selectedVisible.length === 0) return;
+      const index = selectedVisible.findIndex(item => item.id === activeCardId);
+      const nextIndex = (index + 1) % selectedVisible.length;
+      setActiveCard(selectedVisible[nextIndex].id);
+    }
+
+    function focusPreviousSelected() {
+      const selectedVisible = visibleItems.filter(item => selectedIds.has(item.id));
+      if (selectedVisible.length === 0) return;
+      const index = selectedVisible.findIndex(item => item.id === activeCardId);
+      const prevIndex = (index - 1 + selectedVisible.length) % selectedVisible.length;
+      setActiveCard(selectedVisible[prevIndex].id);
+    }
+
+    function setActiveCard(id, options = {}) {
+      if (!id) return;
+      const scroll = options.scroll !== false;
+      renderFeed(allItems, { forceActiveId: id });
+      if (scroll) {
+        scrollCardIntoView(id);
+      }
+    }
+
+    function updateSelectionStatus() {
+      const count = selectedIds.size;
+      selectionStatus.textContent = count === 0 ? 'No posts selected' : `${count} selected`;
+      archiveSelectedBtn.disabled = count === 0;
+      sendToSlackBtn.disabled = count === 0;
+      if (commandPaletteOpen) {
+        updateCommandPaletteList();
+      }
+    }
+
+    function updateArchivedToggleButton() {
+      const icon = findIconElement(toggleArchivedBtn);
+      toggleArchivedBtn.classList.toggle('active', showArchived);
+      toggleArchivedBtn.setAttribute('title', showArchived ? 'Hide archived posts' : 'Show archived posts');
+      toggleArchivedBtn.setAttribute('aria-pressed', showArchived ? 'true' : 'false');
+      if (icon) {
+        icon.setAttribute('data-lucide', showArchived ? 'archive-restore' : 'archive');
+      }
+    }
+
+    function updateTimeFilterButton() {
+      let label = '24h';
+      if (currentTimeFilter === 'custom' && customDays) {
+        label = `${customDays}d`;
+      } else if (currentTimeFilter === '1h') {
+        label = '1h';
+      } else if (currentTimeFilter === '12h') {
+        label = '12h';
+      } else if (currentTimeFilter === '24h') {
+        label = '24h';
+      }
+      const btnText = timeFilterBtn.querySelector('.btn-text');
+      if (btnText) {
+        btnText.textContent = label;
+      }
+    }
+
+    function updateSortButton() {
+      const icon = findIconElement(sortBtn);
+      sortBtn.setAttribute('title', currentSortOrder === 'newest' ? 'Sort: Newest first' : 'Sort: Oldest first');
+      if (icon) {
+        icon.setAttribute('data-lucide', currentSortOrder === 'newest' ? 'arrow-down' : 'arrow-up');
+        refreshIcons();
+      }
+    }
+
+    function archiveAllVisible() {
+      const toArchive = visibleItems.filter(item => !archivedIds.has(item.id));
+      if (toArchive.length === 0) return;
+      const confirm = window.confirm(`Archive all ${toArchive.length} visible posts?`);
+      if (!confirm) return;
+      let changed = false;
+      toArchive.forEach(item => {
+        if (!archivedIds.has(item.id)) {
+          archivedIds.add(item.id);
+          changed = true;
+        }
+      });
+      if (changed) {
+        saveArchived();
+      }
+      selectedIds.clear();
+      renderFeed(allItems);
+      if (changed) {
+        showStatusMessage(`Archived ${toArchive.length} post${toArchive.length === 1 ? '' : 's'}`, 'info');
+      }
+    }
+
+    function archiveBySource(source) {
+      const toArchive = visibleItems.filter(item => item.source === source && !archivedIds.has(item.id));
+      if (toArchive.length === 0) return;
+      const confirm = window.confirm(`Archive all ${toArchive.length} ${sourceNames[source]} posts?`);
+      if (!confirm) return;
+      let changed = false;
+      toArchive.forEach(item => {
+        if (!archivedIds.has(item.id)) {
+          archivedIds.add(item.id);
+          changed = true;
+        }
+      });
+      if (changed) {
+        saveArchived();
+      }
+      selectedIds.clear();
+      renderFeed(allItems);
+      if (changed) {
+        showStatusMessage(`Archived ${toArchive.length} ${sourceNames[source]} post${toArchive.length === 1 ? '' : 's'}`, 'info');
+      }
+    }
+
+    function selectAllVisible() {
+      const toSelect = visibleItems.filter(item => !archivedIds.has(item.id));
+      if (toSelect.length === 0) return;
+      toSelect.forEach(item => selectedIds.add(item.id));
+      renderFeed(allItems);
+      showStatusMessage(`Selected ${toSelect.length} post${toSelect.length === 1 ? '' : 's'}`, 'info');
+    }
+
+    function selectBySource(source) {
+      const toSelect = visibleItems.filter(item => item.source === source && !archivedIds.has(item.id));
+      if (toSelect.length === 0) return;
+      toSelect.forEach(item => selectedIds.add(item.id));
+      renderFeed(allItems);
+      showStatusMessage(`Selected ${toSelect.length} ${sourceNames[source]} post${toSelect.length === 1 ? '' : 's'}`, 'info');
+    }
+
+    function showStatusMessage(text, type = 'info') {
+      if (!text) return;
+      statusMessage.className = `status-message ${type}`;
+      statusMessage.textContent = text;
+      statusMessage.style.display = 'block';
+      if (statusTimeoutId) {
+        clearTimeout(statusTimeoutId);
+      }
+      statusTimeoutId = setTimeout(() => {
+        hideStatusMessage();
+      }, 3500);
+    }
+
+    function hideStatusMessage() {
+      statusMessage.style.display = 'none';
+    }
+
+    async function fetchFeed() {
+      try {
+        const response = await fetch('./data/feed.json');
+        if (!response.ok) throw new Error('Failed to fetch feed');
+        const data = await response.json();
+        allItems = Array.isArray(data) ? data : [];
+        itemMap = new Map(allItems.map(item => [item.id, item]));
+        selectedIds = new Set(Array.from(selectedIds).filter(id => itemMap.has(id)));
+        loadingContainer.style.display = 'none';
+        errorContainer.style.display = 'none';
+        renderFeed(allItems);
+      } catch (error) {
+        console.error('Error fetching feed:', error);
+        loadingContainer.style.display = 'none';
+        errorContainer.textContent = 'Failed to load feed. Will retry...';
+        errorContainer.style.display = 'block';
+      }
+    }
+  </script>
+</body>
+</html>
