@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980422578620756062",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@jxwalker @OpenAICodexCli @Claude @cursor_ai @warpdotdev @FactoryAI @WisprFlow https://t.co/5mNRnlIYy9",
+    "url": "https://x.com/nest_elf/status/1980422578620756062",
+    "timestamp": "2025-10-20T23:55:11.000Z",
+    "metadata": {
+      "conversation_id": "1980422578620756062",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980420466696417639",
     "source": "twitter",
     "author": "thisismichael13",
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1980372061794283922",
-    "source": "twitter",
-    "author": "ingoa_dev",
-    "content": "@singular_prism @kcosr @FactoryAI Thanks, made me consider.\n\nHow much gpt5 do I get for the $20 plan - just like API would cost? There is no gpt5-high, correct?\n\nIt reads just like that stpd Cursor plan :)",
-    "url": "https://x.com/ingoa_dev/status/1980372061794283922",
-    "timestamp": "2025-10-20T20:34:27.000Z",
-    "metadata": {
-      "conversation_id": "1980372061794283922",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -547,6 +547,19 @@
     }
   },
   {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_200",
     "source": "github",
     "author": "JohnDotOwl",
@@ -622,32 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 191
-    }
-  },
-  {
-    "id": "reddit_1o6tivb",
-    "source": "reddit",
-    "author": "stevilg",
-    "content": "byok / custom_models\n\nIs Bring your own keys / custom\\_models working for anybody? I've tried a few combinations and no luck; droid never shows it on the list. Below is in my projects directory e.g. /project/.factory/config.json and I can confirm POST to [http://localhost:8317/v1/chat/completions](http://localhost:8317/v1/chat/completions) does work and so does GET to [http://localhost:8317/v1/models](http://localhost:8317/v1/models)\n\n    {\n      \"custom_models\": [\n        {\n          \"model_display_name\": \"qwen3-cod",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6tivb/byok_custom_models/",
-    "timestamp": "2025-10-14T22:13:49.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o6jgc5",
-    "source": "reddit",
-    "author": "Kindly_District",
-    "content": "attach a image to the droid cli?\n\nIs there a way to attach a design image to the droid cli?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6jgc5/attach_a_image_to_the_droid_cli/",
-    "timestamp": "2025-10-14T15:58:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
