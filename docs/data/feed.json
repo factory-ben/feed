@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1980271577947160951",
+    "source": "twitter",
+    "author": "zachwills",
+    "content": "@aeitroc @AnthropicAI @FactoryAI lol",
+    "url": "https://x.com/zachwills/status/1980271577947160951",
+    "timestamp": "2025-10-20T13:55:10.000Z",
+    "metadata": {
+      "conversation_id": "1980271577947160951",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980270930883461144",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "I've been blown away by @FactoryAI's Droid. \n\nIt’s the top agentic AI coder, crushing benchmarks and outperforming Codex &amp; Claude Code. The token usage is efficient and the model selection is killer.\n\nSnag $40 in credits (for both of us!) with my referral https://t.co/l3dCug8gJX",
+    "url": "https://x.com/geo_anima/status/1980270930883461144",
+    "timestamp": "2025-10-20T13:52:36.000Z",
+    "metadata": {
+      "conversation_id": "1980270930883461144",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980267594570408023",
     "source": "twitter",
     "author": "CodeWithOllie",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1980239921672515993",
-    "source": "twitter",
-    "author": "constantin_e21",
-    "content": "@mattpocockuk @FactoryAI Can we get this in DROID CLI please?",
-    "url": "https://x.com/constantin_e21/status/1980239921672515993",
-    "timestamp": "2025-10-20T11:49:23.000Z",
-    "metadata": {
-      "conversation_id": "1980239921672515993",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980239534483726507",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "@bentossell @FactoryAI @EnoReyes thx Ben - I'm still to transition you to your dev rel for @FactoryAI instead of Ben's bites 😅\n\nI'm sure @EnoReyes had/have his hands full 👇🏽👇🏽 https://t.co/eqJ1Ef82Qg",
-    "url": "https://x.com/5aikat/status/1980239534483726507",
-    "timestamp": "2025-10-20T11:47:50.000Z",
-    "metadata": {
-      "conversation_id": "1980239534483726507",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -556,6 +556,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o89mzk",
+    "source": "reddit",
+    "author": "x86rip",
+    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
+    "timestamp": "2025-10-16T15:43:59.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 12,
       "subreddit": "FactoryAi"
     }
   },
