@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1980653965772718498",
+    "source": "twitter",
+    "author": "CyberBoyAyush",
+    "content": "@itsbyrobin @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @ankushdharkar Thankyou very much sir for your appreciation 🙏🥰",
+    "url": "https://x.com/CyberBoyAyush/status/1980653965772718498",
+    "timestamp": "2025-10-21T15:14:38.000Z",
+    "metadata": {
+      "conversation_id": "1980653965772718498",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980653677754138768",
+    "source": "twitter",
+    "author": "itsbyrobin",
+    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @ankushdharkar That's actually a really cool idea, man. Well done.",
+    "url": "https://x.com/itsbyrobin/status/1980653677754138768",
+    "timestamp": "2025-10-21T15:13:30.000Z",
+    "metadata": {
+      "conversation_id": "1980653677754138768",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980652200218226899",
+    "source": "twitter",
+    "author": "CyberBoyAyush",
+    "content": "@adxtyahq @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar 🙏😬☺️",
+    "url": "https://x.com/CyberBoyAyush/status/1980652200218226899",
+    "timestamp": "2025-10-21T15:07:37.000Z",
+    "metadata": {
+      "conversation_id": "1980652200218226899",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980652152793231599",
+    "source": "twitter",
+    "author": "adxtyahq",
+    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar bro cooked yet again",
+    "url": "https://x.com/adxtyahq/status/1980652152793231599",
+    "timestamp": "2025-10-21T15:07:26.000Z",
+    "metadata": {
+      "conversation_id": "1980652152793231599",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980651221745795373",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@aeitroc @FactoryAI This is exactly how I work every day with ai coding \nWhen you got a good plan with main and sub tasks and document everything it’s really good - sometimes you have to fine tune and test a lot but that’s ok imo",
+    "url": "https://x.com/pascallammers_/status/1980651221745795373",
+    "timestamp": "2025-10-21T15:03:44.000Z",
+    "metadata": {
+      "conversation_id": "1980651221745795373",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980650460429312051",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@pascallammers_ @FactoryAI im currently slicing the bit plan into mini plans, execute one, create new session, execute the other.....and so on. Context compression with custom models has a problem for the moment.",
+    "url": "https://x.com/aeitroc/status/1980650460429312051",
+    "timestamp": "2025-10-21T15:00:43.000Z",
+    "metadata": {
+      "conversation_id": "1980650460429312051",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980649921809449389",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@aeitroc @FactoryAI Yeah used the orchestrator for that and good planning with phases etc",
+    "url": "https://x.com/pascallammers_/status/1980649921809449389",
+    "timestamp": "2025-10-21T14:58:34.000Z",
+    "metadata": {
+      "conversation_id": "1980649921809449389",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980649792121499694",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@bentossell @FactoryAI Just look at my last post 😂😅",
+    "url": "https://x.com/pascallammers_/status/1980649792121499694",
+    "timestamp": "2025-10-21T14:58:03.000Z",
+    "metadata": {
+      "conversation_id": "1980649792121499694",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980647947772785081",
     "source": "twitter",
     "author": "aeitroc",
@@ -8,9 +128,9 @@
     "timestamp": "2025-10-21T14:50:44.000Z",
     "metadata": {
       "conversation_id": "1980647947772785081",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -98,9 +218,9 @@
     "timestamp": "2025-10-21T14:30:44.000Z",
     "metadata": {
       "conversation_id": "1980642917556584740",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,7 +233,7 @@
     "timestamp": "2025-10-21T14:30:30.000Z",
     "metadata": {
       "conversation_id": "1980642857926185165",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -180,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1980623934715462048",
-    "source": "twitter",
-    "author": "aculzzz",
-    "content": "@nest_elf @FactoryAI wait, people even use AI gor GIT commit, push ????? wth",
-    "url": "https://x.com/aculzzz/status/1980623934715462048",
-    "timestamp": "2025-10-21T13:15:18.000Z",
-    "metadata": {
-      "conversation_id": "1980623934715462048",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_230",
     "source": "github",
     "author": "CodingOX",
@@ -221,51 +326,6 @@
     }
   },
   {
-    "id": "twitter_1980596644950241329",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "/session improvement suggestion for @FactoryAI \n\nRight now the sessions are shown across every project. project related sessions would be nice!",
-    "url": "https://x.com/pascallammers_/status/1980596644950241329",
-    "timestamp": "2025-10-21T11:26:52.000Z",
-    "metadata": {
-      "conversation_id": "1980596644950241329",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980595151379878102",
-    "source": "twitter",
-    "author": "damien_r_h",
-    "content": "@Mattslayga @FactoryAI The linking is a valuable piece for sure. Right now I just create a series of &lt;name&gt;-prd.md files. Not exactly sure where it’s going but it seems interesting.",
-    "url": "https://x.com/damien_r_h/status/1980595151379878102",
-    "timestamp": "2025-10-21T11:20:56.000Z",
-    "metadata": {
-      "conversation_id": "1980595151379878102",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980591488632492153",
-    "source": "twitter",
-    "author": "Mattslayga",
-    "content": "@damien_r_h @FactoryAI I’ve recently been thinking exactly the same thing. Then building a sort of knowledge graph-esque framework for the files to all be linkable where it makes sense and create a web of zettlekasten style notes. Then have a core input method of just brain dumping automated sorting",
-    "url": "https://x.com/Mattslayga/status/1980591488632492153",
-    "timestamp": "2025-10-21T11:06:23.000Z",
-    "metadata": {
-      "conversation_id": "1980591488632492153",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_228",
     "source": "github",
     "author": "britannio",
@@ -276,21 +336,6 @@
       "type": "issue",
       "labels": [],
       "number": 228
-    }
-  },
-  {
-    "id": "twitter_1980587380227916179",
-    "source": "twitter",
-    "author": "GiusMarci",
-    "content": "@Tgerighty @FactoryAI Legend!! 💯💯💯💯💯",
-    "url": "https://x.com/GiusMarci/status/1980587380227916179",
-    "timestamp": "2025-10-21T10:50:03.000Z",
-    "metadata": {
-      "conversation_id": "1980587380227916179",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -320,51 +365,6 @@
     }
   },
   {
-    "id": "twitter_1980581798183858634",
-    "source": "twitter",
-    "author": "Tgerighty",
-    "content": "@GiusMarci @FactoryAI There a workaround. https://t.co/Qhm8t3wjq3",
-    "url": "https://x.com/Tgerighty/status/1980581798183858634",
-    "timestamp": "2025-10-21T10:27:52.000Z",
-    "metadata": {
-      "conversation_id": "1980581798183858634",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980581452048920870",
-    "source": "twitter",
-    "author": "ak_8085",
-    "content": "Claude Code on the web shadows @FactoryAI ?",
-    "url": "https://x.com/ak_8085/status/1980581452048920870",
-    "timestamp": "2025-10-21T10:26:30.000Z",
-    "metadata": {
-      "conversation_id": "1980581452048920870",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980580963374743900",
-    "source": "twitter",
-    "author": "GiusMarci",
-    "content": "@FactoryAI pls allow to connect Claude Code sub as custom model &lt;3",
-    "url": "https://x.com/GiusMarci/status/1980580963374743900",
-    "timestamp": "2025-10-21T10:24:33.000Z",
-    "metadata": {
-      "conversation_id": "1980580963374743900",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -375,6 +375,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -404,6 +417,19 @@
     }
   },
   {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -414,6 +440,19 @@
       "type": "issue",
       "labels": [],
       "number": 217
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -430,6 +469,45 @@
     }
   },
   {
+    "id": "reddit_1ob2dsx",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -440,6 +518,32 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1oayeuk",
+    "source": "reddit",
+    "author": "Malek262",
+    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
+    "timestamp": "2025-10-19T19:18:47.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oapxet",
+    "source": "reddit",
+    "author": "Chemical_Bid_2195",
+    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
+    "timestamp": "2025-10-19T13:40:51.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -508,6 +612,19 @@
     }
   },
   {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -518,6 +635,19 @@
       "type": "issue",
       "labels": [],
       "number": 203
+    }
+  },
+  {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
     }
   },
   {
