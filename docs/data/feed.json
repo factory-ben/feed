@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980750435209380263",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@immoinulmoin @FactoryAI So much usage allowed with ChatGPT Pro sub! I can’t even use it all most weeks.",
+    "url": "https://x.com/ben_vargas/status/1980750435209380263",
+    "timestamp": "2025-10-21T21:37:58.000Z",
+    "metadata": {
+      "conversation_id": "1980750435209380263",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980748574301561045",
     "source": "twitter",
     "author": "CloudTrader4",
@@ -96,7 +111,7 @@
     "timestamp": "2025-10-21T20:56:47.000Z",
     "metadata": {
       "conversation_id": "1980740067342561307",
-      "likes": 3,
+      "likes": 5,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -126,9 +141,9 @@
     "timestamp": "2025-10-21T20:13:14.000Z",
     "metadata": {
       "conversation_id": "1980729110155653279",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -294,21 +309,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980721932015161454",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@pascallammers_ @FactoryAI in progress :)",
-    "url": "https://x.com/bentossell/status/1980721932015161454",
-    "timestamp": "2025-10-21T19:44:43.000Z",
-    "metadata": {
-      "conversation_id": "1980721932015161454",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -625,6 +625,19 @@
     }
   },
   {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -700,19 +713,6 @@
       "type": "issue",
       "labels": [],
       "number": 194
-    }
-  },
-  {
-    "id": "reddit_1o768ha",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "FactoryAI Pricing Plans\n\nI'm a Claude subscriber currently on the Max 5x plan, and I'm very interested in FactoryAI. However, I have some questions about the subscription tiers. For example, regarding the $20/month subscription plan, I'd like to understand the specific usage limits. If I only need to use Codex or Droid, how do these limits compare to the usage allowance for Codex CLI with ChatGPT Plus?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o768ha/factoryai_pricing_plans/",
-    "timestamp": "2025-10-15T09:21:38.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 8,
-      "subreddit": "FactoryAi"
     }
   },
   {
