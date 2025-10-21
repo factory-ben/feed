@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1980665048617058373",
+    "source": "twitter",
+    "author": "CyberBoyAyush",
+    "content": "@nuramuk @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar actually i wanted to try building a cli tool, so i go up with the cli way, also cli tools are pretty faster than extensions. Also tried to create a okayish ui in cli too, but yes it is hard to do so. Thinking to try and rewamp it using OPENTUI by @opencode",
+    "url": "https://x.com/CyberBoyAyush/status/1980665048617058373",
+    "timestamp": "2025-10-21T15:58:41.000Z",
+    "metadata": {
+      "conversation_id": "1980665048617058373",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980664794807214228",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "Hi @bentossell - I got it working yesterday afternoon (PST). I actually have the orchestrator launching multiple TASKS/droids simultaneously. A handful of the droids in this screenshot were working at the same time. I had not seen that in the local CLI prior to setting up the orchestrator.",
+    "url": "https://x.com/mikez93/status/1980664794807214228",
+    "timestamp": "2025-10-21T15:57:40.000Z",
+    "metadata": {
+      "conversation_id": "1980664794807214228",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980664641819938894",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@dawid_jordaan @pascallammers_ @FactoryAI nice! i wanna see :)",
+    "url": "https://x.com/bentossell/status/1980664641819938894",
+    "timestamp": "2025-10-21T15:57:04.000Z",
+    "metadata": {
+      "conversation_id": "1980664641819938894",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980664558189703244",
+    "source": "twitter",
+    "author": "nuramuk",
+    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar Why not make a proper interface for this?",
+    "url": "https://x.com/nuramuk/status/1980664558189703244",
+    "timestamp": "2025-10-21T15:56:44.000Z",
+    "metadata": {
+      "conversation_id": "1980664558189703244",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980663224287793386",
+    "source": "twitter",
+    "author": "Tmeister",
+    "content": "I'm still thinking @FactoryAI burns more tokens than CC Yesterday, I ran a 3-hour session using GTP-5-Codex (price 0.5x) and burned almost 6 million tokens.\n\nThe max plan is 200M, so at that pace and working full day, I'll run out of tokens in 2 weeks",
+    "url": "https://x.com/Tmeister/status/1980663224287793386",
+    "timestamp": "2025-10-21T15:51:26.000Z",
+    "metadata": {
+      "conversation_id": "1980663224287793386",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980662961405587764",
+    "source": "twitter",
+    "author": "CyberBoyAyush",
+    "content": "@furqanahmadrao @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar @aicodeking Bro summoning the legend himself.",
+    "url": "https://x.com/CyberBoyAyush/status/1980662961405587764",
+    "timestamp": "2025-10-21T15:50:23.000Z",
+    "metadata": {
+      "conversation_id": "1980662961405587764",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980662636841938986",
     "source": "twitter",
     "author": "davidapr07",
@@ -83,9 +173,9 @@
     "timestamp": "2025-10-21T15:28:38.000Z",
     "metadata": {
       "conversation_id": "1980657488627396628",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
+      "likes": 3,
+      "retweets": 1,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -206,96 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980649792121499694",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@bentossell @FactoryAI Just look at my last post 😂😅",
-    "url": "https://x.com/pascallammers_/status/1980649792121499694",
-    "timestamp": "2025-10-21T14:58:03.000Z",
-    "metadata": {
-      "conversation_id": "1980649792121499694",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980647947772785081",
-    "source": "twitter",
-    "author": "aeitroc",
-    "content": "@pascallammers_ @FactoryAI If you are using a custom model, will not autocompress and break. Plan will be lost. Built in models works ok.",
-    "url": "https://x.com/aeitroc/status/1980647947772785081",
-    "timestamp": "2025-10-21T14:50:44.000Z",
-    "metadata": {
-      "conversation_id": "1980647947772785081",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980647238843126111",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@immoinulmoin @FactoryAI ty",
-    "url": "https://x.com/bentossell/status/1980647238843126111",
-    "timestamp": "2025-10-21T14:47:55.000Z",
-    "metadata": {
-      "conversation_id": "1980647238843126111",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980647155397476604",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@bentossell @FactoryAI okay mate",
-    "url": "https://x.com/immoinulmoin/status/1980647155397476604",
-    "timestamp": "2025-10-21T14:47:35.000Z",
-    "metadata": {
-      "conversation_id": "1980647155397476604",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980646357821251981",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@Tgerighty @GiusMarci @FactoryAI Or you could go to the source/origin of the workaround... and it's update. https://t.co/vkMHzfORZp",
-    "url": "https://x.com/ben_vargas/status/1980646357821251981",
-    "timestamp": "2025-10-21T14:44:24.000Z",
-    "metadata": {
-      "conversation_id": "1980646357821251981",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980643472765006077",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@mikez93 @pascallammers_ @FactoryAI @aeitroc when did you try this? i haven't dived into the orchestrator yet but we've shipped more support for subagents so wondering if something didnt work recently",
-    "url": "https://x.com/bentossell/status/1980643472765006077",
-    "timestamp": "2025-10-21T14:32:57.000Z",
-    "metadata": {
-      "conversation_id": "1980643472765006077",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -647,6 +647,19 @@
     "metadata": {
       "score": 3,
       "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
