@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1980658191311728788",
+    "source": "twitter",
+    "author": "CyberBoyAyush",
+    "content": "@VrandaaGarg @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar https://t.co/KFrdf7oA3j",
+    "url": "https://x.com/CyberBoyAyush/status/1980658191311728788",
+    "timestamp": "2025-10-21T15:31:26.000Z",
+    "metadata": {
+      "conversation_id": "1980658191311728788",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980657835123069332",
+    "source": "twitter",
+    "author": "VrandaaGarg",
+    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar Damnn too good..",
+    "url": "https://x.com/VrandaaGarg/status/1980657835123069332",
+    "timestamp": "2025-10-21T15:30:01.000Z",
+    "metadata": {
+      "conversation_id": "1980657835123069332",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980657488627396628",
+    "source": "twitter",
+    "author": "dawid_jordaan",
+    "content": "@pascallammers_ @FactoryAI My droid made meticulous changes for 45 minutes in one go to make 2 apps in a monorepo compatible with a large DB migration. Ran without errors. I'm still so impressed with @FactoryAI.",
+    "url": "https://x.com/dawid_jordaan/status/1980657488627396628",
+    "timestamp": "2025-10-21T15:28:38.000Z",
+    "metadata": {
+      "conversation_id": "1980657488627396628",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980655596014821764",
+    "source": "twitter",
+    "author": "KaireiY9921",
+    "content": "@FactoryAI \nDroid is great! However, I don't find the manual of adding  GLM Coding Plan's GLM4.6 as BYOK into Droid so I memo it as the following:\n\nMethods for Using the GLM Coding Plan in Droid's BYOK mode.\n\nin ~/.factory/config.json , add the following \n{\n  \"custom_models\": [\n    {\n      \"model_display_name\": \"GLM-4.6 [Custom]\",\n      \"model\": \"glm-4.6\",\n      \"base_url\": \"https://t.co/JX8Vgl7IlF\",\n      \"api_key\": \"YOUR_API_KEY_FROM_ZAI\",\n      \"provider\": \"generic-chat-completion-api\",\n      \"max_tokens\": 16384\n    }\n  ]\n}\n\nYou may also try to add the https://t.co/qtLRVRzexT's API endpoint in anthropic compatible mode(\"https://t.co/WkTTnZuBux\") but I find it's somewhat slower and dumb compared to generic mode.",
+    "url": "https://x.com/KaireiY9921/status/1980655596014821764",
+    "timestamp": "2025-10-21T15:21:07.000Z",
+    "metadata": {
+      "conversation_id": "1980655596014821764",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980653965772718498",
     "source": "twitter",
     "author": "CyberBoyAyush",
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1980642664061235476",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@ak_8085 @FactoryAI more coming v soon 👀",
-    "url": "https://x.com/bentossell/status/1980642664061235476",
-    "timestamp": "2025-10-21T14:29:44.000Z",
-    "metadata": {
-      "conversation_id": "1980642664061235476",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980642588198891542",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Tgerighty @GiusMarci @FactoryAI yup, this",
-    "url": "https://x.com/bentossell/status/1980642588198891542",
-    "timestamp": "2025-10-21T14:29:26.000Z",
-    "metadata": {
-      "conversation_id": "1980642588198891542",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980642451787530249",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@pascallammers_ @FactoryAI 👂",
-    "url": "https://x.com/bentossell/status/1980642451787530249",
-    "timestamp": "2025-10-21T14:28:53.000Z",
-    "metadata": {
-      "conversation_id": "1980642451787530249",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980641396739699121",
-    "source": "twitter",
-    "author": "appsbyray",
-    "content": "I find GLM 4.6 working much better in @FactoryAI . It is the best budget option in the market imo.",
-    "url": "https://x.com/appsbyray/status/1980641396739699121",
-    "timestamp": "2025-10-21T14:24:42.000Z",
-    "metadata": {
-      "conversation_id": "1980641396739699121",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_230",
     "source": "github",
     "author": "CodingOX",
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -638,15 +638,15 @@
     }
   },
   {
-    "id": "reddit_1o8tf0s",
+    "id": "reddit_1o8t9pq",
     "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
     "metadata": {
-      "score": 3,
-      "num_comments": 4,
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
