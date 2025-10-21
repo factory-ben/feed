@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980688613869297713",
+    "source": "twitter",
+    "author": "dawid_jordaan",
+    "content": "@BillCrosby @pascallammers_ @FactoryAI It ran successfully, with linter errors checked for each subdirectory independently and a cross-comparison of how the two apps interact with the database. I think keeping it together actually helps with the context.",
+    "url": "https://x.com/dawid_jordaan/status/1980688613869297713",
+    "timestamp": "2025-10-21T17:32:19.000Z",
+    "metadata": {
+      "conversation_id": "1980688613869297713",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980684900220248142",
     "source": "twitter",
     "author": "LovedayChey",
@@ -113,7 +128,7 @@
     "timestamp": "2025-10-21T16:42:27.000Z",
     "metadata": {
       "conversation_id": "1980676065262727371",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -158,9 +173,9 @@
     "timestamp": "2025-10-21T16:35:39.000Z",
     "metadata": {
       "conversation_id": "1980674351679558018",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -203,7 +218,7 @@
     "timestamp": "2025-10-21T16:03:55.000Z",
     "metadata": {
       "conversation_id": "1980666367495094689",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -278,24 +293,9 @@
     "timestamp": "2025-10-21T15:57:04.000Z",
     "metadata": {
       "conversation_id": "1980664641819938894",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980664558189703244",
-    "source": "twitter",
-    "author": "nuramuk",
-    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar Why not make a proper interface for this?",
-    "url": "https://x.com/nuramuk/status/1980664558189703244",
-    "timestamp": "2025-10-21T15:56:44.000Z",
-    "metadata": {
-      "conversation_id": "1980664558189703244",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
