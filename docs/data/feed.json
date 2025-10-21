@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980758021811892331",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@immoinulmoin @FactoryAI dont post so much about them, some trolls will come to your post and accuse you of being a paid shill,especially those who use claude code for html &amp; css.",
+    "url": "https://x.com/aeitroc/status/1980758021811892331",
+    "timestamp": "2025-10-21T22:08:07.000Z",
+    "metadata": {
+      "conversation_id": "1980758021811892331",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980750435209380263",
     "source": "twitter",
     "author": "ben_vargas",
@@ -23,7 +38,7 @@
     "timestamp": "2025-10-21T21:30:35.000Z",
     "metadata": {
       "conversation_id": "1980748574301561045",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -96,7 +111,7 @@
     "timestamp": "2025-10-21T21:03:51.000Z",
     "metadata": {
       "conversation_id": "1980741846922936498",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -111,7 +126,7 @@
     "timestamp": "2025-10-21T20:56:47.000Z",
     "metadata": {
       "conversation_id": "1980740067342561307",
-      "likes": 5,
+      "likes": 7,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -141,9 +156,9 @@
     "timestamp": "2025-10-21T20:13:14.000Z",
     "metadata": {
       "conversation_id": "1980729110155653279",
-      "likes": 2,
+      "likes": 7,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -216,7 +231,7 @@
     "timestamp": "2025-10-21T20:02:05.000Z",
     "metadata": {
       "conversation_id": "1980726304241762458",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -294,21 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980724624574017955",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@bentossell @FactoryAI Nice!!!!!!",
-    "url": "https://x.com/pascallammers_/status/1980724624574017955",
-    "timestamp": "2025-10-21T19:55:25.000Z",
-    "metadata": {
-      "conversation_id": "1980724624574017955",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -660,19 +660,6 @@
     "metadata": {
       "score": 3,
       "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8t9pq",
-    "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
