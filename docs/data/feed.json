@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -648,6 +648,32 @@
       "type": "issue",
       "labels": [],
       "number": 203
+    }
+  },
+  {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
