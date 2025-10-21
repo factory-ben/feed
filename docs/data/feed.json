@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980517042995273793",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@zhangjintao9020 @matanSF @FactoryAI this post is a bit far fetched. if there’s any issue with referral credit i’ll sort it",
+    "url": "https://x.com/bentossell/status/1980517042995273793",
+    "timestamp": "2025-10-21T06:10:33.000Z",
+    "metadata": {
+      "conversation_id": "1980517042995273793",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980512262789226976",
     "source": "twitter",
     "author": "bentossell",
@@ -199,7 +214,7 @@
     "timestamp": "2025-10-21T01:53:55.000Z",
     "metadata": {
       "conversation_id": "1980452458687250854",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 3,
       "quotes": 0
@@ -324,21 +339,6 @@
     }
   },
   {
-    "id": "twitter_1980410816777376182",
-    "source": "twitter",
-    "author": "curiouslychase",
-    "content": "@KalGrinberg @falanfantana @matanSF @FactoryAI What a combo.",
-    "url": "https://x.com/curiouslychase/status/1980410816777376182",
-    "timestamp": "2025-10-20T23:08:27.000Z",
-    "metadata": {
-      "conversation_id": "1980410816777376182",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_219",
     "source": "github",
     "author": "tgerighty",
@@ -360,7 +360,7 @@
     "timestamp": "2025-10-20T21:59:41.000Z",
     "metadata": {
       "score": 2,
-      "num_comments": 8,
+      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
@@ -464,7 +464,7 @@
     "timestamp": "2025-10-19T19:18:47.000Z",
     "metadata": {
       "score": 0,
-      "num_comments": 6,
+      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
