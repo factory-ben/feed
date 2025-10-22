@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1981082248603484520",
+    "source": "twitter",
+    "author": "chigozzdev",
+    "content": "@bentossell @FactoryAI Aiit then, thanks!",
+    "url": "https://x.com/chigozzdev/status/1981082248603484520",
+    "timestamp": "2025-10-22T19:36:29.000Z",
+    "metadata": {
+      "conversation_id": "1981082248603484520",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981082141879411126",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@davidrsdlife @FactoryAI trying some lightweight before we roll them out properly :)",
+    "url": "https://x.com/bentossell/status/1981082141879411126",
+    "timestamp": "2025-10-22T19:36:04.000Z",
+    "metadata": {
+      "conversation_id": "1981082141879411126",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981081914699031023",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@chigozzdev @FactoryAI we have /.factory/logs atm - will look into it!",
+    "url": "https://x.com/bentossell/status/1981081914699031023",
+    "timestamp": "2025-10-22T19:35:09.000Z",
+    "metadata": {
+      "conversation_id": "1981081914699031023",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981081431854952909",
+    "source": "twitter",
+    "author": "davidrsdlife",
+    "content": "@bentossell @FactoryAI yay, love this, was going to ask for this",
+    "url": "https://x.com/davidrsdlife/status/1981081431854952909",
+    "timestamp": "2025-10-22T19:33:14.000Z",
+    "metadata": {
+      "conversation_id": "1981081431854952909",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981081205446463645",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mandarinoapp @FactoryAI oh hmm - think a release v soon may solve. keep an eye on it for me please :)",
+    "url": "https://x.com/bentossell/status/1981081205446463645",
+    "timestamp": "2025-10-22T19:32:20.000Z",
+    "metadata": {
+      "conversation_id": "1981081205446463645",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981078630340886738",
     "source": "twitter",
     "author": "bentossell",
@@ -55,7 +130,7 @@
       "conversation_id": "1981076754866311551",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -221,81 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981064507268223231",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@ntkris i use the best one @FactoryAI ofc!",
-    "url": "https://x.com/bentossell/status/1981064507268223231",
-    "timestamp": "2025-10-22T18:25:59.000Z",
-    "metadata": {
-      "conversation_id": "1981064507268223231",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981064402183844148",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@mjs527 @FactoryAI 🤌🤌🤌",
-    "url": "https://x.com/bentossell/status/1981064402183844148",
-    "timestamp": "2025-10-22T18:25:34.000Z",
-    "metadata": {
-      "conversation_id": "1981064402183844148",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981060543571251544",
-    "source": "twitter",
-    "author": "mjs527",
-    "content": "interesting table from some architecture analysis I ran yesterday. produced by sonnet 4.5 with plenty of context @FactoryAI @bentossell https://t.co/2mZH3bCPH7",
-    "url": "https://x.com/mjs527/status/1981060543571251544",
-    "timestamp": "2025-10-22T18:10:14.000Z",
-    "metadata": {
-      "conversation_id": "1981060543571251544",
-      "likes": 5,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981052274370572573",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@oliverbowman_ @FactoryAI oh v odd i’ve been using it all day and not seen this (yet)! sorry you got this. can you dm me the /bug report from that session please",
-    "url": "https://x.com/bentossell/status/1981052274370572573",
-    "timestamp": "2025-10-22T17:37:23.000Z",
-    "metadata": {
-      "conversation_id": "1981052274370572573",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981051790389866834",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Keshavatearth @FactoryAI f yeah",
-    "url": "https://x.com/bentossell/status/1981051790389866834",
-    "timestamp": "2025-10-22T17:35:27.000Z",
-    "metadata": {
-      "conversation_id": "1981051790389866834",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
