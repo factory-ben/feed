@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980960999080599678",
+    "source": "twitter",
+    "author": "thedanifrim",
+    "content": "All good things come to an end @FactoryAI https://t.co/5JNRXSY18G",
+    "url": "https://x.com/thedanifrim/status/1980960999080599678",
+    "timestamp": "2025-10-22T11:34:41.000Z",
+    "metadata": {
+      "conversation_id": "1980960999080599678",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980960068435649018",
     "source": "twitter",
     "author": "Tekhenra",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1980814034879541610",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@erd0xbc @ben_vargas @FactoryAI and we be like https://t.co/2rU1W6TEI0",
-    "url": "https://x.com/immoinulmoin/status/1980814034879541610",
-    "timestamp": "2025-10-22T01:50:42.000Z",
-    "metadata": {
-      "conversation_id": "1980814034879541610",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ocv9jx",
     "source": "reddit",
     "author": "heretiqal",
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
