@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1981052274370572573",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@oliverbowman_ @FactoryAI oh v odd i’ve been using it all day and not seen this (yet)! sorry you got this. can you dm me the /bug report from that session please",
+    "url": "https://x.com/bentossell/status/1981052274370572573",
+    "timestamp": "2025-10-22T17:37:23.000Z",
+    "metadata": {
+      "conversation_id": "1981052274370572573",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981051790389866834",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Keshavatearth @FactoryAI f yeah",
+    "url": "https://x.com/bentossell/status/1981051790389866834",
+    "timestamp": "2025-10-22T17:35:27.000Z",
+    "metadata": {
+      "conversation_id": "1981051790389866834",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981047597079973898",
     "source": "twitter",
     "author": "correacristobal",
@@ -36,7 +66,7 @@
     "timestamp": "2025-10-22T16:59:42.000Z",
     "metadata": {
       "conversation_id": "1981042791347343547",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -51,9 +81,9 @@
     "timestamp": "2025-10-22T16:40:10.000Z",
     "metadata": {
       "conversation_id": "1981037876277129254",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
+      "likes": 3,
+      "retweets": 1,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -81,7 +111,7 @@
     "timestamp": "2025-10-22T16:33:49.000Z",
     "metadata": {
       "conversation_id": "1981036281254523088",
-      "likes": 2,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -126,7 +156,7 @@
     "timestamp": "2025-10-22T16:22:33.000Z",
     "metadata": {
       "conversation_id": "1981033444860678408",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -143,7 +173,7 @@
       "conversation_id": "1981028878261911743",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -289,36 +319,6 @@
     "timestamp": "2025-10-22T15:01:11.000Z",
     "metadata": {
       "conversation_id": "1981012966364336265",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981011852281983306",
-    "source": "twitter",
-    "author": "aroussi",
-    "content": ".@FactoryAI Please inject today’s date to every prompt so comments and specs stop showing up as Jan 2025 🙏🏻",
-    "url": "https://x.com/aroussi/status/1981011852281983306",
-    "timestamp": "2025-10-22T14:56:45.000Z",
-    "metadata": {
-      "conversation_id": "1981011852281983306",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981010800119795845",
-    "source": "twitter",
-    "author": "alvinsng",
-    "content": "@codezera11 @FactoryAI @QodoAI Absolutely! If you think writing code feels like AGI, then wait until our droid leaves code review comments. It gives me the chills when it spots bugs that would have been a disaster if merged. So many good saves there.",
-    "url": "https://x.com/alvinsng/status/1981010800119795845",
-    "timestamp": "2025-10-22T14:52:34.000Z",
-    "metadata": {
-      "conversation_id": "1981010800119795845",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -595,19 +595,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oapxet",
-    "source": "reddit",
-    "author": "Chemical_Bid_2195",
-    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
-    "timestamp": "2025-10-19T13:40:51.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -661,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 208
-    }
-  },
-  {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
