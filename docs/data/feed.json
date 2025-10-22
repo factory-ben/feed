@@ -81,7 +81,7 @@
     "timestamp": "2025-10-22T14:56:45.000Z",
     "metadata": {
       "conversation_id": "1981011852281983306",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -154,7 +154,7 @@
     "timestamp": "2025-10-22T14:21:23.000Z",
     "metadata": {
       "conversation_id": "1981002950588903930",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -244,10 +244,10 @@
     "timestamp": "2025-10-22T13:59:49.000Z",
     "metadata": {
       "conversation_id": "1980997525021831219",
-      "likes": 18,
+      "likes": 21,
       "retweets": 2,
       "replies": 5,
-      "quotes": 1
+      "quotes": 2
     }
   },
   {
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -582,19 +582,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oapxet",
-    "source": "reddit",
-    "author": "Chemical_Bid_2195",
-    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
-    "timestamp": "2025-10-19T13:40:51.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
