@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1981469881041072257",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@fire @FactoryAI got it! will get to it in the morning, appreciate it",
+    "url": "https://x.com/bentossell/status/1981469881041072257",
+    "timestamp": "2025-10-23T21:16:48.000Z",
+    "metadata": {
+      "conversation_id": "1981469881041072257",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981469655081636120",
+    "source": "twitter",
+    "author": "nawaz_ai",
+    "content": "@FactoryAI Great, I have been waiting for this.",
+    "url": "https://x.com/nawaz_ai/status/1981469655081636120",
+    "timestamp": "2025-10-23T21:15:54.000Z",
+    "metadata": {
+      "conversation_id": "1981469655081636120",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981464693865926658",
+    "source": "twitter",
+    "author": "Alevy1511",
+    "content": "@francesca_lab @FactoryAI 🚀",
+    "url": "https://x.com/Alevy1511/status/1981464693865926658",
+    "timestamp": "2025-10-23T20:56:11.000Z",
+    "metadata": {
+      "conversation_id": "1981464693865926658",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981464157494108661",
     "source": "twitter",
     "author": "fire",
@@ -10,7 +55,7 @@
       "conversation_id": "1981464157494108661",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -246,9 +291,9 @@
     "timestamp": "2025-10-23T17:30:49.000Z",
     "metadata": {
       "conversation_id": "1981413013115834842",
-      "likes": 10,
+      "likes": 13,
       "retweets": 2,
-      "replies": 1,
+      "replies": 2,
       "quotes": 1
     }
   },
@@ -262,51 +307,6 @@
     "metadata": {
       "conversation_id": "1981412492590141522",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981405412789268709",
-    "source": "twitter",
-    "author": "cupcake_trader",
-    "content": "@bentossell @CloudTrader4 @github @FactoryAI it should be ok to manually create the config.json though shouldn't it without causing issues?",
-    "url": "https://x.com/cupcake_trader/status/1981405412789268709",
-    "timestamp": "2025-10-23T17:00:37.000Z",
-    "metadata": {
-      "conversation_id": "1981405412789268709",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981388836426174809",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@bentossell @jpohhhh @iannuttall @FactoryAI /model ?",
-    "url": "https://x.com/SvenMeyer/status/1981388836426174809",
-    "timestamp": "2025-10-23T15:54:45.000Z",
-    "metadata": {
-      "conversation_id": "1981388836426174809",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981388730587115982",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@bentossell @iannuttall @FactoryAI @EnoReyes already posted a few days ago that @OpenAI recommended to go with \"auto\", however in their own Codex CLI you can do it. https://t.co/NNxKnYWBjU",
-    "url": "https://x.com/SvenMeyer/status/1981388730587115982",
-    "timestamp": "2025-10-23T15:54:20.000Z",
-    "metadata": {
-      "conversation_id": "1981388730587115982",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
