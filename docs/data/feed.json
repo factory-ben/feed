@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1981350090859315374",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@pon_o_ @fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI i hear ya! was just clarifying to understand typical setups/workflows :)",
+    "url": "https://x.com/bentossell/status/1981350090859315374",
+    "timestamp": "2025-10-23T13:20:48.000Z",
+    "metadata": {
+      "conversation_id": "1981350090859315374",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981346134053495094",
+    "source": "twitter",
+    "author": "pon_o_",
+    "content": "@bentossell @fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI I’d love to not need to do that",
+    "url": "https://x.com/pon_o_/status/1981346134053495094",
+    "timestamp": "2025-10-23T13:05:04.000Z",
+    "metadata": {
+      "conversation_id": "1981346134053495094",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981344218715983943",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@pon_o_ @fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI do you not use the cli in your terminal within the IDE?",
+    "url": "https://x.com/bentossell/status/1981344218715983943",
+    "timestamp": "2025-10-23T12:57:27.000Z",
+    "metadata": {
+      "conversation_id": "1981344218715983943",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981342257069330572",
     "source": "twitter",
     "author": "pon_o_",
@@ -8,9 +53,9 @@
     "timestamp": "2025-10-23T12:49:40.000Z",
     "metadata": {
       "conversation_id": "1981342257069330572",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +83,7 @@
     "timestamp": "2025-10-23T12:43:51.000Z",
     "metadata": {
       "conversation_id": "1981340796009009549",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,7 +128,7 @@
     "timestamp": "2025-10-23T12:11:53.000Z",
     "metadata": {
       "conversation_id": "1981332750050173379",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -255,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1981296060468256921",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@erd0xbc @arafatkatze @FactoryAI curious what other tasks you think we're lacking on - will take a look!",
-    "url": "https://x.com/bentossell/status/1981296060468256921",
-    "timestamp": "2025-10-23T09:46:06.000Z",
-    "metadata": {
-      "conversation_id": "1981296060468256921",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981295948882993416",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@immoinulmoin @FactoryAI any agents/commands setups will work :)",
-    "url": "https://x.com/bentossell/status/1981295948882993416",
-    "timestamp": "2025-10-23T09:45:39.000Z",
-    "metadata": {
-      "conversation_id": "1981295948882993416",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -295,21 +310,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
-  },
-  {
-    "id": "twitter_1981285078710784258",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@cupcake_trader @CloudTrader4 @github @FactoryAI lmk if anything not clear or video requests on anything else",
-    "url": "https://x.com/bentossell/status/1981285078710784258",
-    "timestamp": "2025-10-23T09:02:27.000Z",
-    "metadata": {
-      "conversation_id": "1981285078710784258",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
