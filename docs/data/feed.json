@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1981772455334359311",
+    "source": "twitter",
+    "author": "MaxwellAbram",
+    "content": "🔥🚪👀 𝗢𝗙𝗙𝗜𝗖𝗘 𝗗𝗥𝗢𝗣 𝗜𝗡𝗦, weekly profiles of cracked teams | Ep 7: @FactoryAI \n(w/ @matanSF)\n\nThe open secret that Factory is betting on? \n\nThat true enterprise adoption of software development agents comes not from coding autocomplete alone, but from also automating the messy, brain eating work of the full SDLC.\n\nOh -- and the product should be beautiful, with a winning interaction pattern for the engineer to interface with throughout their workday.\n\nCheck out the video to for more on this, and to hear what (and who) convinced Matan to leave his PhD to be a founder.\n\nAlso... Bonus: the story of Matan’s first meeting with founding engineer Nikita. (Good pivots are important.)\n\n--\n\nCC: @EnoReyes, Francesca, Shaun, Alex, Mantis Venture Capital, @sequoia, Abstract, Lux Capital\n\n#startups #venturecapital\n#officedropins",
+    "url": "https://x.com/MaxwellAbram/status/1981772455334359311",
+    "timestamp": "2025-10-24T17:19:07.000Z",
+    "metadata": {
+      "conversation_id": "1981772455334359311",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981770654090170860",
+    "source": "twitter",
+    "author": "cataluna84",
+    "content": "Can't seem to make droid by @FactoryAI work in Windows 10 on CLI or the Cursor IDE? \n\nAfter installation -&gt; droid keyword doesn't give anything on the CLI\n\nThe cursor IDE extension doesn't work either!!",
+    "url": "https://x.com/cataluna84/status/1981770654090170860",
+    "timestamp": "2025-10-24T17:11:58.000Z",
+    "metadata": {
+      "conversation_id": "1981770654090170860",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981764017124426067",
     "source": "twitter",
     "author": "_4dinata",
@@ -12,19 +42,6 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 0,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -96,7 +113,7 @@
     "timestamp": "2025-10-24T15:07:36.000Z",
     "metadata": {
       "conversation_id": "1981739358131560726",
-      "likes": 8,
+      "likes": 9,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -276,7 +293,7 @@
     "timestamp": "2025-10-24T13:37:30.000Z",
     "metadata": {
       "conversation_id": "1981716682256134384",
-      "likes": 9,
+      "likes": 12,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -293,36 +310,6 @@
       "type": "issue",
       "labels": [],
       "number": 256
-    }
-  },
-  {
-    "id": "twitter_1981715241126842656",
-    "source": "twitter",
-    "author": "MKulria",
-    "content": "@FactoryAI That was much needed, excellent move.",
-    "url": "https://x.com/MKulria/status/1981715241126842656",
-    "timestamp": "2025-10-24T13:31:46.000Z",
-    "metadata": {
-      "conversation_id": "1981715241126842656",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981713930926932024",
-    "source": "twitter",
-    "author": "trieloff",
-    "content": "Trying @FactoryAI droid for the first time. Their own Droid Core (GLM-4.6) model has a billing bug that means it won’t recognize trial credits. Only after putting down $20, I learned that it also won’t recognize actual dollars. Using GPT or Sonnet works, though.",
-    "url": "https://x.com/trieloff/status/1981713930926932024",
-    "timestamp": "2025-10-24T13:26:34.000Z",
-    "metadata": {
-      "conversation_id": "1981713930926932024",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -362,19 +349,6 @@
       "type": "issue",
       "labels": [],
       "number": 250
-    }
-  },
-  {
-    "id": "reddit_1oegs4w",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -440,19 +414,6 @@
       "type": "issue",
       "labels": [],
       "number": 238
-    }
-  },
-  {
-    "id": "reddit_1odjcfl",
-    "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -599,19 +560,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -638,19 +586,6 @@
     }
   },
   {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -661,19 +596,6 @@
       "type": "issue",
       "labels": [],
       "number": 217
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -690,15 +612,15 @@
     }
   },
   {
-    "id": "reddit_1ob2dsx",
+    "id": "reddit_1ob0d6z",
     "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
-    "timestamp": "2025-10-19T21:56:23.000Z",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 4,
+      "score": 9,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
@@ -739,6 +661,97 @@
       "type": "issue",
       "labels": [],
       "number": 212
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o89mzk",
+    "source": "reddit",
+    "author": "x86rip",
+    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
+    "timestamp": "2025-10-16T15:43:59.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o86tci",
+    "source": "reddit",
+    "author": "mr_dudo",
+    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
+    "timestamp": "2025-10-16T13:55:41.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o7ywba",
+    "source": "reddit",
+    "author": "Erebea01",
+    "content": "How to delete my account and how to delete droid?\n\nHow do I delete my account? I send an email to support but they told me how to cancel my subscription? I'm also unable to find the docs for deleting droid from my system",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o7ywba/how_to_delete_my_account_and_how_to_delete_droid/",
+    "timestamp": "2025-10-16T06:30:21.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o7h903",
+    "source": "reddit",
+    "author": "itsmemac43",
+    "content": "Referral gone ??\n\nSo first they give referral option and make everyone refer their buddies\n\nOnce everyone is onboarded, they completely remove the referral on the whole \n\nThe website currently doesn't have a single word as referral and all the referral bonuses and posts are gone",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o7h903/referral_gone/",
+    "timestamp": "2025-10-15T17:22:36.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 18,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o768ha",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "FactoryAI Pricing Plans\n\nI'm a Claude subscriber currently on the Max 5x plan, and I'm very interested in FactoryAI. However, I have some questions about the subscription tiers. For example, regarding the $20/month subscription plan, I'd like to understand the specific usage limits. If I only need to use Codex or Droid, how do these limits compare to the usage allowance for Codex CLI with ChatGPT Plus?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o768ha/factoryai_pricing_plans/",
+    "timestamp": "2025-10-15T09:21:38.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 8,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o748h7",
+    "source": "reddit",
+    "author": "Gullible_Rip_2750",
+    "content": "Jetbrains plugin for Droid\n\nHey. Documentation suggests there is jetbrains plugin. Anyone managed to integrate it or is it just \"promise\"? I sent e-mail but i got no response. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o748h7/jetbrains_plugin_for_droid/",
+    "timestamp": "2025-10-15T07:08:27.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
