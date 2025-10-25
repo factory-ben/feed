@@ -23,7 +23,7 @@
     "timestamp": "2025-10-25T20:40:19.000Z",
     "metadata": {
       "conversation_id": "1982185477374386442",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -307,7 +307,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
