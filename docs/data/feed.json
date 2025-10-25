@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982109215817699562",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@bitdoze @OpenRouterAI @FactoryAI @Zai_org I haven’t tested enough to be sure but openrouter’s exacto endpoint’s definitely feels like superior, and it is the only way to use inside factory droid.\n\nSo far performance feel really good",
+    "url": "https://x.com/CloudTrader4/status/1982109215817699562",
+    "timestamp": "2025-10-25T15:37:17.000Z",
+    "metadata": {
+      "conversation_id": "1982109215817699562",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982109075329404931",
+    "source": "twitter",
+    "author": "thedanifrim",
+    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org https://t.co/ajIQYP3nfJ",
+    "url": "https://x.com/thedanifrim/status/1982109075329404931",
+    "timestamp": "2025-10-25T15:36:44.000Z",
+    "metadata": {
+      "conversation_id": "1982109075329404931",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982103219762290982",
     "source": "twitter",
     "author": "bitdoze",
@@ -10,7 +40,7 @@
       "conversation_id": "1982103219762290982",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -68,7 +98,7 @@
     "timestamp": "2025-10-25T14:55:30.000Z",
     "metadata": {
       "conversation_id": "1982098699296931929",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982067543474151739",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@crazy_tech80 @OpenRouterAI @Zai_org @FactoryAI Yeah I also have $90 plan with @Zai_org , wanted to test exacto endpoints from @OpenRouterAI",
-    "url": "https://x.com/CloudTrader4/status/1982067543474151739",
-    "timestamp": "2025-10-25T12:51:42.000Z",
-    "metadata": {
-      "conversation_id": "1982067543474151739",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982067314984935735",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@OpenRouterAI @Zai_org @FactoryAI https://t.co/FAHYyGWq3X",
-    "url": "https://x.com/CloudTrader4/status/1982067314984935735",
-    "timestamp": "2025-10-25T12:50:47.000Z",
-    "metadata": {
-      "conversation_id": "1982067314984935735",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -307,7 +307,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 3,
+      "score": 2,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -677,6 +677,19 @@
     }
   },
   {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -700,6 +713,19 @@
       "type": "issue",
       "labels": [],
       "number": 222
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
