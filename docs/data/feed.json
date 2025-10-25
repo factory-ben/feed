@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1982185687777485079",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@thielaut @FactoryAI can you open an issue on https://t.co/T9JJV7uSsN and email me ben @ factory . ai with the /bug report pls",
+    "url": "https://x.com/bentossell/status/1982185687777485079",
+    "timestamp": "2025-10-25T20:41:09.000Z",
+    "metadata": {
+      "conversation_id": "1982185687777485079",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982185477374386442",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@rodrigoehlers @FactoryAI we hear you - something coming in the next couple of weeks",
+    "url": "https://x.com/bentossell/status/1982185477374386442",
+    "timestamp": "2025-10-25T20:40:19.000Z",
+    "metadata": {
+      "conversation_id": "1982185477374386442",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982185372235763762",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@NicholasZozaya @CloudTrader4 @OpenRouterAI @Zai_org @FactoryAI just a couple of bugs - we're fixing them quickly!",
+    "url": "https://x.com/bentossell/status/1982185372235763762",
+    "timestamp": "2025-10-25T20:39:54.000Z",
+    "metadata": {
+      "conversation_id": "1982185372235763762",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982185283417149875",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@abyssbugg @FactoryAI 👂",
+    "url": "https://x.com/bentossell/status/1982185283417149875",
+    "timestamp": "2025-10-25T20:39:33.000Z",
+    "metadata": {
+      "conversation_id": "1982185283417149875",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982185128378949776",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@alphatozeta8148 @FactoryAI 😬",
+    "url": "https://x.com/bentossell/status/1982185128378949776",
+    "timestamp": "2025-10-25T20:38:56.000Z",
+    "metadata": {
+      "conversation_id": "1982185128378949776",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982178154736447630",
     "source": "twitter",
     "author": "_Sagiquarius_",
@@ -160,7 +235,7 @@
       "conversation_id": "1982120870475710637",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -225,81 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982103219762290982",
-    "source": "twitter",
-    "author": "bitdoze",
-    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org How is difderent from the GLM coding plan?",
-    "url": "https://x.com/bitdoze/status/1982103219762290982",
-    "timestamp": "2025-10-25T15:13:27.000Z",
-    "metadata": {
-      "conversation_id": "1982103219762290982",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982102092018839662",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@ben_vargas @AmpCode @FactoryAI How is the experience vs. Droid? Need to explore now.",
-    "url": "https://x.com/erd0xbc/status/1982102092018839662",
-    "timestamp": "2025-10-25T15:08:59.000Z",
-    "metadata": {
-      "conversation_id": "1982102092018839662",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982099432498708849",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@8my41 @OpenRouterAI @FactoryAI @Zai_org Yeah exactly, chads at @OpenRouterAI did some real magic \n\nAlso higly recommend reading this\n\nReally well written by @canvrno @cline \n\nhttps://t.co/7uHcnivydR",
-    "url": "https://x.com/CloudTrader4/status/1982099432498708849",
-    "timestamp": "2025-10-25T14:58:24.000Z",
-    "metadata": {
-      "conversation_id": "1982099432498708849",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982098957867352286",
-    "source": "twitter",
-    "author": "8my41",
-    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org Interesting, had no idea https://t.co/5lw9eOsHP7 supported exacto endpoint. That one is way better at tool camping right?",
-    "url": "https://x.com/8my41/status/1982098957867352286",
-    "timestamp": "2025-10-25T14:56:31.000Z",
-    "metadata": {
-      "conversation_id": "1982098957867352286",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982098699296931929",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@iannuttall huge, @FactoryAI",
-    "url": "https://x.com/immoinulmoin/status/1982098699296931929",
-    "timestamp": "2025-10-25T14:55:30.000Z",
-    "metadata": {
-      "conversation_id": "1982098699296931929",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -307,7 +307,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
