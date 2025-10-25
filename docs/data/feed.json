@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_1982069195866292676",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@RollingWithG @OpenRouterAI @Zai_org @FactoryAI Never heard of it what is that?",
+    "url": "https://x.com/CloudTrader4/status/1982069195866292676",
+    "timestamp": "2025-10-25T12:58:16.000Z",
+    "metadata": {
+      "conversation_id": "1982069195866292676",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982069114580382057",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "1- I never continue with a single long session, it is ineffective for every AI tool that is out there imo\n2- I first use the spec-research mode to make model create a solid plan, but I definitely tell the tech stack and what I want explicitly, after that save that plan as .md file\n3- Create a new session for executing/implementing the code , but again I only implement one feature per session and start a new one\n\nI am on Max plan\n4- I don't know how they achieve it but @FactoryAI 's GPT-5 (high) is performing better than Codex GPT-5 .\nI have Claude Code, Codex, Cursor and @FactoryAI Droid. I am happy with the performance of droid but it could just be a personal taste.\n\nP.S.: I am not supported , paid or have any professional link to @FactoryAI . Just like the tool and sharing some experiences.",
+    "url": "https://x.com/CloudTrader4/status/1982069114580382057",
+    "timestamp": "2025-10-25T12:57:56.000Z",
+    "metadata": {
+      "conversation_id": "1982069114580382057",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982068368271360110",
+    "source": "twitter",
+    "author": "grok",
+    "content": "@0xShivaraj @FactoryAI Thanks for the mention! grok-code-fast-1 is xAI's fast coding model, great for agentic tasks. FactoryAI Droids are model-agnostic, so integration is possible—could enhance their dev automation. Let's build something?",
+    "url": "https://x.com/grok/status/1982068368271360110",
+    "timestamp": "2025-10-25T12:54:58.000Z",
+    "metadata": {
+      "conversation_id": "1982068368271360110",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982068179645219320",
+    "source": "twitter",
+    "author": "0xShivaraj",
+    "content": "I’m surprised that @FactoryAI droids don’t have @grok grok-code-fast-1",
+    "url": "https://x.com/0xShivaraj/status/1982068179645219320",
+    "timestamp": "2025-10-25T12:54:13.000Z",
+    "metadata": {
+      "conversation_id": "1982068179645219320",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982068036191539331",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@NicholasZozaya @OpenRouterAI @Zai_org @FactoryAI Interesting, I haven't faced with this error, I have been using @OpenRouterAI models through @FactoryAI so maybe \n\nHow do you use it?",
+    "url": "https://x.com/CloudTrader4/status/1982068036191539331",
+    "timestamp": "2025-10-25T12:53:39.000Z",
+    "metadata": {
+      "conversation_id": "1982068036191539331",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982067543474151739",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@crazy_tech80 @OpenRouterAI @Zai_org @FactoryAI Yeah I also have $90 plan with @Zai_org , wanted to test exacto endpoints from @OpenRouterAI",
+    "url": "https://x.com/CloudTrader4/status/1982067543474151739",
+    "timestamp": "2025-10-25T12:51:42.000Z",
+    "metadata": {
+      "conversation_id": "1982067543474151739",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982067314984935735",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@OpenRouterAI @Zai_org @FactoryAI https://t.co/FAHYyGWq3X",
+    "url": "https://x.com/CloudTrader4/status/1982067314984935735",
+    "timestamp": "2025-10-25T12:50:47.000Z",
+    "metadata": {
+      "conversation_id": "1982067314984935735",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982067304197435848",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@Slyndc @OpenRouterAI @Zai_org @FactoryAI https://t.co/FAHYyGWXTv",
+    "url": "https://x.com/CloudTrader4/status/1982067304197435848",
+    "timestamp": "2025-10-25T12:50:45.000Z",
+    "metadata": {
+      "conversation_id": "1982067304197435848",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982067248773644428",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "How to setup @OpenRouterAI 's Custom Models (BYOK) in @FactoryAI Droid?\n\n1- Create a \".factory\" folder in your root folder if not exists\n(for MacOS ~/.factory)\n2- Create a \"config.json\" file\n(~/.factory/config.json)\n3- Below is the conde snippet for setting up @Zai_org 's GLM-4.6 with @OpenRouterAI (exacto) endpoint.\n4- Then relaunch droid inside your terminal or IDE\n5- After entering \"/model\" command, you should see it under \"Custom Models\" with display name we set. You can set the display name however you want but model name has to be copied from @OpenRouterAI",
+    "url": "https://x.com/CloudTrader4/status/1982067248773644428",
+    "timestamp": "2025-10-25T12:50:31.000Z",
+    "metadata": {
+      "conversation_id": "1982067248773644428",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 2
+    }
+  },
+  {
+    "id": "twitter_1982066993877643512",
+    "source": "twitter",
+    "author": "the_omicron",
+    "content": "@FactoryAI hey, do you guys have discord or forum I could get into? I have some difficulties and need to ask someone",
+    "url": "https://x.com/the_omicron/status/1982066993877643512",
+    "timestamp": "2025-10-25T12:49:31.000Z",
+    "metadata": {
+      "conversation_id": "1982066993877643512",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982027253879066935",
     "source": "twitter",
     "author": "crazy_tech80",
@@ -45,21 +195,6 @@
     }
   },
   {
-    "id": "twitter_1982017565070090333",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "despite @FactoryAI trying their best, the LLM houses are not really playing ball - there are pairing issues\n\nfirst agents(.)md & claude(.)md dichotomy and now this... 🤷🏾‍♂️\n\n@iannuttall: did something cool y'day harmonizing agent & claude md files. We need more Ians .. 😅\n\nit's early days, so like phone chargers, USB ports, will take time to standardize\n\nhttps://t.co/BgKO3fBLy2",
-    "url": "https://x.com/5aikat/status/1982017565070090333",
-    "timestamp": "2025-10-25T09:33:06.000Z",
-    "metadata": {
-      "conversation_id": "1982017565070090333",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "twitter_1982016240374964366",
     "source": "twitter",
     "author": "alphatozeta8148",
@@ -83,7 +218,7 @@
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
       "score": 2,
-      "num_comments": 2,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -178,141 +313,6 @@
     }
   },
   {
-    "id": "twitter_1981985542691569760",
-    "source": "twitter",
-    "author": "abyssbugg",
-    "content": "@FactoryAI We need brew install droid very quickly @FactoryAI",
-    "url": "https://x.com/abyssbugg/status/1981985542691569760",
-    "timestamp": "2025-10-25T07:25:51.000Z",
-    "metadata": {
-      "conversation_id": "1981985542691569760",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981983688520016017",
-    "source": "twitter",
-    "author": "NicholasZozaya",
-    "content": "@CloudTrader4 @OpenRouterAI @Zai_org @FactoryAI It doesn't seem ready for prime time. I saw multiple chat messages terminate prematurely with \"&gt;  Error: undefined is not an object (evaluating 'A.match')\" ... I like the openrouter support, but am not going to switch off codex + cc for now.",
-    "url": "https://x.com/NicholasZozaya/status/1981983688520016017",
-    "timestamp": "2025-10-25T07:18:29.000Z",
-    "metadata": {
-      "conversation_id": "1981983688520016017",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981969388359008600",
-    "source": "twitter",
-    "author": "CavalliniPosada",
-    "content": "Im a huge @claudeai fan, believe me, but I'm not being able to reproduce high quality designs with it in claude code, with @FactoryAI i can, maybe @AnthropicAI should change the system prompt to detect ui ux designs and prohibit purple, tell to use images from Web, among others..",
-    "url": "https://x.com/CavalliniPosada/status/1981969388359008600",
-    "timestamp": "2025-10-25T06:21:40.000Z",
-    "metadata": {
-      "conversation_id": "1981969388359008600",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981965636701225307",
-    "source": "twitter",
-    "author": "CavalliniPosada",
-    "content": "What's going on @claudeai  it was just a landing page 😅 guys what i'm doing wrong? S.O.S\n\ngood thing i have @FactoryAI  on the side https://t.co/OFoHlrBmCw",
-    "url": "https://x.com/CavalliniPosada/status/1981965636701225307",
-    "timestamp": "2025-10-25T06:06:45.000Z",
-    "metadata": {
-      "conversation_id": "1981965636701225307",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981965595718701335",
-    "source": "twitter",
-    "author": "andyrewlee",
-    "content": "here is my review of @FactoryAI as a codex maximalist.\n\ndroid was addicting, i couldn't stop until i used all my tokens.\n\npros\n- spec mode\n- context management\n- multiple models\n\ncons\n- glitchy behavior in ghostty\n- gpt-5-codex is better on codex CLI\n\nmore details below",
-    "url": "https://x.com/andyrewlee/status/1981965595718701335",
-    "timestamp": "2025-10-25T06:06:35.000Z",
-    "metadata": {
-      "conversation_id": "1981965595718701335",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981963262947168327",
-    "source": "twitter",
-    "author": "TakuyaInGeorgia",
-    "content": "開発ツールの@FactoryAI 混合モデル実行（mixed-model runs）に対応\n\nコスパ重視とパフォーマンスを以下で実現\n\n🧠考えるAI：Sonnet4.5（高いけど賢い）\n🧑‍💻コード書くAI：GLM-4.5（安いけどアホ）\n\nSonnet 4.5単体で両方やるのと4%程度のパフォーマンス差異を実現\nツールサイドが最適な方法を考えてくれるのいいね",
-    "url": "https://x.com/TakuyaInGeorgia/status/1981963262947168327",
-    "timestamp": "2025-10-25T05:57:19.000Z",
-    "metadata": {
-      "conversation_id": "1981963262947168327",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981960569562300538",
-    "source": "twitter",
-    "author": "crowlabstech",
-    "content": "Interestingly, when using @TraycerAI to plan and @FactoryAI Droid to execute code changes, GPT-5-codex often just completely refuses to carry out the instructions.\nI have to coax it with \"those instructions were perfectly reasonable\" for it to continue. https://t.co/ZEaswTu6Qn",
-    "url": "https://x.com/crowlabstech/status/1981960569562300538",
-    "timestamp": "2025-10-25T05:46:37.000Z",
-    "metadata": {
-      "conversation_id": "1981960569562300538",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981951818339930204",
-    "source": "twitter",
-    "author": "CXL_LAB",
-    "content": "@cataluna84 @FactoryAI Let’s connect bro",
-    "url": "https://x.com/CXL_LAB/status/1981951818339930204",
-    "timestamp": "2025-10-25T05:11:51.000Z",
-    "metadata": {
-      "conversation_id": "1981951818339930204",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981951336485937233",
-    "source": "twitter",
-    "author": "Miccom16",
-    "content": "@CloudTrader4 @OpenRouterAI @Zai_org @FactoryAI Just started using Droid AI but the credit usage feels high for a single project.\n•How do you use it efficiently?\n•What plan are you on?\n•How does it compare to other AI IDEs?",
-    "url": "https://x.com/Miccom16/status/1981951336485937233",
-    "timestamp": "2025-10-25T05:09:56.000Z",
-    "metadata": {
-      "conversation_id": "1981951336485937233",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ofh9so",
     "source": "reddit",
     "author": "abecc2",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
     "timestamp": "2025-10-25T03:12:45.000Z",
     "metadata": {
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
