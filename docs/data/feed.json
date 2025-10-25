@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982095784981201401",
+    "source": "twitter",
+    "author": "NicholasZozaya",
+    "content": "@CloudTrader4 @OpenRouterAI @Zai_org @FactoryAI Same, I config’d GLmM-4.6 exacto via openrouter and it was wired up since most chat messages were successful, but it tripped up 3 times while I asked it to setup droids or use a custom command (read images via py script that pings openai) .",
+    "url": "https://x.com/NicholasZozaya/status/1982095784981201401",
+    "timestamp": "2025-10-25T14:43:55.000Z",
+    "metadata": {
+      "conversation_id": "1982095784981201401",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982095370860605551",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "If you have an existing terminal session, close and reopen the terminal.\n\n1- Check the path\nFor MacOS:\n/Users/<your_user_name>/.factory/config.json\n\nIt should exactly be placed in this path, inside your root directory, not your project's root\n\n2- Check the config.json\nFor @OpenRouterAI , it should be exactly the same json structure.",
+    "url": "https://x.com/CloudTrader4/status/1982095370860605551",
+    "timestamp": "2025-10-25T14:42:16.000Z",
+    "metadata": {
+      "conversation_id": "1982095370860605551",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982092434138907015",
     "source": "twitter",
     "author": "archivesofmanas",
@@ -130,7 +160,7 @@
       "conversation_id": "1982068036191539331",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -188,10 +218,10 @@
     "timestamp": "2025-10-25T12:50:31.000Z",
     "metadata": {
       "conversation_id": "1982067248773644428",
-      "likes": 6,
-      "retweets": 1,
+      "likes": 8,
+      "retweets": 2,
       "replies": 2,
-      "quotes": 2
+      "quotes": 1
     }
   },
   {
@@ -266,36 +296,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982016240374964366",
-    "source": "twitter",
-    "author": "alphatozeta8148",
-    "content": "@FactoryAI your GLM 4.6 is too fast, I'm gonna get RSI scrolling through the response 😂",
-    "url": "https://x.com/alphatozeta8148/status/1982016240374964366",
-    "timestamp": "2025-10-25T09:27:50.000Z",
-    "metadata": {
-      "conversation_id": "1982016240374964366",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982007286345126049",
-    "source": "twitter",
-    "author": "GiusMarci",
-    "content": "Saw what @the_nof1 did with Alpha Arena and their AI trading models this week, so awesome! Loved the UI and the idea.\n\nThought, “Hmm, if I fire up @FactoryAI DROID with the new spec function on Haiku and code on Sonnet 4.5, I could build it and make it a fun weekend project.”\nThe confidence coding agents like Droid and Claude Code give you, uh? 😅😂\n\nSo I built this last night.\n\nIt’s all live data, working, with live profiles, hundreds of models that can be loaded (thanks to @opencode model lists), targets, AI trading and prediction, a local DB + vector DB for patterns, Tailscale on isolated machine, and a lot more.\n\nI’ve built similar stuff in the past, mostly Telegram bots and Python ones for work (in my past job, mostly by my team), probably the reason it took me way less time than I expected. It was literally ready in an hour.\n\nGotta say, I spent 40 minutes carefully planning the tech stack, logic, and DB structure before even sending the one-shot prompt to Droid, which is exactly why it worked in one shot.\n\nWill keep testing and see how it performs over the next week, hopefully it won’t burn through the testing budget 😄",
-    "url": "https://x.com/GiusMarci/status/1982007286345126049",
-    "timestamp": "2025-10-25T08:52:15.000Z",
-    "metadata": {
-      "conversation_id": "1982007286345126049",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
