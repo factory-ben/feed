@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1982128879998210135",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@gootecks @bitdoze @OpenRouterAI @FactoryAI @Zai_org You can check which provider used with openrouter activity page \n\nDon’t know if other providers gives this option",
+    "url": "https://x.com/CloudTrader4/status/1982128879998210135",
+    "timestamp": "2025-10-25T16:55:25.000Z",
+    "metadata": {
+      "conversation_id": "1982128879998210135",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982127491863969942",
+    "source": "twitter",
+    "author": "cataluna84",
+    "content": "Seems to me, the issue is that the droid binary was compiled with CPU instructions not supported by my AMD FX-8350 processor. \n\nMy CPU is from 2012 and lacks newer instruction sets like AVX2, AVX-512, etc\n\nI was trying out the Droid binary on Ubuntu 25.10, but it's not working on it either!!",
+    "url": "https://x.com/cataluna84/status/1982127491863969942",
+    "timestamp": "2025-10-25T16:49:54.000Z",
+    "metadata": {
+      "conversation_id": "1982127491863969942",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982127222443118733",
+    "source": "twitter",
+    "author": "gootecks",
+    "content": "After getting up to speed on the cline post, i could definitely see how the exacto endpoint could provide better results and how Zai would be incentivized to use lower quality inference providers for those of us on the coding plan. 😟\n\nUsing glm in droid was underwhelming and using it in opencode also leaves a lot to be desired. \n\nBut using it in roocode in debugger mode seemed to have noticeably better results. \n\nAnd until now I didn’t know about the inference prover issue. \n\nIs there a way to check what provider you’re using thru a tool call that’s independent of whatever API you happen to be using?",
+    "url": "https://x.com/gootecks/status/1982127222443118733",
+    "timestamp": "2025-10-25T16:48:50.000Z",
+    "metadata": {
+      "conversation_id": "1982127222443118733",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982125390563885480",
     "source": "twitter",
     "author": "mnair1",
@@ -25,7 +70,7 @@
       "conversation_id": "1982124516185620552",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982092434138907015",
-    "source": "twitter",
-    "author": "archivesofmanas",
-    "content": "just dm'd you.\nex-deloitte consultant + startup founder (300% revenue growth). built financial models, scaled operations 0-1, and designed customer success frameworks. cs undergrad + mba with finance concentration, hands-on ai/ml experience.\nthrive in ambiguity and love owning high-impact cross-functional projects.",
-    "url": "https://x.com/archivesofmanas/status/1982092434138907015",
-    "timestamp": "2025-10-25T14:30:36.000Z",
-    "metadata": {
-      "conversation_id": "1982092434138907015",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982076258109227439",
-    "source": "twitter",
-    "author": "Slyndc",
-    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org Thank you 🙏🏽",
-    "url": "https://x.com/Slyndc/status/1982076258109227439",
-    "timestamp": "2025-10-25T13:26:19.000Z",
-    "metadata": {
-      "conversation_id": "1982076258109227439",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982071476510433681",
-    "source": "twitter",
-    "author": "siomkin",
-    "content": "@CloudTrader4 @OpenRouterAI @Zai_org @FactoryAI Why not just use https://t.co/xzBUpex5bt? What are the benefits? https://t.co/N4lx3C0lXV",
-    "url": "https://x.com/siomkin/status/1982071476510433681",
-    "timestamp": "2025-10-25T13:07:19.000Z",
-    "metadata": {
-      "conversation_id": "1982071476510433681",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -307,7 +307,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 4,
+      "score": 2,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
