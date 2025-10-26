@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1982360560475025723",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "@bentossell @FactoryAI It works for a while after resizing. Then it keeps happening again, no need to apologise man. Waiting eagerly for the update 🙂. Thanks",
+    "url": "https://x.com/rezaul_arif/status/1982360560475025723",
+    "timestamp": "2025-10-26T08:16:02.000Z",
+    "metadata": {
+      "conversation_id": "1982360560475025723",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982358741954744452",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@rezaul_arif @FactoryAI working on this! it’s due to ink framework rendering components in the cli. apologies! if you resize it can help stop it",
+    "url": "https://x.com/bentossell/status/1982358741954744452",
+    "timestamp": "2025-10-26T08:08:49.000Z",
+    "metadata": {
+      "conversation_id": "1982358741954744452",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982357082000310472",
+    "source": "twitter",
+    "author": "ChrisVanDerKlau",
+    "content": "@etashio @FactoryAI context engineering\nsystem prompt engineering",
+    "url": "https://x.com/ChrisVanDerKlau/status/1982357082000310472",
+    "timestamp": "2025-10-26T08:02:13.000Z",
+    "metadata": {
+      "conversation_id": "1982357082000310472",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982354892829430123",
+    "source": "twitter",
+    "author": "ChrisVanDerKlau",
+    "content": "@mjs527 @FactoryAI can you publish terminal bench results for GLM 4.6 ?",
+    "url": "https://x.com/ChrisVanDerKlau/status/1982354892829430123",
+    "timestamp": "2025-10-26T07:53:31.000Z",
+    "metadata": {
+      "conversation_id": "1982354892829430123",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982350112396321202",
     "source": "twitter",
     "author": "ivanfioravanti",
@@ -253,66 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982296137932615884",
-    "source": "twitter",
-    "author": "francesca_lab",
-    "content": "@chasebrignac @etashio @FactoryAI Glad you’re loving it! You can use gpt-5-codex in Droid as well",
-    "url": "https://x.com/francesca_lab/status/1982296137932615884",
-    "timestamp": "2025-10-26T04:00:03.000Z",
-    "metadata": {
-      "conversation_id": "1982296137932615884",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982295393850585205",
-    "source": "twitter",
-    "author": "matanSF",
-    "content": "@mjs527 @FactoryAI 🫡",
-    "url": "https://x.com/matanSF/status/1982295393850585205",
-    "timestamp": "2025-10-26T03:57:05.000Z",
-    "metadata": {
-      "conversation_id": "1982295393850585205",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982291837294416222",
-    "source": "twitter",
-    "author": "mjs527",
-    "content": "finally got @FactoryAI droid cooking again this evening. i am drinking the koolaid. it's on fire after getting all my MCP servers and custom droids configured. this update feels good",
-    "url": "https://x.com/mjs527/status/1982291837294416222",
-    "timestamp": "2025-10-26T03:42:57.000Z",
-    "metadata": {
-      "conversation_id": "1982291837294416222",
-      "likes": 24,
-      "retweets": 3,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982288792703918227",
-    "source": "twitter",
-    "author": "cooosyku23",
-    "content": "I’ve been obsessed with creating custom droids for @FactoryAI, and I still haven’t figured out how good those droids work.",
-    "url": "https://x.com/cooosyku23/status/1982288792703918227",
-    "timestamp": "2025-10-26T03:30:51.000Z",
-    "metadata": {
-      "conversation_id": "1982288792703918227",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_262",
     "source": "github",
     "author": "tofunori",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -700,19 +700,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
