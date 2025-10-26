@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982380240287699226",
+    "source": "twitter",
+    "author": "JeremiahIEze",
+    "content": "been playing around with @FactoryAI \nfeels like home man https://t.co/hnAJnX3bz8",
+    "url": "https://x.com/JeremiahIEze/status/1982380240287699226",
+    "timestamp": "2025-10-26T09:34:14.000Z",
+    "metadata": {
+      "conversation_id": "1982380240287699226",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982376050643403189",
     "source": "twitter",
     "author": "crypto_vert",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982302451995726270",
-    "source": "twitter",
-    "author": "ruan_exclusive",
-    "content": "@fabiorizzomatos @ducaswtf @LukeberryPi @FactoryAI @cursor_ai 🎯🎯",
-    "url": "https://x.com/ruan_exclusive/status/1982302451995726270",
-    "timestamp": "2025-10-26T04:25:08.000Z",
-    "metadata": {
-      "conversation_id": "1982302451995726270",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_263",
     "source": "github",
     "author": "tgerighty",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
