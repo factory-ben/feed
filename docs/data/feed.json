@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982306090181144645",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@mjs527 @FactoryAI oh yeah",
+    "url": "https://x.com/geo_anima/status/1982306090181144645",
+    "timestamp": "2025-10-26T04:39:36.000Z",
+    "metadata": {
+      "conversation_id": "1982306090181144645",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982303356342477161",
     "source": "twitter",
     "author": "EarlDennisonTan",
@@ -53,7 +68,7 @@
     "timestamp": "2025-10-26T04:19:05.000Z",
     "metadata": {
       "conversation_id": "1982300930235142420",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -96,7 +111,7 @@
     "timestamp": "2025-10-26T04:02:11.000Z",
     "metadata": {
       "conversation_id": "1982296675248169201",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -126,7 +141,7 @@
     "timestamp": "2025-10-26T03:57:05.000Z",
     "metadata": {
       "conversation_id": "1982295393850585205",
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -141,9 +156,9 @@
     "timestamp": "2025-10-26T03:42:57.000Z",
     "metadata": {
       "conversation_id": "1982291837294416222",
-      "likes": 5,
+      "likes": 6,
       "retweets": 1,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982243424733413678",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@CloudTrader4 @bitdoze @OpenRouterAI @FactoryAI @Zai_org @OpenAI ok, thanks for clarifying. Did you notice any difference is speed or quality ? (although that is hard to find out as it changes dependig on current load, time of day, ...)",
-    "url": "https://x.com/SvenMeyer/status/1982243424733413678",
-    "timestamp": "2025-10-26T00:30:35.000Z",
-    "metadata": {
-      "conversation_id": "1982243424733413678",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_262",
     "source": "github",
     "author": "tofunori",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
