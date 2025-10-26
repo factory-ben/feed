@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1982456863607194072",
+    "source": "twitter",
+    "author": "308Greenfield",
+    "content": "@bentossell @etashio @FactoryAI For me, it just does too many things on its own and then I have to go back and undo things",
+    "url": "https://x.com/308Greenfield/status/1982456863607194072",
+    "timestamp": "2025-10-26T14:38:43.000Z",
+    "metadata": {
+      "conversation_id": "1982456863607194072",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982456040080789518",
+    "source": "twitter",
+    "author": "Ra1kshit",
+    "content": "@bentossell @FactoryAI for now im just using gpt 5 high for refactoring(frontend), writing some backend code, and using sonnet 4.5(or even haiku if simpler)  to work on singular frontend components to get the design right. And this solves everything.",
+    "url": "https://x.com/Ra1kshit/status/1982456040080789518",
+    "timestamp": "2025-10-26T14:35:26.000Z",
+    "metadata": {
+      "conversation_id": "1982456040080789518",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982455999748268149",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@308Greenfield @etashio @FactoryAI sorry to hear, happy to hear what happened for you. not the typical experience we hear so want to make sure",
+    "url": "https://x.com/bentossell/status/1982455999748268149",
+    "timestamp": "2025-10-26T14:35:17.000Z",
+    "metadata": {
+      "conversation_id": "1982455999748268149",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982455836069798201",
+    "source": "twitter",
+    "author": "Ra1kshit",
+    "content": "@bentossell @FactoryAI been almost few days since i tried it out but on large messy codebases i find codex just running thinks for more than 5-6 minutes and then not doing anything. i'll give it a try again, and update the thread",
+    "url": "https://x.com/Ra1kshit/status/1982455836069798201",
+    "timestamp": "2025-10-26T14:34:38.000Z",
+    "metadata": {
+      "conversation_id": "1982455836069798201",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982455792604266581",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@crypto_vert @etashio @FactoryAI lmk your account i’ll see what’s going on for you",
+    "url": "https://x.com/bentossell/status/1982455792604266581",
+    "timestamp": "2025-10-26T14:34:27.000Z",
+    "metadata": {
+      "conversation_id": "1982455792604266581",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982455589495058532",
     "source": "twitter",
     "author": "bentossell",
@@ -10,7 +85,7 @@
       "conversation_id": "1982455589495058532",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -25,7 +100,7 @@
       "conversation_id": "1982455580624105554",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +113,7 @@
     "timestamp": "2025-10-26T14:32:50.000Z",
     "metadata": {
       "conversation_id": "1982455386327159044",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -225,81 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982405895729635623",
-    "source": "twitter",
-    "author": "t0n4r",
-    "content": "@etashio @chasebrignac @FactoryAI droid with codex is waaaay better than just codex imo.",
-    "url": "https://x.com/t0n4r/status/1982405895729635623",
-    "timestamp": "2025-10-26T11:16:11.000Z",
-    "metadata": {
-      "conversation_id": "1982405895729635623",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982403641555484968",
-    "source": "twitter",
-    "author": "AxMTrader",
-    "content": "@mjs527 @FactoryAI Droid in Zed! 🔥",
-    "url": "https://x.com/AxMTrader/status/1982403641555484968",
-    "timestamp": "2025-10-26T11:07:14.000Z",
-    "metadata": {
-      "conversation_id": "1982403641555484968",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982399684468707547",
-    "source": "twitter",
-    "author": "arnaud_breton",
-    "content": "@FactoryAI I often run in errors like &gt;  Error: undefined is not an object (evaluating 'A.match'). Any fix?",
-    "url": "https://x.com/arnaud_breton/status/1982399684468707547",
-    "timestamp": "2025-10-26T10:51:30.000Z",
-    "metadata": {
-      "conversation_id": "1982399684468707547",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982397714135736809",
-    "source": "twitter",
-    "author": "rocoberryyo",
-    "content": "@etashio @FactoryAI Shhh... :p Don't share the secret. While it's nice for them to have more people using their product, like with any CLI or similar tools, the more people use it and voice their opinions, the trashier it tends to become.",
-    "url": "https://x.com/rocoberryyo/status/1982397714135736809",
-    "timestamp": "2025-10-26T10:43:40.000Z",
-    "metadata": {
-      "conversation_id": "1982397714135736809",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982394830568263951",
-    "source": "twitter",
-    "author": "Marble68",
-    "content": "FWIW, I’m finding codex vastly superior to cc when dealing with existing, large codebases. I’m a 20x max cc subscriber and I’m seriously thinking of switching.\n@AnthropicAI’s approach seems broken. It burns so many tokens trying to fix its own issues I’m getting more out of codex’s less shot, albeit slower, work. Anthropic is faster, but it takes so many more attempts to complete work successfully, so it evens out.",
-    "url": "https://x.com/Marble68/status/1982394830568263951",
-    "timestamp": "2025-10-26T10:32:13.000Z",
-    "metadata": {
-      "conversation_id": "1982394830568263951",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_263",
     "source": "github",
     "author": "tgerighty",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -703,19 +703,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -729,15 +716,15 @@
     }
   },
   {
-    "id": "reddit_1obv6pd",
+    "id": "reddit_1obd1tm",
     "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
     "metadata": {
-      "score": 2,
-      "num_comments": 12,
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
