@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982467764213125338",
+    "source": "twitter",
+    "author": "MinChonChiSF",
+    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org Interesting comparison of the exacto variant against default routing.",
+    "url": "https://x.com/MinChonChiSF/status/1982467764213125338",
+    "timestamp": "2025-10-26T15:22:02.000Z",
+    "metadata": {
+      "conversation_id": "1982467764213125338",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982467479734485202",
+    "source": "twitter",
+    "author": "mjs527",
+    "content": "no shade but i feel like i did 12 auto compacts yesterday via @factoryai’s droid. comments indicate configuration issues for tools like MCP still. haven’t tried yet but starting to realizing how important these configurations are",
+    "url": "https://x.com/mjs527/status/1982467479734485202",
+    "timestamp": "2025-10-26T15:20:54.000Z",
+    "metadata": {
+      "conversation_id": "1982467479734485202",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_264",
     "source": "github",
     "author": "a112121788",
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982425129616539735",
-    "source": "twitter",
-    "author": "jonhillymakes",
-    "content": "@etashio @FactoryAI Thank you erik, you've just put @FactoryAI  on my radar, i'm currently giving it a go right now!",
-    "url": "https://x.com/jonhillymakes/status/1982425129616539735",
-    "timestamp": "2025-10-26T12:32:37.000Z",
-    "metadata": {
-      "conversation_id": "1982425129616539735",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982417509119938799",
-    "source": "twitter",
-    "author": "308Greenfield",
-    "content": "@etashio @FactoryAI Paid actors anyways",
-    "url": "https://x.com/308Greenfield/status/1982417509119938799",
-    "timestamp": "2025-10-26T12:02:20.000Z",
-    "metadata": {
-      "conversation_id": "1982417509119938799",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_263",
     "source": "github",
     "author": "tgerighty",
@@ -346,7 +346,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -738,6 +738,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
