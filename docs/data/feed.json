@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982334877640106492",
+    "source": "twitter",
+    "author": "heykandoi",
+    "content": "@etashio @FactoryAI it's called engineering and tuning of tools, flows and instructions",
+    "url": "https://x.com/heykandoi/status/1982334877640106492",
+    "timestamp": "2025-10-26T06:33:59.000Z",
+    "metadata": {
+      "conversation_id": "1982334877640106492",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982331325488185855",
+    "source": "twitter",
+    "author": "miaomiaomeow0",
+    "content": "@chasebrignac @etashio @FactoryAI What do you think they meant by safety? And what do you think safety means? Should ai developers care about safety and how much? You seem to have some thoughts about this, curious to learn more",
+    "url": "https://x.com/miaomiaomeow0/status/1982331325488185855",
+    "timestamp": "2025-10-26T06:19:52.000Z",
+    "metadata": {
+      "conversation_id": "1982331325488185855",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982315109973107048",
     "source": "twitter",
     "author": "DatSciX",
@@ -38,7 +68,7 @@
     "timestamp": "2025-10-26T04:39:36.000Z",
     "metadata": {
       "conversation_id": "1982306090181144645",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -186,7 +216,7 @@
     "timestamp": "2025-10-26T03:42:57.000Z",
     "metadata": {
       "conversation_id": "1982291837294416222",
-      "likes": 16,
+      "likes": 19,
       "retweets": 1,
       "replies": 3,
       "quotes": 0
@@ -248,7 +278,7 @@
       "conversation_id": "1982261054538158143",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -277,36 +307,6 @@
     "metadata": {
       "conversation_id": "1982251589810241873",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982244871713763380",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@SvenMeyer @bitdoze @OpenRouterAI @FactoryAI @Zai_org @OpenAI I just used the GLM-4.6 exacto, didn’t try other exacto endpoints",
-    "url": "https://x.com/CloudTrader4/status/1982244871713763380",
-    "timestamp": "2025-10-26T00:36:20.000Z",
-    "metadata": {
-      "conversation_id": "1982244871713763380",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982244622345867310",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "I just used it fully today\n\n1- I think it is slightly better at design\n2- Original endpoint is better at planning phase(more detailed and structured)\n3- I almost spent $10 to setup a frontend, so price/performance wise definitely the coding plan (but it is a fully functional and complex UI so still relatively cheap)",
-    "url": "https://x.com/CloudTrader4/status/1982244622345867310",
-    "timestamp": "2025-10-26T00:35:20.000Z",
-    "metadata": {
-      "conversation_id": "1982244622345867310",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -726,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
