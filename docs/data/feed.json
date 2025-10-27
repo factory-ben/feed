@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982929153424060499",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@FactoryAI @awscloud 👏",
+    "url": "https://x.com/NathanLands/status/1982929153424060499",
+    "timestamp": "2025-10-27T21:55:25.000Z",
+    "metadata": {
+      "conversation_id": "1982929153424060499",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982927052165816790",
+    "source": "twitter",
+    "author": "DowClem",
+    "content": "@FactoryAI sent this email out a several hours ago, today was wfh day, been trying to build. Would appreciate if soemone could look into my account asap. https://t.co/PFMqhYIDTf",
+    "url": "https://x.com/DowClem/status/1982927052165816790",
+    "timestamp": "2025-10-27T21:47:04.000Z",
+    "metadata": {
+      "conversation_id": "1982927052165816790",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982926332687425683",
     "source": "twitter",
     "author": "IzirienAkhigbe",
@@ -23,7 +53,7 @@
     "timestamp": "2025-10-27T21:41:37.000Z",
     "metadata": {
       "conversation_id": "1982925677906231377",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,7 +68,7 @@
     "timestamp": "2025-10-27T21:40:02.000Z",
     "metadata": {
       "conversation_id": "1982925278927303023",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -98,7 +128,7 @@
     "timestamp": "2025-10-27T21:05:52.000Z",
     "metadata": {
       "conversation_id": "1982916681279189422",
-      "likes": 7,
+      "likes": 8,
       "retweets": 3,
       "replies": 1,
       "quotes": 0
@@ -158,10 +188,10 @@
     "timestamp": "2025-10-27T21:00:07.000Z",
     "metadata": {
       "conversation_id": "1982915233963442609",
-      "likes": 8,
+      "likes": 10,
       "retweets": 2,
       "replies": 1,
-      "quotes": 3
+      "quotes": 4
     }
   },
   {
@@ -264,36 +294,6 @@
     "metadata": {
       "conversation_id": "1982904035134054403",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982901982353617392",
-    "source": "twitter",
-    "author": "conductor_build",
-    "content": "@AonSayyed @DatSciX @etashio @FactoryAI @cursor_ai working on it 🫡",
-    "url": "https://x.com/conductor_build/status/1982901982353617392",
-    "timestamp": "2025-10-27T20:07:27.000Z",
-    "metadata": {
-      "conversation_id": "1982901982353617392",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982900502204690809",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "Droid from @FactoryAI almost covers my whole workflow, barely need any other tool\n\nIt just need to be better at design and after that it will be the all-in-one tool",
-    "url": "https://x.com/CloudTrader4/status/1982900502204690809",
-    "timestamp": "2025-10-27T20:01:34.000Z",
-    "metadata": {
-      "conversation_id": "1982900502204690809",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -703,6 +703,19 @@
     }
   },
   {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -725,19 +738,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
