@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982949016532103383",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@FactoryAI @awscloud big moves! combining the power of @FactoryAI and @awscloud will be a game-changer for enterprises.",
+    "url": "https://x.com/BillCrosby/status/1982949016532103383",
+    "timestamp": "2025-10-27T23:14:21.000Z",
+    "metadata": {
+      "conversation_id": "1982949016532103383",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982946518899536335",
+    "source": "twitter",
+    "author": "simonw",
+    "content": "@moderat10n @FactoryAI @opencode @AmpCode I really like \"coding agent\" personally, I think it's a clear name for the category",
+    "url": "https://x.com/simonw/status/1982946518899536335",
+    "timestamp": "2025-10-27T23:04:26.000Z",
+    "metadata": {
+      "conversation_id": "1982946518899536335",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982943023278518547",
     "source": "twitter",
     "author": "cmricksen",
@@ -40,7 +70,7 @@
       "conversation_id": "1982934834063519786",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -263,40 +293,10 @@
     "timestamp": "2025-10-27T21:00:07.000Z",
     "metadata": {
       "conversation_id": "1982915233963442609",
-      "likes": 18,
+      "likes": 22,
       "retweets": 3,
       "replies": 1,
       "quotes": 4
-    }
-  },
-  {
-    "id": "twitter_1982912110008127888",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@DannyAziz97 @FactoryAI honestly i wanna learn from you",
-    "url": "https://x.com/bentossell/status/1982912110008127888",
-    "timestamp": "2025-10-27T20:47:42.000Z",
-    "metadata": {
-      "conversation_id": "1982912110008127888",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982907776532918358",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "@danshipper @FactoryAI I’m also an every shill so ofc I did",
-    "url": "https://x.com/DannyAziz97/status/1982907776532918358",
-    "timestamp": "2025-10-27T20:30:29.000Z",
-    "metadata": {
-      "conversation_id": "1982907776532918358",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -738,19 +738,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
