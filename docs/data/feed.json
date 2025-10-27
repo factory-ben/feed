@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982921833029742707",
+    "source": "twitter",
+    "author": "gatien7",
+    "content": "@FactoryAI @awscloud During AWS outage ? You still have times to delete this",
+    "url": "https://x.com/gatien7/status/1982921833029742707",
+    "timestamp": "2025-10-27T21:26:20.000Z",
+    "metadata": {
+      "conversation_id": "1982921833029742707",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982919804760797237",
     "source": "twitter",
     "author": "siralexanderj",
@@ -8,7 +23,7 @@
     "timestamp": "2025-10-27T21:18:16.000Z",
     "metadata": {
       "conversation_id": "1982919804760797237",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,8 +38,8 @@
     "timestamp": "2025-10-27T21:05:52.000Z",
     "metadata": {
       "conversation_id": "1982916681279189422",
-      "likes": 2,
-      "retweets": 1,
+      "likes": 4,
+      "retweets": 2,
       "replies": 0,
       "quotes": 0
     }
@@ -68,7 +83,7 @@
     "timestamp": "2025-10-27T21:00:13.000Z",
     "metadata": {
       "conversation_id": "1982915258307195292",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,10 +98,10 @@
     "timestamp": "2025-10-27T21:00:07.000Z",
     "metadata": {
       "conversation_id": "1982915233963442609",
-      "likes": 3,
-      "retweets": 0,
+      "likes": 7,
+      "retweets": 1,
       "replies": 1,
-      "quotes": 2
+      "quotes": 3
     }
   },
   {
@@ -158,7 +173,7 @@
     "timestamp": "2025-10-27T20:21:37.000Z",
     "metadata": {
       "conversation_id": "1982905546236944787",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,7 +188,7 @@
     "timestamp": "2025-10-27T20:15:39.000Z",
     "metadata": {
       "conversation_id": "1982904044986478877",
-      "likes": 6,
+      "likes": 8,
       "retweets": 0,
       "replies": 5,
       "quotes": 0
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1982891973527908632",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982889598008307726",
-    "source": "twitter",
-    "author": "orsaorin",
-    "content": "@ssh_sharma135 @FactoryAI amazing! thank you for the quick reply. love droid",
-    "url": "https://x.com/orsaorin/status/1982889598008307726",
-    "timestamp": "2025-10-27T19:18:15.000Z",
-    "metadata": {
-      "conversation_id": "1982889598008307726",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
