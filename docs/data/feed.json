@@ -23,7 +23,7 @@
     "timestamp": "2025-10-27T23:04:26.000Z",
     "metadata": {
       "conversation_id": "1982946518899536335",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +68,7 @@
     "timestamp": "2025-10-27T22:18:00.000Z",
     "metadata": {
       "conversation_id": "1982934834063519786",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -293,10 +293,10 @@
     "timestamp": "2025-10-27T21:00:07.000Z",
     "metadata": {
       "conversation_id": "1982915233963442609",
-      "likes": 22,
+      "likes": 23,
       "retweets": 3,
       "replies": 1,
-      "quotes": 4
+      "quotes": 3
     }
   },
   {
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
