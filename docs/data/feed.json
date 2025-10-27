@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982660409514770823",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FactoryAI @iannuttall @steipete 3/3: Until then, you can use this workaround:\n\n* Find session id in JSON filename within .factory/session.\n\n* Use the ID with a headless command: `$ droid exec --auto medium --session-id &lt;ID&gt; \"some prompt`\n\n* start droid, use /session command to pick top session from the list",
+    "url": "https://x.com/SvenMeyer/status/1982660409514770823",
+    "timestamp": "2025-10-27T04:07:32.000Z",
+    "metadata": {
+      "conversation_id": "1982660409514770823",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982660097676583248",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@SvenMeyer @FactoryAI @iannuttall mate I use codex.",
+    "url": "https://x.com/steipete/status/1982660097676583248",
+    "timestamp": "2025-10-27T04:06:17.000Z",
+    "metadata": {
+      "conversation_id": "1982660097676583248",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982659755568185513",
     "source": "twitter",
     "author": "SvenMeyer",
@@ -10,7 +40,7 @@
       "conversation_id": "1982659755568185513",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -40,7 +70,7 @@
       "conversation_id": "1982659173646291338",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -246,7 +276,7 @@
     "timestamp": "2025-10-26T23:12:29.000Z",
     "metadata": {
       "conversation_id": "1982586159352967566",
-      "likes": 19,
+      "likes": 22,
       "retweets": 4,
       "replies": 4,
       "quotes": 0
@@ -279,36 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982562379595694355",
-    "source": "twitter",
-    "author": "martia_es",
-    "content": "@etashio @FactoryAI I’ve been trying Codex, Claude Code, and Droid. Codex is the worst for me — just not my style. Honestly, Droid’s just as good as Claude Code",
-    "url": "https://x.com/martia_es/status/1982562379595694355",
-    "timestamp": "2025-10-26T21:38:00.000Z",
-    "metadata": {
-      "conversation_id": "1982562379595694355",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982557583299981443",
-    "source": "twitter",
-    "author": "B3achPleas3",
-    "content": "@etashio @FactoryAI allegedly a lot more into your data too\n\nwith cc you can at least opt out, whatever that means. https://t.co/8Vl6sNCbOG",
-    "url": "https://x.com/B3achPleas3/status/1982557583299981443",
-    "timestamp": "2025-10-26T21:18:56.000Z",
-    "metadata": {
-      "conversation_id": "1982557583299981443",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
