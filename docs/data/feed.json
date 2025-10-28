@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1983302723966841232",
+    "source": "twitter",
+    "author": "EddieBe",
+    "content": "@francesca_lab @matanSF @FactoryAI thanks!! id8labs",
+    "url": "https://x.com/EddieBe/status/1983302723966841232",
+    "timestamp": "2025-10-28T22:39:52.000Z",
+    "metadata": {
+      "conversation_id": "1983302723966841232",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983302553271185820",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@EddieBe @matanSF @FactoryAI Can you send me your org name? Will look into this",
+    "url": "https://x.com/francesca_lab/status/1983302553271185820",
+    "timestamp": "2025-10-28T22:39:11.000Z",
+    "metadata": {
+      "conversation_id": "1983302553271185820",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983301739559432306",
+    "source": "twitter",
+    "author": "EddieBe",
+    "content": "dear universe, not sure what you’re testing me for, but pls let me just release v2. \n\n@matanSF @FactoryAI  @francesca_lab \ncan i has my organization back? https://t.co/1BC7bgpaI6",
+    "url": "https://x.com/EddieBe/status/1983301739559432306",
+    "timestamp": "2025-10-28T22:35:57.000Z",
+    "metadata": {
+      "conversation_id": "1983301739559432306",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983300280201687272",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@slow_developer Agreed... finding a workflow where you can use them both together is ideal. Both @FactoryAI and @AmpCode are good options for achieving this kind of streamlined workflow where Sonnet is allowed to work but validated/corrected along the way.",
+    "url": "https://x.com/ben_vargas/status/1983300280201687272",
+    "timestamp": "2025-10-28T22:30:09.000Z",
+    "metadata": {
+      "conversation_id": "1983300280201687272",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983297856636367328",
     "source": "twitter",
     "author": "fire",
@@ -53,7 +113,7 @@
     "timestamp": "2025-10-28T21:59:55.000Z",
     "metadata": {
       "conversation_id": "1983292671713304591",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +128,7 @@
     "timestamp": "2025-10-28T21:52:31.000Z",
     "metadata": {
       "conversation_id": "1983290807927914856",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983273254589796428",
-    "source": "twitter",
-    "author": "mikez93",
-    "content": "name: data-model-diagram-generator\ndescription: This droid specializes in analyzing codebases and generating comprehensive data model visualizations using Mermaid diagram syntax. It creates Entity Relationship Diagrams (ERDs) for database schemas, service layer models, and UI data structures. The droid examines code to identify entities, relationships, cardinalities, and data flows across your application's architecture layers, producing clear, accurate diagrams that document your project's data landscape.\nmodel: inherit\ntools: Create, Edit, MultiEdit, ApplyPatch, TodoWrite\n---\n\nYou are a data modeling and visualization specialist focused on creating accurate Mermaid diagrams for software projects. Your primary responsibility is to analyze codebases, identify data structures across database schemas, service models, and UI layers, then generate Entity Relationship Diagrams using Mermaid syntax. Always examine actual code files to extract accurate entity names, attributes, relationships, and cardinalities. Use proper ERD notation including one-to-many, many-to-many, and one-to-one relationships with correct Mermaid syntax. Organize diagrams by architectural layer (database, service, UI) when requested. Include primary keys, foreign keys, and important attributes. Prioritize clarity and accuracy over complexity—if a diagram becomes too dense, suggest breaking it into multiple focused diagrams. Always validate that relationship directions and cardinalities match the actual code implementation. Provide the raw Mermaid code in markdown code blocks so users can render it immediately.\n\n@FactoryAI",
-    "url": "https://x.com/mikez93/status/1983273254589796428",
-    "timestamp": "2025-10-28T20:42:45.000Z",
-    "metadata": {
-      "conversation_id": "1983273254589796428",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983273154102603993",
-    "source": "twitter",
-    "author": "mikez93",
-    "content": "@pascallammers_ @RayFernando1337 @FactoryAI Turn it into a droid for easy access. https://t.co/MdYpsFQ074",
-    "url": "https://x.com/mikez93/status/1983273154102603993",
-    "timestamp": "2025-10-28T20:42:22.000Z",
-    "metadata": {
-      "conversation_id": "1983273154102603993",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983271426422706257",
-    "source": "twitter",
-    "author": "matanSF",
-    "content": "@ben_rapaport @FactoryAI @AmpCode 🤝",
-    "url": "https://x.com/matanSF/status/1983271426422706257",
-    "timestamp": "2025-10-28T20:35:30.000Z",
-    "metadata": {
-      "conversation_id": "1983271426422706257",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983270625675489785",
-    "source": "twitter",
-    "author": "BTConnector_",
-    "content": ". @RayFernando1337 did you ever work out the 2 free months with @FactoryAI with your referral code? \n\nMy account still only has it as 1 month than expires(in 3 days).",
-    "url": "https://x.com/BTConnector_/status/1983270625675489785",
-    "timestamp": "2025-10-28T20:32:19.000Z",
-    "metadata": {
-      "conversation_id": "1983270625675489785",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -726,6 +726,45 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob2dsx",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
