@@ -246,7 +246,7 @@
     "timestamp": "2025-10-28T17:31:55.000Z",
     "metadata": {
       "conversation_id": "1983225225857691916",
-      "likes": 18,
+      "likes": 20,
       "retweets": 2,
       "replies": 0,
       "quotes": 0
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -726,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
