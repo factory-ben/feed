@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1983273360990822793",
+    "source": "twitter",
+    "author": "verioussmith",
+    "content": "@FactoryAI Can you guys release a Universal Binary for Intel based Macs?",
+    "url": "https://x.com/verioussmith/status/1983273360990822793",
+    "timestamp": "2025-10-28T20:43:11.000Z",
+    "metadata": {
+      "conversation_id": "1983273360990822793",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983273254589796428",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "name: data-model-diagram-generator\ndescription: This droid specializes in analyzing codebases and generating comprehensive data model visualizations using Mermaid diagram syntax. It creates Entity Relationship Diagrams (ERDs) for database schemas, service layer models, and UI data structures. The droid examines code to identify entities, relationships, cardinalities, and data flows across your application's architecture layers, producing clear, accurate diagrams that document your project's data landscape.\nmodel: inherit\ntools: Create, Edit, MultiEdit, ApplyPatch, TodoWrite\n---\n\nYou are a data modeling and visualization specialist focused on creating accurate Mermaid diagrams for software projects. Your primary responsibility is to analyze codebases, identify data structures across database schemas, service models, and UI layers, then generate Entity Relationship Diagrams using Mermaid syntax. Always examine actual code files to extract accurate entity names, attributes, relationships, and cardinalities. Use proper ERD notation including one-to-many, many-to-many, and one-to-one relationships with correct Mermaid syntax. Organize diagrams by architectural layer (database, service, UI) when requested. Include primary keys, foreign keys, and important attributes. Prioritize clarity and accuracy over complexity—if a diagram becomes too dense, suggest breaking it into multiple focused diagrams. Always validate that relationship directions and cardinalities match the actual code implementation. Provide the raw Mermaid code in markdown code blocks so users can render it immediately.\n\n@FactoryAI",
+    "url": "https://x.com/mikez93/status/1983273254589796428",
+    "timestamp": "2025-10-28T20:42:45.000Z",
+    "metadata": {
+      "conversation_id": "1983273254589796428",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983273154102603993",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@pascallammers_ @RayFernando1337 @FactoryAI Turn it into a droid for easy access. https://t.co/MdYpsFQ074",
+    "url": "https://x.com/mikez93/status/1983273154102603993",
+    "timestamp": "2025-10-28T20:42:22.000Z",
+    "metadata": {
+      "conversation_id": "1983273154102603993",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983271426422706257",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@ben_rapaport @FactoryAI @AmpCode 🤝",
+    "url": "https://x.com/matanSF/status/1983271426422706257",
+    "timestamp": "2025-10-28T20:35:30.000Z",
+    "metadata": {
+      "conversation_id": "1983271426422706257",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983270625675489785",
+    "source": "twitter",
+    "author": "BTConnector_",
+    "content": ". @RayFernando1337 did you ever work out the 2 free months with @FactoryAI with your referral code? \n\nMy account still only has it as 1 month than expires(in 3 days).",
+    "url": "https://x.com/BTConnector_/status/1983270625675489785",
+    "timestamp": "2025-10-28T20:32:19.000Z",
+    "metadata": {
+      "conversation_id": "1983270625675489785",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983269091252285793",
+    "source": "twitter",
+    "author": "ben_rapaport",
+    "content": "@matanSF @FactoryAI @AmpCode What I am working on today is a key part of a major client pitch we have coming up. If we close them based on this work, i'll credit that to Factory.",
+    "url": "https://x.com/ben_rapaport/status/1983269091252285793",
+    "timestamp": "2025-10-28T20:26:13.000Z",
+    "metadata": {
+      "conversation_id": "1983269091252285793",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983267710130892955",
     "source": "twitter",
     "author": "Pranav2278",
@@ -23,7 +113,7 @@
     "timestamp": "2025-10-28T20:19:22.000Z",
     "metadata": {
       "conversation_id": "1983267369205281062",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -55,7 +145,7 @@
       "conversation_id": "1983266844934058300",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -210,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983241800837104076",
-    "source": "twitter",
-    "author": "MickeyShaughnes",
-    "content": "Playing around a little more with droid from @FactoryAI this morning.\n\nYoung men: definitely a good CLI Tool to have in your pocket 🔨⛏️🪓 https://t.co/puJFH7v4OM",
-    "url": "https://x.com/MickeyShaughnes/status/1983241800837104076",
-    "timestamp": "2025-10-28T18:37:46.000Z",
-    "metadata": {
-      "conversation_id": "1983241800837104076",
-      "likes": 6,
-      "retweets": 1,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983238406185312652",
-    "source": "twitter",
-    "author": "ben_rapaport",
-    "content": "@LzyIndTky @FactoryAI @AmpCode umm what",
-    "url": "https://x.com/ben_rapaport/status/1983238406185312652",
-    "timestamp": "2025-10-28T18:24:17.000Z",
-    "metadata": {
-      "conversation_id": "1983238406185312652",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983237899031327035",
-    "source": "twitter",
-    "author": "LzyIndTky",
-    "content": "@ben_rapaport @FactoryAI @AmpCode What are you even talking about? Anyone who’s seriously building is building with @FactoryAI \n\nIt was never meant to be an Amp competitor as far as I know. It’s a great tool. In fact I just said this Factory + Sonnet 4.5 is goated.",
-    "url": "https://x.com/LzyIndTky/status/1983237899031327035",
-    "timestamp": "2025-10-28T18:22:16.000Z",
-    "metadata": {
-      "conversation_id": "1983237899031327035",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -265,51 +310,6 @@
       "type": "issue",
       "labels": [],
       "number": 278
-    }
-  },
-  {
-    "id": "twitter_1983235346344357968",
-    "source": "twitter",
-    "author": "TrygenticAI",
-    "content": "@immoinulmoin @FactoryAI is it expensive?",
-    "url": "https://x.com/TrygenticAI/status/1983235346344357968",
-    "timestamp": "2025-10-28T18:12:07.000Z",
-    "metadata": {
-      "conversation_id": "1983235346344357968",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983232673398108380",
-    "source": "twitter",
-    "author": "yousefrol",
-    "content": "@ibrgma يب\n+ @FactoryAI",
-    "url": "https://x.com/yousefrol/status/1983232673398108380",
-    "timestamp": "2025-10-28T18:01:30.000Z",
-    "metadata": {
-      "conversation_id": "1983232673398108380",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983228966337991005",
-    "source": "twitter",
-    "author": "loopfox_",
-    "content": "@matanSF @ben_rapaport @FactoryAI @AmpCode Can confirm, it's great.",
-    "url": "https://x.com/loopfox_/status/1983228966337991005",
-    "timestamp": "2025-10-28T17:46:46.000Z",
-    "metadata": {
-      "conversation_id": "1983228966337991005",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
