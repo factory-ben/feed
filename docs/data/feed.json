@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983047064939577664",
+    "source": "twitter",
+    "author": "pancrisp",
+    "content": "@cirucetam @CloudTrader4 @FactoryAI It does, I’ve seen it in action",
+    "url": "https://x.com/pancrisp/status/1983047064939577664",
+    "timestamp": "2025-10-28T05:43:58.000Z",
+    "metadata": {
+      "conversation_id": "1983047064939577664",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983043813330280904",
+    "source": "twitter",
+    "author": "WeLivetoServe",
+    "content": "@simonw @moderat10n @FactoryAI @opencode @AmpCode wen https://t.co/bsF8nmOcoy?",
+    "url": "https://x.com/WeLivetoServe/status/1983043813330280904",
+    "timestamp": "2025-10-28T05:31:02.000Z",
+    "metadata": {
+      "conversation_id": "1983043813330280904",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983042813806948625",
     "source": "twitter",
     "author": "cirucetam",
@@ -10,7 +40,7 @@
       "conversation_id": "1983042813806948625",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,7 +53,7 @@
     "timestamp": "2025-10-28T04:29:07.000Z",
     "metadata": {
       "conversation_id": "1983028229368885530",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982983827938234596",
-    "source": "twitter",
-    "author": "Dovahkiin_69",
-    "content": "Waiting for that @FactoryAI and @RepoPrompt colab",
-    "url": "https://x.com/Dovahkiin_69/status/1982983827938234596",
-    "timestamp": "2025-10-28T01:32:41.000Z",
-    "metadata": {
-      "conversation_id": "1982983827938234596",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982981683952369780",
-    "source": "twitter",
-    "author": "jatob0y",
-    "content": "@adolfont A maioria das ferramentas lhe dá \"créditos\", outras como a @FactoryAI lhe da literalmente qtd de tokens (20M - 40M tokens). O que vejo é sempre recomendações do tipo:\n- Junte varias tarefas em 1 so prompt. \nou\n- Ao finalizar uma tarefa, limpe o contexto para iniciar uma nova.",
-    "url": "https://x.com/jatob0y/status/1982981683952369780",
-    "timestamp": "2025-10-28T01:24:10.000Z",
-    "metadata": {
-      "conversation_id": "1982981683952369780",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_270",
     "source": "github",
     "author": "diegodev9",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
