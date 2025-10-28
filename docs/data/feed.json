@@ -1,5 +1,153 @@
 [
   {
+    "id": "twitter_1983193515372024268",
+    "source": "twitter",
+    "author": "smarative",
+    "content": "@bentossell @hqmank @FactoryAI @Hailuo_AI This mean \"on it\" I guess",
+    "url": "https://x.com/smarative/status/1983193515372024268",
+    "timestamp": "2025-10-28T15:25:54.000Z",
+    "metadata": {
+      "conversation_id": "1983193515372024268",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_277",
+    "source": "github",
+    "author": "britannio",
+    "content": "[Issue] unable to continue a specific session via `droid exec`\n\n`echo \"hello world\" | droid exec --output-format stream-json --skip-permissions-unsafe --session-id 7844a89c-5053-4ea9-9da2-6edea1c30743 2>&1`\n\nThis returns exit code 1 with no additional output.\n\n<img width=\"1866\" height=\"1202\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bd8e180e-55bf-49e7-b3f1-350369c73c77\" />\nLooking at the web app, there's an extra message that is sent after I interrupted the process.\n\n\n\nFull output history:\n```json\n{\"type\":\"system\",\"subtype\":\"init\",\"cwd\":\"/p",
+    "url": "https://github.com/Factory-AI/factory/issues/277",
+    "timestamp": "2025-10-28T15:25:53Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 277
+    }
+  },
+  {
+    "id": "twitter_1983193486502379539",
+    "source": "twitter",
+    "author": "harshitqback",
+    "content": "2: 𝐞𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧𝐢𝐧𝐠 𝐢𝐬 𝐧𝐚𝐫𝐫𝐨𝐰\nwindsurf → fedramp high certification\nclaude code → brand + compliance api\ndroid (by @FactoryAI)  → 1 ranking on terminal bench\nwhat this shows:\nnobody's positioning as generic \"enterprise-ready\"\neveryone picked a specific angle\ngovernment compliance vs brand trust vs technical proof",
+    "url": "https://x.com/harshitqback/status/1983193486502379539",
+    "timestamp": "2025-10-28T15:25:47.000Z",
+    "metadata": {
+      "conversation_id": "1983193486502379539",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983192696757072012",
+    "source": "twitter",
+    "author": "ben_rapaport",
+    "content": "@rishistyping @matanSF @FactoryAI @AmpCode Ends Oct 29...",
+    "url": "https://x.com/ben_rapaport/status/1983192696757072012",
+    "timestamp": "2025-10-28T15:22:39.000Z",
+    "metadata": {
+      "conversation_id": "1983192696757072012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983191677914517898",
+    "source": "twitter",
+    "author": "AonSayyed",
+    "content": "@matanSF @ben_rapaport @FactoryAI @AmpCode yep, because everyone who used it for more than a week is shipping, ngl claude is sometimes better, specially with the models that don't have custom harnesses in droid but for those that have, its way ahead of the rest",
+    "url": "https://x.com/AonSayyed/status/1983191677914517898",
+    "timestamp": "2025-10-28T15:18:36.000Z",
+    "metadata": {
+      "conversation_id": "1983191677914517898",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983190722686923220",
+    "source": "twitter",
+    "author": "rishistyping",
+    "content": "@matanSF @ben_rapaport @FactoryAI @AmpCode Free trial still active?",
+    "url": "https://x.com/rishistyping/status/1983190722686923220",
+    "timestamp": "2025-10-28T15:14:48.000Z",
+    "metadata": {
+      "conversation_id": "1983190722686923220",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983189125156221376",
+    "source": "twitter",
+    "author": "ben_rapaport",
+    "content": "@matanSF @FactoryAI @AmpCode Trying today... apparently my free trial ends tmrw.",
+    "url": "https://x.com/ben_rapaport/status/1983189125156221376",
+    "timestamp": "2025-10-28T15:08:27.000Z",
+    "metadata": {
+      "conversation_id": "1983189125156221376",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983189035125485769",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Yes, FactoryAI's Droids are direct competitors to Devin (Cognition's autonomous AI engineer), OpenAI's Codex (code generation tool), and Claude's background agents (like Claude Code for task automation). They all focus on AI-driven software dev, with Droids topping benchmarks like Terminal-Bench for end-to-end workflows.",
+    "url": "https://x.com/grok/status/1983189035125485769",
+    "timestamp": "2025-10-28T15:08:06.000Z",
+    "metadata": {
+      "conversation_id": "1983189035125485769",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983188864929091687",
+    "source": "twitter",
+    "author": "WarforgeXP",
+    "content": "@grok @FactoryAI @grok would you say FactoryAI is a direct competitor to Devin or Codex or Claude background agents?",
+    "url": "https://x.com/WarforgeXP/status/1983188864929091687",
+    "timestamp": "2025-10-28T15:07:25.000Z",
+    "metadata": {
+      "conversation_id": "1983188864929091687",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983188777310007592",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@ben_rapaport @FactoryAI @AmpCode Still here. You should try ;)",
+    "url": "https://x.com/matanSF/status/1983188777310007592",
+    "timestamp": "2025-10-28T15:07:05.000Z",
+    "metadata": {
+      "conversation_id": "1983188777310007592",
+      "likes": 6,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_276",
     "source": "github",
     "author": "nilzzzzzz",
@@ -23,7 +171,7 @@
       "conversation_id": "1983185585750876379",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -51,7 +199,7 @@
     "timestamp": "2025-10-28T14:49:07.000Z",
     "metadata": {
       "conversation_id": "1983184255791632562",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -96,9 +244,9 @@
     "timestamp": "2025-10-28T14:21:49.000Z",
     "metadata": {
       "conversation_id": "1983177387207770601",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -185,141 +333,6 @@
     "metadata": {
       "conversation_id": "1983173832157651036",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983171217768251438",
-    "source": "twitter",
-    "author": "sir4K_zen",
-    "content": "@FactoryAI @awscloud Exciting times! Can't wait to see how this boosts efficiency and collaboration.",
-    "url": "https://x.com/sir4K_zen/status/1983171217768251438",
-    "timestamp": "2025-10-28T13:57:18.000Z",
-    "metadata": {
-      "conversation_id": "1983171217768251438",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983170696906981425",
-    "source": "twitter",
-    "author": "TCGsealed",
-    "content": "@orsaorin @FactoryAI give @warpdotdev a try",
-    "url": "https://x.com/TCGsealed/status/1983170696906981425",
-    "timestamp": "2025-10-28T13:55:14.000Z",
-    "metadata": {
-      "conversation_id": "1983170696906981425",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983165634755375318",
-    "source": "twitter",
-    "author": "karanjagtiani04",
-    "content": "@FactoryAI @awscloud This is definitely a big step forward. Curious to see how it impacts deployment efficiency.",
-    "url": "https://x.com/karanjagtiani04/status/1983165634755375318",
-    "timestamp": "2025-10-28T13:35:07.000Z",
-    "metadata": {
-      "conversation_id": "1983165634755375318",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983164126697587061",
-    "source": "twitter",
-    "author": "hqmank",
-    "content": "@MullerNavas @FactoryAI @Hailuo_AI Good news, Minimax M2 model can be used for free before its official release on November 7.\nhttps://t.co/HPExWeFI2X",
-    "url": "https://x.com/hqmank/status/1983164126697587061",
-    "timestamp": "2025-10-28T13:29:07.000Z",
-    "metadata": {
-      "conversation_id": "1983164126697587061",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983164078563700936",
-    "source": "twitter",
-    "author": "hqmank",
-    "content": "@MullerNavas @FactoryAI @Hailuo_AI Edit this file: ~/.factory/config.json and add the following:\n\n{\n  \"model\": \"minimaxi-m2\",\n  \"base_url\": \"https://t.co/betlhSY7bW\",\n  \"api_key\": \"x\",\n  \"provider\": \"anthropic\"\n}",
-    "url": "https://x.com/hqmank/status/1983164078563700936",
-    "timestamp": "2025-10-28T13:28:56.000Z",
-    "metadata": {
-      "conversation_id": "1983164078563700936",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983161844522164237",
-    "source": "twitter",
-    "author": "MullerNavas",
-    "content": "@hqmank @FactoryAI @Hailuo_AI How do you add the custom models. @FactoryAI",
-    "url": "https://x.com/MullerNavas/status/1983161844522164237",
-    "timestamp": "2025-10-28T13:20:03.000Z",
-    "metadata": {
-      "conversation_id": "1983161844522164237",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983161074867417382",
-    "source": "twitter",
-    "author": "draslan_eth",
-    "content": "@FactoryAI droid buys",
-    "url": "https://x.com/draslan_eth/status/1983161074867417382",
-    "timestamp": "2025-10-28T13:17:00.000Z",
-    "metadata": {
-      "conversation_id": "1983161074867417382",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983156122849816752",
-    "source": "twitter",
-    "author": "arnaud_breton",
-    "content": "@bentossell @FactoryAI Great! Is there public issues tracking this? I’ll probably put Factory on the side until it’s fixed as it really breaks the flow 😟. Yesterday I had to run the command manually to achieve what I needed, frustrating. Hope it’s fixed soon, I love the CLI!",
-    "url": "https://x.com/arnaud_breton/status/1983156122849816752",
-    "timestamp": "2025-10-28T12:57:19.000Z",
-    "metadata": {
-      "conversation_id": "1983156122849816752",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983155841311354997",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@CloudTrader4 @FactoryAI *we hope models get better",
-    "url": "https://x.com/bentossell/status/1983155841311354997",
-    "timestamp": "2025-10-28T12:56:12.000Z",
-    "metadata": {
-      "conversation_id": "1983155841311354997",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -619,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -651,19 +664,6 @@
     }
   },
   {
-    "id": "github_issue_234",
-    "source": "github",
-    "author": "tgerighty",
-    "content": "[Issue] Bug Report: TypeError: undefined is not an object (evaluating 'A.match')\n\n# Bug Report: TypeError: undefined is not an object (evaluating 'A.match')\n\n**Affected Version**: Factory.ai Droid Platform (current)  \n**Date Reported**: 2025-10-22  \n\n## Environment Information\n\n- **Operating System**: macOS 15.0.0 (Sequoia) Darwin 25.0.0\n- **Droid Agent Model**: varies\n- **Factory.ai Version**: Current production version\n- **Runtime**: Bun runtime environment\n\n## Bug Description\n\nThe Factory.ai droid platform is experiencing a critical runtime error that causes agent executio",
-    "url": "https://github.com/Factory-AI/factory/issues/234",
-    "timestamp": "2025-10-22T14:40:49Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 234
-    }
-  },
-  {
     "id": "reddit_1ocv9jx",
     "source": "reddit",
     "author": "heretiqal",
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
