@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_282",
+    "source": "github",
+    "author": "DkRsrl",
+    "content": "[Issue] PhpStorm: Droid CLI doesn’t activate IDE-level integration when launched from integrated terminal\n\n**Description**\nAfter installing Droid CLI and configuring `PATH`, running `droid` inside PhpStorm’s integrated terminal starts the TUI, but IDE-level features don’t engage (selection context, diagnostics sharing, IDE diff viewer, etc.). The Factory docs say JetBrains IDEs require no plugin and that running `droid` in the integrated terminal should enable all features, but that’s not happening in my setup. ([[docs.factory.ai](https://docs.factory.ai/cli/configuration/ide-integrations)][1])\n\n**St",
+    "url": "https://github.com/Factory-AI/factory/issues/282",
+    "timestamp": "2025-10-29T17:01:40Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 282
+    }
+  },
+  {
     "id": "twitter_1983572644000612361",
     "source": "twitter",
     "author": "bentossell",
@@ -544,19 +557,6 @@
       "type": "issue",
       "labels": [],
       "number": 250
-    }
-  },
-  {
-    "id": "github_issue_246",
-    "source": "github",
-    "author": "hack-gibson",
-    "content": "[Issue] Auto Status in Droids Web\n\nDroids running on web browser (is this the proper name for that?) seems to ignore the auto settings that are input before the session. I've had multiple occasions where droid has wrote and saved files in my repo even through I have autonomy level set to off. Specifically on products droid when performing planning sessions. \n\n<img width=\"530\" height=\"758\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ad1e31ab-1754-4377-a171-8d31bcd14943\" />",
-    "url": "https://github.com/Factory-AI/factory/issues/246",
-    "timestamp": "2025-10-23T18:16:08Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 246
     }
   },
   {
