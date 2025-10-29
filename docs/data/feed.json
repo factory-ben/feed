@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983674783960338916",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Some vibe design with @FactoryAI + @v0 https://t.co/Bb2q2oEynn",
+    "url": "https://x.com/CloudTrader4/status/1983674783960338916",
+    "timestamp": "2025-10-29T23:18:18.000Z",
+    "metadata": {
+      "conversation_id": "1983674783960338916",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983669057015726142",
     "source": "twitter",
     "author": "BlinkOnChain",
@@ -203,7 +218,7 @@
     "timestamp": "2025-10-29T20:35:56.000Z",
     "metadata": {
       "conversation_id": "1983633923684057516",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -233,7 +248,7 @@
     "timestamp": "2025-10-29T20:28:51.000Z",
     "metadata": {
       "conversation_id": "1983632140404453468",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -248,7 +263,7 @@
     "timestamp": "2025-10-29T20:23:01.000Z",
     "metadata": {
       "conversation_id": "1983630676424585602",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -263,7 +278,7 @@
     "timestamp": "2025-10-29T20:18:19.000Z",
     "metadata": {
       "conversation_id": "1983629493114904794",
-      "likes": 8,
+      "likes": 10,
       "retweets": 0,
       "replies": 3,
       "quotes": 1
@@ -278,24 +293,9 @@
     "timestamp": "2025-10-29T19:57:30.000Z",
     "metadata": {
       "conversation_id": "1983624251983974419",
-      "likes": 21,
+      "likes": 22,
       "retweets": 3,
       "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983623296152404076",
-    "source": "twitter",
-    "author": "EnoReyes",
-    "content": "@Dimillian @cursor_ai Give @FactoryAI a try if you want a strong agent w/ frontier models that is modular, composable, and IDE-agnostic.",
-    "url": "https://x.com/EnoReyes/status/1983623296152404076",
-    "timestamp": "2025-10-29T19:53:42.000Z",
-    "metadata": {
-      "conversation_id": "1983623296152404076",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
