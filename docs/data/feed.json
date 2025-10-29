@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983424967435051019",
+    "source": "twitter",
+    "author": "NoBanksNearby",
+    "content": "@pascallammers_ @FactoryAI save spec as markdown means custom droids can have proper git histories. that's wild. huge for iteration. LFG 🚀 https://t.co/i0HT611Pn7",
+    "url": "https://x.com/NoBanksNearby/status/1983424967435051019",
+    "timestamp": "2025-10-29T06:45:37.000Z",
+    "metadata": {
+      "conversation_id": "1983424967435051019",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983424099629355281",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "Save Spec as Markdown ✅\nCustom Droids enabled ✅\n\nLFG @FactoryAI https://t.co/Ossi8VirTu",
+    "url": "https://x.com/pascallammers_/status/1983424099629355281",
+    "timestamp": "2025-10-29T06:42:10.000Z",
+    "metadata": {
+      "conversation_id": "1983424099629355281",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983420102281437262",
     "source": "twitter",
     "author": "trkaplan",
@@ -8,7 +38,7 @@
     "timestamp": "2025-10-29T06:26:17.000Z",
     "metadata": {
       "conversation_id": "1983420102281437262",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -278,36 +308,6 @@
       "conversation_id": "1983349687416697073",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983345168440017385",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@embirico @code @github @githubuniverse The next step though, committing to that mindset, would be removing the system prompt validation on the backend api endpoint so we can use our subs via @FactoryAI or @AmpCode or any other preferred harness. Right now that policy isn’t extended to other harnesses sans codex cli.",
-    "url": "https://x.com/ben_vargas/status/1983345168440017385",
-    "timestamp": "2025-10-29T01:28:31.000Z",
-    "metadata": {
-      "conversation_id": "1983345168440017385",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983344541513162787",
-    "source": "twitter",
-    "author": "MeTrevorLoucks",
-    "content": "@alvinsng @FactoryAI Yes, my custom rules ast-grep rules grows everyday, much better than writing rules in https://t.co/50uDWzyJfx",
-    "url": "https://x.com/MeTrevorLoucks/status/1983344541513162787",
-    "timestamp": "2025-10-29T01:26:02.000Z",
-    "metadata": {
-      "conversation_id": "1983344541513162787",
-      "likes": 1,
-      "retweets": 0,
       "replies": 1,
       "quotes": 0
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -690,19 +690,6 @@
     }
   },
   {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,6 +713,45 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1ob2dsx",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 9,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
