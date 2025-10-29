@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983669057015726142",
+    "source": "twitter",
+    "author": "BlinkOnChain",
+    "content": "@explosivesox @FactoryAI Game changing",
+    "url": "https://x.com/BlinkOnChain/status/1983669057015726142",
+    "timestamp": "2025-10-29T22:55:32.000Z",
+    "metadata": {
+      "conversation_id": "1983669057015726142",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983663917646987369",
     "source": "twitter",
     "author": "explosivesox",
@@ -8,7 +23,7 @@
     "timestamp": "2025-10-29T22:35:07.000Z",
     "metadata": {
       "conversation_id": "1983663917646987369",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -100,7 +115,7 @@
       "conversation_id": "1983653452296417491",
       "likes": 5,
       "retweets": 1,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -248,7 +263,7 @@
     "timestamp": "2025-10-29T20:18:19.000Z",
     "metadata": {
       "conversation_id": "1983629493114904794",
-      "likes": 7,
+      "likes": 8,
       "retweets": 0,
       "replies": 3,
       "quotes": 1
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1983623296152404076",
       "likes": 3,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983615341092860359",
-    "source": "twitter",
-    "author": "Tgerighty",
-    "content": "@pascallammers_ @FactoryAI Don’t they all consume context even if unused?",
-    "url": "https://x.com/Tgerighty/status/1983615341092860359",
-    "timestamp": "2025-10-29T19:22:05.000Z",
-    "metadata": {
-      "conversation_id": "1983615341092860359",
-      "likes": 0,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
