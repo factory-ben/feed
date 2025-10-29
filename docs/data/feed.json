@@ -1,5 +1,123 @@
 [
   {
+    "id": "twitter_1983572644000612361",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Tekhenra @FactoryAI were you using cli or web? lots of changes with web happening v soon (incl bridge)\n\n400 errors are being investigated+fixed\n\nhmm context is definitely something we've spent a lot of time on. it may be the setup, agents . md etc",
+    "url": "https://x.com/bentossell/status/1983572644000612361",
+    "timestamp": "2025-10-29T16:32:25.000Z",
+    "metadata": {
+      "conversation_id": "1983572644000612361",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983571279220535447",
+    "source": "twitter",
+    "author": "maheshnani122",
+    "content": "@TylerHallDevOps @FactoryAI Oh😯",
+    "url": "https://x.com/maheshnani122/status/1983571279220535447",
+    "timestamp": "2025-10-29T16:27:00.000Z",
+    "metadata": {
+      "conversation_id": "1983571279220535447",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_281",
+    "source": "github",
+    "author": "KostaGorod",
+    "content": "[Issue] Can't use tool \"GenerateDroid\" with custom model\n\n\n## Summary\nThe `GenerateDroid` tool currently uses the \"Zai's model\" when generating droid configurations. \nThere's should be option to use the **custom model** (similar to how specs generation works).\n\n## Current Behavior\nWhen using the `GenerateDroid` tool to create custom droid configurations, its usage going towards Zai's usage.\n\n## Expected Behavior\nThe `GenerateDroid` tool should:\n1. Use the **custom model** configuration (similar to specs generation)\n",
+    "url": "https://github.com/Factory-AI/factory/issues/281",
+    "timestamp": "2025-10-29T16:26:32Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 281
+    }
+  },
+  {
+    "id": "twitter_1983571120612855830",
+    "source": "twitter",
+    "author": "maheshnani122",
+    "content": "@TylerHallDevOps @FactoryAI Yeah",
+    "url": "https://x.com/maheshnani122/status/1983571120612855830",
+    "timestamp": "2025-10-29T16:26:22.000Z",
+    "metadata": {
+      "conversation_id": "1983571120612855830",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983570560303948224",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@noelhatem @FactoryAI Those are superpowers from Claude Code https://t.co/koRRz2DMgm",
+    "url": "https://x.com/pascallammers_/status/1983570560303948224",
+    "timestamp": "2025-10-29T16:24:09.000Z",
+    "metadata": {
+      "conversation_id": "1983570560303948224",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983570471745413603",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@AVGVSTVS96 @jkudish @FactoryAI No it was superpowers from Claude - https://t.co/koRRz2DMgm",
+    "url": "https://x.com/pascallammers_/status/1983570471745413603",
+    "timestamp": "2025-10-29T16:23:48.000Z",
+    "metadata": {
+      "conversation_id": "1983570471745413603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983570449201029363",
+    "source": "twitter",
+    "author": "Tekhenra",
+    "content": "@bentossell @FactoryAI Overall quite good, but some important issues:\n- I feel that tokens burn sooo quick. My project is big and I think that context might be under-optimized.\n- Many “400 error empty body” errors when using GPT-5.\n- Could not index my repo using bridge (already tweeted some days ago)",
+    "url": "https://x.com/Tekhenra/status/1983570449201029363",
+    "timestamp": "2025-10-29T16:23:42.000Z",
+    "metadata": {
+      "conversation_id": "1983570449201029363",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983564353853935774",
+    "source": "twitter",
+    "author": "noelhatem",
+    "content": "@pascallammers_ @FactoryAI you have created those or they come by default?",
+    "url": "https://x.com/noelhatem/status/1983564353853935774",
+    "timestamp": "2025-10-29T15:59:29.000Z",
+    "metadata": {
+      "conversation_id": "1983564353853935774",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983563104379081155",
     "source": "twitter",
     "author": "Dillon_Carter",
@@ -53,9 +171,9 @@
     "timestamp": "2025-10-29T15:40:59.000Z",
     "metadata": {
       "conversation_id": "1983559698151620888",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -83,7 +201,7 @@
     "timestamp": "2025-10-29T15:38:24.000Z",
     "metadata": {
       "conversation_id": "1983559050035098008",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,8 +216,8 @@
     "timestamp": "2025-10-29T15:35:42.000Z",
     "metadata": {
       "conversation_id": "1983558369400045778",
-      "likes": 0,
-      "retweets": 0,
+      "likes": 1,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0
     }
@@ -115,7 +233,7 @@
       "conversation_id": "1983556430499324346",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -202,111 +320,6 @@
     "metadata": {
       "conversation_id": "1983544190085849482",
       "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983543934006566927",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@every @FactoryAI @danshipper droid mode: on",
-    "url": "https://x.com/bentossell/status/1983543934006566927",
-    "timestamp": "2025-10-29T14:38:20.000Z",
-    "metadata": {
-      "conversation_id": "1983543934006566927",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983543158387638541",
-    "source": "twitter",
-    "author": "marcgregory_",
-    "content": "@EddieBe @FactoryAI Droid ui and tool calling are elite",
-    "url": "https://x.com/marcgregory_/status/1983543158387638541",
-    "timestamp": "2025-10-29T14:35:16.000Z",
-    "metadata": {
-      "conversation_id": "1983543158387638541",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983542540474437944",
-    "source": "twitter",
-    "author": "happydesign_",
-    "content": "@every @FactoryAI @bentossell @danshipper love the animation",
-    "url": "https://x.com/happydesign_/status/1983542540474437944",
-    "timestamp": "2025-10-29T14:32:48.000Z",
-    "metadata": {
-      "conversation_id": "1983542540474437944",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983542201029107979",
-    "source": "twitter",
-    "author": "ThatImagin4361",
-    "content": "Just gonna leave this here while I “work” today. @FactoryAI https://t.co/qOZYPROro2",
-    "url": "https://x.com/ThatImagin4361/status/1983542201029107979",
-    "timestamp": "2025-10-29T14:31:27.000Z",
-    "metadata": {
-      "conversation_id": "1983542201029107979",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983538709736894604",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@YourDesigncoza @FactoryAI would you want a $100/mo plan? or whats middle for you? \n\nalso curious why you're hesitant to just let on-demand pricing kick in?",
-    "url": "https://x.com/bentossell/status/1983538709736894604",
-    "timestamp": "2025-10-29T14:17:35.000Z",
-    "metadata": {
-      "conversation_id": "1983538709736894604",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983537803251077152",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@EddieBe @FactoryAI 🧠",
-    "url": "https://x.com/bentossell/status/1983537803251077152",
-    "timestamp": "2025-10-29T14:13:59.000Z",
-    "metadata": {
-      "conversation_id": "1983537803251077152",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983537714113753422",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@BlakeFolgado @FactoryAI reported",
-    "url": "https://x.com/bentossell/status/1983537714113753422",
-    "timestamp": "2025-10-29T14:13:38.000Z",
-    "metadata": {
-      "conversation_id": "1983537714113753422",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -544,19 +557,6 @@
       "type": "issue",
       "labels": [],
       "number": 246
-    }
-  },
-  {
-    "id": "github_issue_243",
-    "source": "github",
-    "author": "accelas",
-    "content": "[Issue] Droid should not have file write permission outside project.\n\nGLM 4.6 model have tendency to replace slash character in file path with underscore when it's nearly at max context window. eg `/home/user1/work/project` is changed to `/home/user1/work_project`.  This is observed for both z.ai's coding plan and droid-core model.\n\nWhen droid is running under `/home/user1/work/project` , model may instruct droid to touch files under  `/home/user1/work_project`.\n\nRegardless how model behave, the droid program itself should not give model permission to touch files ",
-    "url": "https://github.com/Factory-AI/factory/issues/243",
-    "timestamp": "2025-10-23T15:05:31Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 243
     }
   },
   {
