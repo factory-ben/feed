@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1983548713713947100",
+    "source": "twitter",
+    "author": "0xnihilism",
+    "content": "@Fernand48030346 @Dimillian Both used to be great. Now they’re greedy ever since they got partnerships with big companies.\n\n@FactoryAI is the next step. So much better than hard forking vscode.",
+    "url": "https://x.com/0xnihilism/status/1983548713713947100",
+    "timestamp": "2025-10-29T14:57:20.000Z",
+    "metadata": {
+      "conversation_id": "1983548713713947100",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983546440472526883",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@every @FactoryAI @bentossell @danshipper the @FactoryAI's Droids sound great - as a developer, seems like a game-changer for routine tasks.",
+    "url": "https://x.com/BillCrosby/status/1983546440472526883",
+    "timestamp": "2025-10-29T14:48:18.000Z",
+    "metadata": {
+      "conversation_id": "1983546440472526883",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_280",
+    "source": "github",
+    "author": "Bob5k",
+    "content": "[Issue] add minimax m2\n\nhttps://www.minimax.io/news/minimax-m2\n\nmight be better than GLM4.6 but also cheaper to run aswell, producing an incredible combination of efficiency x tokens usage.",
+    "url": "https://github.com/Factory-AI/factory/issues/280",
+    "timestamp": "2025-10-29T14:47:39Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 280
+    }
+  },
+  {
     "id": "twitter_1983544190085849482",
     "source": "twitter",
     "author": "every",
@@ -8,7 +51,7 @@
     "timestamp": "2025-10-29T14:39:22.000Z",
     "metadata": {
       "conversation_id": "1983544190085849482",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,7 +66,7 @@
     "timestamp": "2025-10-29T14:38:20.000Z",
     "metadata": {
       "conversation_id": "1983543934006566927",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -128,7 +171,7 @@
     "timestamp": "2025-10-29T14:12:56.000Z",
     "metadata": {
       "conversation_id": "1983537538246852617",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -143,9 +186,9 @@
     "timestamp": "2025-10-29T14:02:18.000Z",
     "metadata": {
       "conversation_id": "1983534862557663599",
-      "likes": 7,
+      "likes": 9,
       "retweets": 2,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -263,36 +306,6 @@
     "timestamp": "2025-10-29T12:26:57.000Z",
     "metadata": {
       "conversation_id": "1983510868399997200",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983510480640516598",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@pascallammers_ @FactoryAI yeah must be",
-    "url": "https://x.com/bentossell/status/1983510480640516598",
-    "timestamp": "2025-10-29T12:25:25.000Z",
-    "metadata": {
-      "conversation_id": "1983510480640516598",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983509993975402855",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@bentossell @FactoryAI Actually I didn’t but could be Claude skills? 🤔",
-    "url": "https://x.com/pascallammers_/status/1983509993975402855",
-    "timestamp": "2025-10-29T12:23:29.000Z",
-    "metadata": {
-      "conversation_id": "1983509993975402855",
       "likes": 1,
       "retweets": 0,
       "replies": 1,
@@ -544,19 +557,6 @@
       "type": "issue",
       "labels": [],
       "number": 243
-    }
-  },
-  {
-    "id": "github_issue_242",
-    "source": "github",
-    "author": "aashay-sarvam",
-    "content": "[Issue] How to see reasoning with custom model?\n\nI am currently experimenting with a custom reasoning model, but I am unable to see it's thinking. Is there a way to change this? There is nothing in the documentation for this. \n\n",
-    "url": "https://github.com/Factory-AI/factory/issues/242",
-    "timestamp": "2025-10-23T13:59:18Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 242
     }
   },
   {
