@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983646249753702618",
+    "source": "twitter",
+    "author": "leonidng",
+    "content": "Droid by @FactoryAI + GLM 4.6 is my new fave combo.",
+    "url": "https://x.com/leonidng/status/1983646249753702618",
+    "timestamp": "2025-10-29T21:24:54.000Z",
+    "metadata": {
+      "conversation_id": "1983646249753702618",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983646099773792589",
     "source": "twitter",
     "author": "bentossell",
@@ -143,7 +158,7 @@
     "timestamp": "2025-10-29T19:57:30.000Z",
     "metadata": {
       "conversation_id": "1983624251983974419",
-      "likes": 19,
+      "likes": 20,
       "retweets": 3,
       "replies": 2,
       "quotes": 0
@@ -158,7 +173,7 @@
     "timestamp": "2025-10-29T19:53:42.000Z",
     "metadata": {
       "conversation_id": "1983623296152404076",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -176,6 +191,21 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983608228765429920",
+    "source": "twitter",
+    "author": "TreeLakeRain",
+    "content": "@MickeyShaughnes @FactoryAI I don’t know what any of you kids are talking about",
+    "url": "https://x.com/TreeLakeRain/status/1983608228765429920",
+    "timestamp": "2025-10-29T18:53:50.000Z",
+    "metadata": {
+      "conversation_id": "1983608228765429920",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983586296879579489",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Tekhenra @FactoryAI we will have some guides on this v soon!",
-    "url": "https://x.com/bentossell/status/1983586296879579489",
-    "timestamp": "2025-10-29T17:26:41.000Z",
-    "metadata": {
-      "conversation_id": "1983586296879579489",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983586220308623706",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Tekhenra @FactoryAI haha i hear you!",
-    "url": "https://x.com/bentossell/status/1983586220308623706",
-    "timestamp": "2025-10-29T17:26:22.000Z",
-    "metadata": {
-      "conversation_id": "1983586220308623706",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
