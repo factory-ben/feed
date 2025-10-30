@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1983871246874873919",
+    "source": "twitter",
+    "author": "alvinjamur",
+    "content": "Most impressive recent thing I’ve seen and use every day now is Droid by @FactoryAI - ring that rules ‘em all!\n\nOnly wish is that they get back faster to users wanting to jump to Enterprise (https://t.co/sIRpL0Utxg) and have questions. Sales is not responsive. \n\nhttps://t.co/5wEzoNqfOY\n\n@EnoReyes",
+    "url": "https://x.com/alvinjamur/status/1983871246874873919",
+    "timestamp": "2025-10-30T12:18:58.000Z",
+    "metadata": {
+      "conversation_id": "1983871246874873919",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983869144610058680",
+    "source": "twitter",
+    "author": "ayantolo_",
+    "content": "@bentossell @FactoryAI Yup, will do next time it happens\n\nIt happened twice for me today and the solution was easy but I wondered whether that was only for me",
+    "url": "https://x.com/ayantolo_/status/1983869144610058680",
+    "timestamp": "2025-10-30T12:10:37.000Z",
+    "metadata": {
+      "conversation_id": "1983869144610058680",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983867734195933431",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@YourDesigncoza @FactoryAI ok i hear you. discussing internally plans :)",
+    "url": "https://x.com/bentossell/status/1983867734195933431",
+    "timestamp": "2025-10-30T12:05:00.000Z",
+    "metadata": {
+      "conversation_id": "1983867734195933431",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983866721883529564",
+    "source": "twitter",
+    "author": "YourDesigncoza",
+    "content": "@bentossell @FactoryAI @bentossell as for on-demand, it's simply not cost effective :::",
+    "url": "https://x.com/YourDesigncoza/status/1983866721883529564",
+    "timestamp": "2025-10-30T12:00:59.000Z",
+    "metadata": {
+      "conversation_id": "1983866721883529564",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983866578031800678",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@ayantolo_ @FactoryAI it has happened a couple times, investigating whether bug or model behaviour. if it happens again can you run /bug and email me the report pls ben @ factory . ai",
+    "url": "https://x.com/bentossell/status/1983866578031800678",
+    "timestamp": "2025-10-30T12:00:25.000Z",
+    "metadata": {
+      "conversation_id": "1983866578031800678",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983866396128825609",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@thedanifrim @JuiceSharp @FactoryAI discussing internally :)",
+    "url": "https://x.com/bentossell/status/1983866396128825609",
+    "timestamp": "2025-10-30T11:59:41.000Z",
+    "metadata": {
+      "conversation_id": "1983866396128825609",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983866184027238603",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nest_elf @slow_developer @FactoryAI ❤️",
+    "url": "https://x.com/bentossell/status/1983866184027238603",
+    "timestamp": "2025-10-30T11:58:51.000Z",
+    "metadata": {
+      "conversation_id": "1983866184027238603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983866056851812489",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@_lparadisemusic @FactoryAI could you lmk whats happening for you?",
+    "url": "https://x.com/bentossell/status/1983866056851812489",
+    "timestamp": "2025-10-30T11:58:21.000Z",
+    "metadata": {
+      "conversation_id": "1983866056851812489",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983865562762821656",
     "source": "twitter",
     "author": "bentossell",
@@ -40,7 +160,7 @@
       "conversation_id": "1983856072025592232",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -180,126 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983766827340853362",
-    "source": "twitter",
-    "author": "epi__taph",
-    "content": "“#AI駆動開発 カンファレンス2025秋”\n\n@FactoryAI CEO @matanSF 氏\n\n「Agent Native Development」\n「コードを書かずマネージングする時代」\n「詳細な指示が重要なのは人間もエージェントも同じ」\n\nコンテキストエンジニアリングの重要性。\n詳細な指示が生産性の鍵。\n\n#aiddcon2025 #AI駆動開発勉強会",
-    "url": "https://x.com/epi__taph/status/1983766827340853362",
-    "timestamp": "2025-10-30T05:24:02.000Z",
-    "metadata": {
-      "conversation_id": "1983766827340853362",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983765941843525707",
-    "source": "twitter",
-    "author": "jamiepoker12",
-    "content": "@explosivesox @FactoryAI @BlinkOnChain The worlds first +ev gambler",
-    "url": "https://x.com/jamiepoker12/status/1983765941843525707",
-    "timestamp": "2025-10-30T05:20:31.000Z",
-    "metadata": {
-      "conversation_id": "1983765941843525707",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983765369006538970",
-    "source": "twitter",
-    "author": "_lparadisemusic",
-    "content": "@FactoryAI Droid is not working",
-    "url": "https://x.com/_lparadisemusic/status/1983765369006538970",
-    "timestamp": "2025-10-30T05:18:15.000Z",
-    "metadata": {
-      "conversation_id": "1983765369006538970",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983760170774896807",
-    "source": "twitter",
-    "author": "The_Anant_Raj",
-    "content": "This is a proof that we dont need big LLMs with trillions of parameters to generate production level code\n\nWhat we need is highly specialised LLMs with better tool usage \n\nOne of the best examples of this is:\n- @cursor_ai \n- @AmpCode \n- @Kombaico \n- @FactoryAI",
-    "url": "https://x.com/The_Anant_Raj/status/1983760170774896807",
-    "timestamp": "2025-10-30T04:57:35.000Z",
-    "metadata": {
-      "conversation_id": "1983760170774896807",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983750387187511796",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@bentossell @FactoryAI also definitely not a fan of losing the mcp add commands completely, I don't want to navigate through a menu when I could just paste one line https://t.co/agsxoJnY5O",
-    "url": "https://x.com/fire/status/1983750387187511796",
-    "timestamp": "2025-10-30T04:18:43.000Z",
-    "metadata": {
-      "conversation_id": "1983750387187511796",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983749572368461934",
-    "source": "twitter",
-    "author": "sanerc110",
-    "content": "@pascallammers_ @FactoryAI we have to get vim mode for editing the prompt",
-    "url": "https://x.com/sanerc110/status/1983749572368461934",
-    "timestamp": "2025-10-30T04:15:28.000Z",
-    "metadata": {
-      "conversation_id": "1983749572368461934",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983746376770195530",
-    "source": "twitter",
-    "author": "quyettruon37828",
-    "content": "@JuiceSharp @FactoryAI claude sonnet 4.5 best everything sucks(or gpt5), wait and see m2 from minimax",
-    "url": "https://x.com/quyettruon37828/status/1983746376770195530",
-    "timestamp": "2025-10-30T04:02:47.000Z",
-    "metadata": {
-      "conversation_id": "1983746376770195530",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983742629323141434",
-    "source": "twitter",
-    "author": "kageiit",
-    "content": "@alvinsng @FactoryAI You can write linter rules in natural language using @gitarcode to run on all your prs",
-    "url": "https://x.com/kageiit/status/1983742629323141434",
-    "timestamp": "2025-10-30T03:47:53.000Z",
-    "metadata": {
-      "conversation_id": "1983742629323141434",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -690,19 +690,6 @@
     }
   },
   {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -713,6 +700,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
