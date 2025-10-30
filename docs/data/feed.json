@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984003220558246405",
+    "source": "twitter",
+    "author": "LevJampolsky",
+    "content": "@alvinsng @FactoryAI Love it. Can it really be called an office if there's not at least one foosball table or one ping pong table 😎",
+    "url": "https://x.com/LevJampolsky/status/1984003220558246405",
+    "timestamp": "2025-10-30T21:03:23.000Z",
+    "metadata": {
+      "conversation_id": "1984003220558246405",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984001366591975637",
+    "source": "twitter",
+    "author": "JuiceSharp",
+    "content": "If you are a power user (really need CC Max $200 limits), the droid can be just a nice addendum and cannot replace CC  (my case last month, I burned 1.8B tokens). In case you don't need the Max Plan (means moderate usage), Factory will be the tool of choice (a bit smarter, allows other models like GPT-5, another affordable plan like https://t.co/xPptktjUmq for GLM 4.6).",
+    "url": "https://x.com/JuiceSharp/status/1984001366591975637",
+    "timestamp": "2025-10-30T20:56:01.000Z",
+    "metadata": {
+      "conversation_id": "1984001366591975637",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984000347325788376",
     "source": "twitter",
     "author": "every",
@@ -8,7 +38,7 @@
     "timestamp": "2025-10-30T20:51:58.000Z",
     "metadata": {
       "conversation_id": "1984000347325788376",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,9 +83,9 @@
     "timestamp": "2025-10-30T20:44:09.000Z",
     "metadata": {
       "conversation_id": "1983998379614187776",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -85,7 +115,7 @@
       "conversation_id": "1983982733379694969",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -233,8 +263,8 @@
     "timestamp": "2025-10-30T18:50:08.000Z",
     "metadata": {
       "conversation_id": "1983969687336792346",
-      "likes": 6,
-      "retweets": 1,
+      "likes": 9,
+      "retweets": 2,
       "replies": 1,
       "quotes": 0
     }
@@ -266,36 +296,6 @@
       "likes": 28,
       "retweets": 1,
       "replies": 4,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983953397104406868",
-    "source": "twitter",
-    "author": "anthonyronning_",
-    "content": "@DannyAziz97 @FactoryAI @every I did the same. Cancelled both of my max plans in favor of Factory’s.",
-    "url": "https://x.com/anthonyronning_/status/1983953397104406868",
-    "timestamp": "2025-10-30T17:45:24.000Z",
-    "metadata": {
-      "conversation_id": "1983953397104406868",
-      "likes": 6,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983949156222955702",
-    "source": "twitter",
-    "author": "EnoReyes",
-    "content": "@alvinjamur @FactoryAI Checking on this now!",
-    "url": "https://x.com/EnoReyes/status/1983949156222955702",
-    "timestamp": "2025-10-30T17:28:33.000Z",
-    "metadata": {
-      "conversation_id": "1983949156222955702",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
