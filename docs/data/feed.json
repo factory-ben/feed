@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1983975900078338081",
+    "source": "twitter",
+    "author": "davidrsdlife",
+    "content": "@alvinsng @FactoryAI caramel one is so good",
+    "url": "https://x.com/davidrsdlife/status/1983975900078338081",
+    "timestamp": "2025-10-30T19:14:49.000Z",
+    "metadata": {
+      "conversation_id": "1983975900078338081",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983974324689367219",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@davidrsdlife @FactoryAI Soo good yet soo bad 🤤",
+    "url": "https://x.com/alvinsng/status/1983974324689367219",
+    "timestamp": "2025-10-30T19:08:34.000Z",
+    "metadata": {
+      "conversation_id": "1983974324689367219",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983974115532009944",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@DannyAziz97 @FactoryAI @every ❤️❤️",
+    "url": "https://x.com/bentossell/status/1983974115532009944",
+    "timestamp": "2025-10-30T19:07:44.000Z",
+    "metadata": {
+      "conversation_id": "1983974115532009944",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983972498308743257",
+    "source": "twitter",
+    "author": "davidrsdlife",
+    "content": "@alvinsng @FactoryAI brooo the chobabi creamers are bangers",
+    "url": "https://x.com/davidrsdlife/status/1983972498308743257",
+    "timestamp": "2025-10-30T19:01:18.000Z",
+    "metadata": {
+      "conversation_id": "1983972498308743257",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983971479516778825",
+    "source": "twitter",
+    "author": "every",
+    "content": "@DannyAziz97 @FactoryAI \"The bottom line: Droid keeps me in flow.\" @DannyAziz97 https://t.co/Ddmx7WIT7a",
+    "url": "https://x.com/every/status/1983971479516778825",
+    "timestamp": "2025-10-30T18:57:15.000Z",
+    "metadata": {
+      "conversation_id": "1983971479516778825",
+      "likes": 5,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983970214015648216",
     "source": "twitter",
     "author": "LevJampolsky",
@@ -38,9 +113,9 @@
     "timestamp": "2025-10-30T18:50:08.000Z",
     "metadata": {
       "conversation_id": "1983969687336792346",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
+      "likes": 5,
+      "retweets": 1,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -68,9 +143,9 @@
     "timestamp": "2025-10-30T18:38:02.000Z",
     "metadata": {
       "conversation_id": "1983966643350118665",
-      "likes": 8,
+      "likes": 15,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -83,7 +158,7 @@
     "timestamp": "2025-10-30T17:45:24.000Z",
     "metadata": {
       "conversation_id": "1983953397104406868",
-      "likes": 4,
+      "likes": 5,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -113,9 +188,9 @@
     "timestamp": "2025-10-30T17:16:51.000Z",
     "metadata": {
       "conversation_id": "1983946210261319863",
-      "likes": 44,
+      "likes": 51,
       "retweets": 8,
-      "replies": 1,
+      "replies": 2,
       "quotes": 2
     }
   },
@@ -218,81 +293,6 @@
     "timestamp": "2025-10-30T16:09:51.000Z",
     "metadata": {
       "conversation_id": "1983929349020459429",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983929081746825269",
-    "source": "twitter",
-    "author": "Ryanskickz",
-    "content": "@JuiceSharp @FactoryAI I personally find splitting work between CC and droid then having them review and fix mistakes of eachother to be almost perfect excecution coordinated as a team. Also u can use your cc sub on droid just gotta hack the path custom model",
-    "url": "https://x.com/Ryanskickz/status/1983929081746825269",
-    "timestamp": "2025-10-30T16:08:47.000Z",
-    "metadata": {
-      "conversation_id": "1983929081746825269",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983928703873626170",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@PhongGT @JuiceSharp @FactoryAI we hear ya!",
-    "url": "https://x.com/bentossell/status/1983928703873626170",
-    "timestamp": "2025-10-30T16:07:17.000Z",
-    "metadata": {
-      "conversation_id": "1983928703873626170",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983928543974203842",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@_lparadisemusic @FactoryAI very odd. can you email support@factory.ai with the bug report when you run /bug please? will take a look for you\n\ncan cc me ben @",
-    "url": "https://x.com/bentossell/status/1983928543974203842",
-    "timestamp": "2025-10-30T16:06:39.000Z",
-    "metadata": {
-      "conversation_id": "1983928543974203842",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983920436522959245",
-    "source": "twitter",
-    "author": "akkytech1",
-    "content": "@FactoryAI #zenn",
-    "url": "https://x.com/akkytech1/status/1983920436522959245",
-    "timestamp": "2025-10-30T15:34:26.000Z",
-    "metadata": {
-      "conversation_id": "1983920436522959245",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983916255389110704",
-    "source": "twitter",
-    "author": "_lparadisemusic",
-    "content": "@bentossell @FactoryAI Some of my tool calls aren't working, and it won't let me create droids either, it throws an error",
-    "url": "https://x.com/_lparadisemusic/status/1983916255389110704",
-    "timestamp": "2025-10-30T15:17:49.000Z",
-    "metadata": {
-      "conversation_id": "1983916255389110704",
       "likes": 0,
       "retweets": 0,
       "replies": 1,
