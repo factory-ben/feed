@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983946210261319863",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "I canceled my Claude Max plan for @FactoryAI's Droid.\n\nDroid runs Anthropic and OpenAI models in one terminal and somehow the same models perform better than in their own harnesses.\n\nFull vibe check for @every here: \n\nhttps://t.co/KNiennT6NH",
+    "url": "https://x.com/DannyAziz97/status/1983946210261319863",
+    "timestamp": "2025-10-30T17:16:51.000Z",
+    "metadata": {
+      "conversation_id": "1983946210261319863",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983940611104195011",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@smithstephen @every @FactoryAI @danshipper 🔥",
+    "url": "https://x.com/bentossell/status/1983940611104195011",
+    "timestamp": "2025-10-30T16:54:36.000Z",
+    "metadata": {
+      "conversation_id": "1983940611104195011",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983939529690980767",
     "source": "twitter",
     "author": "bentossell",
@@ -38,9 +68,9 @@
     "timestamp": "2025-10-30T16:40:52.000Z",
     "metadata": {
       "conversation_id": "1983937157120024861",
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983871246874873919",
-    "source": "twitter",
-    "author": "alvinjamur",
-    "content": "Most impressive recent thing I’ve seen and use every day now is Droid by @FactoryAI - ring that rules ‘em all!\n\nOnly wish is that they get back faster to users wanting to jump to Enterprise (https://t.co/sIRpL0Utxg) and have questions. Sales is not responsive. \n\nhttps://t.co/5wEzoNqfOY\n\n@EnoReyes",
-    "url": "https://x.com/alvinjamur/status/1983871246874873919",
-    "timestamp": "2025-10-30T12:18:58.000Z",
-    "metadata": {
-      "conversation_id": "1983871246874873919",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983869144610058680",
-    "source": "twitter",
-    "author": "ayantolo_",
-    "content": "@bentossell @FactoryAI Yup, will do next time it happens\n\nIt happened twice for me today and the solution was easy but I wondered whether that was only for me",
-    "url": "https://x.com/ayantolo_/status/1983869144610058680",
-    "timestamp": "2025-10-30T12:10:37.000Z",
-    "metadata": {
-      "conversation_id": "1983869144610058680",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -686,19 +686,6 @@
     "metadata": {
       "score": 4,
       "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
