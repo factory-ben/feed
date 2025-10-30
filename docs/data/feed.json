@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983920436522959245",
+    "source": "twitter",
+    "author": "akkytech1",
+    "content": "@FactoryAI #zenn",
+    "url": "https://x.com/akkytech1/status/1983920436522959245",
+    "timestamp": "2025-10-30T15:34:26.000Z",
+    "metadata": {
+      "conversation_id": "1983920436522959245",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983916255389110704",
     "source": "twitter",
     "author": "_lparadisemusic",
@@ -85,7 +100,7 @@
       "conversation_id": "1983899044691996866",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983847825919054201",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@fire @FactoryAI good point on the error! appreciate it",
-    "url": "https://x.com/bentossell/status/1983847825919054201",
-    "timestamp": "2025-10-30T10:45:54.000Z",
-    "metadata": {
-      "conversation_id": "1983847825919054201",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 16,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
