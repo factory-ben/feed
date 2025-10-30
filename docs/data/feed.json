@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983949156222955702",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@alvinjamur @FactoryAI Checking on this now!",
+    "url": "https://x.com/EnoReyes/status/1983949156222955702",
+    "timestamp": "2025-10-30T17:28:33.000Z",
+    "metadata": {
+      "conversation_id": "1983949156222955702",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983946210261319863",
     "source": "twitter",
     "author": "DannyAziz97",
@@ -8,10 +23,10 @@
     "timestamp": "2025-10-30T17:16:51.000Z",
     "metadata": {
       "conversation_id": "1983946210261319863",
-      "likes": 0,
-      "retweets": 0,
+      "likes": 10,
+      "retweets": 1,
       "replies": 0,
-      "quotes": 0
+      "quotes": 1
     }
   },
   {
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983886807394816026",
-    "source": "twitter",
-    "author": "JuiceSharp",
-    "content": "@bentossell @thedanifrim @FactoryAI Any plan should include some noticeable discount, not just be a direct projection of Pay As You Go overcharged tokens. I would keep the plan model simple as you guys probably are not in the position at this moment to compete on pricing against the whales.",
-    "url": "https://x.com/JuiceSharp/status/1983886807394816026",
-    "timestamp": "2025-10-30T13:20:48.000Z",
-    "metadata": {
-      "conversation_id": "1983886807394816026",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -690,6 +690,19 @@
     }
   },
   {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -700,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
