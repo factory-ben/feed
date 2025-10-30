@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983982733379694969",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@LevJampolsky @FactoryAI We do have ping pong tournaments! Mentioned here: https://t.co/bE8S39Ab1f",
+    "url": "https://x.com/alvinsng/status/1983982733379694969",
+    "timestamp": "2025-10-30T19:41:58.000Z",
+    "metadata": {
+      "conversation_id": "1983982733379694969",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983981359673831591",
     "source": "twitter",
     "author": "alvinsng",
@@ -8,7 +23,7 @@
     "timestamp": "2025-10-30T19:36:31.000Z",
     "metadata": {
       "conversation_id": "1983981359673831591",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,7 +113,7 @@
     "timestamp": "2025-10-30T18:57:15.000Z",
     "metadata": {
       "conversation_id": "1983971479516778825",
-      "likes": 5,
+      "likes": 6,
       "retweets": 1,
       "replies": 0,
       "quotes": 0
@@ -115,7 +130,7 @@
       "conversation_id": "1983970214015648216",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -173,7 +188,7 @@
     "timestamp": "2025-10-30T18:38:02.000Z",
     "metadata": {
       "conversation_id": "1983966643350118665",
-      "likes": 21,
+      "likes": 22,
       "retweets": 0,
       "replies": 4,
       "quotes": 0
@@ -218,8 +233,8 @@
     "timestamp": "2025-10-30T17:16:51.000Z",
     "metadata": {
       "conversation_id": "1983946210261319863",
-      "likes": 56,
-      "retweets": 10,
+      "likes": 58,
+      "retweets": 11,
       "replies": 2,
       "quotes": 2
     }
@@ -281,21 +296,6 @@
       "likes": 3,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983930690451206299",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@ayantolo_ @FactoryAI ty",
-    "url": "https://x.com/bentossell/status/1983930690451206299",
-    "timestamp": "2025-10-30T16:15:10.000Z",
-    "metadata": {
-      "conversation_id": "1983930690451206299",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -713,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
