@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984012903935307839",
+    "source": "twitter",
+    "author": "EmmaLustre90",
+    "content": "@DannyAziz97 @FactoryAI @every How much do they pay you guys?",
+    "url": "https://x.com/EmmaLustre90/status/1984012903935307839",
+    "timestamp": "2025-10-30T21:41:52.000Z",
+    "metadata": {
+      "conversation_id": "1984012903935307839",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984011303174992219",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@bechiche_ @FactoryAI 🧑‍🍳",
+    "url": "https://x.com/bentossell/status/1984011303174992219",
+    "timestamp": "2025-10-30T21:35:30.000Z",
+    "metadata": {
+      "conversation_id": "1984011303174992219",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984009378975060161",
     "source": "twitter",
     "author": "nathanpareo",
@@ -68,7 +98,7 @@
     "timestamp": "2025-10-30T20:51:58.000Z",
     "metadata": {
       "conversation_id": "1984000347325788376",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,7 +113,7 @@
     "timestamp": "2025-10-30T20:51:40.000Z",
     "metadata": {
       "conversation_id": "1984000272365146468",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -128,7 +158,7 @@
     "timestamp": "2025-10-30T19:58:17.000Z",
     "metadata": {
       "conversation_id": "1983986837644628137",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -265,36 +295,6 @@
       "conversation_id": "1983970214015648216",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983970020217782745",
-    "source": "twitter",
-    "author": "cmricksen",
-    "content": "@anthonyronning_ @DannyAziz97 @FactoryAI @every love to hear this - keep us posted on your experience building with Droids!",
-    "url": "https://x.com/cmricksen/status/1983970020217782745",
-    "timestamp": "2025-10-30T18:51:27.000Z",
-    "metadata": {
-      "conversation_id": "1983970020217782745",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983969687336792346",
-    "source": "twitter",
-    "author": "every",
-    "content": "The reach test at @every: Is it something you open first, every day?\n\n@DannyAziz97 kept opening Droid by @FactoryAI. Now he's paying for it instead of keeping Max plans for Claude and ChatGPT.\n\nWhy he switched: https://t.co/Oi8ATG01Eq",
-    "url": "https://x.com/every/status/1983969687336792346",
-    "timestamp": "2025-10-30T18:50:08.000Z",
-    "metadata": {
-      "conversation_id": "1983969687336792346",
-      "likes": 10,
-      "retweets": 2,
       "replies": 1,
       "quotes": 0
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
