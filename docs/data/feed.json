@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984359444176830951",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Now you can use claude agents directly into Droid from @FactoryAI \n\nGreat work, pretty handy https://t.co/dZLm0qjHxE",
+    "url": "https://x.com/CloudTrader4/status/1984359444176830951",
+    "timestamp": "2025-10-31T20:38:53.000Z",
+    "metadata": {
+      "conversation_id": "1984359444176830951",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984357369179226491",
+    "source": "twitter",
+    "author": "DTrembois",
+    "content": "@BTConnector_ @amirmxt @webflow @FactoryAI DROID CLI Agents can achieve similar results",
+    "url": "https://x.com/DTrembois/status/1984357369179226491",
+    "timestamp": "2025-10-31T20:30:39.000Z",
+    "metadata": {
+      "conversation_id": "1984357369179226491",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984354610069594129",
     "source": "twitter",
     "author": "ReubenKib",
@@ -40,7 +70,7 @@
       "conversation_id": "1984351606692069600",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -150,19 +180,6 @@
     }
   },
   {
-    "id": "github_issue_294",
-    "source": "github",
-    "author": "nmarley",
-    "content": "[Issue] Please support ghostty and alacritty for /terminal-setup\n\nMulti-line typing is great. Using `\\` + newline is not ideal. It is slow and cumbersome. Claude Code has this and I would imagine this is not super hard to add, since you have iTerm2 support already. Shift + enter would be a much nicer UX than `\\` + newline.\n\nThanks!",
-    "url": "https://github.com/Factory-AI/factory/issues/294",
-    "timestamp": "2025-10-31T19:37:13Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 294
-    }
-  },
-  {
     "id": "twitter_1984341252645798389",
     "source": "twitter",
     "author": "ngmarley",
@@ -186,7 +203,7 @@
     "timestamp": "2025-10-31T19:13:55.000Z",
     "metadata": {
       "conversation_id": "1984338062105784394",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -261,7 +278,7 @@
     "timestamp": "2025-10-31T17:20:13.000Z",
     "metadata": {
       "conversation_id": "1984309448848867356",
-      "likes": 9,
+      "likes": 10,
       "retweets": 2,
       "replies": 0,
       "quotes": 0
@@ -279,36 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984303759162315034",
-    "source": "twitter",
-    "author": "henrywdennis",
-    "content": "@bentossell On a scale of never, maybe, and certainly. What is the likelihood that @FactoryAI lands in AgentHQ?",
-    "url": "https://x.com/henrywdennis/status/1984303759162315034",
-    "timestamp": "2025-10-31T16:57:37.000Z",
-    "metadata": {
-      "conversation_id": "1984303759162315034",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984300935716462919",
-    "source": "twitter",
-    "author": "raizamrtn",
-    "content": "@constantin_e21 @FactoryAI oh very nice!!",
-    "url": "https://x.com/raizamrtn/status/1984300935716462919",
-    "timestamp": "2025-10-31T16:46:24.000Z",
-    "metadata": {
-      "conversation_id": "1984300935716462919",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -411,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -638,6 +625,19 @@
     }
   },
   {
+    "id": "github_issue_254",
+    "source": "github",
+    "author": "ryzen3100",
+    "content": "[Issue] Illegal instruction (core dumped)\n\nI can't run Droid anymore, it used to work before, but with the latest update I'm getting core dumped error.\n`Illegal instruction (core dumped)`\n```\n[vm@ubuntu-coding vm]> droid\nfish: Job 1, 'droid' terminated by signal SIGILL (Illegal instruction)\n```\nRemoving the `~/.factory/` directory and then reinstalling Droid didn't solve the issue.\nSystem: Ubuntu VM on an Intel X5650 CPU host (Hyper-V).",
+    "url": "https://github.com/Factory-AI/factory/issues/254",
+    "timestamp": "2025-10-24T11:58:08Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 254
+    }
+  },
+  {
     "id": "reddit_1oegs4w",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -686,19 +686,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 15,
       "subreddit": "FactoryAi"
     }
   },
