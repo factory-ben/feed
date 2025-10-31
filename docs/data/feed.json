@@ -1,5 +1,215 @@
 [
   {
+    "id": "twitter_1984146105454490028",
+    "source": "twitter",
+    "author": "_01010101",
+    "content": "@CryptoSolana_OG @donvito @FactoryAI Give it a try and let me know what you think.",
+    "url": "https://x.com/_01010101/status/1984146105454490028",
+    "timestamp": "2025-10-31T06:31:09.000Z",
+    "metadata": {
+      "conversation_id": "1984146105454490028",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984145217508012537",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@FactoryAI have you guys run Droid thru terminal bench using Codex or GLM 4.6 yet? Would be interested to see how they perform, oh and Grok 4 Fast 😇",
+    "url": "https://x.com/Alberto8793/status/1984145217508012537",
+    "timestamp": "2025-10-31T06:27:38.000Z",
+    "metadata": {
+      "conversation_id": "1984145217508012537",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984144705148305860",
+    "source": "twitter",
+    "author": "CyprianWetende",
+    "content": "@bentossell @CloudTrader4 @FactoryAI Vscode on linux",
+    "url": "https://x.com/CyprianWetende/status/1984144705148305860",
+    "timestamp": "2025-10-31T06:25:35.000Z",
+    "metadata": {
+      "conversation_id": "1984144705148305860",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984144179682013595",
+    "source": "twitter",
+    "author": "archimagos",
+    "content": "@rezaul_arif @FactoryAI @MiniMax__AI @chutes_ai The other @OpenRouterAI options aren't bad either https://t.co/2dx1BepCgs",
+    "url": "https://x.com/archimagos/status/1984144179682013595",
+    "timestamp": "2025-10-31T06:23:30.000Z",
+    "metadata": {
+      "conversation_id": "1984144179682013595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984143765951672760",
+    "source": "twitter",
+    "author": "LzyIndTky",
+    "content": "@bentossell @CloudTrader4 @FactoryAI 🙌",
+    "url": "https://x.com/LzyIndTky/status/1984143765951672760",
+    "timestamp": "2025-10-31T06:21:52.000Z",
+    "metadata": {
+      "conversation_id": "1984143765951672760",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984143571944141300",
+    "source": "twitter",
+    "author": "MinChonChiSF",
+    "content": "@FactoryAI Interesting to see agent-native development gaining more traction.",
+    "url": "https://x.com/MinChonChiSF/status/1984143571944141300",
+    "timestamp": "2025-10-31T06:21:05.000Z",
+    "metadata": {
+      "conversation_id": "1984143571944141300",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984143276614807928",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@CyprianWetende @CloudTrader4 @FactoryAI it may be the terminal app you're using and/or keybindings - can you lmk what app it is?",
+    "url": "https://x.com/bentossell/status/1984143276614807928",
+    "timestamp": "2025-10-31T06:19:55.000Z",
+    "metadata": {
+      "conversation_id": "1984143276614807928",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984143180871225846",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@SvenMeyer @CloudTrader4 @FactoryAI you can enable/disable at any time using the /mcp menu and we have a mcp.json where you can set it up too (instead of in the cli)",
+    "url": "https://x.com/bentossell/status/1984143180871225846",
+    "timestamp": "2025-10-31T06:19:32.000Z",
+    "metadata": {
+      "conversation_id": "1984143180871225846",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984142917376864704",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@LzyIndTky @CloudTrader4 @FactoryAI ha yes we made improvements! all ears for more",
+    "url": "https://x.com/bentossell/status/1984142917376864704",
+    "timestamp": "2025-10-31T06:18:29.000Z",
+    "metadata": {
+      "conversation_id": "1984142917376864704",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984142781909279044",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@elie2222 @nest_elf @windsurf @FactoryAI give us a go - lmk if you need help/how it goes",
+    "url": "https://x.com/bentossell/status/1984142781909279044",
+    "timestamp": "2025-10-31T06:17:57.000Z",
+    "metadata": {
+      "conversation_id": "1984142781909279044",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984142739450306948",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@_01010101 @donvito @FactoryAI ❤️",
+    "url": "https://x.com/bentossell/status/1984142739450306948",
+    "timestamp": "2025-10-31T06:17:47.000Z",
+    "metadata": {
+      "conversation_id": "1984142739450306948",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984142706080383318",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@CryptoSolana_OG @_01010101 @donvito @FactoryAI give it a go and lmk what you think :)",
+    "url": "https://x.com/bentossell/status/1984142706080383318",
+    "timestamp": "2025-10-31T06:17:39.000Z",
+    "metadata": {
+      "conversation_id": "1984142706080383318",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984141985436057879",
+    "source": "twitter",
+    "author": "MinChonChiSF",
+    "content": "@rezaul_arif @FactoryAI @MiniMax__AI @chutes_ai Interesting to see the custom config needed for MiniMax-M2.",
+    "url": "https://x.com/MinChonChiSF/status/1984141985436057879",
+    "timestamp": "2025-10-31T06:14:47.000Z",
+    "metadata": {
+      "conversation_id": "1984141985436057879",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984141400225804516",
+    "source": "twitter",
+    "author": "CavalliniPosada",
+    "content": "I never left claude for codex but @FactoryAI droid is my mainly driver. It just works, feels smooth. The permissions system is really good.",
+    "url": "https://x.com/CavalliniPosada/status/1984141400225804516",
+    "timestamp": "2025-10-31T06:12:28.000Z",
+    "metadata": {
+      "conversation_id": "1984141400225804516",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984134241144438924",
     "source": "twitter",
     "author": "rezaul_arif",
@@ -25,7 +235,7 @@
       "conversation_id": "1984133970356043964",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -40,7 +250,7 @@
       "conversation_id": "1984133947199254891",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -83,217 +293,7 @@
     "timestamp": "2025-10-31T05:17:43.000Z",
     "metadata": {
       "conversation_id": "1984127625036755249",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984117654370840956",
-    "source": "twitter",
-    "author": "morganlinton",
-    "content": "@DannyAziz97 @FactoryAI @every 👀",
-    "url": "https://x.com/morganlinton/status/1984117654370840956",
-    "timestamp": "2025-10-31T04:38:06.000Z",
-    "metadata": {
-      "conversation_id": "1984117654370840956",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984116847776768347",
-    "source": "twitter",
-    "author": "yusufg",
-    "content": "Team @FactoryAI @bentossell ,  feature request\n\n/changelog built-in command to display the changelog of Droid CLI",
-    "url": "https://x.com/yusufg/status/1984116847776768347",
-    "timestamp": "2025-10-31T04:34:54.000Z",
-    "metadata": {
-      "conversation_id": "1984116847776768347",
       "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984110865571074346",
-    "source": "twitter",
-    "author": "alvinsng",
-    "content": "@codewithimanshu @FactoryAI It's nice when the company is still small and you're  allowed to record content like this!",
-    "url": "https://x.com/alvinsng/status/1984110865571074346",
-    "timestamp": "2025-10-31T04:11:08.000Z",
-    "metadata": {
-      "conversation_id": "1984110865571074346",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984110091222839792",
-    "source": "twitter",
-    "author": "CyprianWetende",
-    "content": "@CloudTrader4 @FactoryAI I can't still paste image using ctrl V , after a screenshot, any tips?",
-    "url": "https://x.com/CyprianWetende/status/1984110091222839792",
-    "timestamp": "2025-10-31T04:08:03.000Z",
-    "metadata": {
-      "conversation_id": "1984110091222839792",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984108309054681278",
-    "source": "twitter",
-    "author": "_01010101",
-    "content": "@donvito I’m sticking with @FactoryAI as the results are better than CC / Codex. I can choose between the best frontier models for every task type without being artificially limited. Their setup is fair as you get a monthly amount of tokens in a package that you can burn as fast you like.",
-    "url": "https://x.com/_01010101/status/1984108309054681278",
-    "timestamp": "2025-10-31T04:00:58.000Z",
-    "metadata": {
-      "conversation_id": "1984108309054681278",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984105252812103688",
-    "source": "twitter",
-    "author": "rezaul_arif",
-    "content": "Here is the @FactoryAI 's custom config.json file you will need to run @MiniMax__AI M2 running on @chutes_ai at 80+ tps 🙃 enjoy!\n\n{\n  \"custom_models\": [\n    {\n      \"model_display_name\": \"MiniMax-M2\",\n      \"model\": \"MiniMaxAI/MiniMax-M2\",\n      \"base_url\": \"https://t.co/dBIwRSoLCV\",\n      \"api_key\": \"YOUR_API_KEY_HERE\",\n      \"provider\": \"generic-chat-completion-api\",\n      \"max_tokens\": 204800\n    }\n  ]\n}",
-    "url": "https://x.com/rezaul_arif/status/1984105252812103688",
-    "timestamp": "2025-10-31T03:48:49.000Z",
-    "metadata": {
-      "conversation_id": "1984105252812103688",
-      "likes": 12,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984101461886943453",
-    "source": "twitter",
-    "author": "Ra1kshit",
-    "content": "Also a huge shoutout to @FactoryAI for the free AI credits allowing me to speed up the dev.\n\nthanks @bentossell 🫡",
-    "url": "https://x.com/Ra1kshit/status/1984101461886943453",
-    "timestamp": "2025-10-31T03:33:45.000Z",
-    "metadata": {
-      "conversation_id": "1984101461886943453",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984101138057326792",
-    "source": "twitter",
-    "author": "nest_elf",
-    "content": "@TCGsealed @tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai @warpdotdev https://t.co/5mNRnlIYy9",
-    "url": "https://x.com/nest_elf/status/1984101138057326792",
-    "timestamp": "2025-10-31T03:32:28.000Z",
-    "metadata": {
-      "conversation_id": "1984101138057326792",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984098538201215484",
-    "source": "twitter",
-    "author": "nest_elf",
-    "content": "@elie2222 use @windsurf swe 1.5. 5x as fast and scores higher on the benchmarks and unlimited for 15$. for accuracy use @FactoryAI",
-    "url": "https://x.com/nest_elf/status/1984098538201215484",
-    "timestamp": "2025-10-31T03:22:08.000Z",
-    "metadata": {
-      "conversation_id": "1984098538201215484",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984091947187974237",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "@pgbouncer @FactoryAI @every I’ve got the $200 max plan and personally I like that I get full usage of the model I want and no time based limits, fully transparent with the number of tokens I’ve used and I can see how many I’ve got left this month",
-    "url": "https://x.com/DannyAziz97/status/1984091947187974237",
-    "timestamp": "2025-10-31T02:55:57.000Z",
-    "metadata": {
-      "conversation_id": "1984091947187974237",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984091778006536589",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "@EmmaLustre90 @FactoryAI @every Literally nothing, I pay them hundreds of dollars a month",
-    "url": "https://x.com/DannyAziz97/status/1984091778006536589",
-    "timestamp": "2025-10-31T02:55:17.000Z",
-    "metadata": {
-      "conversation_id": "1984091778006536589",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984091725930086867",
-    "source": "twitter",
-    "author": "aicodeking",
-    "content": "@SvenMeyer @CodebuffAI @FactoryAI It's good but extremely costly due to multi model usage for one task.",
-    "url": "https://x.com/aicodeking/status/1984091725930086867",
-    "timestamp": "2025-10-31T02:55:04.000Z",
-    "metadata": {
-      "conversation_id": "1984091725930086867",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984090437616017495",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "@dannysuarez @FactoryAI @every Do it!",
-    "url": "https://x.com/DannyAziz97/status/1984090437616017495",
-    "timestamp": "2025-10-31T02:49:57.000Z",
-    "metadata": {
-      "conversation_id": "1984090437616017495",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984089477313147298",
-    "source": "twitter",
-    "author": "dannysuarez",
-    "content": "@DannyAziz97 @FactoryAI @every I run Claude and Codex at the same time very often and its not friendly … I need to try this out",
-    "url": "https://x.com/dannysuarez/status/1984089477313147298",
-    "timestamp": "2025-10-31T02:46:08.000Z",
-    "metadata": {
-      "conversation_id": "1984089477313147298",
-      "likes": 4,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -713,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
