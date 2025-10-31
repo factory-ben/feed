@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984341252645798389",
+    "source": "twitter",
+    "author": "ngmarley",
+    "content": "Hey @FactoryAI , is there a way to have multi-line input? E.g. Shift + Enter allows newlines? I know we can use `\\` before a newline but it's slow and unnatural... and your /terminal-setup apparently can't detect Ghostty (feature request)",
+    "url": "https://x.com/ngmarley/status/1984341252645798389",
+    "timestamp": "2025-10-31T19:26:36.000Z",
+    "metadata": {
+      "conversation_id": "1984341252645798389",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984338062105784394",
     "source": "twitter",
     "author": "nkgoutham",
@@ -8,7 +23,7 @@
     "timestamp": "2025-10-31T19:13:55.000Z",
     "metadata": {
       "conversation_id": "1984338062105784394",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,7 +38,7 @@
     "timestamp": "2025-10-31T18:47:14.000Z",
     "metadata": {
       "conversation_id": "1984331346072813688",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -248,7 +263,7 @@
     "timestamp": "2025-10-31T16:04:15.000Z",
     "metadata": {
       "conversation_id": "1984290327243743303",
-      "likes": 9,
+      "likes": 10,
       "retweets": 1,
       "replies": 1,
       "quotes": 3
@@ -281,21 +296,6 @@
       "likes": 4,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984287719196074356",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@fire @FactoryAI yeh or $20/mo :)",
-    "url": "https://x.com/bentossell/status/1984287719196074356",
-    "timestamp": "2025-10-31T15:53:53.000Z",
-    "metadata": {
-      "conversation_id": "1984287719196074356",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -697,21 +697,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
