@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_290",
+    "source": "github",
+    "author": "tongguang",
+    "content": "[Issue] GLOB freezing in PowerShel\n\n<img width=\"378\" height=\"447\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5658ad25-23d3-43f7-9ecc-d5bf1be2bbd5\" />\n\n\nUsing GLOB and @ in PowerShell on Windows will cause it to freeze. If you can't reproduce it, just update droid, restart the terminal, and then it will reliably reproduce.",
+    "url": "https://github.com/Factory-AI/factory/issues/290",
+    "timestamp": "2025-10-31T07:40:41Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 290
+    }
+  },
+  {
     "id": "github_issue_289",
     "source": "github",
     "author": "v-senninha-v",
@@ -36,7 +49,7 @@
     "timestamp": "2025-10-31T06:41:22.000Z",
     "metadata": {
       "conversation_id": "1984148677053857929",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -372,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -612,19 +625,6 @@
     }
   },
   {
-    "id": "github_issue_252",
-    "source": "github",
-    "author": "mdcnick",
-    "content": "[Issue] vscode droid extension\n\nwhen using droid in vscode the tab sometimes does the glitching scroll up and down its mad annoying i am now using it on a separate terminal lbvvvsss :/ ",
-    "url": "https://github.com/Factory-AI/factory/issues/252",
-    "timestamp": "2025-10-24T08:40:58Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 252
-    }
-  },
-  {
     "id": "reddit_1oegs4w",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
