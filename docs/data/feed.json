@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984511600561438838",
+    "source": "twitter",
+    "author": "RayFernando1337",
+    "content": "@hexawulf @FactoryAI This is my favorite right now. With https://t.co/cIwA9BxtbD it really crushes.",
+    "url": "https://x.com/RayFernando1337/status/1984511600561438838",
+    "timestamp": "2025-11-01T06:43:30.000Z",
+    "metadata": {
+      "conversation_id": "1984511600561438838",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984507242599891250",
     "source": "twitter",
     "author": "CryptoSolana_OG",
@@ -233,9 +248,9 @@
     "timestamp": "2025-11-01T01:40:21.000Z",
     "metadata": {
       "conversation_id": "1984435309896220924",
-      "likes": 5,
+      "likes": 7,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1984429558448431424",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984427534625431665",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@FactoryAI Factory, that's a brilliant way to describe the Corridor MCP! It's indeed a game-changer for agent-native development, no doubt.",
-    "url": "https://x.com/codewithimanshu/status/1984427534625431665",
-    "timestamp": "2025-11-01T01:09:27.000Z",
-    "metadata": {
-      "conversation_id": "1984427534625431665",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
