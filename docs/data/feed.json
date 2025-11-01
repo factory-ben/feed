@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984725290937888918",
+    "source": "twitter",
+    "author": "TheWildTrue",
+    "content": "@hexawulf @FactoryAI Read droids data collection policy before you use it! I don’t trust it",
+    "url": "https://x.com/TheWildTrue/status/1984725290937888918",
+    "timestamp": "2025-11-01T20:52:38.000Z",
+    "metadata": {
+      "conversation_id": "1984725290937888918",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984725077494284312",
+    "source": "twitter",
+    "author": "TerekhinIvan",
+    "content": "@hexawulf @FactoryAI Nope, same for me",
+    "url": "https://x.com/TerekhinIvan/status/1984725077494284312",
+    "timestamp": "2025-11-01T20:51:47.000Z",
+    "metadata": {
+      "conversation_id": "1984725077494284312",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984723678408687847",
     "source": "twitter",
     "author": "dannolan",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984696966853366262",
-    "source": "twitter",
-    "author": "ngmarley",
-    "content": "@bentossell @FactoryAI Thanks Ben. I have set up in Ghostty `keybind = shift+enter=text:\\x1b\\r` and working in Claude Code, so IDK.",
-    "url": "https://x.com/ngmarley/status/1984696966853366262",
-    "timestamp": "2025-11-01T19:00:05.000Z",
-    "metadata": {
-      "conversation_id": "1984696966853366262",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984696586702889150",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@SaidAitmbarek @FactoryAI fr",
-    "url": "https://x.com/immoinulmoin/status/1984696586702889150",
-    "timestamp": "2025-11-01T18:58:34.000Z",
-    "metadata": {
-      "conversation_id": "1984696586702889150",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_299",
     "source": "github",
     "author": "Slyvester-cyber",
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
