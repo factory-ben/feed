@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1984716623853617658",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@anthonyronning_ This is why @FactoryAI Droid exists.",
+    "url": "https://x.com/GitMaxd/status/1984716623853617658",
+    "timestamp": "2025-11-01T20:18:12.000Z",
+    "metadata": {
+      "conversation_id": "1984716623853617658",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984716475341398511",
+    "source": "twitter",
+    "author": "haridigresses",
+    "content": "Shoutout to @OpenAI Codex and @cursor_ai's Cheetah / Composer (+ the unsung hero @github, just an incredible piece of software and the inspiration for a lot of what we're building).\n\nSupporting actors @AnthropicAI Claude Code and\n@FactoryAI Droid. What a time to be alive.",
+    "url": "https://x.com/haridigresses/status/1984716475341398511",
+    "timestamp": "2025-11-01T20:17:36.000Z",
+    "metadata": {
+      "conversation_id": "1984716475341398511",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984716206381887674",
+    "source": "twitter",
+    "author": "HankYeomans",
+    "content": "@hexawulf @FactoryAI After 317 commits and 35 PRs on one project with Claude Code, the difference is infinitesimal. I’ve seen no reason to keep using a wrapper and just go right into the source. The only difference maker to me has been Amp but that’s because of their feature adds especially lately.",
+    "url": "https://x.com/HankYeomans/status/1984716206381887674",
+    "timestamp": "2025-11-01T20:16:32.000Z",
+    "metadata": {
+      "conversation_id": "1984716206381887674",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984714088719458589",
+    "source": "twitter",
+    "author": "dawid_jordaan",
+    "content": "@codewithimanshu @FactoryAI Speed plays a big role. If it takes too long to complete you lose context of the task - would be fine if the result is perfect every time, but we are not there yet typically requires review, and tweaking.",
+    "url": "https://x.com/dawid_jordaan/status/1984714088719458589",
+    "timestamp": "2025-11-01T20:08:07.000Z",
+    "metadata": {
+      "conversation_id": "1984714088719458589",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984712650782339579",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@CipherVectors @FactoryAI cursor will only win for non technical guys, most of the devs will be on cli and vscode/zed/any lightweight editor, thats my bet",
+    "url": "https://x.com/immoinulmoin/status/1984712650782339579",
+    "timestamp": "2025-11-01T20:02:24.000Z",
+    "metadata": {
+      "conversation_id": "1984712650782339579",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984710866827124769",
     "source": "twitter",
     "author": "DiegoUSDZ",
@@ -38,9 +113,9 @@
     "timestamp": "2025-11-01T19:22:59.000Z",
     "metadata": {
       "conversation_id": "1984702728325775675",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -203,7 +278,7 @@
     "timestamp": "2025-11-01T18:56:47.000Z",
     "metadata": {
       "conversation_id": "1984696138105041221",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -218,81 +293,6 @@
     "timestamp": "2025-11-01T18:45:08.000Z",
     "metadata": {
       "conversation_id": "1984693205267575208",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984690015461339479",
-    "source": "twitter",
-    "author": "FHulayyil",
-    "content": "@immoinulmoin @FactoryAI the figma mcp was the only thing that made me install claude code .. guess no need for it anymore",
-    "url": "https://x.com/FHulayyil/status/1984690015461339479",
-    "timestamp": "2025-11-01T18:32:28.000Z",
-    "metadata": {
-      "conversation_id": "1984690015461339479",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984689983379169281",
-    "source": "twitter",
-    "author": "AbdMuizAdeyemo",
-    "content": "@nkgoutham @claudeai @FactoryAI I have used droid and I can say it is much better and understand project context and fixes errors and bugs in one go",
-    "url": "https://x.com/AbdMuizAdeyemo/status/1984689983379169281",
-    "timestamp": "2025-11-01T18:32:20.000Z",
-    "metadata": {
-      "conversation_id": "1984689983379169281",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984684967230914661",
-    "source": "twitter",
-    "author": "EnoReyes",
-    "content": "@alvinjamur @FactoryAI @bentossell Glad you’re liking it!",
-    "url": "https://x.com/EnoReyes/status/1984684967230914661",
-    "timestamp": "2025-11-01T18:12:24.000Z",
-    "metadata": {
-      "conversation_id": "1984684967230914661",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984684356179542502",
-    "source": "twitter",
-    "author": "kn_neeraj1",
-    "content": "Playing around with @FactoryAI Droids to build a mobile app. lets see how it goes!",
-    "url": "https://x.com/kn_neeraj1/status/1984684356179542502",
-    "timestamp": "2025-11-01T18:09:58.000Z",
-    "metadata": {
-      "conversation_id": "1984684356179542502",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984682844157809109",
-    "source": "twitter",
-    "author": "dogancanbaris",
-    "content": "@hexawulf @FactoryAI I tried Droid vs each provider’s on solution, it is garbage. I don’t think there is anything droid really adds, best case scenario same performance",
-    "url": "https://x.com/dogancanbaris/status/1984682844157809109",
-    "timestamp": "2025-11-01T18:03:58.000Z",
-    "metadata": {
-      "conversation_id": "1984682844157809109",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -699,6 +699,32 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
