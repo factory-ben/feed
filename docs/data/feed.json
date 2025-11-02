@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1985095031544549418",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@the_ido_levi @FactoryAI DROID!!!! Yesss. @FactoryAI @EnoReyes @bentossell",
+    "url": "https://x.com/mikez93/status/1985095031544549418",
+    "timestamp": "2025-11-02T21:21:51.000Z",
+    "metadata": {
+      "conversation_id": "1985095031544549418",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985094608674570618",
+    "source": "twitter",
+    "author": "tdh_02",
+    "content": "@nkgoutham @FactoryAI Share the results of the UI!",
+    "url": "https://x.com/tdh_02/status/1985094608674570618",
+    "timestamp": "2025-11-02T21:20:10.000Z",
+    "metadata": {
+      "conversation_id": "1985094608674570618",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985090781078568973",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@FactoryAI Do you guys recommend using Codex or GPT 5 High on your platform? Do you have guidance as to when to use one over the other?",
+    "url": "https://x.com/Alberto8793/status/1985090781078568973",
+    "timestamp": "2025-11-02T21:04:58.000Z",
+    "metadata": {
+      "conversation_id": "1985090781078568973",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985087849298034897",
     "source": "twitter",
     "author": "Tgerighty",
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985038910708396261",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@JoelDeTeves @FactoryAI really? tell me more!!!!",
-    "url": "https://x.com/immoinulmoin/status/1985038910708396261",
-    "timestamp": "2025-11-02T17:38:51.000Z",
-    "metadata": {
-      "conversation_id": "1985038910708396261",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985035761087909969",
-    "source": "twitter",
-    "author": "_lparadisemusic",
-    "content": "@nkgoutham @FactoryAI @GiusMarci Yes, in the way you insert your models",
-    "url": "https://x.com/_lparadisemusic/status/1985035761087909969",
-    "timestamp": "2025-11-02T17:26:20.000Z",
-    "metadata": {
-      "conversation_id": "1985035761087909969",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985032659836272642",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@roshan_mishra @FactoryAI ❤️",
-    "url": "https://x.com/bentossell/status/1985032659836272642",
-    "timestamp": "2025-11-02T17:14:00.000Z",
-    "metadata": {
-      "conversation_id": "1985032659836272642",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -508,6 +508,19 @@
     }
   },
   {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -632,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -673,19 +686,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oegs4w",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 18,
       "subreddit": "FactoryAi"
     }
   },
