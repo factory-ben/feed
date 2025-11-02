@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985087849298034897",
+    "source": "twitter",
+    "author": "Tgerighty",
+    "content": "@immoinulmoin @FactoryAI I find that Droid uses tokens much, much quicker, and I can exhaust the plan far, far quicker, like in less than a week. Where, as the Claude plan or the ChatGPT $200 plan, even using them as bring your own keys in Droid, last all month.",
+    "url": "https://x.com/Tgerighty/status/1985087849298034897",
+    "timestamp": "2025-11-02T20:53:19.000Z",
+    "metadata": {
+      "conversation_id": "1985087849298034897",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985083661939851774",
     "source": "twitter",
     "author": "mikez93",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-02T20:36:40.000Z",
     "metadata": {
       "conversation_id": "1985083661939851774",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985030941111468313",
-    "source": "twitter",
-    "author": "REDACTED_WEB3ML",
-    "content": "@hexawulf @FactoryAI Droid is an S+ AI Application in my personal opinion. I use any model in it and it performs extremely well",
-    "url": "https://x.com/REDACTED_WEB3ML/status/1985030941111468313",
-    "timestamp": "2025-11-02T17:07:11.000Z",
-    "metadata": {
-      "conversation_id": "1985030941111468313",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -508,19 +508,6 @@
     }
   },
   {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 6,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -645,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
