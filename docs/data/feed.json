@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984888644520591837",
+    "source": "twitter",
+    "author": "CipherVectors",
+    "content": "One thing that I liked about the @FactoryAI droid CLI is that it doesn't have the plan-and-rules forgetfulness problem, just like others (Claude Code or cursor) . That is why we have been using it on live server with strict rules and guidelines.",
+    "url": "https://x.com/CipherVectors/status/1984888644520591837",
+    "timestamp": "2025-11-02T07:41:44.000Z",
+    "metadata": {
+      "conversation_id": "1984888644520591837",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984887371456983270",
+    "source": "twitter",
+    "author": "techguyver",
+    "content": "@iannuttall @AnthropicAI @FactoryAI i wish compacting would solve it - whole chat is BRICKED! @claudeai https://t.co/oaZZDh9hhG",
+    "url": "https://x.com/techguyver/status/1984887371456983270",
+    "timestamp": "2025-11-02T07:36:41.000Z",
+    "metadata": {
+      "conversation_id": "1984887371456983270",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984885654212559137",
     "source": "twitter",
     "author": "ejazkarimhunzai",
@@ -100,7 +130,7 @@
       "conversation_id": "1984860301385482583",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984840780570038544",
-    "source": "twitter",
-    "author": "LevJampolsky",
-    "content": "Sooooo, an unintended positive consequence of running my own image service is that I can now hotlink images straight into CLI tools (like @FactoryAI) and don't need to copy/paste images. Esp since I am running Droid in a VPS, it was clunky and I often needed to manually drag & copy images in the repo before I was able to copy them into Droid\n\n(Remember I am running Droid/the repo on a VPS and accessing it via Remote SSH in Cursor IDE on Windows)\n\nIf you're using gpt-5-codex, the model seems to go into a frenzy trying to install pillow and tries to even create a Python file to read the image (using fetchUrl) -\n\npython3 - <<'PY'\nimport requests\nfrom pathlib import Path\nurl = 'https://t.co/BI3iiEHbMQ'\npath = Path('/tmp/hotlink.png')\nresp = requests.get(url, timeout=30)\nresp.raise_for_status()\npath.write_bytes(resp.content)\nprint(path)\nPY, timeout: 120s, impact: medium)",
-    "url": "https://x.com/LevJampolsky/status/1984840780570038544",
-    "timestamp": "2025-11-02T04:31:33.000Z",
-    "metadata": {
-      "conversation_id": "1984840780570038544",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984828229853855847",
-    "source": "twitter",
-    "author": "davidtranwd",
-    "content": "@nest_elf @windsurf @FactoryAI Ok, good to know. I may try in future",
-    "url": "https://x.com/davidtranwd/status/1984828229853855847",
-    "timestamp": "2025-11-02T03:41:40.000Z",
-    "metadata": {
-      "conversation_id": "1984828229853855847",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -690,19 +690,6 @@
     }
   },
   {
-    "id": "reddit_1odatnb",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
-    "timestamp": "2025-10-22T15:06:14.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,6 +713,32 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 10,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
