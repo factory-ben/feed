@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1984841886087971107",
+    "source": "twitter",
+    "author": "WifJason",
+    "content": "@CodebuffAI  SMOKES @FactoryAI DROIDS ! https://t.co/IWp9cvURb5",
+    "url": "https://x.com/WifJason/status/1984841886087971107",
+    "timestamp": "2025-11-02T04:35:56.000Z",
+    "metadata": {
+      "conversation_id": "1984841886087971107",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984841698732556721",
+    "source": "twitter",
+    "author": "LevJampolsky",
+    "content": "The solution? Add this into your https://t.co/n4xMmfLdyI :\n\nWhen viewing remote images, run curl -sSLo /tmp/<name>.png <url>`, open it with `Read /tmp/<name>.png`, and remove it via `rm /tmp/<name>.png` afterward.\n\nGoing forward, Codex will download the image, save it to your filesystem and then delete it*\n\n* that last part is not as reliable, I do need to prompt it to delete it still.\n\nBefore (in web UI bcos terminal text was cut) | After (respects curl)\nThis doesn't happen with Claude Code btw, it just goes straight to curl and read the image afterwards.\nNot sure if this is related to how @OpenAI  handles links to images or if this is something @FactoryAI can fix in the harness? @bentossell",
+    "url": "https://x.com/LevJampolsky/status/1984841698732556721",
+    "timestamp": "2025-11-02T04:35:12.000Z",
+    "metadata": {
+      "conversation_id": "1984841698732556721",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984840780570038544",
+    "source": "twitter",
+    "author": "LevJampolsky",
+    "content": "Sooooo, an unintended positive consequence of running my own image service is that I can now hotlink images straight into CLI tools (like @FactoryAI) and don't need to copy/paste images. Esp since I am running Droid in a VPS, it was clunky and I often needed to manually drag & copy images in the repo before I was able to copy them into Droid\n\n(Remember I am running Droid/the repo on a VPS and accessing it via Remote SSH in Cursor IDE on Windows)\n\nIf you're using gpt-5-codex, the model seems to go into a frenzy trying to install pillow and tries to even create a Python file to read the image (using fetchUrl) -\n\npython3 - <<'PY'\nimport requests\nfrom pathlib import Path\nurl = 'https://t.co/BI3iiEHbMQ'\npath = Path('/tmp/hotlink.png')\nresp = requests.get(url, timeout=30)\nresp.raise_for_status()\npath.write_bytes(resp.content)\nprint(path)\nPY, timeout: 120s, impact: medium)",
+    "url": "https://x.com/LevJampolsky/status/1984840780570038544",
+    "timestamp": "2025-11-02T04:31:33.000Z",
+    "metadata": {
+      "conversation_id": "1984840780570038544",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984828229853855847",
     "source": "twitter",
     "author": "davidtranwd",
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984787452415058146",
-    "source": "twitter",
-    "author": "iamzhihui",
-    "content": "@servasyy @hexawulf @FactoryAI 1️⃣  指令遵循强\n2️⃣ 体验丝滑\n3️⃣ gpt5/GPT 5 codex /sonnet/GLM4.6\n\n最重要前段时间薅羊毛 40M token，搞了好几个账号\n\n哦，忘了 a 社之前把我所有账号都封了，免费的也封了，杀疯了",
-    "url": "https://x.com/iamzhihui/status/1984787452415058146",
-    "timestamp": "2025-11-02T00:59:38.000Z",
-    "metadata": {
-      "conversation_id": "1984787452415058146",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984783020973604991",
-    "source": "twitter",
-    "author": "Justmakexmas",
-    "content": "@CipherVectors @RayFernando1337 @FactoryAI Its the speed tho",
-    "url": "https://x.com/Justmakexmas/status/1984783020973604991",
-    "timestamp": "2025-11-02T00:42:02.000Z",
-    "metadata": {
-      "conversation_id": "1984783020973604991",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984782615229186256",
-    "source": "twitter",
-    "author": "servasyy",
-    "content": "@iamzhihui @hexawulf @FactoryAI Droid特点是什么呢？",
-    "url": "https://x.com/servasyy/status/1984782615229186256",
-    "timestamp": "2025-11-02T00:40:25.000Z",
-    "metadata": {
-      "conversation_id": "1984782615229186256",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1om3tvt",
     "source": "reddit",
     "author": "StrixGGUY",
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
