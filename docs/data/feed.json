@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984979968036655607",
+    "source": "twitter",
+    "author": "JorgeMenaDev",
+    "content": "In terms of code quality, if i'm being honest, I think pretty much all the AI agents, do the job for me. So even if I use Cursor or Codex or FactoryAi or Claude Code, they all do the same thing. But yeah, I think @FactoryAI  is definitely more reliable. The output is really good and the price and everything is better.",
+    "url": "https://x.com/JorgeMenaDev/status/1984979968036655607",
+    "timestamp": "2025-11-02T13:44:38.000Z",
+    "metadata": {
+      "conversation_id": "1984979968036655607",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984974598094397501",
     "source": "twitter",
     "author": "jonhillymakes",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-02T13:23:17.000Z",
     "metadata": {
       "conversation_id": "1984974598094397501",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,7 +68,7 @@
     "timestamp": "2025-11-02T13:15:07.000Z",
     "metadata": {
       "conversation_id": "1984972541946126713",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,9 +98,9 @@
     "timestamp": "2025-11-02T13:10:49.000Z",
     "metadata": {
       "conversation_id": "1984971459244994654",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984921383546348013",
-    "source": "twitter",
-    "author": "kn_neeraj1",
-    "content": "Brewing something cool for my Paper Library app using @FactoryAI Droids! https://t.co/8VxtpliD76",
-    "url": "https://x.com/kn_neeraj1/status/1984921383546348013",
-    "timestamp": "2025-11-02T09:51:50.000Z",
-    "metadata": {
-      "conversation_id": "1984921383546348013",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
