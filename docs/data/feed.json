@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985216418292601161",
+    "source": "twitter",
+    "author": "jitendravyas",
+    "content": "@CodeByPoonam @cursor_ai\n@claudeai Code\n@FactoryAI \n@warpdotdev",
+    "url": "https://x.com/jitendravyas/status/1985216418292601161",
+    "timestamp": "2025-11-03T05:24:12.000Z",
+    "metadata": {
+      "conversation_id": "1985216418292601161",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985210685626708221",
     "source": "twitter",
     "author": "jdryguy",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985110038239993982",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@AndersEastgrove @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI last very recent post from @MiniMax__AI team was that performance is heavily degraded as @OpenRouterAI removes &lt;think&gt; block \"for compatibility reasons\"",
-    "url": "https://x.com/SvenMeyer/status/1985110038239993982",
-    "timestamp": "2025-11-02T22:21:29.000Z",
-    "metadata": {
-      "conversation_id": "1985110038239993982",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
