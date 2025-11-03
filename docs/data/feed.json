@@ -38,7 +38,7 @@
     "timestamp": "2025-11-03T21:14:40.000Z",
     "metadata": {
       "conversation_id": "1985455611891630362",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -143,7 +143,7 @@
     "timestamp": "2025-11-03T20:10:12.000Z",
     "metadata": {
       "conversation_id": "1985439386528370983",
-      "likes": 13,
+      "likes": 14,
       "retweets": 5,
       "replies": 3,
       "quotes": 0
@@ -216,7 +216,7 @@
     "timestamp": "2025-11-03T19:09:14.000Z",
     "metadata": {
       "conversation_id": "1985424046327050522",
-      "likes": 6,
+      "likes": 7,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
