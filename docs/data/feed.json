@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985434626937274767",
+    "source": "twitter",
+    "author": "cniongolo",
+    "content": "@AntonioJASmith @FactoryAI Because context Engineering",
+    "url": "https://x.com/cniongolo/status/1985434626937274767",
+    "timestamp": "2025-11-03T19:51:17.000Z",
+    "metadata": {
+      "conversation_id": "1985434626937274767",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985425495836774865",
     "source": "twitter",
     "author": "theCUBE",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985392780852744213",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "Been using Droid by @FactoryAI for 3 days now - shipped 2 landing pages, still on the FREE trial.\n\nLoved the experience so far. Seeing some interesting use-cases with custom /droids.\n\nNow here's the challenge I'm taking on:\nI'm subscribing to the $20/mo plan today and using ONLY Droid for everything over the next 1-2 weeks. \n\nAll my work - brainstorming, deep research, copywriting, design iterations, code, etc. - everything.\n\nI don't think $20/mo will cover a week of how I work, and most likely, I'd run out of tokens in a week - which is exactly why I'm doing this. It'll force me to figure out:\n- New ways to save tokens without losing output quality\n- More efficient workflows under constraint\n- Where custom droids actually unlock leverage\n- What breaks when you push the limits\n\nI'll share what I find as I go - token hacks, workflow tweaks, edge cases, all of it.\n\nIf there's something specific you'd like me to explore or stress-test with Droid, drop it below. I'll pick a few challenging ones and document the process.\n\nHere's to Droid week! 🥂",
-    "url": "https://x.com/nkgoutham/status/1985392780852744213",
-    "timestamp": "2025-11-03T17:05:00.000Z",
-    "metadata": {
-      "conversation_id": "1985392780852744213",
-      "likes": 20,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 1
-    }
-  },
-  {
     "id": "github_issue_307",
     "source": "github",
     "author": "humanjesse",
@@ -346,7 +346,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 8,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 13,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -686,6 +686,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1of1zjv",
+    "source": "reddit",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 5,
       "subreddit": "FactoryAi"
     }
   },
