@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_1985397521670422786",
+    "source": "twitter",
+    "author": "GKannanDev",
+    "content": "@conductor_build Hi @conductor_build @charliebholtz any chance we could get @FactoryAI 's Droid CLI integration?",
+    "url": "https://x.com/GKannanDev/status/1985397521670422786",
+    "timestamp": "2025-11-03T17:23:50.000Z",
+    "metadata": {
+      "conversation_id": "1985397521670422786",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985395594165202990",
+    "source": "twitter",
+    "author": "meddi_kada",
+    "content": "@launchaddict @FactoryAI add them yourself with custom models and openrouter",
+    "url": "https://x.com/meddi_kada/status/1985395594165202990",
+    "timestamp": "2025-11-03T17:16:11.000Z",
+    "metadata": {
+      "conversation_id": "1985395594165202990",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985392780852744213",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Been using Droid by @FactoryAI for 3 days now - shipped 2 landing pages, still on the FREE trial.\n\nLoved the experience so far. Seeing some interesting use-cases with custom /droids.\n\nNow here's the challenge I'm taking on:\nI'm subscribing to the $20/mo plan today and using ONLY Droid for everything over the next 1-2 weeks. \n\nAll my work - brainstorming, deep research, copywriting, design iterations, code, etc. - everything.\n\nI don't think $20/mo will cover a week of how I work, and most likely, I'd run out of tokens in a week - which is exactly why I'm doing this. It'll force me to figure out:\n- New ways to save tokens without losing output quality\n- More efficient workflows under constraint\n- Where custom droids actually unlock leverage\n- What breaks when you push the limits\n\nI'll share what I find as I go - token hacks, workflow tweaks, edge cases, all of it.\n\nIf there's something specific you'd like me to explore or stress-test with Droid, drop it below. I'll pick a few challenging ones and document the process.\n\nHere's to Droid week! 🥂",
+    "url": "https://x.com/nkgoutham/status/1985392780852744213",
+    "timestamp": "2025-11-03T17:05:00.000Z",
+    "metadata": {
+      "conversation_id": "1985392780852744213",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_307",
+    "source": "github",
+    "author": "humanjesse",
+    "content": "[Issue] Cannot login with google oauth on Factory's website\n\nclick \"continue with Google\"\nclick my google account\nlogin screen then displays: \"Access blocked, please contact your admin\" \n\n\n<img width=\"941\" height=\"915\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/aa418a4d-d9b0-40c1-a964-e55daeaaa85b\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/307",
+    "timestamp": "2025-11-03T17:02:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 307
+    }
+  },
+  {
     "id": "twitter_1985386788928831688",
     "source": "twitter",
     "author": "erd0xbc",
@@ -8,7 +66,7 @@
     "timestamp": "2025-11-03T16:41:11.000Z",
     "metadata": {
       "conversation_id": "1985386788928831688",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -67,7 +125,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
     "timestamp": "2025-11-03T15:20:27.000Z",
     "metadata": {
-      "score": 1,
+      "score": 2,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }
@@ -232,7 +290,7 @@
     "metadata": {
       "conversation_id": "1985291866888134966",
       "likes": 2,
-      "retweets": 0,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0
     }
@@ -268,51 +326,6 @@
     }
   },
   {
-    "id": "twitter_1985287679727296559",
-    "source": "twitter",
-    "author": "malikwas1f",
-    "content": "@SvenMeyer @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI great! thanks, i'll give it a shot again.",
-    "url": "https://x.com/malikwas1f/status/1985287679727296559",
-    "timestamp": "2025-11-03T10:07:22.000Z",
-    "metadata": {
-      "conversation_id": "1985287679727296559",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985285041963073753",
-    "source": "twitter",
-    "author": "aerionmm",
-    "content": "@bentossell @FactoryAI team is goated",
-    "url": "https://x.com/aerionmm/status/1985285041963073753",
-    "timestamp": "2025-11-03T09:56:53.000Z",
-    "metadata": {
-      "conversation_id": "1985285041963073753",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985284533202386946",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@malikwas1f @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI changed it to 'anthropic' after a post from @MiniMax__AI team even set a very low number of (output) tokens, like 16384 ?🤔, but that is likely enough anyway.",
-    "url": "https://x.com/SvenMeyer/status/1985284533202386946",
-    "timestamp": "2025-11-03T09:54:52.000Z",
-    "metadata": {
-      "conversation_id": "1985284533202386946",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -334,7 +347,7 @@
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
       "score": 3,
-      "num_comments": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -346,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -385,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -424,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -664,29 +677,29 @@
     }
   },
   {
-    "id": "reddit_1ofh3rn",
+    "id": "reddit_1of1zjv",
     "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
     "metadata": {
-      "score": 2,
-      "num_comments": 1,
+      "score": 1,
+      "num_comments": 5,
       "subreddit": "FactoryAi"
     }
   },
   {
-    "id": "github_issue_258",
-    "source": "github",
-    "author": "britannio",
-    "content": "[Issue] `droid exec --output-format stream-json` is missing a matching id in tool_result messages\n\nPreviously, tool calls and tool call results would contain a matching `id` field to correlate tool call results with tool calls.\n\nHere's an example trace taken a few days ago.\nhttps://github.com/BloopAI/vibe-kanban/blob/fa7245c632ac774ec71a98e26094e0fb6d70cf14/crates/executors/tests/droid_snapshots/fixtures/edits-and-execution.jsonl#L3-L4\n\nIn v0.22.2, this `id` field is omitted from the tool result messages. Since tools can be called in parallel and thus tool result ordering isn't stable, it's h",
-    "url": "https://github.com/Factory-AI/factory/issues/258",
-    "timestamp": "2025-10-24T21:13:11Z",
+    "id": "reddit_1oegs4w",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
+    "timestamp": "2025-10-23T22:10:56.000Z",
     "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 258
+      "score": 0,
+      "num_comments": 18,
+      "subreddit": "FactoryAi"
     }
   },
   {
