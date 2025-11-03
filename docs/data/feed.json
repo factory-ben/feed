@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1985276600619819128",
+    "source": "twitter",
+    "author": "cocolobaEMS",
+    "content": "@hexawulf @FactoryAI Do you use Droid to architect/ plan a whole project or just certain parts?",
+    "url": "https://x.com/cocolobaEMS/status/1985276600619819128",
+    "timestamp": "2025-11-03T09:23:20.000Z",
+    "metadata": {
+      "conversation_id": "1985276600619819128",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985272152996860197",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@launchaddict @FactoryAI @claudeai Eoghan, that's a brilliant suggestion! Getting directory-specific history would be super useful, no?",
+    "url": "https://x.com/codewithimanshu/status/1985272152996860197",
+    "timestamp": "2025-11-03T09:05:40.000Z",
+    "metadata": {
+      "conversation_id": "1985272152996860197",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985270484725060095",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@FactoryAI any plans to add MiniMax M2?",
+    "url": "https://x.com/launchaddict/status/1985270484725060095",
+    "timestamp": "2025-11-03T08:59:02.000Z",
+    "metadata": {
+      "conversation_id": "1985270484725060095",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985269882460741813",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@FactoryAI request to add playwright MCP, and Shadcn MCP to registry.._Or_  a way for a user to add a suggestion",
+    "url": "https://x.com/launchaddict/status/1985269882460741813",
+    "timestamp": "2025-11-03T08:56:39.000Z",
+    "metadata": {
+      "conversation_id": "1985269882460741813",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985268769179247014",
     "source": "twitter",
     "author": "codewithimanshu",
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985174246835048818",
-    "source": "twitter",
-    "author": "curiouslychase",
-    "content": "@PeterALieber @FactoryAI @Neovim Find what makes you effective and crush it :P",
-    "url": "https://x.com/curiouslychase/status/1985174246835048818",
-    "timestamp": "2025-11-03T02:36:37.000Z",
-    "metadata": {
-      "conversation_id": "1985174246835048818",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985163507130658831",
-    "source": "twitter",
-    "author": "fabiorizzomatos",
-    "content": "@JoelDeTeves @FactoryAI No, using https://t.co/f6lcAJ4dC7",
-    "url": "https://x.com/fabiorizzomatos/status/1985163507130658831",
-    "timestamp": "2025-11-03T01:53:57.000Z",
-    "metadata": {
-      "conversation_id": "1985163507130658831",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985150861237211559",
-    "source": "twitter",
-    "author": "launchaddict",
-    "content": "Feature request for @FactoryAI @claudeai et all. Would love a /history (or similar) command whereby when I'm in a directory I can /history to get all of my history for that specific directory.  Basically filtering /sessions but based on where I am. I'm sure the metadata exists",
-    "url": "https://x.com/launchaddict/status/1985150861237211559",
-    "timestamp": "2025-11-03T01:03:42.000Z",
-    "metadata": {
-      "conversation_id": "1985150861237211559",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985137249600643168",
-    "source": "twitter",
-    "author": "ThatImagin4361",
-    "content": "Sunday symphony: Channeling my inner conductor, orchestrating wild ideas with @OpenAI's Codex , @cline , and @FactoryAI's generative magic. It’s a collab kind night!",
-    "url": "https://x.com/ThatImagin4361/status/1985137249600643168",
-    "timestamp": "2025-11-03T00:09:37.000Z",
-    "metadata": {
-      "conversation_id": "1985137249600643168",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
