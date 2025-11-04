@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985616222566658314",
+    "source": "twitter",
+    "author": "kostasbotonakis",
+    "content": "@acoustik @FactoryAI Be honest :)",
+    "url": "https://x.com/kostasbotonakis/status/1985616222566658314",
+    "timestamp": "2025-11-04T07:52:53.000Z",
+    "metadata": {
+      "conversation_id": "1985616222566658314",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985611926781771823",
     "source": "twitter",
     "author": "garymjr",
@@ -98,7 +113,7 @@
     "timestamp": "2025-11-04T05:17:59.000Z",
     "metadata": {
       "conversation_id": "1985577241074610267",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985516634933788983",
-    "source": "twitter",
-    "author": "arjundivecha",
-    "content": "@nkgoutham @EnoReyes @FactoryAI For simple stuff you can use local models LM Studio and third party providers - I like to use Qwen3-Coder on Cerebras because it’s operates at 3000 tokens/sec vs 80 tokens/sec for the foundation models. It’s much cheaper too and it takes a second to do what Claude takes a min",
-    "url": "https://x.com/arjundivecha/status/1985516634933788983",
-    "timestamp": "2025-11-04T01:17:09.000Z",
-    "metadata": {
-      "conversation_id": "1985516634933788983",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_308",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
