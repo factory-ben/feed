@@ -1,5 +1,123 @@
 [
   {
+    "id": "twitter_1985787549915177063",
+    "source": "twitter",
+    "author": "lakergreat1",
+    "content": "@every @DannyAziz97 @kieranklaassen @danshipper @FactoryAI @bentossell are these Droid Camp's recorded?  If I become a subscriber can I watch the replay?\n\nThanks!",
+    "url": "https://x.com/lakergreat1/status/1985787549915177063",
+    "timestamp": "2025-11-04T19:13:40.000Z",
+    "metadata": {
+      "conversation_id": "1985787549915177063",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_314",
+    "source": "github",
+    "author": "lifeisnphard",
+    "content": "[Issue] File selector '@' not working in iTerm2\n\n## Environment\n- **OS**: macOS (darwin 25.0.0)\n- **Terminal**: iTerm2\n- **Factory CLI**: (version needs verification)\n- **Date**: 2025-11-04\n\n## Issue Description\nThe file selector feature triggered by the `@` symbol is not working in iTerm2. This functionality works correctly in Warp terminal but fails to appear in iTerm2.\n\n## Expected Behavior\nWhen typing `@` in the Factory Droid CLI interface, a file selector/picker UI should appear to allow interactive file selection, similar to the behavior",
+    "url": "https://github.com/Factory-AI/factory/issues/314",
+    "timestamp": "2025-11-04T19:12:02Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 314
+    }
+  },
+  {
+    "id": "twitter_1985785477283398067",
+    "source": "twitter",
+    "author": "edels0n",
+    "content": "I talk with @matanSF of @FactoryAI about slop apps, porn, and the actual vision for AI https://t.co/PxC40THZKd",
+    "url": "https://x.com/edels0n/status/1985785477283398067",
+    "timestamp": "2025-11-04T19:05:26.000Z",
+    "metadata": {
+      "conversation_id": "1985785477283398067",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985785234051461336",
+    "source": "twitter",
+    "author": "brexton",
+    "content": "@0xnirmal @cursor_ai @AmpCode @FactoryAI Not as impressive as hardcore RL environments :)",
+    "url": "https://x.com/brexton/status/1985785234051461336",
+    "timestamp": "2025-11-04T19:04:28.000Z",
+    "metadata": {
+      "conversation_id": "1985785234051461336",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985785109035774016",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@raulsaavedra_ @FactoryAI try it out .. really worth a shot!\n\nchanges in coding agents is absurd at the moment, what a time to be alive \n\nhere's my referral link, as an extra nudge 😄:\nhttps://t.co/hEAErcLB0C",
+    "url": "https://x.com/5aikat/status/1985785109035774016",
+    "timestamp": "2025-11-04T19:03:58.000Z",
+    "metadata": {
+      "conversation_id": "1985785109035774016",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985784607371919485",
+    "source": "twitter",
+    "author": "unadvantaged",
+    "content": "@pascallammers_ @FactoryAI Figured it out, requires Factory sub.",
+    "url": "https://x.com/unadvantaged/status/1985784607371919485",
+    "timestamp": "2025-11-04T19:01:59.000Z",
+    "metadata": {
+      "conversation_id": "1985784607371919485",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985783791613591874",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@abhagsain @AmpCode @FactoryAI What was Amp stuck on, and what'd Factory get right? Would love to see so we can make Amp better. Sorry it got stuck!",
+    "url": "https://x.com/sqs/status/1985783791613591874",
+    "timestamp": "2025-11-04T18:58:44.000Z",
+    "metadata": {
+      "conversation_id": "1985783791613591874",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985782420499497262",
+    "source": "twitter",
+    "author": "0xnirmal",
+    "content": "@brexton @cursor_ai @AmpCode @FactoryAI 🔥",
+    "url": "https://x.com/0xnirmal/status/1985782420499497262",
+    "timestamp": "2025-11-04T18:53:17.000Z",
+    "metadata": {
+      "conversation_id": "1985782420499497262",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985781691076788680",
     "source": "twitter",
     "author": "francesca_lab",
@@ -8,7 +126,7 @@
     "timestamp": "2025-11-04T18:50:23.000Z",
     "metadata": {
       "conversation_id": "1985781691076788680",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,9 +141,9 @@
     "timestamp": "2025-11-04T18:48:21.000Z",
     "metadata": {
       "conversation_id": "1985781178436030917",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -55,7 +173,7 @@
       "conversation_id": "1985780856070582492",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -68,9 +186,9 @@
     "timestamp": "2025-11-04T18:46:01.000Z",
     "metadata": {
       "conversation_id": "1985780590969569539",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
+      "likes": 9,
+      "retweets": 3,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -130,7 +248,7 @@
       "conversation_id": "1985777202395328708",
       "likes": 2,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -189,111 +307,6 @@
     "metadata": {
       "conversation_id": "1985767938968993852",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985767831515099616",
-    "source": "twitter",
-    "author": "brexton",
-    "content": "@MaxBrodeurUrbas @cursor_ai @AmpCode @FactoryAI i think we should host some holiday events together @MaxBrodeurUrbas",
-    "url": "https://x.com/brexton/status/1985767831515099616",
-    "timestamp": "2025-11-04T17:55:19.000Z",
-    "metadata": {
-      "conversation_id": "1985767831515099616",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985767619727855779",
-    "source": "twitter",
-    "author": "brexton",
-    "content": "@e2b @cursor_ai @AmpCode @FactoryAI we love powerful ephemeral sandboxes",
-    "url": "https://x.com/brexton/status/1985767619727855779",
-    "timestamp": "2025-11-04T17:54:28.000Z",
-    "metadata": {
-      "conversation_id": "1985767619727855779",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985764060005052456",
-    "source": "twitter",
-    "author": "AnneliesGamble",
-    "content": "@brexton @cursor_ai @AmpCode @FactoryAI Go go go!!!",
-    "url": "https://x.com/AnneliesGamble/status/1985764060005052456",
-    "timestamp": "2025-11-04T17:40:20.000Z",
-    "metadata": {
-      "conversation_id": "1985764060005052456",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985761497818202503",
-    "source": "twitter",
-    "author": "e2b",
-    "content": "@brexton @cursor_ai @AmpCode @FactoryAI 🔥🔥",
-    "url": "https://x.com/e2b/status/1985761497818202503",
-    "timestamp": "2025-11-04T17:30:09.000Z",
-    "metadata": {
-      "conversation_id": "1985761497818202503",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985756147454980343",
-    "source": "twitter",
-    "author": "billyvision",
-    "content": "@nest_elf @FactoryAI Gpt 5 pro ?",
-    "url": "https://x.com/billyvision/status/1985756147454980343",
-    "timestamp": "2025-11-04T17:08:53.000Z",
-    "metadata": {
-      "conversation_id": "1985756147454980343",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985753772237148194",
-    "source": "twitter",
-    "author": "Francesco_Oddo",
-    "content": "@bentossell @FactoryAI @Hailuo_AI @Zai_org @OpenRouterAI Maybe I should read the docs at this point 😂",
-    "url": "https://x.com/Francesco_Oddo/status/1985753772237148194",
-    "timestamp": "2025-11-04T16:59:27.000Z",
-    "metadata": {
-      "conversation_id": "1985753772237148194",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985753654515662865",
-    "source": "twitter",
-    "author": "Francesco_Oddo",
-    "content": "@bentossell @FactoryAI @Hailuo_AI @Zai_org @OpenRouterAI Oh...",
-    "url": "https://x.com/Francesco_Oddo/status/1985753654515662865",
-    "timestamp": "2025-11-04T16:58:59.000Z",
-    "metadata": {
-      "conversation_id": "1985753654515662865",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -372,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 12,
       "subreddit": "FactoryAi"
     }
@@ -413,19 +426,6 @@
     "metadata": {
       "score": 5,
       "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -492,19 +492,6 @@
       "type": "issue",
       "labels": [],
       "number": 279
-    }
-  },
-  {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 7,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -612,16 +599,29 @@
     }
   },
   {
-    "id": "github_issue_262",
-    "source": "github",
-    "author": "tofunori",
-    "content": "[Issue] [Bug] Droid CLI duplicates infinitely when opening new tab in PowerShell (Windows)\n\n## Description\nWhen opening a new tab in PowerShell on Windows, the droid CLI process starts duplicating infinitely, creating multiple \"Thinking...\" processes that cannot be stopped.\n\n## Steps to Reproduce\n1. Open PowerShell on Windows\n2. Run the droid CLI\n3. Open a new PowerShell tab\n4. Observe the infinite duplication\n\n## Expected Behavior\nOpening a new tab should not trigger any duplication or unexpected behavior in the droid CLI.\n\n## Actual Behavior\nThe droid CLI starts creating infinite \"Th",
-    "url": "https://github.com/Factory-AI/factory/issues/262",
-    "timestamp": "2025-10-26T00:00:41Z",
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
     "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 262
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1of1zjv",
+    "source": "reddit",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -690,19 +690,6 @@
     }
   },
   {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -729,6 +716,19 @@
     }
   },
   {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1ob2dsx",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -737,19 +737,6 @@
     "timestamp": "2025-10-19T21:56:23.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 11,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
