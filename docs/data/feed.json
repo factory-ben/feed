@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1985693257787957606",
+    "source": "twitter",
+    "author": "JCodesMore",
+    "content": "@AntonioJASmith @nkgoutham @FactoryAI Why does this whole thread read like an undercover promo campaign",
+    "url": "https://x.com/JCodesMore/status/1985693257787957606",
+    "timestamp": "2025-11-04T12:58:59.000Z",
+    "metadata": {
+      "conversation_id": "1985693257787957606",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985680635776704745",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Aristotleless @FactoryAI thx will look",
+    "url": "https://x.com/bentossell/status/1985680635776704745",
+    "timestamp": "2025-11-04T12:08:50.000Z",
+    "metadata": {
+      "conversation_id": "1985680635776704745",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985680542155599957",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@5aikat @FactoryAI 🧠",
+    "url": "https://x.com/bentossell/status/1985680542155599957",
+    "timestamp": "2025-11-04T12:08:28.000Z",
+    "metadata": {
+      "conversation_id": "1985680542155599957",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985677799680852249",
     "source": "twitter",
     "author": "immoinulmoin",
@@ -8,7 +53,7 @@
     "timestamp": "2025-11-04T11:57:34.000Z",
     "metadata": {
       "conversation_id": "1985677799680852249",
-      "likes": 0,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -126,9 +171,9 @@
     "timestamp": "2025-11-04T09:55:05.000Z",
     "metadata": {
       "conversation_id": "1985646975409164393",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -141,7 +186,7 @@
     "timestamp": "2025-11-04T09:23:14.000Z",
     "metadata": {
       "conversation_id": "1985638963596705968",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985579773100478827",
-    "source": "twitter",
-    "author": "Aristotleless",
-    "content": "@FactoryAI droid: Error: 400 Floating point NaN (not-a-number) is detected in generation. It's likely a model issue leading to overflow. Please contact\n   Fireworks if it's a Fireworks-hosted model or check your model weights if it's a custom model.",
-    "url": "https://x.com/Aristotleless/status/1985579773100478827",
-    "timestamp": "2025-11-04T05:28:02.000Z",
-    "metadata": {
-      "conversation_id": "1985579773100478827",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985577241074610267",
-    "source": "twitter",
-    "author": "acoustik",
-    "content": "@matanSF @FactoryAI OK I am stuck on the \"Set up an authenticator app\" step. \n\nNot sure why this is necessary?\n\nI'm probably doing something dumb. \n\nWill tackle again in the morning.",
-    "url": "https://x.com/acoustik/status/1985577241074610267",
-    "timestamp": "2025-11-04T05:17:59.000Z",
-    "metadata": {
-      "conversation_id": "1985577241074610267",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985571646909137000",
-    "source": "twitter",
-    "author": "_vu",
-    "content": "@Carlos_0x @FactoryAI Been interested in Droid but told myself I was going to build my own factory (I did, it sucked). This reminds me to give it a try again now that cypherpunk is submitted I'm not working on a deadline again",
-    "url": "https://x.com/_vu/status/1985571646909137000",
-    "timestamp": "2025-11-04T04:55:45.000Z",
-    "metadata": {
-      "conversation_id": "1985571646909137000",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_308",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 12,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 13,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -699,19 +699,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
       "subreddit": "FactoryAi"
     }
   },
