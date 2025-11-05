@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1986095261484278094",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "It's a Flutter app, my prompt was: \n\n'Review my codebase and analyze the widget tree. Find places where I can refactor or simplify the code. Point out any over-engineering or unnecessary complexity for the future. \nMy goal is to make the app production ready, so remove or flag any demo, markdown, or leftover files that aren't needed.'",
+    "url": "https://x.com/rezaul_arif/status/1986095261484278094",
+    "timestamp": "2025-11-05T15:36:24.000Z",
+    "metadata": {
+      "conversation_id": "1986095261484278094",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986085421462536417",
     "source": "twitter",
     "author": "every",
@@ -8,8 +23,8 @@
     "timestamp": "2025-11-05T14:57:18.000Z",
     "metadata": {
       "conversation_id": "1986085421462536417",
-      "likes": 2,
-      "retweets": 0,
+      "likes": 5,
+      "retweets": 1,
       "replies": 1,
       "quotes": 0
     }
@@ -23,7 +38,7 @@
     "timestamp": "2025-11-05T14:04:10.000Z",
     "metadata": {
       "conversation_id": "1986072047030829485",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,7 +113,7 @@
     "timestamp": "2025-11-05T13:28:06.000Z",
     "metadata": {
       "conversation_id": "1986062970456019265",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -113,9 +128,9 @@
     "timestamp": "2025-11-05T13:21:57.000Z",
     "metadata": {
       "conversation_id": "1986061425757073755",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -128,7 +143,7 @@
     "timestamp": "2025-11-05T13:17:25.000Z",
     "metadata": {
       "conversation_id": "1986060281722830853",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985974520579309905",
-    "source": "twitter",
-    "author": "LyceumCloud",
-    "content": "@5aikat @FactoryAI Context is king! Love how FactoryAI is stepping up the game. 🏆",
-    "url": "https://x.com/LyceumCloud/status/1985974520579309905",
-    "timestamp": "2025-11-05T07:36:37.000Z",
-    "metadata": {
-      "conversation_id": "1985974520579309905",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oomptx",
     "source": "reddit",
     "author": "samplifyk",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -686,6 +686,19 @@
     "metadata": {
       "score": 12,
       "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
