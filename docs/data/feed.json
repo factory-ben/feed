@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1985947392525418820",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@dogancanbaris @FactoryAI I did the same experiment as you did, tried different models in factory and then by itself in CLI, it was night and day.\n\nto each his own brother 💪 whatever works for you \n\nGood luck!",
+    "url": "https://x.com/5aikat/status/1985947392525418820",
+    "timestamp": "2025-11-05T05:48:50.000Z",
+    "metadata": {
+      "conversation_id": "1985947392525418820",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985947210681631142",
+    "source": "twitter",
+    "author": "hillbertdavid",
+    "content": "@edels0n @matanSF @FactoryAI He is very articulate. He has a big future if he keeps dreaming big. Unfortunately, most founders like him sell and disappear.",
+    "url": "https://x.com/hillbertdavid/status/1985947210681631142",
+    "timestamp": "2025-11-05T05:48:06.000Z",
+    "metadata": {
+      "conversation_id": "1985947210681631142",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985946301973115041",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@turnedninja @FactoryAI pls be careful then 😅\n\nI screenshot my session in my tweet.\n\nif you're getting wildly worse usage in your 3hr session, speak to the guys in factory\n\n\"as for getting paid\", haha - feel honored you consider me such a big fry 😅",
+    "url": "https://x.com/5aikat/status/1985946301973115041",
+    "timestamp": "2025-11-05T05:44:30.000Z",
+    "metadata": {
+      "conversation_id": "1985946301973115041",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985940759212933355",
     "source": "twitter",
     "author": "hampsonw",
@@ -85,7 +130,7 @@
       "conversation_id": "1985922073253073226",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985891010124161156",
-    "source": "twitter",
-    "author": "nest_elf",
-    "content": "@xxx04710739 @FactoryAI with openai api or openrouter as a custom model. i used openai",
-    "url": "https://x.com/nest_elf/status/1985891010124161156",
-    "timestamp": "2025-11-05T02:04:47.000Z",
-    "metadata": {
-      "conversation_id": "1985891010124161156",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985891005015720280",
-    "source": "twitter",
-    "author": "launchaddict",
-    "content": "Feature request for @FactoryAI @claudeai et all to have a Q&amp;A mode, so that it can capture &amp; test my thinking, and then work using that.. Not return ~15 complex questions for be to answered which is overwhelming ¯\\_(ツ)_/¯ Spec &amp; Plan mode is too \"big\". I want a thinking sidekick",
-    "url": "https://x.com/launchaddict/status/1985891005015720280",
-    "timestamp": "2025-11-05T02:04:46.000Z",
-    "metadata": {
-      "conversation_id": "1985891005015720280",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985890853341315193",
-    "source": "twitter",
-    "author": "Tirthhh30",
-    "content": "@5aikat @FactoryAI Factory AI handling context better is what competition drives",
-    "url": "https://x.com/Tirthhh30/status/1985890853341315193",
-    "timestamp": "2025-11-05T02:04:10.000Z",
-    "metadata": {
-      "conversation_id": "1985890853341315193",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oomptx",
     "source": "reddit",
     "author": "samplifyk",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -684,21 +684,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -713,6 +700,19 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
+    }
+  },
+  {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
     }
   },
   {
