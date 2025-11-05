@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1986212822146318670",
+    "source": "twitter",
+    "author": "anthonyronning_",
+    "content": "@darshil @FactoryAI @snyksec Thanks!",
+    "url": "https://x.com/anthonyronning_/status/1986212822146318670",
+    "timestamp": "2025-11-05T23:23:33.000Z",
+    "metadata": {
+      "conversation_id": "1986212822146318670",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986209621212864562",
     "source": "twitter",
     "author": "darshil",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-05T23:10:50.000Z",
     "metadata": {
       "conversation_id": "1986209621212864562",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,9 +38,9 @@
     "timestamp": "2025-11-05T23:10:39.000Z",
     "metadata": {
       "conversation_id": "1986209577483051382",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -265,7 +280,7 @@
       "conversation_id": "1986146408072946141",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -278,21 +293,6 @@
     "timestamp": "2025-11-05T18:58:56.000Z",
     "metadata": {
       "conversation_id": "1986146230313857130",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986145371324866655",
-    "source": "twitter",
-    "author": "kn_neeraj1",
-    "content": "Reading arXiv papers to keep up with AI, but struggled with knowledge recall. Built a mobile app to manage my paper library—adding notes, NotebookLM-style FAQs, and flashcards for better retention. Kudos @FactoryAI !! The experience has been great! https://t.co/nTAYgDGqvt",
-    "url": "https://x.com/kn_neeraj1/status/1986145371324866655",
-    "timestamp": "2025-11-05T18:55:31.000Z",
-    "metadata": {
-      "conversation_id": "1986145371324866655",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
