@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1986453434116255903",
+    "source": "twitter",
+    "author": "masfiq018",
+    "content": "@pascallammers_ @FactoryAI I can even reduce the time to halve.",
+    "url": "https://x.com/masfiq018/status/1986453434116255903",
+    "timestamp": "2025-11-06T15:19:39.000Z",
+    "metadata": {
+      "conversation_id": "1986453434116255903",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986450966049169690",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@kylantomita @FactoryAI yeh potentially high+mcps enabled",
+    "url": "https://x.com/bentossell/status/1986450966049169690",
+    "timestamp": "2025-11-06T15:09:51.000Z",
+    "metadata": {
+      "conversation_id": "1986450966049169690",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986448691150901735",
+    "source": "twitter",
+    "author": "anujbpanchal",
+    "content": ".@FactoryAI helps teams code and document faster with agentic intelligence. As they grew, their multi-database setup slowed them down. Switching to @MongoDB Atlas brought everything together, so they could scale with ease. https://t.co/UzVfAA6UeZ https://t.co/ANA5fgj2jG",
+    "url": "https://x.com/anujbpanchal/status/1986448691150901735",
+    "timestamp": "2025-11-06T15:00:49.000Z",
+    "metadata": {
+      "conversation_id": "1986448691150901735",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986441206046372075",
     "source": "twitter",
     "author": "mnair1",
@@ -23,9 +68,9 @@
     "timestamp": "2025-11-06T14:28:46.000Z",
     "metadata": {
       "conversation_id": "1986440627312001303",
-      "likes": 4,
+      "likes": 9,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,7 +158,7 @@
     "timestamp": "2025-11-06T13:52:26.000Z",
     "metadata": {
       "conversation_id": "1986431482127102104",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986393294247718945",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@FactoryAI @snyksec yes, DROID already stopped a couple of times API keys being pushed to GitHub! 🙏🏻",
-    "url": "https://x.com/SvenMeyer/status/1986393294247718945",
-    "timestamp": "2025-11-06T11:20:41.000Z",
-    "metadata": {
-      "conversation_id": "1986393294247718945",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986371793414680840",
-    "source": "twitter",
-    "author": "CuratedDesignHQ",
-    "content": "Factory (@FactoryAI)            \n\nBuilding Droid, the frontier software dev agent →  https://t.co/7pw7jA4zKY https://t.co/LZUWwLk4vW",
-    "url": "https://x.com/CuratedDesignHQ/status/1986371793414680840",
-    "timestamp": "2025-11-06T09:55:15.000Z",
-    "metadata": {
-      "conversation_id": "1986371793414680840",
-      "likes": 22,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986352390690512940",
-    "source": "twitter",
-    "author": "cr4shdxmmy",
-    "content": "@rezaul_arif @FactoryAI ask it how does it taste",
-    "url": "https://x.com/cr4shdxmmy/status/1986352390690512940",
-    "timestamp": "2025-11-06T08:38:09.000Z",
-    "metadata": {
-      "conversation_id": "1986352390690512940",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1op6njm",
     "source": "reddit",
     "author": "Sakrilegi0us",
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 13,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
