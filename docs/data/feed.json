@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1986288598279463186",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "By the way, coded 100% by @FactoryAI's Droid.",
+    "url": "https://x.com/nathanpareo/status/1986288598279463186",
+    "timestamp": "2025-11-06T04:24:39.000Z",
+    "metadata": {
+      "conversation_id": "1986288598279463186",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986272784452911152",
     "source": "twitter",
     "author": "duru_tobe",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986178307885257169",
-    "source": "twitter",
-    "author": "liran_tal",
-    "content": "@Todd_CISO @snyksec @FactoryAI https://t.co/tgibpnO5eq",
-    "url": "https://x.com/liran_tal/status/1986178307885257169",
-    "timestamp": "2025-11-05T21:06:24.000Z",
-    "metadata": {
-      "conversation_id": "1986178307885257169",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1op6njm",
     "source": "reddit",
     "author": "Sakrilegi0us",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -698,19 +698,6 @@
     "timestamp": "2025-10-25T03:21:56.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }
