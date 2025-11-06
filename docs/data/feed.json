@@ -8,7 +8,7 @@
     "timestamp": "2025-11-06T14:31:04.000Z",
     "metadata": {
       "conversation_id": "1986441206046372075",
-      "likes": 2,
+      "likes": 4,
       "retweets": 1,
       "replies": 0,
       "quotes": 0
@@ -23,7 +23,7 @@
     "timestamp": "2025-11-06T14:28:46.000Z",
     "metadata": {
       "conversation_id": "1986440627312001303",
-      "likes": 1,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -278,7 +278,7 @@
     "timestamp": "2025-11-06T09:55:15.000Z",
     "metadata": {
       "conversation_id": "1986371793414680840",
-      "likes": 21,
+      "likes": 22,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -690,15 +690,15 @@
     }
   },
   {
-    "id": "reddit_1ofh3rn",
+    "id": "reddit_1ofmunx",
     "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 2,
-      "num_comments": 1,
+      "score": 13,
+      "num_comments": 11,
       "subreddit": "FactoryAi"
     }
   },
