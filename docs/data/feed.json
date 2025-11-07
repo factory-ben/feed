@@ -8,7 +8,7 @@
     "timestamp": "2025-11-07T19:17:24.000Z",
     "metadata": {
       "conversation_id": "1986875652121751725",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -113,7 +113,7 @@
     "timestamp": "2025-11-07T17:39:03.000Z",
     "metadata": {
       "conversation_id": "1986850903484485670",
-      "likes": 24,
+      "likes": 27,
       "retweets": 3,
       "replies": 1,
       "quotes": 1
@@ -248,7 +248,7 @@
     "timestamp": "2025-11-07T15:55:30.000Z",
     "metadata": {
       "conversation_id": "1986824843388391778",
-      "likes": 10,
+      "likes": 11,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 12,
       "subreddit": "FactoryAi"
     }
@@ -424,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -699,19 +699,6 @@
     "metadata": {
       "score": 12,
       "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
