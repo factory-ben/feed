@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1986838511865954476",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@iamcienlim @gasca @cursor_ai @FactoryAI big 🧠",
+    "url": "https://x.com/bentossell/status/1986838511865954476",
+    "timestamp": "2025-11-07T16:49:49.000Z",
+    "metadata": {
+      "conversation_id": "1986838511865954476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986838231472554300",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JeremyGrove_MDF @thedanifrim @FactoryAI oh hell yeah, watching this :)",
+    "url": "https://x.com/bentossell/status/1986838231472554300",
+    "timestamp": "2025-11-07T16:48:42.000Z",
+    "metadata": {
+      "conversation_id": "1986838231472554300",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986838133011313124",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "Quick Q! Do you guys recommend GPT 5 or GPT 5 Codex with the Droid?  @bentossell @matanSF @FactoryAI @matanSF",
+    "url": "https://x.com/Alberto8793/status/1986838133011313124",
+    "timestamp": "2025-11-07T16:48:19.000Z",
+    "metadata": {
+      "conversation_id": "1986838133011313124",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986835798063186365",
     "source": "twitter",
     "author": "JeremyGrove_MDF",
@@ -8,9 +53,9 @@
     "timestamp": "2025-11-07T16:39:02.000Z",
     "metadata": {
       "conversation_id": "1986835798063186365",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +98,7 @@
     "timestamp": "2025-11-07T15:56:24.000Z",
     "metadata": {
       "conversation_id": "1986825066856984854",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +113,7 @@
     "timestamp": "2025-11-07T15:55:30.000Z",
     "metadata": {
       "conversation_id": "1986824843388391778",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -113,7 +158,7 @@
     "timestamp": "2025-11-07T15:45:12.000Z",
     "metadata": {
       "conversation_id": "1986822251107254505",
-      "likes": 2,
+      "likes": 3,
       "retweets": 1,
       "replies": 0,
       "quotes": 0
@@ -128,7 +173,7 @@
     "timestamp": "2025-11-07T15:41:02.000Z",
     "metadata": {
       "conversation_id": "1986821200950243488",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -188,9 +233,9 @@
     "timestamp": "2025-11-07T15:35:20.000Z",
     "metadata": {
       "conversation_id": "1986819766271815800",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -248,54 +293,9 @@
     "timestamp": "2025-11-07T14:41:44.000Z",
     "metadata": {
       "conversation_id": "1986806279818408358",
-      "likes": 13,
+      "likes": 14,
       "retweets": 1,
       "replies": 5,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986803403209711744",
-    "source": "twitter",
-    "author": "every",
-    "content": "Last week, @FactoryAI's @bentossell joined @danshipper, @DannyAziz97, and @kieranklaassen for Droid Camp—showing how they use Droid to orchestrate multiple AI models in production.\n\nKey takeaways🧵 https://t.co/gqJODI1pot",
-    "url": "https://x.com/every/status/1986803403209711744",
-    "timestamp": "2025-11-07T14:30:19.000Z",
-    "metadata": {
-      "conversation_id": "1986803403209711744",
-      "likes": 16,
-      "retweets": 3,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986801109743100022",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@NilkhanVaibhav @FactoryAI like this for example https://t.co/g3QKQAf1H1",
-    "url": "https://x.com/bentossell/status/1986801109743100022",
-    "timestamp": "2025-11-07T14:21:12.000Z",
-    "metadata": {
-      "conversation_id": "1986801109743100022",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986799768337543375",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@AntonioJASmith @FactoryAI i couldnt but go you!",
-    "url": "https://x.com/bentossell/status/1986799768337543375",
-    "timestamp": "2025-11-07T14:15:52.000Z",
-    "metadata": {
-      "conversation_id": "1986799768337543375",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 12,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -424,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 13,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
