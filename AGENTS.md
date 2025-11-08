@@ -28,21 +28,22 @@ This document provides best practices and guidelines for AI agents working on th
 4. Verify `.gitignore` includes `.env` and `data/*.json`
 
 **Current secrets in use:**
-- `GH_PAT`: GitHub Personal Access Token for API access (Note: Cannot use `GITHUB_*` as secret name - GitHub restriction)
+- `GH_PAT`: GitHub Personal Access Token for API access
+- `GH_REPO`: GitHub repository to track (format: `owner/repo`)
 - `APIFY_TOKEN`: Apify API token for Twitter scraping
 - `SLACK_WEBHOOK_URL`: Slack incoming webhook (optional)
 - `TEAM_TWITTER_USERNAMES`: Usernames to filter out
 
 **All secrets stored in:**
-- Local development: `.env` file (gitignored) - uses `GITHUB_TOKEN` variable name
-- GitHub Actions: Repository Secrets (Settings > Secrets and variables > Actions) - uses `GH_PAT` name
+- Local development: `.env` file (gitignored) - uses `GITHUB_TOKEN` and `GITHUB_REPO` variable names
+- GitHub Actions: Repository Secrets (Settings > Secrets and variables > Actions) - uses `GH_PAT` and `GH_REPO` names
 - Frontend access: SHA-256 hash in code (not the actual token)
 
 **⚠️ GitHub Secret Naming Restriction:**
 GitHub does not allow repository secrets to contain the word `GITHUB` in their name. That's why we use:
-- `GH_PAT` in GitHub Secrets (for Actions)
-- `GITHUB_TOKEN` in local `.env` file (for development)
-The workflow maps `GH_PAT` → `GITHUB_TOKEN` environment variable.
+- `GH_PAT` in GitHub Secrets (for Actions) → mapped to `GITHUB_TOKEN` environment variable
+- `GH_REPO` in GitHub Secrets (for Actions) → mapped to `GITHUB_REPO` environment variable
+- `GITHUB_TOKEN` and `GITHUB_REPO` in local `.env` file (for development)
 
 ### 🔐 Access Token Management
 
@@ -355,22 +356,9 @@ When deploying to a new environment:
 3. Audit access logs if needed
 4. Rotate access tokens if compromised
 
-## GitHub Accounts in Use
-
-Per `~/repos/AGENTS.md`:
-- **Work**: `factory-ben` (ben@factory.ai) - Use for Factory-related repos
-- **Personal**: `bentossell` (bentossell@gmail.com) - Use for personal projects
-
-**This repo should use**: `factory-ben` account (work-related project)
-
 ## Additional Resources
 
 - **GitHub Actions Docs**: https://docs.github.com/en/actions
 - **GitHub Pages Docs**: https://docs.github.com/en/pages
 - **Apify Docs**: https://docs.apify.com/
 - **GitHub GraphQL Explorer**: https://docs.github.com/en/graphql/overview/explorer
-
----
-
-**Last Updated**: 2025-01-15
-**Maintained By**: Ben Tossell (ben@factory.ai)

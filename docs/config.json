@@ -1,16 +1,15 @@
 {
   "twitter": {
-    "searchTerms": ["factoryai"],
-    "excludeUsernames": ["FactoryAI"]
+    "searchTerms": ["example"],
+    "excludeUsernames": ["ExampleBot"]
   },
   "reddit": {
     "urls": [
-      "https://www.reddit.com/search/?q=factoryai&type=link&sort=new",
-      "https://www.reddit.com/r/MachineLearning/search/?q=factoryai&restrict_sr=1&sort=new"
+      "https://www.reddit.com/search/?q=example&type=link&sort=new"
     ]
   },
   "github": {
-    "usernames": ["anthropics", "vercel", "openai"],
-    "topics": ["ai", "llm", "machine-learning"]
+    "usernames": ["octocat"],
+    "topics": ["open-source"]
   }
 }

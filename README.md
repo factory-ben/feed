@@ -1,6 +1,14 @@
-# Factory Feed Viewer
+# Social Feed Aggregator
 
-A personal social media feed aggregator for tracking Factory AI mentions across Twitter, Reddit, and GitHub. Runs on GitHub Pages with automated scraping via GitHub Actions.
+A private social media feed aggregator for tracking mentions and content across Twitter, Reddit, and GitHub. Perfect for monitoring brand mentions, competitor activity, or topic-specific content. Runs on GitHub Pages with automated scraping via GitHub Actions.
+
+## Use Cases
+
+- 🏢 **Brand monitoring** - Track mentions of your company/product across social platforms
+- 👀 **Competitor analysis** - Monitor competitor activity and announcements
+- 📰 **Topic research** - Aggregate content about specific topics or technologies
+- 🔍 **Developer relations** - Track community discussions, issues, and feedback
+- 📊 **Market research** - Monitor trends, sentiment, and conversations in your industry
 
 ## Features
 
@@ -64,33 +72,34 @@ A personal social media feed aggregator for tracking Factory AI mentions across 
 
 1. **Create private repository**:
    ```bash
-   gh repo create factory-feed-viewer --private --source=. --remote=origin --push
+   gh repo create social-feed-aggregator --private --source=. --remote=origin --push
    ```
 
 2. **Add GitHub Secrets** (Settings > Secrets and variables > Actions):
-   - `GITHUB_PAT`: Your GitHub Personal Access Token
+   - `GITHUB_PAT`: Your GitHub Personal Access Token (Note: GitHub doesn't allow secrets starting with `GITHUB_`)
    - `APIFY_TOKEN`: Your Apify API token
-   - `TEAM_TWITTER_USERNAMES`: Usernames to filter (e.g., `FactoryAI`)
+   - `GH_REPO`: (Optional) GitHub repository to track in format `owner/repo` (defaults to `Factory-AI/factory`)
+   - `TEAM_TWITTER_USERNAMES`: Usernames to filter (e.g., `YourCompanyBot`)
 
 3. **Enable GitHub Pages**:
    - Go to Settings > Pages
    - Source: Deploy from branch `main`
-   - Folder: `/public`
+   - Folder: `/docs`
    - Save
 
 4. **Generate access token**:
    ```bash
    echo -n "your_password" | shasum -a 256
-   # Copy the hash and update ACCESS_TOKEN_HASH in public/index.html
+   # Copy the hash and update ACCESS_TOKEN_HASH in docs/index.html
    ```
 
 5. **Trigger first scrape**:
    - Go to Actions tab
    - Run "Scrape Feeds" workflow manually
-   - Verify `public/data/feed.json` is created
+   - Verify `docs/data/feed.json` is created
 
 6. **Access site**:
-   - Visit your GitHub Pages URL: `https://<username>.github.io/factory-feed-viewer/`
+   - Visit your GitHub Pages URL: `https://<username>.github.io/social-feed-aggregator/`
    - Enter your access token
    - Feed should load!
 
@@ -98,22 +107,23 @@ A personal social media feed aggregator for tracking Factory AI mentions across 
 
 ### Feed Sources
 
-Edit via Settings UI (⚙️ icon) or modify `public/config.json`:
+Edit via Settings UI (⚙️ icon) or modify `docs/config.json`:
 
 ```json
 {
   "twitter": {
-    "searchTerms": ["factoryai", "anthropic"],
-    "excludeUsernames": ["FactoryAI"]
+    "searchTerms": ["yourcompany", "yourproduct"],
+    "excludeUsernames": ["YourCompanyAccount"]
   },
   "reddit": {
     "urls": [
-      "https://www.reddit.com/search/?q=factoryai&type=link&sort=new"
+      "https://www.reddit.com/search/?q=yourcompany&type=link&sort=new",
+      "https://www.reddit.com/r/YourIndustry/search/?q=yourcompany&restrict_sr=1&sort=new"
     ]
   },
   "github": {
-    "usernames": ["anthropics", "vercel", "openai"],
-    "topics": ["ai", "llm"]
+    "usernames": ["yourorg", "competitor1", "competitor2"],
+    "topics": ["ai", "llm", "machine-learning"]
   }
 }
 ```
@@ -208,7 +218,21 @@ See `AGENTS.md` for detailed security practices.
 
 ## Contributing
 
-This is a personal project, but suggestions welcome via issues.
+We welcome contributions! Whether it's bug fixes, new features, documentation improvements, or new scrapers - all PRs are appreciated.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+- How to set up your development environment
+- Code style guidelines
+- How to add new scrapers
+- Pull request process
+
+Quick start:
+1. Fork the repo
+2. Create a feature branch
+3. Make your changes
+4. Submit a PR
+
+For questions or discussions, open an [issue](https://github.com/bentossell/ccc-new/issues).
 
 ## License
 

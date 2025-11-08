@@ -1,15 +1,33 @@
 {
-  "name": "factory-twitter-slack",
+  "name": "social-feed-aggregator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A token-gated social media feed aggregator that scrapes Twitter, Reddit, and GitHub. Runs on GitHub Pages with automated scraping via GitHub Actions.",
+  "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "node src/index.js"
+    "dev": "node src/index.js",
+    "scrape": "node src/scraper-cli.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "social-media",
+    "aggregator",
+    "twitter",
+    "reddit",
+    "github",
+    "github-pages",
+    "scraper",
+    "feed-reader"
+  ],
+  "author": "Ben Tossell",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bentossell/ccc-new.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bentossell/ccc-new/issues"
+  },
+  "homepage": "https://github.com/bentossell/ccc-new#readme",
   "type": "commonjs",
   "dependencies": {
     "@octokit/graphql": "^9.0.2",

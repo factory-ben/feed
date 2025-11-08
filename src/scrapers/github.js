@@ -1,12 +1,19 @@
 /**
- * Scrapes discussions and issues from Factory-AI/factory repository
+ * Scrapes discussions and issues from a GitHub repository
  * @returns {Promise<Array>} Array of normalized discussion and issue objects
  */
 async function scrapeGitHub() {
   const token = process.env.GITHUB_TOKEN;
+  const repo = process.env.GITHUB_REPO || 'Factory-AI/factory';
+  const [owner, repoName] = repo.split('/');
   
   if (!token) {
     console.error('[GitHub] Missing GITHUB_TOKEN in environment');
+    return [];
+  }
+
+  if (!owner || !repoName) {
+    console.error('[GitHub] Invalid GITHUB_REPO format. Expected "owner/repo", got:', repo);
     return [];
   }
 
@@ -16,7 +23,7 @@ async function scrapeGitHub() {
   try {
     const query = `
       query {
-        repository(owner: "Factory-AI", name: "factory") {
+        repository(owner: "${owner}", name: "${repoName}") {
           discussions(first: 20, orderBy: {field: CREATED_AT, direction: DESC}) {
             nodes {
               id
@@ -92,7 +99,7 @@ async function scrapeGitHub() {
     }));
 
     const allItems = [...discussions, ...issues];
-    console.log(`[GitHub] Fetched ${discussions.length} discussions and ${issues.length} issues`);
+    console.log(`[GitHub] Fetched ${discussions.length} discussions and ${issues.length} issues from ${owner}/${repoName}`);
     return allItems;
 
   } catch (error) {
