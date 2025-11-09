@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_329",
+    "source": "github",
+    "author": "TheSingular",
+    "content": "[Issue] Spec mode hides reasoning level effort in model name\n\nWhen using the spec mode, you cannot see the reasoning effort of the model you have selected (if it supports reasoning).\nYou can still change the reasoning effort via the tab key, but you cannot see its effect at all. Other modes properly display the reasoning effort in parentheses.\n\nHow to reproduce:\n1. Use model Sonnet 4.5 with low reasoning effort, do not choose a separate model for the spec model.\n2. Toggle to spec mode via ctrl + t.\n3. Observe the parentheses containing the reasoning effort",
+    "url": "https://github.com/Factory-AI/factory/issues/329",
+    "timestamp": "2025-11-09T09:12:43Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 329
+    }
+  },
+  {
     "id": "twitter_1987437062052774322",
     "source": "twitter",
     "author": "Ricardo_Nth",
@@ -359,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -528,21 +541,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -596,19 +596,6 @@
       "type": "issue",
       "labels": [],
       "number": 282
-    }
-  },
-  {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 6,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -690,16 +677,29 @@
     }
   },
   {
-    "id": "github_issue_265",
-    "source": "github",
-    "author": "VTSTG233",
-    "content": "[Issue] The same model name is provided by two providers, but only the first model name is displayed in the CLI.\n\n<img width=\"981\" height=\"1145\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5a4701b9-fe41-40ea-b47a-fa8ca54936cd\" />\n\n<img width=\"669\" height=\"656\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6e5b6716-61fc-49aa-92ad-73aaebe01ed1\" />\n\n\nThere are two providers for the same model name, but the humanized name of the model displayed in the CLI is only the first one. The final use will not use the second provider, so this is a bug!",
-    "url": "https://github.com/Factory-AI/factory/issues/265",
-    "timestamp": "2025-10-27T03:59:02Z",
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
     "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 265
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1of1zjv",
+    "source": "reddit",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
