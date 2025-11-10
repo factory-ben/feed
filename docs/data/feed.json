@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1987773696912630057",
+    "source": "twitter",
+    "author": "riley_ngg",
+    "content": "@superbnormal @FactoryAI man love seeing this. glad factoryai droid worked flawlessly for you.",
+    "url": "https://x.com/riley_ngg/status/1987773696912630057",
+    "timestamp": "2025-11-10T06:45:55.000Z",
+    "metadata": {
+      "conversation_id": "1987773696912630057",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987672625674404338",
     "source": "twitter",
     "author": "Alberto8793",
@@ -337,21 +352,6 @@
     }
   },
   {
-    "id": "twitter_1987363177433341996",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@lucas_montano No - Not every AI model needs its own proprietary CLI Agentic coding tool ! We already have more than enough. Actually, one good one is enough which can run with any model. One of the reasons why I only use @FactoryAI DROID CLI.",
-    "url": "https://x.com/SvenMeyer/status/1987363177433341996",
-    "timestamp": "2025-11-09T03:34:39.000Z",
-    "metadata": {
-      "conversation_id": "1987363177433341996",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_328",
     "source": "github",
     "author": "a112121788",
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
