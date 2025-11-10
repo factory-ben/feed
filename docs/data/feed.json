@@ -92,7 +92,7 @@
     "timestamp": "2025-11-10T06:45:55.000Z",
     "metadata": {
       "conversation_id": "1987773696912630057",
-      "likes": 1,
+      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -107,9 +107,9 @@
     "timestamp": "2025-11-10T00:04:17.000Z",
     "metadata": {
       "conversation_id": "1987672625674404338",
-      "likes": 7,
-      "retweets": 1,
-      "replies": 0,
+      "likes": 8,
+      "retweets": 2,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
