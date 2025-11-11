@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1988271447316316614",
+    "source": "twitter",
+    "author": "jhomra21",
+    "content": "@vanilagy Try these: @FactoryAI Droids, @opencode and @Sourcegraph Amp",
+    "url": "https://x.com/jhomra21/status/1988271447316316614",
+    "timestamp": "2025-11-11T15:43:47.000Z",
+    "metadata": {
+      "conversation_id": "1988271447316316614",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988269200239145139",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@zeeg Weird, I almost never get the random python or random commands anymore! It is kind of tough to review while it works, but I find Codex CLI and @FactoryAI using Codex both work well on my 99.999999999% ts codebase",
+    "url": "https://x.com/Alberto8793/status/1988269200239145139",
+    "timestamp": "2025-11-11T15:34:52.000Z",
+    "metadata": {
+      "conversation_id": "1988269200239145139",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988266475241509260",
     "source": "twitter",
     "author": "melodykoh",
@@ -128,7 +158,7 @@
     "timestamp": "2025-11-11T13:31:05.000Z",
     "metadata": {
       "conversation_id": "1988238050019967288",
-      "likes": 3,
+      "likes": 5,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -266,36 +296,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988191091016036502",
-    "source": "twitter",
-    "author": "mikez93",
-    "content": "@bentossell @pvncher @FactoryAI It’s just an old saying when somebody does something nice and then you ask for more…",
-    "url": "https://x.com/mikez93/status/1988191091016036502",
-    "timestamp": "2025-11-11T10:24:29.000Z",
-    "metadata": {
-      "conversation_id": "1988191091016036502",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988190960409587740",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@AVGVSTVS96 @FactoryAI which model are you using? custom or built-in? will escalate",
-    "url": "https://x.com/bentossell/status/1988190960409587740",
-    "timestamp": "2025-11-11T10:23:58.000Z",
-    "metadata": {
-      "conversation_id": "1988190960409587740",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
