@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1988291671302566260",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AdhamAlkhaja @FactoryAI woah what did you build?",
+    "url": "https://x.com/bentossell/status/1988291671302566260",
+    "timestamp": "2025-11-11T17:04:09.000Z",
+    "metadata": {
+      "conversation_id": "1988291671302566260",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988291563936796682",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@joshwagenbach @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1988291563936796682",
+    "timestamp": "2025-11-11T17:03:44.000Z",
+    "metadata": {
+      "conversation_id": "1988291563936796682",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988291474090320276",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "this is awesome - ty!!\n\n1. we have allow/denylist commands that you can configure too😊\n3. odd. i tested that and it worked (its probably a sonnet behavioural thing)\n4. sonnet personality still comes through i find haha - i like all business. weirdly i genuinely shout at my computer less since not using sonnet in cc.\n5. how could we make this better? \n6. yeh we have to compact across model families - but shouldnt see any degradation in performance, we keep the important stuff - blog post soon\n7. this is coming but because of 6 we haven't prioritised. compact % is like a fear-based thing but we're saying 'dw about compacting' just keep chatting, everything will be as expected 😊 - but people want it so its coming (will be a toggle on/off)\n\nkeep it coming!",
+    "url": "https://x.com/bentossell/status/1988291474090320276",
+    "timestamp": "2025-11-11T17:03:22.000Z",
+    "metadata": {
+      "conversation_id": "1988291474090320276",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988290040741720514",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Alberto8793 @zeeg @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1988290040741720514",
+    "timestamp": "2025-11-11T16:57:41.000Z",
+    "metadata": {
+      "conversation_id": "1988290040741720514",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988289955312136713",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@lovedashmatcher @FactoryAI nice! crazy colour theme tho 😅",
+    "url": "https://x.com/bentossell/status/1988289955312136713",
+    "timestamp": "2025-11-11T16:57:20.000Z",
+    "metadata": {
+      "conversation_id": "1988289955312136713",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988289843118698794",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MickeyShaughnes @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1988289843118698794",
+    "timestamp": "2025-11-11T16:56:53.000Z",
+    "metadata": {
+      "conversation_id": "1988289843118698794",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988289798436700613",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@divyanshunegi @FactoryAI oh no! can you email support@factory.ai please - they'll be able to help",
+    "url": "https://x.com/bentossell/status/1988289798436700613",
+    "timestamp": "2025-11-11T16:56:43.000Z",
+    "metadata": {
+      "conversation_id": "1988289798436700613",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988288959882149910",
     "source": "twitter",
     "author": "asynchronope",
@@ -25,7 +130,7 @@
       "conversation_id": "1988283288038027398",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,9 +143,9 @@
     "timestamp": "2025-11-11T16:29:54.000Z",
     "metadata": {
       "conversation_id": "1988283048811786311",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +158,7 @@
     "timestamp": "2025-11-11T16:13:03.000Z",
     "metadata": {
       "conversation_id": "1988278811457450175",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,9 +173,9 @@
     "timestamp": "2025-11-11T15:46:19.000Z",
     "metadata": {
       "conversation_id": "1988272081222726014",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
+      "likes": 2,
+      "retweets": 1,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -83,7 +188,7 @@
     "timestamp": "2025-11-11T15:43:47.000Z",
     "metadata": {
       "conversation_id": "1988271447316316614",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -98,9 +203,9 @@
     "timestamp": "2025-11-11T15:34:52.000Z",
     "metadata": {
       "conversation_id": "1988269200239145139",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,9 +218,9 @@
     "timestamp": "2025-11-11T15:24:02.000Z",
     "metadata": {
       "conversation_id": "1988266475241509260",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -191,111 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988241254879043741",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@immoinulmoin @FactoryAI yeh but not too many requests ;)",
-    "url": "https://x.com/bentossell/status/1988241254879043741",
-    "timestamp": "2025-11-11T13:43:49.000Z",
-    "metadata": {
-      "conversation_id": "1988241254879043741",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988239631788503303",
-    "source": "twitter",
-    "author": "NilkhanVaibhav",
-    "content": "@FactoryAI Support Team, I’ve consumed 63.1M tokens (20M purchased + 40M signup bonus) with $520 referral credit uncharged.Yet, I was invoiced $20 and downgraded. Please clarify this token deduction and billing ASAP. Next billing date should be Nov 19. @bentossell @francesca_lab",
-    "url": "https://x.com/NilkhanVaibhav/status/1988239631788503303",
-    "timestamp": "2025-11-11T13:37:22.000Z",
-    "metadata": {
-      "conversation_id": "1988239631788503303",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988238050019967288",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "soon you can set custom models as spec model (planning model) in @FactoryAI cli, they ship fast af, just put a feat/fix request",
-    "url": "https://x.com/immoinulmoin/status/1988238050019967288",
-    "timestamp": "2025-11-11T13:31:05.000Z",
-    "metadata": {
-      "conversation_id": "1988238050019967288",
-      "likes": 8,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988227364229193812",
-    "source": "twitter",
-    "author": "nathanpareo",
-    "content": "@AdhamAlkhaja @FactoryAI Why not? Answer is in the tweet, I just like to build stuff.",
-    "url": "https://x.com/nathanpareo/status/1988227364229193812",
-    "timestamp": "2025-11-11T12:48:37.000Z",
-    "metadata": {
-      "conversation_id": "1988227364229193812",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988220554810454261",
-    "source": "twitter",
-    "author": "joshwagenbach",
-    "content": "wow working with @FactoryAI is amazing finished a lot of small features for https://t.co/2etnyP6OGk",
-    "url": "https://x.com/joshwagenbach/status/1988220554810454261",
-    "timestamp": "2025-11-11T12:21:34.000Z",
-    "metadata": {
-      "conversation_id": "1988220554810454261",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988216238125052081",
-    "source": "twitter",
-    "author": "AdhamAlkhaja",
-    "content": "Been coding heavy with claude code and used @FactoryAI yesterday, it didn’t disappoint and shipped.\n\nOnly thing is I finished my monthly sub of 20m tokens in less than a day (:",
-    "url": "https://x.com/AdhamAlkhaja/status/1988216238125052081",
-    "timestamp": "2025-11-11T12:04:25.000Z",
-    "metadata": {
-      "conversation_id": "1988216238125052081",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988200642209607873",
-    "source": "twitter",
-    "author": "ArchiSoftTech",
-    "content": "@bentossell @FactoryAI please add a -flag  for debug  thx",
-    "url": "https://x.com/ArchiSoftTech/status/1988200642209607873",
-    "timestamp": "2025-11-11T11:02:26.000Z",
-    "metadata": {
-      "conversation_id": "1988200642209607873",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
