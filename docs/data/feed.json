@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1988603831752474762",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "It would be nice if there’s a crowdsourced place that aggregate people’s latest (albeit subjective) impressions on what models excel on what. I’ve seen takes scattered but it’d be nice to keep track, especially as models continue to improve.\n\nAnd definitely yes for the non-complex tasks.",
+    "url": "https://x.com/melodykoh/status/1988603831752474762",
+    "timestamp": "2025-11-12T13:44:34.000Z",
+    "metadata": {
+      "conversation_id": "1988603831752474762",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988603564781101444",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@joshwagenbach @FactoryAI https://t.co/n5po3QeWKQ this may help!",
+    "url": "https://x.com/bentossell/status/1988603564781101444",
+    "timestamp": "2025-11-12T13:43:30.000Z",
+    "metadata": {
+      "conversation_id": "1988603564781101444",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988603048789422402",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@bentossell @sir4K_zen @cursor_ai @AmpCode @FactoryAI Yes! Noticed when I updated last night. Slick.",
+    "url": "https://x.com/erd0xbc/status/1988603048789422402",
+    "timestamp": "2025-11-12T13:41:27.000Z",
+    "metadata": {
+      "conversation_id": "1988603048789422402",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988602772896550940",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@erd0xbc @sir4K_zen @cursor_ai @AmpCode @FactoryAI spec mode v2 launched today too :)",
+    "url": "https://x.com/bentossell/status/1988602772896550940",
+    "timestamp": "2025-11-12T13:40:22.000Z",
+    "metadata": {
+      "conversation_id": "1988602772896550940",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988602127791558954",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@maxxie2010 @melodykoh @FactoryAI @claudeai @OpenAI does this happen in the latest version also? will look into it. droid core or byok glm?",
+    "url": "https://x.com/bentossell/status/1988602127791558954",
+    "timestamp": "2025-11-12T13:37:48.000Z",
+    "metadata": {
+      "conversation_id": "1988602127791558954",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988601971981639748",
     "source": "twitter",
     "author": "bentossell",
@@ -25,7 +100,7 @@
       "conversation_id": "1988585332091306267",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -40,7 +115,7 @@
       "conversation_id": "1988559770802897384",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +128,7 @@
     "timestamp": "2025-11-12T10:01:20.000Z",
     "metadata": {
       "conversation_id": "1988547650988245149",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -231,83 +306,8 @@
     "timestamp": "2025-11-12T06:33:33.000Z",
     "metadata": {
       "conversation_id": "1988495361996947511",
-      "likes": 3,
+      "likes": 5,
       "retweets": 1,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988491678722691533",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@melodykoh @FactoryAI @claudeai @OpenAI Great write up!",
-    "url": "https://x.com/erd0xbc/status/1988491678722691533",
-    "timestamp": "2025-11-12T06:18:55.000Z",
-    "metadata": {
-      "conversation_id": "1988491678722691533",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988484767944192396",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "I like @AmpCode and I have been using this approach to take good enough specs and build it out. It just takes a long time. @FactoryAI has a better spec iteration mode.\n\nBe sure to work in the following workflow: [assess and understand the project, plan the implementation approach] --→ [confirm the approach with oracle] --→ [revise approach based feedback from oracle] --→ [implement] --→ [ask oracle for code review, obvious bugs or code quality issues] --→ [iterate on recommendations from oracle] --→ [submit to oracle]",
-    "url": "https://x.com/erd0xbc/status/1988484767944192396",
-    "timestamp": "2025-11-12T05:51:27.000Z",
-    "metadata": {
-      "conversation_id": "1988484767944192396",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988482493368893820",
-    "source": "twitter",
-    "author": "EnoReyes",
-    "content": "@michabbb @melodykoh @FactoryAI Hey Michael sorry we missed the mark for you. Would be happy to jump into DMs to help out if you’re still willing!",
-    "url": "https://x.com/EnoReyes/status/1988482493368893820",
-    "timestamp": "2025-11-12T05:42:25.000Z",
-    "metadata": {
-      "conversation_id": "1988482493368893820",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988458971351416929",
-    "source": "twitter",
-    "author": "michabbb",
-    "content": "@melodykoh @FactoryAI Never needed anthropic support, and factory needed on day one, I guess that says everything....",
-    "url": "https://x.com/michabbb/status/1988458971351416929",
-    "timestamp": "2025-11-12T04:08:57.000Z",
-    "metadata": {
-      "conversation_id": "1988458971351416929",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988456293917462695",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "@codewithimanshu @FactoryAI @claudeai @OpenAI Not yet as I’m still on m free credits. But eventually yes that’d obviously be a consideration.",
-    "url": "https://x.com/melodykoh/status/1988456293917462695",
-    "timestamp": "2025-11-12T03:58:18.000Z",
-    "metadata": {
-      "conversation_id": "1988456293917462695",
-      "likes": 0,
-      "retweets": 0,
       "replies": 0,
       "quotes": 0
     }
@@ -391,19 +391,6 @@
     }
   },
   {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -466,19 +453,6 @@
       "type": "issue",
       "labels": [],
       "number": 319
-    }
-  },
-  {
-    "id": "reddit_1op6njm",
-    "source": "reddit",
-    "author": "Sakrilegi0us",
-    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
-    "timestamp": "2025-11-05T15:57:27.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -547,6 +521,19 @@
     }
   },
   {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -593,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -690,15 +677,28 @@
     }
   },
   {
-    "id": "reddit_1oegs4w",
+    "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 0,
-      "num_comments": 21,
+      "score": 11,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -713,19 +713,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
-  },
-  {
-    "id": "reddit_1odjcfl",
-    "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 9,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -752,19 +739,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
