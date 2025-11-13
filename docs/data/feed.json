@@ -8,7 +8,7 @@
     "timestamp": "2025-11-13T03:26:40.000Z",
     "metadata": {
       "conversation_id": "1988810718045696472",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,7 +38,7 @@
     "timestamp": "2025-11-13T02:23:50.000Z",
     "metadata": {
       "conversation_id": "1988794908459893239",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 1
@@ -216,7 +216,7 @@
     "timestamp": "2025-11-13T01:42:17.000Z",
     "metadata": {
       "conversation_id": "1988784451367891418",
-      "likes": 21,
+      "likes": 22,
       "retweets": 0,
       "replies": 4,
       "quotes": 0
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
