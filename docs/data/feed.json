@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988837941364343002",
+    "source": "twitter",
+    "author": "YashBudhiya",
+    "content": "@immoinulmoin @FactoryAI @CheetahAi already has a plan mode nigga, and we are the only one offering unlimited vibe coding as of now.",
+    "url": "https://x.com/YashBudhiya/status/1988837941364343002",
+    "timestamp": "2025-11-13T05:14:50.000Z",
+    "metadata": {
+      "conversation_id": "1988837941364343002",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988827930307276911",
     "source": "twitter",
     "author": "LyceumCloud",
@@ -246,7 +261,7 @@
     "timestamp": "2025-11-13T01:42:17.000Z",
     "metadata": {
       "conversation_id": "1988784451367891418",
-      "likes": 32,
+      "likes": 33,
       "retweets": 1,
       "replies": 4,
       "quotes": 0
@@ -294,21 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988773334494872059",
-    "source": "twitter",
-    "author": "nathanpareo",
-    "content": "I am constantly getting:\nError: 401 {\"detail\":\"Invalid access token\",\"status\":401,\"title\":\"Unauthorized\",\"requestId\":}\nwith @FactoryAI droid. Am I the only one?",
-    "url": "https://x.com/nathanpareo/status/1988773334494872059",
-    "timestamp": "2025-11-13T00:58:07.000Z",
-    "metadata": {
-      "conversation_id": "1988773334494872059",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
       "quotes": 0
     }
   },
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -673,6 +673,19 @@
     "metadata": {
       "score": 5,
       "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1okwodb",
+    "source": "reddit",
+    "author": "Uzeii",
+    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
+    "timestamp": "2025-10-31T14:51:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
