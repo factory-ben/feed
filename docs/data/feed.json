@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_352",
+    "source": "github",
+    "author": "ajdiyassin",
+    "content": "[Issue] Reasoning for OpenAI\n\nWhy is reasoning disabled for OpenAI models?\n Does that lower the quality of output?",
+    "url": "https://github.com/Factory-AI/factory/issues/352",
+    "timestamp": "2025-11-13T19:20:59Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 352
+    }
+  },
+  {
     "id": "github_issue_348",
     "source": "github",
     "author": "aranej",
@@ -257,19 +270,6 @@
       "type": "issue",
       "labels": [],
       "number": 298
-    }
-  },
-  {
-    "id": "github_issue_292",
-    "source": "github",
-    "author": "krit3dvanced",
-    "content": "[Issue] How to select branch other than main in web?\n\nI want to create a document of my project (dev branch) using knowledge droid.\nBut I cannot find a menu to switch branch from `main` to `dev` branch",
-    "url": "https://github.com/Factory-AI/factory/issues/292",
-    "timestamp": "2025-10-31T09:00:34Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 292
     }
   },
   {
