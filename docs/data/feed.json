@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1989176869183451592",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@farizkamini @FactoryAI Option paralysis?",
+    "url": "https://x.com/shreyas1009/status/1989176869183451592",
+    "timestamp": "2025-11-14T03:41:37.000Z",
+    "metadata": {
+      "conversation_id": "1989176869183451592",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989174891590164619",
+    "source": "twitter",
+    "author": "StochasticGhost",
+    "content": "I’ve been using gpt-5.1 high in @FactoryAI droid for HOURS now without getting frustrated even once. The tides are changing",
+    "url": "https://x.com/StochasticGhost/status/1989174891590164619",
+    "timestamp": "2025-11-14T03:33:45.000Z",
+    "metadata": {
+      "conversation_id": "1989174891590164619",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989174385597645159",
+    "source": "twitter",
+    "author": "keiranhaax",
+    "content": "@bentossell @GroqInc @FactoryAI Awesome, thank you.",
+    "url": "https://x.com/keiranhaax/status/1989174385597645159",
+    "timestamp": "2025-11-14T03:31:45.000Z",
+    "metadata": {
+      "conversation_id": "1989174385597645159",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989173482715054469",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@CloudTrader4 @OpenAI @FactoryAI What did you think? It felt worse to me ngl",
+    "url": "https://x.com/contxtkng/status/1989173482715054469",
+    "timestamp": "2025-11-14T03:28:09.000Z",
+    "metadata": {
+      "conversation_id": "1989173482715054469",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989172853099622450",
     "source": "twitter",
     "author": "raulsaavedra_",
@@ -218,7 +278,7 @@
     "timestamp": "2025-11-13T23:03:33.000Z",
     "metadata": {
       "conversation_id": "1989106889787941323",
-      "likes": 29,
+      "likes": 33,
       "retweets": 1,
       "replies": 2,
       "quotes": 0
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989102746440806463",
-    "source": "twitter",
-    "author": "StressarN",
-    "content": "@FactoryAI example here 👇 https://t.co/uK4q54w7AB",
-    "url": "https://x.com/StressarN/status/1989102746440806463",
-    "timestamp": "2025-11-13T22:47:05.000Z",
-    "metadata": {
-      "conversation_id": "1989102746440806463",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989102124761026779",
-    "source": "twitter",
-    "author": "StressarN",
-    "content": "@FactoryAI Hey! I'm experiencing Apply Patch loops that does nothing for 10-15 minutes at a time using gpt-5.1-codex in Droid. (MacOS)",
-    "url": "https://x.com/StressarN/status/1989102124761026779",
-    "timestamp": "2025-11-13T22:44:36.000Z",
-    "metadata": {
-      "conversation_id": "1989102124761026779",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989101721545846892",
-    "source": "twitter",
-    "author": "ssh_sharma135",
-    "content": "@CloudTrader4 @OpenAI @FactoryAI Let us know what you think!",
-    "url": "https://x.com/ssh_sharma135/status/1989101721545846892",
-    "timestamp": "2025-11-13T22:43:00.000Z",
-    "metadata": {
-      "conversation_id": "1989101721545846892",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989096977934741559",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@FactoryAI @OpenAI Ah, that's good to know ! 👍🏻",
-    "url": "https://x.com/SvenMeyer/status/1989096977934741559",
-    "timestamp": "2025-11-13T22:24:09.000Z",
-    "metadata": {
-      "conversation_id": "1989096977934741559",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owbvoj",
     "source": "reddit",
     "author": "bentossell",
@@ -307,7 +307,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
