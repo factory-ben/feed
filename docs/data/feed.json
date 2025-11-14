@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989195134991495584",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "@FactoryAI @OpenAI What about existing users?! @matanSF",
+    "url": "https://x.com/laup30/status/1989195134991495584",
+    "timestamp": "2025-11-14T04:54:12.000Z",
+    "metadata": {
+      "conversation_id": "1989195134991495584",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989183529616568621",
     "source": "twitter",
     "author": "masfiq018",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989106889787941323",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "So I tested GPT-5.1-Codex with @FactoryAI droid.\n\nSetup a Nextjs app with web scrape functionality. The reason for choosing web scraping is it is a complex task for  LLMs and they tend to fail, generates buggy/sloppy code.\n\nCreated a concise and brief AGENTS[.]md . Contains high level overview of the app, tech stack to use and some simple features that I wanted.\n\n1- \"Spec - research and plan only\" GPT-5.1-Codex generated a clean and concise plan. It wasn't over complexed or long, pretty simple and solid suggestions.\n2- I didn't notice any speed difference with GPT-5-Codex, it almost spent same time for every query.\n\nWhat I found interesting is how the model approach to the bug fixes/error handling. Normally droid generally created a 5-6 tasks plan for issue resolving but GPT-5.1-Codex created 3 tasks every time for bug fixes/error handling. Plan/execution/run validators. It was same approach from the model every time. (though I only used for 2 hours and ~300 messages)\n\nI think it has something with @FactoryAI droid about how it is handling the bugs/errors. Huge shoutout to team.\n\nBug fixes were exceptional, every issue resolved at the first try. I have to mention this, you have to be very specific about the bug/issue/error and guide the model but it wasn't something that I am doing first time so I found the bug fixing performance pretty satisfying. \n\nFor frontend design, nothing exceptional, still needs much more from user and I think models still needs to get better at design but thats another topic.\n\nTLDR; Planning and bug fixing seems like got an upgrade. Will give more insights when I use it more this weekend.",
-    "url": "https://x.com/CloudTrader4/status/1989106889787941323",
-    "timestamp": "2025-11-13T23:03:33.000Z",
-    "metadata": {
-      "conversation_id": "1989106889787941323",
-      "likes": 46,
-      "retweets": 3,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owbvoj",
     "source": "reddit",
     "author": "bentossell",
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
