@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1989261385889632760",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@ben_vargas @FactoryAI This makes me happy thank you!",
+    "url": "https://x.com/mikez93/status/1989261385889632760",
+    "timestamp": "2025-11-14T09:17:27.000Z",
+    "metadata": {
+      "conversation_id": "1989261385889632760",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989260836842697032",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FactoryAI https://t.co/yKCmvvrDET",
+    "url": "https://x.com/SvenMeyer/status/1989260836842697032",
+    "timestamp": "2025-11-14T09:15:16.000Z",
+    "metadata": {
+      "conversation_id": "1989260836842697032",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989260774032990377",
+    "source": "twitter",
+    "author": "itsbyrobin",
+    "content": "Just to be clear, I do NOT recommend Droid over Cursor. I don't use it myself, but I keep in the loop because it is the most impressive CLI out there\n\nmain reasons:\n- much better context management\n- all the models you want (more than cursor)\n- lots of updates every week",
+    "url": "https://x.com/itsbyrobin/status/1989260774032990377",
+    "timestamp": "2025-11-14T09:15:01.000Z",
+    "metadata": {
+      "conversation_id": "1989260774032990377",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989259640119722295",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@bindureddy I just had an issue to debug (using @FactoryAI DROID CLI)\nSonnet 4.5 : 10 min - could not figure it out\nGPT-5.1 Codex : 10 min, read 50+ files, did not come back with anything &gt; abort\nGPT-5 (high) - using the context from Codex : 30 sec - problem identified in 1 shot !",
+    "url": "https://x.com/SvenMeyer/status/1989259640119722295",
+    "timestamp": "2025-11-14T09:10:31.000Z",
+    "metadata": {
+      "conversation_id": "1989259640119722295",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1989259413581148357",
+    "source": "twitter",
+    "author": "AntonioJASmith",
+    "content": "I would love a memory function for Droid, every project I deploy faces this known npm bug.\n\n9:00:09 AM: npm error notsup Unsupported platform for @rollup/rollup-darwin-arm64@4.53.2: wanted {\"os\":\"darwin\",\"cpu\":\"arm64\"} (current: {\"os\":\"linux\",\"cpu\":\"x64\"})\n\n@FactoryAI 🧐",
+    "url": "https://x.com/AntonioJASmith/status/1989259413581148357",
+    "timestamp": "2025-11-14T09:09:37.000Z",
+    "metadata": {
+      "conversation_id": "1989259413581148357",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989254295993381237",
     "source": "twitter",
     "author": "shreyas1009",
@@ -10,7 +85,7 @@
       "conversation_id": "1989254295993381237",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -40,7 +115,7 @@
       "conversation_id": "1989253422525333638",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -244,81 +319,6 @@
     "timestamp": "2025-11-14T04:56:57.000Z",
     "metadata": {
       "conversation_id": "1989195828154757462",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989195134991495584",
-    "source": "twitter",
-    "author": "laup30",
-    "content": "@FactoryAI @OpenAI What about existing users?! @matanSF",
-    "url": "https://x.com/laup30/status/1989195134991495584",
-    "timestamp": "2025-11-14T04:54:12.000Z",
-    "metadata": {
-      "conversation_id": "1989195134991495584",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989183529616568621",
-    "source": "twitter",
-    "author": "masfiq018",
-    "content": "@CloudTrader4 @FactoryAI You think web scrapper is a complex task ? (Sigh).",
-    "url": "https://x.com/masfiq018/status/1989183529616568621",
-    "timestamp": "2025-11-14T04:08:05.000Z",
-    "metadata": {
-      "conversation_id": "1989183529616568621",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989176869183451592",
-    "source": "twitter",
-    "author": "shreyas1009",
-    "content": "@farizkamini @FactoryAI Option paralysis?",
-    "url": "https://x.com/shreyas1009/status/1989176869183451592",
-    "timestamp": "2025-11-14T03:41:37.000Z",
-    "metadata": {
-      "conversation_id": "1989176869183451592",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989174891590164619",
-    "source": "twitter",
-    "author": "StochasticGhost",
-    "content": "I’ve been using gpt-5.1 high in @FactoryAI droid for HOURS now without getting frustrated even once. The tides are changing",
-    "url": "https://x.com/StochasticGhost/status/1989174891590164619",
-    "timestamp": "2025-11-14T03:33:45.000Z",
-    "metadata": {
-      "conversation_id": "1989174891590164619",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989174385597645159",
-    "source": "twitter",
-    "author": "keiranhaax",
-    "content": "@bentossell @GroqInc @FactoryAI Awesome, thank you.",
-    "url": "https://x.com/keiranhaax/status/1989174385597645159",
-    "timestamp": "2025-11-14T03:31:45.000Z",
-    "metadata": {
-      "conversation_id": "1989174385597645159",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -673,32 +673,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omo14j",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
-    "timestamp": "2025-11-02T17:56:04.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omlc3f",
-    "source": "reddit",
-    "author": "IslandOceanWater",
-    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
-    "timestamp": "2025-11-02T16:11:56.000Z",
-    "metadata": {
-      "score": 8,
-      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
