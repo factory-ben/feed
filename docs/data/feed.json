@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989282916292301255",
+    "source": "twitter",
+    "author": "Mohanad423461",
+    "content": "@ben_vargas @FactoryAI the TODO one is so tricky im thinking of unsubing because of how literally unpractical the usage is, its like teh guardrails approving every single tool call",
+    "url": "https://x.com/Mohanad423461/status/1989282916292301255",
+    "timestamp": "2025-11-14T10:43:00.000Z",
+    "metadata": {
+      "conversation_id": "1989282916292301255",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989282653514891319",
+    "source": "twitter",
+    "author": "Mohanad423461",
+    "content": "@ben_vargas @FactoryAI 2 things about the plus sub:\n \n1. have you actually used the proxy for a while without an issue (i proxied early before the codex models update and got banned right after that)\n\n2. they limit plus to 4 TODO subtasks before prompting, did you find a way to go around that?",
+    "url": "https://x.com/Mohanad423461/status/1989282653514891319",
+    "timestamp": "2025-11-14T10:41:58.000Z",
+    "metadata": {
+      "conversation_id": "1989282653514891319",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989280916850856126",
     "source": "twitter",
     "author": "bentossell",
@@ -240,19 +270,6 @@
     }
   },
   {
-    "id": "github_issue_358",
-    "source": "github",
-    "author": "jakob1379",
-    "content": "[Issue] Run the terminal-bench v2\n\ntbench.ai have released the v2 of their benchmark for terminal ai agents and droid is not in there :(\n\nhttps://www.tbench.ai/leaderboard/terminal-bench/2.0",
-    "url": "https://github.com/Factory-AI/factory/issues/358",
-    "timestamp": "2025-11-14T09:26:05Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 358
-    }
-  },
-  {
     "id": "twitter_1989262823093158147",
     "source": "twitter",
     "author": "mikez93",
@@ -280,88 +297,6 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989260836842697032",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@FactoryAI https://t.co/yKCmvvrDET",
-    "url": "https://x.com/SvenMeyer/status/1989260836842697032",
-    "timestamp": "2025-11-14T09:15:16.000Z",
-    "metadata": {
-      "conversation_id": "1989260836842697032",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989260774032990377",
-    "source": "twitter",
-    "author": "itsbyrobin",
-    "content": "Just to be clear, I do NOT recommend Droid over Cursor. I don't use it myself, but I keep in the loop because it is the most impressive CLI out there\n\nmain reasons:\n- much better context management\n- all the models you want (more than cursor)\n- lots of updates every week",
-    "url": "https://x.com/itsbyrobin/status/1989260774032990377",
-    "timestamp": "2025-11-14T09:15:01.000Z",
-    "metadata": {
-      "conversation_id": "1989260774032990377",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "github_issue_357",
-    "source": "github",
-    "author": "hungdev",
-    "content": "[Issue] vscode droid extension support upload image\n\ni am using claude extension, and it allows uploading image or pasting image into input box. Can factory droid allow pasting image if using claude model? i am really looking forward to this feature.",
-    "url": "https://github.com/Factory-AI/factory/issues/357",
-    "timestamp": "2025-11-14T08:30:45Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 357
-    }
-  },
-  {
-    "id": "reddit_1owpdgs",
-    "source": "reddit",
-    "author": "Informal-Spinach-345",
-    "content": "Todo list with minimax m2\n\nAny one else have issues with Minimax M2 on vllm not being able to properly use the todo list? \n\n  \nThis is what the output looks like, it eventually moves on but I never see a todo list:\n\n   Let me create a comprehensive todo list that captures all the remaining work.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;I need to fix the todo format - the todos parameter should be an array, not an object.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;Let me check the todo structure more carefully. Looking",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owpdgs/todo_list_with_minimax_m2/",
-    "timestamp": "2025-11-14T06:41:19.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1owbvoj",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "How should we post changelogs here?\n\nhey, i'm ben - dev rel at factory. you may have seen me answering comments.\n\nwe have a changelog now but has like 4/5 updates a week. its automated as a bot in our discord channel. \n\nshould we add anything here? if so, what format is best?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
-    "timestamp": "2025-11-13T20:22:54.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "github_issue_352",
-    "source": "github",
-    "author": "ajdiyassin",
-    "content": "[Issue] Reasoning for OpenAI\n\nWhy is reasoning disabled for OpenAI models?\n Does that lower the quality of output?",
-    "url": "https://github.com/Factory-AI/factory/issues/352",
-    "timestamp": "2025-11-13T19:20:59Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 352
     }
   },
   {
@@ -414,19 +349,6 @@
       "type": "issue",
       "labels": [],
       "number": 345
-    }
-  },
-  {
-    "id": "reddit_1ovbn7q",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
-    "timestamp": "2025-11-12T17:34:16.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -521,19 +443,6 @@
     }
   },
   {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -573,19 +482,6 @@
     }
   },
   {
-    "id": "reddit_1or5cow",
-    "source": "reddit",
-    "author": "Durst123",
-    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
-    "timestamp": "2025-11-07T20:29:10.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -619,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -700,6 +596,123 @@
       "type": "issue",
       "labels": [],
       "number": 301
+    }
+  },
+  {
+    "id": "github_issue_300",
+    "source": "github",
+    "author": "dpalfery",
+    "content": "[Issue] Can't use standard c:\\git for root directory on windows\n\nFactory Bridge assumes that all windows developers put the git repos in c:\\users\\<user> but this is very rarely the case wtih expereinced professional developers. we use c:\\git or similar just as mac devs use \\home\\git . need to be able to change this with out adding a link.",
+    "url": "https://github.com/Factory-AI/factory/issues/300",
+    "timestamp": "2025-11-02T02:47:51Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 300
+    }
+  },
+  {
+    "id": "github_issue_298",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Issue] bug: droids using custom model with same name as a built-in model use the built-in model\n\nI have a number of droids defined and they all use the custom model defined in the droid. However, instead of using the custom model, they're being remapped to use the factory built-in model instead. This happens when your custom model has the same name as a factory model, which in my case I want to use my GLM-4.6 account with z.ai rather than using the factory model. \n\n**1. Droid Configuration Evidence (Custom Models Defined):**\n\ndroids/code-reviewer-droid-forge.md`\n\n   yaml\n     ---\n     name:",
+    "url": "https://github.com/Factory-AI/factory/issues/298",
+    "timestamp": "2025-11-01T16:36:44Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 298
+    }
+  },
+  {
+    "id": "reddit_1oljgx4",
+    "source": "reddit",
+    "author": "steve1215",
+    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
+    "timestamp": "2025-11-01T09:23:30.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1okwodb",
+    "source": "reddit",
+    "author": "Uzeii",
+    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
+    "timestamp": "2025-10-31T14:51:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "github_issue_292",
+    "source": "github",
+    "author": "krit3dvanced",
+    "content": "[Issue] How to select branch other than main in web?\n\nI want to create a document of my project (dev branch) using knowledge droid.\nBut I cannot find a menu to switch branch from `main` to `dev` branch",
+    "url": "https://github.com/Factory-AI/factory/issues/292",
+    "timestamp": "2025-10-31T09:00:34Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 292
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 12,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
