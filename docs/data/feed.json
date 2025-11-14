@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_1989264835855720494",
+    "source": "twitter",
+    "author": "Silas_Schuettel",
+    "content": "@ben_vargas @FactoryAI Oh lets go - i am currently paying for both chatgpt pro and droid pro plan - this will be a gamechanger",
+    "url": "https://x.com/Silas_Schuettel/status/1989264835855720494",
+    "timestamp": "2025-11-14T09:31:10.000Z",
+    "metadata": {
+      "conversation_id": "1989264835855720494",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989264507387129972",
+    "source": "twitter",
+    "author": "crowlabstech",
+    "content": "@AdhamAlkhaja @FactoryAI How many lines of code?",
+    "url": "https://x.com/crowlabstech/status/1989264507387129972",
+    "timestamp": "2025-11-14T09:29:51.000Z",
+    "metadata": {
+      "conversation_id": "1989264507387129972",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_358",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Run the terminal-bench v2\n\ntbench.ai have released the v2 of their benchmark for terminal ai agents and droid is not in there :(\n\nhttps://www.tbench.ai/leaderboard/terminal-bench/2.0",
+    "url": "https://github.com/Factory-AI/factory/issues/358",
+    "timestamp": "2025-11-14T09:26:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 358
+    }
+  },
+  {
+    "id": "twitter_1989262823093158147",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "Highly useful! Use your Claud code and ChatGPT subscriptions for inference within @FactoryAI Droid. Very nice!",
+    "url": "https://x.com/mikez93/status/1989262823093158147",
+    "timestamp": "2025-11-14T09:23:10.000Z",
+    "metadata": {
+      "conversation_id": "1989262823093158147",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989261385889632760",
     "source": "twitter",
     "author": "mikez93",
@@ -8,7 +66,7 @@
     "timestamp": "2025-11-14T09:17:27.000Z",
     "metadata": {
       "conversation_id": "1989261385889632760",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -275,51 +333,6 @@
     "metadata": {
       "conversation_id": "1989216261038022658",
       "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989204853227417733",
-    "source": "twitter",
-    "author": "towrywang",
-    "content": "@FactoryAI Can we have BYOK use the image ability? the gpt-5.1 from copilot does support image and works in Claude code. https://t.co/xjltDjTMXv",
-    "url": "https://x.com/towrywang/status/1989204853227417733",
-    "timestamp": "2025-11-14T05:32:49.000Z",
-    "metadata": {
-      "conversation_id": "1989204853227417733",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989202484670484663",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@FactoryAI Do you use more tokens/$ the longer you keep going, similar to Claude, or does it take care of itself with auto-compression, etc.? I.e., what's the most efficient way to use Droid CLI to avoid burning tokens and money on the pro plan?",
-    "url": "https://x.com/martin_ict_algo/status/1989202484670484663",
-    "timestamp": "2025-11-14T05:23:24.000Z",
-    "metadata": {
-      "conversation_id": "1989202484670484663",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989195828154757462",
-    "source": "twitter",
-    "author": "matanSF",
-    "content": "@laup30 @FactoryAI @OpenAI of  course!",
-    "url": "https://x.com/matanSF/status/1989195828154757462",
-    "timestamp": "2025-11-14T04:56:57.000Z",
-    "metadata": {
-      "conversation_id": "1989195828154757462",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -606,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -687,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 301
-    }
-  },
-  {
-    "id": "github_issue_300",
-    "source": "github",
-    "author": "dpalfery",
-    "content": "[Issue] Can't use standard c:\\git for root directory on windows\n\nFactory Bridge assumes that all windows developers put the git repos in c:\\users\\<user> but this is very rarely the case wtih expereinced professional developers. we use c:\\git or similar just as mac devs use \\home\\git . need to be able to change this with out adding a link.",
-    "url": "https://github.com/Factory-AI/factory/issues/300",
-    "timestamp": "2025-11-02T02:47:51Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 300
     }
   },
   {
