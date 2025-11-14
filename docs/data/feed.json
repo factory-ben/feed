@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989441487327965490",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@CloudTrader4 @OpenAI @FactoryAI I've been loving gpt-5.1-codex-mini for the last couple of hours...\n\nHow has glm 4.6 been performing for you lately?",
+    "url": "https://x.com/bradvangelder/status/1989441487327965490",
+    "timestamp": "2025-11-14T21:13:07.000Z",
+    "metadata": {
+      "conversation_id": "1989441487327965490",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_360",
     "source": "github",
     "author": "hanlin-luo",
@@ -307,21 +322,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989374246393713038",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "set up hooks to manage @Context7AI mcp in @FactoryAI https://t.co/f0BC4RSlKn",
-    "url": "https://x.com/bentossell/status/1989374246393713038",
-    "timestamp": "2025-11-14T16:45:55.000Z",
-    "metadata": {
-      "conversation_id": "1989374246393713038",
-      "likes": 40,
-      "retweets": 6,
-      "replies": 2,
       "quotes": 0
     }
   },
