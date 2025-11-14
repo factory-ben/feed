@@ -1,5 +1,33 @@
 [
   {
+    "id": "reddit_1ox98ue",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Changelog: v0.26.0\n\n**New features**\n\n• Skills System: Claude Code-compatible .factory/skills support for modular, prompt-based capabilities. Use the /skills command to manage skills and import from .claude/skills directories\n\n• Session Favorites: New /favorite command to pin/unpin sessions, keeping your active projects at the top of the session list\n\n• Enhanced Bug Reporting: The /bug command now zips session context, uploads it to Factory, and returns a shareable report ID automatically\n\n• Cleaner Diff Viewer: Im",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
+    "timestamp": "2025-11-14T21:33:18.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1989446153130446986",
+    "source": "twitter",
+    "author": "sarlalian",
+    "content": "@tridentasia @melodykoh @AnthropicAI @FactoryAI Humans always underestimate as well.",
+    "url": "https://x.com/sarlalian/status/1989446153130446986",
+    "timestamp": "2025-11-14T21:31:39.000Z",
+    "metadata": {
+      "conversation_id": "1989446153130446986",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_361",
     "source": "github",
     "author": "aaronschwartz",
@@ -64,7 +92,7 @@
     "timestamp": "2025-11-14T19:54:09.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -184,7 +212,7 @@
       "conversation_id": "1989409263526228440",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -287,7 +315,7 @@
     "timestamp": "2025-11-14T17:45:01.000Z",
     "metadata": {
       "conversation_id": "1989389117633818643",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 1
@@ -318,21 +346,6 @@
     "metadata": {
       "conversation_id": "1989387729965388189",
       "likes": 6,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989377058968125482",
-    "source": "twitter",
-    "author": "mapletree07141",
-    "content": "@bentossell @Context7AI @FactoryAI real build hours",
-    "url": "https://x.com/mapletree07141/status/1989377058968125482",
-    "timestamp": "2025-11-14T16:57:06.000Z",
-    "metadata": {
-      "conversation_id": "1989377058968125482",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -622,19 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 319
-    }
-  },
-  {
-    "id": "reddit_1op6njm",
-    "source": "reddit",
-    "author": "Sakrilegi0us",
-    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
-    "timestamp": "2025-11-05T15:57:27.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
     }
   },
   {
