@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989286085084733647",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@bentossell @itsbyrobin @FactoryAI ill need to know more tech details about that harness and handle context mgmt? anywhere i can check?",
+    "url": "https://x.com/shreyas1009/status/1989286085084733647",
+    "timestamp": "2025-11-14T10:55:36.000Z",
+    "metadata": {
+      "conversation_id": "1989286085084733647",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989285337705935110",
     "source": "twitter",
     "author": "rahulvrane",
@@ -115,7 +130,7 @@
       "conversation_id": "1989280537438224649",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,18 +300,42 @@
     }
   },
   {
-    "id": "twitter_1989264835855720494",
-    "source": "twitter",
-    "author": "Silas_Schuettel",
-    "content": "@ben_vargas @FactoryAI Oh lets go - i am currently paying for both chatgpt pro and droid pro plan - this will be a gamechanger",
-    "url": "https://x.com/Silas_Schuettel/status/1989264835855720494",
-    "timestamp": "2025-11-14T09:31:10.000Z",
+    "id": "reddit_1owpdgs",
+    "source": "reddit",
+    "author": "Informal-Spinach-345",
+    "content": "Todo list with minimax m2\n\nAny one else have issues with Minimax M2 on vllm not being able to properly use the todo list? \n\n  \nThis is what the output looks like, it eventually moves on but I never see a todo list:\n\n   Let me create a comprehensive todo list that captures all the remaining work.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;I need to fix the todo format - the todos parameter should be an array, not an object.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;Let me check the todo structure more carefully. Looking",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owpdgs/todo_list_with_minimax_m2/",
+    "timestamp": "2025-11-14T06:41:19.000Z",
     "metadata": {
-      "conversation_id": "1989264835855720494",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
+      "score": 1,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owbvoj",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "How should we post changelogs here?\n\nhey, i'm ben - dev rel at factory. you may have seen me answering comments.\n\nwe have a changelog now but has like 4/5 updates a week. its automated as a bot in our discord channel. \n\nshould we add anything here? if so, what format is best?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
+    "timestamp": "2025-11-13T20:22:54.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow4spq",
+    "source": "reddit",
+    "author": "Rough-Aioli-7829",
+    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
+    "timestamp": "2025-11-13T15:58:33.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -495,6 +534,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -528,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -638,32 +690,6 @@
     }
   },
   {
-    "id": "reddit_1oljgx4",
-    "source": "reddit",
-    "author": "steve1215",
-    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
-    "timestamp": "2025-11-01T09:23:30.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_292",
     "source": "github",
     "author": "krit3dvanced",
@@ -674,32 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 292
-    }
-  },
-  {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
