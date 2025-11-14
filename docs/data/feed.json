@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1owv5gf",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "how to set up custom models with Groq in &lt;1 min\n\nhttps://reddit.com/link/1owv5gf/video/vfpxccohu71g1/player\n\nvideo above  \ndocs: [https://docs.factory.ai/cli/byok/groq](https://docs.factory.ai/cli/byok/groq)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owv5gf/how_to_set_up_custom_models_with_groq_in_1_min/",
+    "timestamp": "2025-11-14T12:27:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1989298352748703941",
     "source": "twitter",
     "author": "full_stack_life",
@@ -320,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
