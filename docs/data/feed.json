@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989317468532445368",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "I love that the MCP example on @FactoryAI  is to add they're own docs as a server.\n\ni then love that they keep them up to date!\n\nhere im using leann core to index my folders to make searching my files semantic and 'maybe' less context intensive - tests pending.\n\nleann doesn't autoupdate my indexed projects so i added a hook to update the index after a commit.\n\nInstead of reading the very lovely docs which have had a facelift, i simply asked my droid to find out about itself and make itself better.",
+    "url": "https://x.com/Ricardo_Nth/status/1989317468532445368",
+    "timestamp": "2025-11-14T13:00:18.000Z",
+    "metadata": {
+      "conversation_id": "1989317468532445368",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989315533104386365",
+    "source": "twitter",
+    "author": "Arkdezin",
+    "content": "I tried @Trae_ai aa I heard from a few folks on X \n\nTurns out not that good with output compared to other ai tools \n\nI have used multiple tools from:\n@v0 \n@boltdotnew \n@cursor_ai \n@FactoryAI \n\nIt didn't match my expectations...\n\nHave you tried it ??\nLet me know your reaction 👇 https://t.co/1jqotfAzql",
+    "url": "https://x.com/Arkdezin/status/1989315533104386365",
+    "timestamp": "2025-11-14T12:52:37.000Z",
+    "metadata": {
+      "conversation_id": "1989315533104386365",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -276,36 +306,6 @@
     "timestamp": "2025-11-14T10:00:01.000Z",
     "metadata": {
       "conversation_id": "1989272097009643540",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989272066286367033",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@AnomByte @OpenAI @FactoryAI https://t.co/0q3KIybLl7",
-    "url": "https://x.com/CloudTrader4/status/1989272066286367033",
-    "timestamp": "2025-11-14T09:59:54.000Z",
-    "metadata": {
-      "conversation_id": "1989272066286367033",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989272045855900108",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@contxtkng @OpenAI @FactoryAI https://t.co/0q3KIybLl7",
-    "url": "https://x.com/CloudTrader4/status/1989272045855900108",
-    "timestamp": "2025-11-14T09:59:49.000Z",
-    "metadata": {
-      "conversation_id": "1989272045855900108",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -648,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 308
-    }
-  },
-  {
-    "id": "reddit_1oneja7",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
-    "timestamp": "2025-11-03T15:20:27.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
