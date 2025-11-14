@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989460040328384888",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "@FactoryAI a",
+    "url": "https://x.com/captaink99/status/1989460040328384888",
+    "timestamp": "2025-11-14T22:26:50.000Z",
+    "metadata": {
+      "conversation_id": "1989460040328384888",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989456110781391007",
     "source": "twitter",
     "author": "jc50000000",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-14T22:11:13.000Z",
     "metadata": {
       "conversation_id": "1989456110781391007",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -33,7 +48,7 @@
     "id": "reddit_1ox98ue",
     "source": "reddit",
     "author": "bentossell",
-    "content": "Changelog: v0.26.0\n\n**New features**\n\n• Skills System: Claude Code-compatible .factory/skills support for modular, prompt-based capabilities. Use the /skills command to manage skills and import from .claude/skills directories\n\n• Session Favorites: New /favorite command to pin/unpin sessions, keeping your active projects at the top of the session list\n\n• Enhanced Bug Reporting: The /bug command now zips session context, uploads it to Factory, and returns a shareable report ID automatically\n\n• Cleaner Diff Viewer: Im",
+    "content": "Changelog: v0.26.0\n\n**New features**\n\n• Session Favorites: New /favorite command to pin/unpin sessions, keeping your active projects at the top of the session list\n\n• Enhanced Bug Reporting: The /bug command now zips session context, uploads it to Factory, and returns a shareable report ID automatically\n\n• Cleaner Diff Viewer: Improved UI with horizontal lines instead of borders\n\n\n\n**Bug fixes &amp; smaller items**\n\n• Always prompt to accept or reject generated specs and pass the correct labels to the UI flow\n\n• dr",
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
@@ -337,21 +352,6 @@
     }
   },
   {
-    "id": "twitter_1989389117633818643",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "None of the above! \n\nYou've missed the best of all @FactoryAI droids use all the CLIs but reduce your token intake by 'out of the world' context mgmt\n\nIt's like Ozempic for your token hungry models\n\n😅 - I think I should trademark that tag line before they start using jt\n\nhttps://t.co/BeAsBo28l4",
-    "url": "https://x.com/5aikat/status/1989389117633818643",
-    "timestamp": "2025-11-14T17:45:01.000Z",
-    "metadata": {
-      "conversation_id": "1989389117633818643",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 1
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -635,6 +635,32 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
