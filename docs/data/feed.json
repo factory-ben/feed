@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989665143320711529",
+    "source": "twitter",
+    "author": "Bogorad",
+    "content": "@FactoryAI that is a lie. in fact you HALVED the allowance on pro and max plans, and the new plan is actually 1B tokens (after the initial bonus). https://t.co/QGEyKOChq9",
+    "url": "https://x.com/Bogorad/status/1989665143320711529",
+    "timestamp": "2025-11-15T12:01:51.000Z",
+    "metadata": {
+      "conversation_id": "1989665143320711529",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989662045210644807",
     "source": "twitter",
     "author": "fritzstauff",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989609109230932026",
-    "source": "twitter",
-    "author": "aspenwokeley",
-    "content": "@magma_man_dd @FactoryAI $1/million on sonnet 4.5 .... That's over 5x discount.😱😱",
-    "url": "https://x.com/aspenwokeley/status/1989609109230932026",
-    "timestamp": "2025-11-15T08:19:11.000Z",
-    "metadata": {
-      "conversation_id": "1989609109230932026",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
