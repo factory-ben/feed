@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989585099848032404",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "@shreyas1009 @AmpCode @FactoryAI @Cursor 💯 tbh, the main thing is \"open up as many options as possible to make for a better fit\"",
+    "url": "https://x.com/curiouslychase/status/1989585099848032404",
+    "timestamp": "2025-11-15T06:43:47.000Z",
+    "metadata": {
+      "conversation_id": "1989585099848032404",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989584699706974399",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor Claude code?",
+    "url": "https://x.com/shreyas1009/status/1989584699706974399",
+    "timestamp": "2025-11-15T06:42:11.000Z",
+    "metadata": {
+      "conversation_id": "1989584699706974399",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989584488544846236",
+    "source": "twitter",
+    "author": "FiFiFetTSaCk",
+    "content": "@FactoryAI How about a $50 / mo?",
+    "url": "https://x.com/FiFiFetTSaCk/status/1989584488544846236",
+    "timestamp": "2025-11-15T06:41:21.000Z",
+    "metadata": {
+      "conversation_id": "1989584488544846236",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989581099924697258",
     "source": "twitter",
     "author": "bentossell",
@@ -86,7 +131,7 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
+      "quotes": 1
     }
   },
   {
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989539285091995727",
-    "source": "twitter",
-    "author": "Slyndc",
-    "content": "@FactoryAI We lit 🔥",
-    "url": "https://x.com/Slyndc/status/1989539285091995727",
-    "timestamp": "2025-11-15T03:41:44.000Z",
-    "metadata": {
-      "conversation_id": "1989539285091995727",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989536918921486452",
-    "source": "twitter",
-    "author": "curiouslychase",
-    "content": "@traskjd @AmpCode @FactoryAI @Cursor At the very least they should be open to it and actively making sure these tools are available to their teams.",
-    "url": "https://x.com/curiouslychase/status/1989536918921486452",
-    "timestamp": "2025-11-15T03:32:19.000Z",
-    "metadata": {
-      "conversation_id": "1989536918921486452",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989536856782880996",
-    "source": "twitter",
-    "author": "Traves_Theberge",
-    "content": "@FactoryAI @RayFernando1337 https://t.co/ZRXLZ318sJ",
-    "url": "https://x.com/Traves_Theberge/status/1989536856782880996",
-    "timestamp": "2025-11-15T03:32:05.000Z",
-    "metadata": {
-      "conversation_id": "1989536856782880996",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ox98ue",
     "source": "reddit",
     "author": "bentossell",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -560,19 +560,6 @@
     }
   },
   {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -609,6 +596,19 @@
       "type": "issue",
       "labels": [],
       "number": 325
+    }
+  },
+  {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
