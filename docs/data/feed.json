@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989755126454882534",
+    "source": "twitter",
+    "author": "OlivierDDR",
+    "content": "@FactoryAI  \n&gt;  Error: 403 {\"detail\":\"User not affiliated with an org.\",\"status\":403,\"title\":\"Forbidden\",\"requestId\":\"fra1::c9fdd-1763229434755-4031bdd0d173\"}\n\n- I reinstalled (cleaned all files too)\n- logged in with a user that has an active plan and is connected to an org",
+    "url": "https://x.com/OlivierDDR/status/1989755126454882534",
+    "timestamp": "2025-11-15T17:59:24.000Z",
+    "metadata": {
+      "conversation_id": "1989755126454882534",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989749416493027747",
     "source": "twitter",
     "author": "RayFernando1337",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-15T17:36:43.000Z",
     "metadata": {
       "conversation_id": "1989749416493027747",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,7 +113,7 @@
     "timestamp": "2025-11-15T16:26:25.000Z",
     "metadata": {
       "conversation_id": "1989731724067270809",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989718827588784221",
-    "source": "twitter",
-    "author": "DavidBennett__",
-    "content": "@NathanLands @OpenAICodexCli @cursor_ai @FactoryAI I am curious, how do I make my app LOOK GOOD?\n\ni am a terrible designer.\nI develop apps that I want to use that don’t look great.\nI assume if I’m starting with the app first it will be difficult to overlay on a front end or UI.\nI’m terrible at figma (and design)\n\nSuggestions?",
-    "url": "https://x.com/DavidBennett__/status/1989718827588784221",
-    "timestamp": "2025-11-15T15:35:10.000Z",
-    "metadata": {
-      "conversation_id": "1989718827588784221",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_369",
     "source": "github",
     "author": "BlackCatCmx",
@@ -362,19 +362,6 @@
       "type": "issue",
       "labels": [],
       "number": 360
-    }
-  },
-  {
-    "id": "reddit_1ox6p07",
-    "source": "reddit",
-    "author": "ShipSpecialist6727",
-    "content": "Being charge for all limit overage while having credit balance\n\nhttps://preview.redd.it/apq9eqc22a1g1.png?width=713&amp;format=png&amp;auto=webp&amp;s=b55698314d83f7e933e7c750576ab10285a54f3a\n\nhttps://preview.redd.it/c4n0ms032a1g1.png?width=1088&amp;format=png&amp;auto=webp&amp;s=4c124b65440a28c118b9d8a714f0da7618eaf4aa\n\nhttps://preview.redd.it/h2scb4072a1g1.png?width=1226&amp;format=png&amp;auto=webp&amp;s=7fbc4d224122903a737d9f9b4ed0c2092e03ce72\n\n  \nI'm being charge for 40$ limit overage while having my credit balance from my referral .  \nThe support is to",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ox6p07/being_charge_for_all_limit_overage_while_having/",
-    "timestamp": "2025-11-14T19:54:09.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -677,19 +664,6 @@
     }
   },
   {
-    "id": "reddit_1oomptx",
-    "source": "reddit",
-    "author": "samplifyk",
-    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
-    "timestamp": "2025-11-04T23:17:50.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_314",
     "source": "github",
     "author": "lifeisnphard",
@@ -726,6 +700,19 @@
       "type": "issue",
       "labels": [],
       "number": 308
+    }
+  },
+  {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 9,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
     }
   },
   {
