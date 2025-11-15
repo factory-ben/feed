@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989596939147776297",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@iamRamavar @trungns95vn @FactoryAI I did get @rabbitholesai working with CLIProxyAPI though as they allow custom providers. That was the most recent tool I use that I was able to get working.",
+    "url": "https://x.com/ben_vargas/status/1989596939147776297",
+    "timestamp": "2025-11-15T07:30:49.000Z",
+    "metadata": {
+      "conversation_id": "1989596939147776297",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989596647295521171",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "I assume you mean warp - I did look at it but there wasn't an immediate way I saw to set a baseURL and have it route to proxy first - someone would have to capture the requests and see how requests are structured and re-map them, I don't use warp personally so I didn't put too much effort into that one.",
+    "url": "https://x.com/ben_vargas/status/1989596647295521171",
+    "timestamp": "2025-11-15T07:29:40.000Z",
+    "metadata": {
+      "conversation_id": "1989596647295521171",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989596568723263785",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor An Engineer with cursor is not an engineer,is a waiter who is learning.",
+    "url": "https://x.com/aeitroc/status/1989596568723263785",
+    "timestamp": "2025-11-15T07:29:21.000Z",
+    "metadata": {
+      "conversation_id": "1989596568723263785",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989594791701876864",
     "source": "twitter",
     "author": "iamRamavar",
@@ -10,7 +55,7 @@
       "conversation_id": "1989594791701876864",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989578102977016199",
-    "source": "twitter",
-    "author": "Artificoll",
-    "content": "@theodorvaryag @FactoryAI good luck will let you know if i find something, i think they had a bot attack or something.",
-    "url": "https://x.com/Artificoll/status/1989578102977016199",
-    "timestamp": "2025-11-15T06:15:58.000Z",
-    "metadata": {
-      "conversation_id": "1989578102977016199",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989577500800774544",
-    "source": "twitter",
-    "author": "theodorvaryag",
-    "content": "@Artificoll @FactoryAI no, gave up and used opencode",
-    "url": "https://x.com/theodorvaryag/status/1989577500800774544",
-    "timestamp": "2025-11-15T06:13:35.000Z",
-    "metadata": {
-      "conversation_id": "1989577500800774544",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989577350787277045",
-    "source": "twitter",
-    "author": "Artificoll",
-    "content": "@theodorvaryag @FactoryAI yo were you able to get it to work?",
-    "url": "https://x.com/Artificoll/status/1989577350787277045",
-    "timestamp": "2025-11-15T06:12:59.000Z",
-    "metadata": {
-      "conversation_id": "1989577350787277045",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -609,6 +609,19 @@
       "type": "issue",
       "labels": [],
       "number": 325
+    }
+  },
+  {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
