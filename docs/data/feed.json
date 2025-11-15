@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989713238477738008",
+    "source": "twitter",
+    "author": "kylantomita",
+    "content": "@FactoryAI Holy sh*t\n\nOnce i get my client funnel into a streamlined workflow stuff like this is def worth",
+    "url": "https://x.com/kylantomita/status/1989713238477738008",
+    "timestamp": "2025-11-15T15:12:57.000Z",
+    "metadata": {
+      "conversation_id": "1989713238477738008",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989708879895105898",
     "source": "twitter",
     "author": "abhagsain",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989687809909686293",
-    "source": "twitter",
-    "author": "C72Al",
-    "content": "Agreed. I switched to droid to test it for a complex video creation tool and it was faster and had less bugs when it completed tasks plus the documentation was 🔥.\n\nI won’t even begin to understand how this works. Hopefully not by some sophistication that is losing money as a customer acquisition!\n\nMy thoughts were that it is managing token use and compaction in the background so that it is more knowledgeable as it proceeds through complex workflows?",
-    "url": "https://x.com/C72Al/status/1989687809909686293",
-    "timestamp": "2025-11-15T13:31:55.000Z",
-    "metadata": {
-      "conversation_id": "1989687809909686293",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -346,7 +346,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }
