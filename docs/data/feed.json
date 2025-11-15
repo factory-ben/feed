@@ -1,5 +1,230 @@
 [
   {
+    "id": "twitter_1989680237811306665",
+    "source": "twitter",
+    "author": "kksrini89",
+    "content": "@bentossell @Context7AI @FactoryAI Thanks for being open.\n\nI use @AmpCode, but to have @FactoryAI in my weapon list. exploring further!",
+    "url": "https://x.com/kksrini89/status/1989680237811306665",
+    "timestamp": "2025-11-15T13:01:49.000Z",
+    "metadata": {
+      "conversation_id": "1989680237811306665",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989680048001908862",
+    "source": "twitter",
+    "author": "magma_man_dd",
+    "content": "@bentossell @FactoryAI If your product could stand on its own you wouldn't need to offer so many free credits. Its just another cli agent among so many. I have used it.",
+    "url": "https://x.com/magma_man_dd/status/1989680048001908862",
+    "timestamp": "2025-11-15T13:01:04.000Z",
+    "metadata": {
+      "conversation_id": "1989680048001908862",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989679966431084907",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@brendanh_au @Bogorad @FactoryAI i think its just framing. still get the same amount of tokens per month.",
+    "url": "https://x.com/bentossell/status/1989679966431084907",
+    "timestamp": "2025-11-15T13:00:45.000Z",
+    "metadata": {
+      "conversation_id": "1989679966431084907",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989679769055871156",
+    "source": "twitter",
+    "author": "brendanh_au",
+    "content": "@bentossell @Bogorad @FactoryAI Pro did just change from 2M to 1M + 1M “bonus”, which is highly suspicious.",
+    "url": "https://x.com/brendanh_au/status/1989679769055871156",
+    "timestamp": "2025-11-15T12:59:58.000Z",
+    "metadata": {
+      "conversation_id": "1989679769055871156",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989679318147240098",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@cjayls @AdhamAlkhaja @FactoryAI ty!",
+    "url": "https://x.com/bentossell/status/1989679318147240098",
+    "timestamp": "2025-11-15T12:58:10.000Z",
+    "metadata": {
+      "conversation_id": "1989679318147240098",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989679281128018390",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@kksrini89 @Context7AI @FactoryAI thanks lmk if any requests :)",
+    "url": "https://x.com/bentossell/status/1989679281128018390",
+    "timestamp": "2025-11-15T12:58:01.000Z",
+    "metadata": {
+      "conversation_id": "1989679281128018390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989679233338417564",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@jcurtis @FactoryAI smart! let me know any hiccups as its still experimental. and please share any more 😊 helping me with content ideas + learning hooks!",
+    "url": "https://x.com/bentossell/status/1989679233338417564",
+    "timestamp": "2025-11-15T12:57:50.000Z",
+    "metadata": {
+      "conversation_id": "1989679233338417564",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989679178606575761",
+    "source": "twitter",
+    "author": "karanjagtiani04",
+    "content": "@FactoryAI How do the token refresh rates compare between Ultra and Max plans?",
+    "url": "https://x.com/karanjagtiani04/status/1989679178606575761",
+    "timestamp": "2025-11-15T12:57:37.000Z",
+    "metadata": {
+      "conversation_id": "1989679178606575761",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989678993847505318",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@magma_man_dd @FactoryAI done that already",
+    "url": "https://x.com/bentossell/status/1989678993847505318",
+    "timestamp": "2025-11-15T12:56:53.000Z",
+    "metadata": {
+      "conversation_id": "1989678993847505318",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989678757339091028",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@5aikat @iannuttall @shadcn @FactoryAI let me know any places it trips up - definitely experimental but /bug will help us polish it. \n\nand share any interesting hooks you create!",
+    "url": "https://x.com/bentossell/status/1989678757339091028",
+    "timestamp": "2025-11-15T12:55:56.000Z",
+    "metadata": {
+      "conversation_id": "1989678757339091028",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989678534940377227",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@DavidBennett__ @NathanLands @OpenAICodexCli @cursor_ai @FactoryAI cli definitely - you can use as ide extension also (depends how you like to work)\n\nour web is going a major revamp so it'll change drastically in the next few weeks",
+    "url": "https://x.com/bentossell/status/1989678534940377227",
+    "timestamp": "2025-11-15T12:55:03.000Z",
+    "metadata": {
+      "conversation_id": "1989678534940377227",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989678473208893809",
+    "source": "twitter",
+    "author": "cjayls",
+    "content": "@bentossell @AdhamAlkhaja @FactoryAI Thanks for confirmation! Makes me happy to support you guys with a sub even more just for the excellent work you’re able to do and also support providing tools for guys who might not be directly funding the work you do 💪🏽",
+    "url": "https://x.com/cjayls/status/1989678473208893809",
+    "timestamp": "2025-11-15T12:54:49.000Z",
+    "metadata": {
+      "conversation_id": "1989678473208893809",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989678370389393918",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@tinkerersanky @FactoryAI basically max plan, paid annually with discount 😊 - i think we may add annual",
+    "url": "https://x.com/bentossell/status/1989678370389393918",
+    "timestamp": "2025-11-15T12:54:24.000Z",
+    "metadata": {
+      "conversation_id": "1989678370389393918",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989678060535521456",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@cjayls @AdhamAlkhaja @FactoryAI yes",
+    "url": "https://x.com/bentossell/status/1989678060535521456",
+    "timestamp": "2025-11-15T12:53:10.000Z",
+    "metadata": {
+      "conversation_id": "1989678060535521456",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989677466827526325",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Bogorad @FactoryAI not a lie. you get the bonus every month too - so every month you have 2B tokens to use",
+    "url": "https://x.com/bentossell/status/1989677466827526325",
+    "timestamp": "2025-11-15T12:50:49.000Z",
+    "metadata": {
+      "conversation_id": "1989677466827526325",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989673890327806268",
     "source": "twitter",
     "author": "kksrini89",
@@ -8,9 +233,9 @@
     "timestamp": "2025-11-15T12:36:36.000Z",
     "metadata": {
       "conversation_id": "1989673890327806268",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,9 +248,9 @@
     "timestamp": "2025-11-15T12:27:56.000Z",
     "metadata": {
       "conversation_id": "1989671709348069741",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
+      "likes": 1,
+      "retweets": 1,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -75,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989665143320711529",
-    "source": "twitter",
-    "author": "Bogorad",
-    "content": "@FactoryAI that is a lie. in fact you HALVED the allowance on pro and max plans, and the new plan is actually 1B tokens (after the initial bonus). https://t.co/QGEyKOChq9",
-    "url": "https://x.com/Bogorad/status/1989665143320711529",
-    "timestamp": "2025-11-15T12:01:51.000Z",
-    "metadata": {
-      "conversation_id": "1989665143320711529",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989662045210644807",
-    "source": "twitter",
-    "author": "fritzstauff",
-    "content": "@AdhamAlkhaja @FactoryAI I don’t think Claude code bases? I’m assuming factory does?",
-    "url": "https://x.com/fritzstauff/status/1989662045210644807",
-    "timestamp": "2025-11-15T11:49:32.000Z",
-    "metadata": {
-      "conversation_id": "1989662045210644807",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989658060588290158",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "Just had a chat with a friend of mine yesterday and we agreed it’s more effective to spend money on those max plans from @FactoryAI @claudeai and @OpenAI Codex than getting a new employee \n\nSo much more powerful to have AI to build things in parallel",
-    "url": "https://x.com/pascallammers_/status/1989658060588290158",
-    "timestamp": "2025-11-15T11:33:42.000Z",
-    "metadata": {
-      "conversation_id": "1989658060588290158",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -130,186 +310,6 @@
       "type": "issue",
       "labels": [],
       "number": 366
-    }
-  },
-  {
-    "id": "twitter_1989646526478737764",
-    "source": "twitter",
-    "author": "cjayls",
-    "content": "@AdhamAlkhaja @FactoryAI Out of curiosity, does sonnet4.5 behave the same in droid no matter whether it’s via factory sub or custom model (Claude code api key)?",
-    "url": "https://x.com/cjayls/status/1989646526478737764",
-    "timestamp": "2025-11-15T10:47:52.000Z",
-    "metadata": {
-      "conversation_id": "1989646526478737764",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989642824573391155",
-    "source": "twitter",
-    "author": "LyceumCloud",
-    "content": "@melodykoh @AnthropicAI @FactoryAI That’s impressive for a side project!",
-    "url": "https://x.com/LyceumCloud/status/1989642824573391155",
-    "timestamp": "2025-11-15T10:33:09.000Z",
-    "metadata": {
-      "conversation_id": "1989642824573391155",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989633980967096447",
-    "source": "twitter",
-    "author": "tinkerersanky",
-    "content": "This can be a good yearly plan @FactoryAI \n\n2 billion tokens for $2000 are good enough for a year for most people. \n\nIt would be the most valuable plan then.",
-    "url": "https://x.com/tinkerersanky/status/1989633980967096447",
-    "timestamp": "2025-11-15T09:58:01.000Z",
-    "metadata": {
-      "conversation_id": "1989633980967096447",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989631693813420254",
-    "source": "twitter",
-    "author": "NathanLands",
-    "content": "@DavidBennett__ @OpenAICodexCli @cursor_ai @FactoryAI All are good but I like the CLI best",
-    "url": "https://x.com/NathanLands/status/1989631693813420254",
-    "timestamp": "2025-11-15T09:48:56.000Z",
-    "metadata": {
-      "conversation_id": "1989631693813420254",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989627962933796866",
-    "source": "twitter",
-    "author": "o_mega___",
-    "content": "@AdhamAlkhaja @FactoryAI Claude took 12 minutes because it's cleaning up the 10% of Java code and 2% of Python functions that fail compilation/syntax validation, unlike the 3-minute speed run. Debugging is just quality control for speed.",
-    "url": "https://x.com/o_mega___/status/1989627962933796866",
-    "timestamp": "2025-11-15T09:34:06.000Z",
-    "metadata": {
-      "conversation_id": "1989627962933796866",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989624883668816061",
-    "source": "twitter",
-    "author": "DavidBennett__",
-    "content": "@NathanLands @OpenAICodexCli @cursor_ai @FactoryAI Ok I’m excited.\n\nAny advice on where to start?\n\nCLI?\nCursor extension?\nWebsite?",
-    "url": "https://x.com/DavidBennett__/status/1989624883668816061",
-    "timestamp": "2025-11-15T09:21:52.000Z",
-    "metadata": {
-      "conversation_id": "1989624883668816061",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989624244037456121",
-    "source": "twitter",
-    "author": "aspelund",
-    "content": "@melodykoh @AnthropicAI @FactoryAI I have the same experience of CC. Ans it gets especially useful when it looks at logs and can read the dev db directly. Sure, the efficiency varies between 10-100x faster, and you throw away 10% just because you realize that you went in the wrong direction. But its crazy!",
-    "url": "https://x.com/aspelund/status/1989624244037456121",
-    "timestamp": "2025-11-15T09:19:19.000Z",
-    "metadata": {
-      "conversation_id": "1989624244037456121",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989620011154248062",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "@iannuttall have been writing a few cool hooks &amp; is awesome (though experimental, so it falters)\n\nanother one is @shadcn gets called with shadcn-ui, although it went away in CC, it pops back in @FactoryAI\n\nWith a 🪝problem solved 😌",
-    "url": "https://x.com/5aikat/status/1989620011154248062",
-    "timestamp": "2025-11-15T09:02:30.000Z",
-    "metadata": {
-      "conversation_id": "1989620011154248062",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989617440054247647",
-    "source": "twitter",
-    "author": "magma_man_dd",
-    "content": "@bentossell @FactoryAI &gt;I cannot code. My whole career was banging the drum that you don’t need to learn to code to start a company and make money. \nWe can see",
-    "url": "https://x.com/magma_man_dd/status/1989617440054247647",
-    "timestamp": "2025-11-15T08:52:17.000Z",
-    "metadata": {
-      "conversation_id": "1989617440054247647",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989614966345802215",
-    "source": "twitter",
-    "author": "magma_man_dd",
-    "content": "@melodykoh @shreyas1009 @AnthropicAI @FactoryAI I mean we can tell when your code base cant even decide if it wants to work with js files or ts files... https://t.co/Y4dWTn4wlY",
-    "url": "https://x.com/magma_man_dd/status/1989614966345802215",
-    "timestamp": "2025-11-15T08:42:27.000Z",
-    "metadata": {
-      "conversation_id": "1989614966345802215",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989613563011285477",
-    "source": "twitter",
-    "author": "degenhours",
-    "content": "@bentossell @yzx396 @FactoryAI yea I tried all browsers, even in incognito and still getting it. Alright will do",
-    "url": "https://x.com/degenhours/status/1989613563011285477",
-    "timestamp": "2025-11-15T08:36:53.000Z",
-    "metadata": {
-      "conversation_id": "1989613563011285477",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989613236925468749",
-    "source": "twitter",
-    "author": "AdhamAlkhaja",
-    "content": "@bentossell @FactoryAI def, need for refactoring the codebase",
-    "url": "https://x.com/AdhamAlkhaja/status/1989613236925468749",
-    "timestamp": "2025-11-15T08:35:35.000Z",
-    "metadata": {
-      "conversation_id": "1989613236925468749",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
