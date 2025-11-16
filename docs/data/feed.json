@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1oydnzt",
+    "source": "reddit",
+    "author": "EggNo4904",
+    "content": "When i put my real number this is what i get ( i moved it out, also the pretty print some vercel blocks heard a lot of droid would love to be able to try it)\n\nImages:\n\thttps://preview.redd.it/huzzfboe3k1g1.png?auto=webp&amp;s=f342b5e1a1ba7e0c301f58a658fd42ac56fe6535\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oydnzt/when_i_put_my_real_number_this_is_what_i_get_i/",
+    "timestamp": "2025-11-16T05:38:43.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1989929221448503451",
     "source": "twitter",
     "author": "SvenMeyer",
@@ -385,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -622,19 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 330
-    }
-  },
-  {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
