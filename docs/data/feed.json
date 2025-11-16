@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989919673719087473",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@matanSF @bentossell @FactoryAI @AmpCode I have not! I need to play around with that. I hit the limit today and things auto compressed. Need to do this more intentionally.",
+    "url": "https://x.com/erd0xbc/status/1989919673719087473",
+    "timestamp": "2025-11-16T04:53:15.000Z",
+    "metadata": {
+      "conversation_id": "1989919673719087473",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989919133765382477",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "Not being able to flip the model in @AmpCode is one downside. However, having a curated, opinionated agent primitive like an Oracle is nice.\n\nhttps://t.co/Gwqj7UR7M2\n\nI found myself able to give good enough specs, then add the following at the end and let it work: Be sure to work in the following workflow: assess the project → plan the implementation → confirm the approach with oracle → revise based on oracle feedback → implement → ask oracle for code review and quality issues → iterate on recommendations → submit to oracle\n\nhttps://t.co/qoLAUKGujt",
+    "url": "https://x.com/erd0xbc/status/1989919133765382477",
+    "timestamp": "2025-11-16T04:51:07.000Z",
+    "metadata": {
+      "conversation_id": "1989919133765382477",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989918390568587627",
     "source": "twitter",
     "author": "matanSF",
@@ -8,9 +38,9 @@
     "timestamp": "2025-11-16T04:48:09.000Z",
     "metadata": {
       "conversation_id": "1989918390568587627",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -25,7 +55,7 @@
       "conversation_id": "1989917339664388270",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989829146437185880",
-    "source": "twitter",
-    "author": "NathanLands",
-    "content": "IMO AI is not great at design yet. The best I've found is to take screenshots of the app you're working on and give it to Factory/Claude etc. for suggested changes. \n\nAnd, give it an image of a website with a style you like as a reference. That's how I built https://t.co/GRevWVdB4B. \n\nYou also might look into what @MengTo is up to, he has a product to help you prompt better designed sites with AI. \n\nAnd possibly worth watching this podcast episode I did with him about how to get beautiful designs when vibe coding: https://t.co/ZftatxCpy2",
-    "url": "https://x.com/NathanLands/status/1989829146437185880",
-    "timestamp": "2025-11-15T22:53:32.000Z",
-    "metadata": {
-      "conversation_id": "1989829146437185880",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989821528624767012",
-    "source": "twitter",
-    "author": "stevewillbe",
-    "content": "@bentossell @brendanh_au @Bogorad @FactoryAI “Bonus” does not pass the sniff test",
-    "url": "https://x.com/stevewillbe/status/1989821528624767012",
-    "timestamp": "2025-11-15T22:23:16.000Z",
-    "metadata": {
-      "conversation_id": "1989821528624767012",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_372",
     "source": "github",
     "author": "presidentoor",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -625,19 +625,6 @@
     }
   },
   {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -674,6 +661,19 @@
       "type": "issue",
       "labels": [],
       "number": 325
+    }
+  },
+  {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
