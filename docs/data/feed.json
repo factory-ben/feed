@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990085860428026302",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "@5aikat @avthars @FactoryAI too late 😄",
+    "url": "https://x.com/MickeyShaughnes/status/1990085860428026302",
+    "timestamp": "2025-11-16T15:53:37.000Z",
+    "metadata": {
+      "conversation_id": "1990085860428026302",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990079239232614642",
     "source": "twitter",
     "author": "bentossell",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989953735783846345",
-    "source": "twitter",
-    "author": "87xysr",
-    "content": "@b1rkh0ff @NickADobos It’s the number of tokens though. Claude Max $200 won’t offer 2B tokens and, @FactoryAI Droid is much better than Claude Code.\n\nNo one needs the $2000 plan unless they’re running out of tokens and reloading 5-6x every billing cycle on the $200 plan.",
-    "url": "https://x.com/87xysr/status/1989953735783846345",
-    "timestamp": "2025-11-16T07:08:36.000Z",
-    "metadata": {
-      "conversation_id": "1989953735783846345",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -635,6 +635,19 @@
       "type": "issue",
       "labels": [],
       "number": 330
+    }
+  },
+  {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
