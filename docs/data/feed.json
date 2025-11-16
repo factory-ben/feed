@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990089793229975663",
+    "source": "twitter",
+    "author": "fred_pope",
+    "content": "Here a couple standouts on what's been working for me so far:\n\n- Skills that intelligently activate based on context (true on-demand knowledge!)\n\n- Documentation workflows that keep the LLM focused and on-track\n\n- PM2 integration with hooks ensuring nothing falls through the cracks\n\n- A coordinated team of specialized agents handling reviews, testing, and planning\n\nLet me know if you want to see it ;)",
+    "url": "https://x.com/fred_pope/status/1990089793229975663",
+    "timestamp": "2025-11-16T16:09:15.000Z",
+    "metadata": {
+      "conversation_id": "1990089793229975663",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990085950785929696",
     "source": "twitter",
     "author": "jacobferus",
@@ -55,7 +70,7 @@
       "conversation_id": "1990072382359285995",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989965306845172084",
-    "source": "twitter",
-    "author": "coyotevn",
-    "content": "This is a shift in mindset.\n\nNow I ask @FactoryAI Droid and ClaudeCode to do almost things with TDD..\n\nand then devise a plan for me to test all of my courses thoroughly for a week.\n\nShift left, and shift right.\n\nI hope we can all win in this world. https://t.co/VpwqLPbd5h",
-    "url": "https://x.com/coyotevn/status/1989965306845172084",
-    "timestamp": "2025-11-16T07:54:35.000Z",
-    "metadata": {
-      "conversation_id": "1989965306845172084",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
