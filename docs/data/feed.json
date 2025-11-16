@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989895370172719339",
+    "source": "twitter",
+    "author": "ain3sh",
+    "content": "@badlogicgames @FactoryAI doesn’t have this problem 🥹",
+    "url": "https://x.com/ain3sh/status/1989895370172719339",
+    "timestamp": "2025-11-16T03:16:41.000Z",
+    "metadata": {
+      "conversation_id": "1989895370172719339",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989866859437662376",
     "source": "twitter",
     "author": "NathanLands",
@@ -113,7 +128,7 @@
     "timestamp": "2025-11-15T23:24:44.000Z",
     "metadata": {
       "conversation_id": "1989836996886544456",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1989800547969650837",
-    "source": "twitter",
-    "author": "robert_heimir",
-    "content": "@hatchprop @FactoryAI Right there with ya - for 200 it takes effort to even hit the cap",
-    "url": "https://x.com/robert_heimir/status/1989800547969650837",
-    "timestamp": "2025-11-15T20:59:53.000Z",
-    "metadata": {
-      "conversation_id": "1989800547969650837",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_370",
     "source": "github",
     "author": "aranej",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
