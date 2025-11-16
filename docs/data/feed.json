@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990037903922376796",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@ben_vargas @FactoryAI no matter how i try, now getting this, \n\n❯ curl http://localhost:8317/v1/models\n{\"error\":\"Missing API key\"}%\n\nsteps\n\n1. cloned your fork/main repo\n2. config example to config\n3. build it\n4. ran the --codex-login\n5. ran it\n6. ran the curl, and getting this missing key,",
+    "url": "https://x.com/immoinulmoin/status/1990037903922376796",
+    "timestamp": "2025-11-16T12:43:04.000Z",
+    "metadata": {
+      "conversation_id": "1990037903922376796",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990031859569541563",
     "source": "twitter",
     "author": "0xCRASHOUT",
@@ -143,7 +158,7 @@
     "timestamp": "2025-11-16T07:54:35.000Z",
     "metadata": {
       "conversation_id": "1989965306845172084",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -294,21 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989918390568587627",
-    "source": "twitter",
-    "author": "matanSF",
-    "content": "@erd0xbc @bentossell @FactoryAI @AmpCode we have an equivalent with the /compress command! Have you tried?",
-    "url": "https://x.com/matanSF/status/1989918390568587627",
-    "timestamp": "2025-11-16T04:48:09.000Z",
-    "metadata": {
-      "conversation_id": "1989918390568587627",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
