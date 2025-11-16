@@ -158,7 +158,7 @@
     "timestamp": "2025-11-16T07:54:35.000Z",
     "metadata": {
       "conversation_id": "1989965306845172084",
-      "likes": 3,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -248,9 +248,9 @@
     "timestamp": "2025-11-16T05:50:16.000Z",
     "metadata": {
       "conversation_id": "1989934021284171900",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -635,6 +635,19 @@
       "type": "issue",
       "labels": [],
       "number": 330
+    }
+  },
+  {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
