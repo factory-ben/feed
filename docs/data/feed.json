@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1990027793850307056",
+    "source": "twitter",
+    "author": "alpes_aux_andes",
+    "content": "@FactoryAI It’s impossible to register on your website at the moment. I tried several of my phone numbers (real ones ) , it gives me « an unexpected error occurred »",
+    "url": "https://x.com/alpes_aux_andes/status/1990027793850307056",
+    "timestamp": "2025-11-16T12:02:53.000Z",
+    "metadata": {
+      "conversation_id": "1990027793850307056",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990027208631411019",
+    "source": "twitter",
+    "author": "alpes_aux_andes",
+    "content": "@tzu1_ @FactoryAI Can’t register either",
+    "url": "https://x.com/alpes_aux_andes/status/1990027208631411019",
+    "timestamp": "2025-11-16T12:00:34.000Z",
+    "metadata": {
+      "conversation_id": "1990027208631411019",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990026963256582199",
+    "source": "twitter",
+    "author": "_fbbp",
+    "content": "ココ最近使い込んでる @FactoryAI  社が開発したAIコーディングエージェントのDroid CLIについて、日本語圏の情報に乏しくもっと広まって欲しかったので使用感も併せて紹介記事をZennに書きました！\nClaudeCode使いには本当におすすめです！\n記事本編はリプ欄迄👇！ https://t.co/z1lCgaTR2H",
+    "url": "https://x.com/_fbbp/status/1990026963256582199",
+    "timestamp": "2025-11-16T11:59:35.000Z",
+    "metadata": {
+      "conversation_id": "1990026963256582199",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990012906013118904",
     "source": "twitter",
     "author": "MihailVarich",
@@ -83,7 +128,7 @@
     "timestamp": "2025-11-16T07:54:35.000Z",
     "metadata": {
       "conversation_id": "1989965306845172084",
-      "likes": 2,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,9 +218,9 @@
     "timestamp": "2025-11-16T05:50:16.000Z",
     "metadata": {
       "conversation_id": "1989934021284171900",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -264,51 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989916056970805609",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "Most of @AmpCode's approach didn't seem interesting till I forced myself into using it for a week, thanks for the $100 in API credits.\n\nHandoff ended up being useful as I got really strong context built up in a thread I could branch off with unique follow ups as \"Handoff lets you specify your goal for the new thread.\"\n\nhttps://t.co/urHUanrLVr",
-    "url": "https://x.com/erd0xbc/status/1989916056970805609",
-    "timestamp": "2025-11-16T04:38:53.000Z",
-    "metadata": {
-      "conversation_id": "1989916056970805609",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989904030672580724",
-    "source": "twitter",
-    "author": "fred_pope",
-    "content": "@melodykoh @AnthropicAI @FactoryAI @every If you like what you see there, try skills and hooks.",
-    "url": "https://x.com/fred_pope/status/1989904030672580724",
-    "timestamp": "2025-11-16T03:51:06.000Z",
-    "metadata": {
-      "conversation_id": "1989904030672580724",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989901136997077303",
-    "source": "twitter",
-    "author": "kksrini89",
-    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor Agree! \n\nThey miss LEVERAGE who don't!",
-    "url": "https://x.com/kksrini89/status/1989901136997077303",
-    "timestamp": "2025-11-16T03:39:36.000Z",
-    "metadata": {
-      "conversation_id": "1989901136997077303",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
