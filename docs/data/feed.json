@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989976448355193070",
+    "source": "twitter",
+    "author": "_Teskh",
+    "content": "@thsottiaux Not sure if @FactoryAI harness deals with this in a better way, but the results don’t seem overwhelmingly different, so i doubt it hurts as much as people assume it does",
+    "url": "https://x.com/_Teskh/status/1989976448355193070",
+    "timestamp": "2025-11-16T08:38:51.000Z",
+    "metadata": {
+      "conversation_id": "1989976448355193070",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989973367219523687",
     "source": "twitter",
     "author": "AntonioJASmith",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989866812176306531",
-    "source": "twitter",
-    "author": "DavidBennett__",
-    "content": "@NathanLands @OpenAICodexCli @cursor_ai @FactoryAI Thanks Nathan!\nAll great suggestions",
-    "url": "https://x.com/DavidBennett__/status/1989866812176306531",
-    "timestamp": "2025-11-16T01:23:12.000Z",
-    "metadata": {
-      "conversation_id": "1989866812176306531",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_372",
     "source": "github",
     "author": "presidentoor",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
