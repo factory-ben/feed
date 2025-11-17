@@ -210,21 +210,6 @@
     }
   },
   {
-    "id": "twitter_1990431329423446242",
-    "source": "twitter",
-    "author": "VoltagePark",
-    "content": "Our AI Factory is a flexible sandbox that lets teams build complete, customized AI systems. \n\n𝗛𝗼𝘄?\n\nWe have a growing library of models, tools, frameworks, hardware, and orchestration layers that you choose from to build the modules you need to transform structured and unstructured data into production-ready assets or insights.\n\nAll without the cost or complexity of standing up your own infrastructure or engineering team.\n\nNow in preview. Try for free: https://t.co/aXavPaWD6e",
-    "url": "https://x.com/VoltagePark/status/1990431329423446242",
-    "timestamp": "2025-11-17T14:46:24.000Z",
-    "metadata": {
-      "conversation_id": "1990431329423446242",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "twitter_1990429746333725147",
     "source": "twitter",
     "author": "fred_pope",
@@ -293,6 +278,21 @@
     "timestamp": "2025-11-17T13:09:44.000Z",
     "metadata": {
       "conversation_id": "1990407005463257534",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990400390026670168",
+    "source": "twitter",
+    "author": "CryptoSolana_OG",
+    "content": "@FHulayyil @FactoryAI @greptile Really?",
+    "url": "https://x.com/CryptoSolana_OG/status/1990400390026670168",
+    "timestamp": "2025-11-17T12:43:27.000Z",
+    "metadata": {
+      "conversation_id": "1990400390026670168",
       "likes": 0,
       "retweets": 0,
       "replies": 1,
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -530,6 +530,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow0203",
+    "source": "reddit",
+    "author": "vargalas",
+    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
+    "timestamp": "2025-11-13T12:42:42.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
