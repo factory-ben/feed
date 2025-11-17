@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990518267719660008",
+    "source": "twitter",
+    "author": "duru_tobe",
+    "content": "@explosivesox @FactoryAI @getdomeapi @openservai @Polymarket @hash_dive less noise, more action",
+    "url": "https://x.com/duru_tobe/status/1990518267719660008",
+    "timestamp": "2025-11-17T20:31:51.000Z",
+    "metadata": {
+      "conversation_id": "1990518267719660008",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990505496110117166",
     "source": "twitter",
     "author": "fred_pope",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990418394060055035",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "Need to give a huge shoutout to @bentossell who is doing an amazing job keeping all us Droid fans in the loop on what’s happening at @FactoryAI \n\nBen responds to everyone and it truly feels like we the customers are shaping the future of Droid which is the best CLI coding agent!",
-    "url": "https://x.com/JoelDeTeves/status/1990418394060055035",
-    "timestamp": "2025-11-17T13:54:59.000Z",
-    "metadata": {
-      "conversation_id": "1990418394060055035",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -515,21 +515,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
   },
   {
-    "id": "reddit_1ow0203",
+    "id": "reddit_1ow4spq",
     "source": "reddit",
-    "author": "vargalas",
-    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
-    "timestamp": "2025-11-13T12:42:42.000Z",
+    "author": "Rough-Aioli-7829",
+    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
+    "timestamp": "2025-11-13T15:58:33.000Z",
     "metadata": {
-      "score": 0,
-      "num_comments": 3,
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -557,19 +557,6 @@
       "type": "issue",
       "labels": [],
       "number": 345
-    }
-  },
-  {
-    "id": "reddit_1ovbn7q",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
-    "timestamp": "2025-11-12T17:34:16.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -661,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 330
-    }
-  },
-  {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
