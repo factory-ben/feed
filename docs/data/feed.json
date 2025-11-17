@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990256155608957338",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "Trimmy now supports trimming these || borders, when you copy text from @FactoryAI - thanks to Blueemi! https://t.co/ikOH9Sqsyt https://t.co/L8pF327Kxb",
+    "url": "https://x.com/steipete/status/1990256155608957338",
+    "timestamp": "2025-11-17T03:10:19.000Z",
+    "metadata": {
+      "conversation_id": "1990256155608957338",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1990253298574905839",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@CloudTrader4 @FactoryAI Mine doesnt even have /skills",
+    "url": "https://x.com/martin_ict_algo/status/1990253298574905839",
+    "timestamp": "2025-11-17T02:58:58.000Z",
+    "metadata": {
+      "conversation_id": "1990253298574905839",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990244517484839183",
     "source": "twitter",
     "author": "bheemreddy181",
@@ -40,19 +70,6 @@
       "type": "discussion",
       "category": "General",
       "number": 374
-    }
-  },
-  {
-    "id": "reddit_1oz18qh",
-    "source": "reddit",
-    "author": "EggNo4904",
-    "content": "not sure if i am the only one getting this, interestingly enough it had my card details saved tho.\n\nImages:\n\thttps://preview.redd.it/uu8xf048jp1g1.png?auto=webp&amp;s=9574291f2513a281eca97c75667653da65da086d\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oz18qh/not_sure_if_i_am_the_only_one_getting_this/",
-    "timestamp": "2025-11-16T23:56:02.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -296,62 +313,6 @@
     }
   },
   {
-    "id": "reddit_1oys5f5",
-    "source": "reddit",
-    "author": "SensitiveUpstairs803",
-    "content": "Fix large file parsing crash issue.\n\nIf we have a large file Droid's file view tool will try to parse it and then crash because the file is to large but to solve the crashing you should add something that detects the size of the file then if its too large it will resort to using a powershell command instead of the built in droid file parser tool to parse a few lines of the file to get the format etc based on whatever the question involving the file is. Simple feature simple fix.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oys5f5/fix_large_file_parsing_crash_issue/",
-    "timestamp": "2025-11-16T17:50:18.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 0,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1990089793229975663",
-    "source": "twitter",
-    "author": "fred_pope",
-    "content": "Here a couple standouts on what's been working for me so far:\n\n- Skills that intelligently activate based on context (true on-demand knowledge!)\n\n- Documentation workflows that keep the LLM focused and on-track\n\n- PM2 integration with hooks ensuring nothing falls through the cracks\n\n- A coordinated team of specialized agents handling reviews, testing, and planning\n\nLet me know if you want to see it ;)",
-    "url": "https://x.com/fred_pope/status/1990089793229975663",
-    "timestamp": "2025-11-16T16:09:15.000Z",
-    "metadata": {
-      "conversation_id": "1990089793229975663",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990085950785929696",
-    "source": "twitter",
-    "author": "jacobferus",
-    "content": "@FactoryAI Tried to sign up, but just got an error when entering my number. Are you not available in EU or something?",
-    "url": "https://x.com/jacobferus/status/1990085950785929696",
-    "timestamp": "2025-11-16T15:53:59.000Z",
-    "metadata": {
-      "conversation_id": "1990085950785929696",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "reddit_1oydnzt",
-    "source": "reddit",
-    "author": "EggNo4904",
-    "content": "When i put my real number this is what i get ( i moved it out, also the pretty print some vercel blocks heard a lot of droid would love to be able to try it)\n\nImages:\n\thttps://preview.redd.it/huzzfboe3k1g1.png?auto=webp&amp;s=f342b5e1a1ba7e0c301f58a658fd42ac56fe6535\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oydnzt/when_i_put_my_real_number_this_is_what_i_get_i/",
-    "timestamp": "2025-11-16T05:38:43.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_372",
     "source": "github",
     "author": "presidentoor",
@@ -437,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -515,8 +476,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow4spq",
+    "source": "reddit",
+    "author": "Rough-Aioli-7829",
+    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
+    "timestamp": "2025-11-13T15:58:33.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -557,19 +531,6 @@
       "type": "issue",
       "labels": [],
       "number": 345
-    }
-  },
-  {
-    "id": "reddit_1ovbn7q",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
-    "timestamp": "2025-11-12T17:34:16.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -713,6 +674,19 @@
       "type": "issue",
       "labels": [],
       "number": 325
+    }
+  },
+  {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
