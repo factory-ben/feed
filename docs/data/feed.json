@@ -8,7 +8,7 @@
     "timestamp": "2025-11-17T06:56:25.000Z",
     "metadata": {
       "conversation_id": "1990313057827090874",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,7 +173,7 @@
     "timestamp": "2025-11-17T03:10:19.000Z",
     "metadata": {
       "conversation_id": "1990256155608957338",
-      "likes": 9,
+      "likes": 10,
       "retweets": 2,
       "replies": 3,
       "quotes": 1
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
