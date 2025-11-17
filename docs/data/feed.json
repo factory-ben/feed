@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990308433447551014",
+    "source": "twitter",
+    "author": "barkleesanders",
+    "content": "use https://t.co/EkDi5QvOTe to build pwa for you and then push to github and then connect to @FactoryAI to code within no limits, you technically can deploy with Google studio two but for me this is how I design a lot of things you can use a lot of Google products honestly, they’re really great",
+    "url": "https://x.com/barkleesanders/status/1990308433447551014",
+    "timestamp": "2025-11-17T06:38:03.000Z",
+    "metadata": {
+      "conversation_id": "1990308433447551014",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990306478629208346",
+    "source": "twitter",
+    "author": "Mohanad423461",
+    "content": "@ben_vargas @FactoryAI i found that the proxy is well made!\n\nbut gpt plus is officially a scam, its  a model trained deliberatelly not to tackle any long tasklist and thats very subjective you will see it even for relative small tasklist still reject, going to look for other subs https://t.co/S01wFEU7vF",
+    "url": "https://x.com/Mohanad423461/status/1990306478629208346",
+    "timestamp": "2025-11-17T06:30:17.000Z",
+    "metadata": {
+      "conversation_id": "1990306478629208346",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990299732921704628",
     "source": "twitter",
     "author": "codewithimanshu",
@@ -296,36 +326,6 @@
     }
   },
   {
-    "id": "twitter_1990150322271191365",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@Mattslayga @OpenAIDevs @FactoryAI Arey, Slayga, you're right, it's a bit of a letdown seeing those OpenAI updates, isn't it? Back to the grind then!",
-    "url": "https://x.com/codewithimanshu/status/1990150322271191365",
-    "timestamp": "2025-11-16T20:09:46.000Z",
-    "metadata": {
-      "conversation_id": "1990150322271191365",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990148463472869699",
-    "source": "twitter",
-    "author": "TSpencer260",
-    "content": "@hatchprop @ChrisVanDerKlau @FactoryAI How are you able to see this data?",
-    "url": "https://x.com/TSpencer260/status/1990148463472869699",
-    "timestamp": "2025-11-16T20:02:23.000Z",
-    "metadata": {
-      "conversation_id": "1990148463472869699",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oys5f5",
     "source": "reddit",
     "author": "SensitiveUpstairs803",
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
