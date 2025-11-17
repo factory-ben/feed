@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990453668798492720",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@samuel_spitz @FactoryAI",
+    "url": "https://x.com/bentossell/status/1990453668798492720",
+    "timestamp": "2025-11-17T16:15:10.000Z",
+    "metadata": {
+      "conversation_id": "1990453668798492720",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990453078663835999",
+    "source": "twitter",
+    "author": "melodykoh",
+    "content": "@fred_pope @AnthropicAI @FactoryAI @every Ah makes sense. Have to take a look at hooks",
+    "url": "https://x.com/melodykoh/status/1990453078663835999",
+    "timestamp": "2025-11-17T16:12:49.000Z",
+    "metadata": {
+      "conversation_id": "1990453078663835999",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990443927267357015",
     "source": "twitter",
     "author": "pascallammers_",
@@ -8,7 +38,7 @@
     "timestamp": "2025-11-17T15:36:27.000Z",
     "metadata": {
       "conversation_id": "1990443927267357015",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -40,7 +70,7 @@
       "conversation_id": "1990429746333725147",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990378918512382417",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@michael_chomsky @itsbyrobin @FactoryAI oh we are very methodical\n\nwe've written some blog posts like below - and have plans for more!\n\nhttps://t.co/rQ3Jwmcklb\nhttps://t.co/P2rElYrbVT",
-    "url": "https://x.com/bentossell/status/1990378918512382417",
-    "timestamp": "2025-11-17T11:18:08.000Z",
-    "metadata": {
-      "conversation_id": "1990378918512382417",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990378601246798093",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@explosivesox @FactoryAI @getdomeapi @openservai @Polymarket @hash_dive 🔥",
-    "url": "https://x.com/bentossell/status/1990378601246798093",
-    "timestamp": "2025-11-17T11:16:52.000Z",
-    "metadata": {
-      "conversation_id": "1990378601246798093",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -515,21 +515,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow4spq",
-    "source": "reddit",
-    "author": "Rough-Aioli-7829",
-    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
-    "timestamp": "2025-11-13T15:58:33.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
