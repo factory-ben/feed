@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990227025093931196",
+    "source": "twitter",
+    "author": "momenabdelkarim",
+    "content": "Been using Claude Code, Codex, and @FactoryAI Droid CLI with various models to do this migration and I’ve noticed GPT 5/5.1 High in Codex has been the best for writing code in a @tan_stack Start (TSS) project. Codex does a much better job actually looking up the latest documentation for TSS, which is important for such a new framework as things change quickly. Otherwise it ends up writing a bunch of NextJS-like code and weird bugs start popping up. All these models don’t know much about TSS by default in their training dataset clearly.\n\nAlso I specify Codex because when I ran GPT 5/5.1 High in Droid CLI I was getting much lower quality output than via Codex.\n\nMake sure to set “web_search_request = true” in your Codex config.toml to ensure it can access the latest info! It’s off by default.",
+    "url": "https://x.com/momenabdelkarim/status/1990227025093931196",
+    "timestamp": "2025-11-17T01:14:34.000Z",
+    "metadata": {
+      "conversation_id": "1990227025093931196",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -324,21 +339,6 @@
     }
   },
   {
-    "id": "twitter_1990079239232614642",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@stuartinzg @FactoryAI best email is support@factory.ai to help unblock account issues",
-    "url": "https://x.com/bentossell/status/1990079239232614642",
-    "timestamp": "2025-11-16T15:27:19.000Z",
-    "metadata": {
-      "conversation_id": "1990079239232614642",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
