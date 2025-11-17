@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990342203303137309",
+    "source": "twitter",
+    "author": "0motionguy",
+    "content": "@lordr_eth @explosivesox @FactoryAI @getdomeapi @openservai @Polymarket @hash_dive When ICM service delivers, you know the infrastructure is solid.",
+    "url": "https://x.com/0motionguy/status/1990342203303137309",
+    "timestamp": "2025-11-17T08:52:14.000Z",
+    "metadata": {
+      "conversation_id": "1990342203303137309",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990332851511087238",
     "source": "twitter",
     "author": "lordr_eth",
@@ -8,9 +23,9 @@
     "timestamp": "2025-11-17T08:15:05.000Z",
     "metadata": {
       "conversation_id": "1990332851511087238",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +68,7 @@
     "timestamp": "2025-11-17T07:42:39.000Z",
     "metadata": {
       "conversation_id": "1990324689840095734",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 1
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1990161948869300370",
-    "source": "twitter",
-    "author": "Mattslayga",
-    "content": "@codewithimanshu @OpenAIDevs @FactoryAI I love updates when they actually stick",
-    "url": "https://x.com/Mattslayga/status/1990161948869300370",
-    "timestamp": "2025-11-16T20:55:58.000Z",
-    "metadata": {
-      "conversation_id": "1990161948869300370",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oys5f5",
     "source": "reddit",
     "author": "SensitiveUpstairs803",
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -530,19 +530,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow0203",
-    "source": "reddit",
-    "author": "vargalas",
-    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
-    "timestamp": "2025-11-13T12:42:42.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
