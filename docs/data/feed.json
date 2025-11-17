@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990434622681825358",
+    "source": "twitter",
+    "author": "CyberBoyAyush",
+    "content": "@FHulayyil @FactoryAI @greptile Try using gpt 5.1 high for plan\nAnd any other model to implement.\n\nYou will see a huge improvement",
+    "url": "https://x.com/CyberBoyAyush/status/1990434622681825358",
+    "timestamp": "2025-11-17T14:59:29.000Z",
+    "metadata": {
+      "conversation_id": "1990434622681825358",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990429746333725147",
     "source": "twitter",
     "author": "fred_pope",
@@ -53,7 +68,7 @@
     "timestamp": "2025-11-17T13:54:59.000Z",
     "metadata": {
       "conversation_id": "1990418394060055035",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -278,24 +293,9 @@
     "timestamp": "2025-11-17T10:49:54.000Z",
     "metadata": {
       "conversation_id": "1990371815198269442",
-      "likes": 5,
+      "likes": 7,
       "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990362977271214184",
-    "source": "twitter",
-    "author": "steipete",
-    "content": "@frankekn @FactoryAI kudos for their 2k plan!",
-    "url": "https://x.com/steipete/status/1990362977271214184",
-    "timestamp": "2025-11-17T10:14:47.000Z",
-    "metadata": {
-      "conversation_id": "1990362977271214184",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -517,19 +517,6 @@
     "metadata": {
       "score": 7,
       "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow4spq",
-    "source": "reddit",
-    "author": "Rough-Aioli-7829",
-    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
-    "timestamp": "2025-11-13T15:58:33.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -687,6 +674,19 @@
       "type": "issue",
       "labels": [],
       "number": 325
+    }
+  },
+  {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
