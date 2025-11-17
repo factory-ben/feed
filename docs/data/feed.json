@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990496556836139285",
+    "source": "twitter",
+    "author": "ain3sh",
+    "content": "@EnoReyes @CloudTrader4 @FactoryAI Thx!! Yeah that’s what Anthropic does too but I really got sick of telling Claude explicitly to use a skill bc that just goes against my mental model of how an agent should be leveraging skills lol. Did y’all do your progressive disclosure any differently?",
+    "url": "https://x.com/ain3sh/status/1990496556836139285",
+    "timestamp": "2025-11-17T19:05:35.000Z",
+    "metadata": {
+      "conversation_id": "1990496556836139285",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990495663759753486",
     "source": "twitter",
     "author": "EnoReyes",
@@ -10,7 +25,7 @@
       "conversation_id": "1990495663759753486",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990399057605345648",
-    "source": "twitter",
-    "author": "itsbyrobin",
-    "content": "@bentossell @michael_chomsky @FactoryAI agree you guys definitely do a lot of things right, and I hope that one day I will see the light\n\nnot yet tho 🤣",
-    "url": "https://x.com/itsbyrobin/status/1990399057605345648",
-    "timestamp": "2025-11-17T12:38:09.000Z",
-    "metadata": {
-      "conversation_id": "1990399057605345648",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -508,19 +508,6 @@
     }
   },
   {
-    "id": "reddit_1owbvoj",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "How should we post changelogs here?\n\nhey, i'm ben - dev rel at factory. you may have seen me answering comments.\n\nwe have a changelog now but has like 4/5 updates a week. its automated as a bot in our discord channel. \n\nshould we add anything here? if so, what format is best?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
-    "timestamp": "2025-11-13T20:22:54.000Z",
-    "metadata": {
-      "score": 7,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1ow4spq",
     "source": "reddit",
     "author": "Rough-Aioli-7829",
@@ -530,6 +517,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow0203",
+    "source": "reddit",
+    "author": "vargalas",
+    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
+    "timestamp": "2025-11-13T12:42:42.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
