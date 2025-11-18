@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1990790257076547962",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "@ArchiSoftTech @FactoryAI What illegal instructions?",
+    "url": "https://x.com/nathanpareo/status/1990790257076547962",
+    "timestamp": "2025-11-18T14:32:39.000Z",
+    "metadata": {
+      "conversation_id": "1990790257076547962",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990790107880960139",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "@bradvangelder @FactoryAI I am working on 3 apps and a few scripts here and there, plus one Raspberry Pi server, etc. I think this won't be enough to last me a month if I work every day.",
+    "url": "https://x.com/nathanpareo/status/1990790107880960139",
+    "timestamp": "2025-11-18T14:32:03.000Z",
+    "metadata": {
+      "conversation_id": "1990790107880960139",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990789205929398711",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "Just woke up and my timeline is full of Gemini 3 😯. @FactoryAI, when will it be available on droid?",
+    "url": "https://x.com/nathanpareo/status/1990789205929398711",
+    "timestamp": "2025-11-18T14:28:28.000Z",
+    "metadata": {
+      "conversation_id": "1990789205929398711",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990788526259212599",
+    "source": "twitter",
+    "author": "ArchiSoftTech",
+    "content": "@nathanpareo @FactoryAI i still waiting for the next release as i got illegal instruction when running droid... 🫥",
+    "url": "https://x.com/ArchiSoftTech/status/1990788526259212599",
+    "timestamp": "2025-11-18T14:25:46.000Z",
+    "metadata": {
+      "conversation_id": "1990788526259212599",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990788009235783893",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@nathanpareo @FactoryAI How long does it take until you're out of tokens?",
+    "url": "https://x.com/bradvangelder/status/1990788009235783893",
+    "timestamp": "2025-11-18T14:23:43.000Z",
+    "metadata": {
+      "conversation_id": "1990788009235783893",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990787815437971557",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "@bradvangelder @FactoryAI Yes.",
+    "url": "https://x.com/nathanpareo/status/1990787815437971557",
+    "timestamp": "2025-11-18T14:22:56.000Z",
+    "metadata": {
+      "conversation_id": "1990787815437971557",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990787754368934030",
+    "source": "twitter",
+    "author": "marcfdupuis",
+    "content": "@iannuttall @FactoryAI Let’s go!! Looking for a few default model at @hqfabi . Claude still hasn’t been dethroned",
+    "url": "https://x.com/marcfdupuis/status/1990787754368934030",
+    "timestamp": "2025-11-18T14:22:42.000Z",
+    "metadata": {
+      "conversation_id": "1990787754368934030",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990787693429862521",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@buggyDcode @FactoryAI yeh it should be ready v soon - come join the discord 😊 https://t.co/p8tPpSvVPE",
+    "url": "https://x.com/bentossell/status/1990787693429862521",
+    "timestamp": "2025-11-18T14:22:27.000Z",
+    "metadata": {
+      "conversation_id": "1990787693429862521",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990784618589810897",
     "source": "twitter",
     "author": "nilag_dev",
