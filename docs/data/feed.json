@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990580288343413195",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@stanleyimet @FactoryAI Sorry this happened! This is definitely not ideal. The 262k tokens is surprising. Will DM.",
+    "url": "https://x.com/EnoReyes/status/1990580288343413195",
+    "timestamp": "2025-11-18T00:38:18.000Z",
+    "metadata": {
+      "conversation_id": "1990580288343413195",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990574443622445399",
     "source": "twitter",
     "author": "nathanpareo",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-18T00:15:05.000Z",
     "metadata": {
       "conversation_id": "1990574443622445399",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,7 +38,7 @@
     "timestamp": "2025-11-18T00:07:18.000Z",
     "metadata": {
       "conversation_id": "1990572487596519736",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,7 +188,7 @@
     "timestamp": "2025-11-17T21:51:22.000Z",
     "metadata": {
       "conversation_id": "1990538277355729072",
-      "likes": 11,
+      "likes": 13,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -220,7 +235,7 @@
       "conversation_id": "1990505045037600959",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -235,7 +250,7 @@
       "conversation_id": "1990496556836139285",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1990489136927814060",
       "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990487298417569961",
-    "source": "twitter",
-    "author": "jonnydahorse",
-    "content": "@explosivesox @FactoryAI @getdomeapi @openservai @Polymarket @hash_dive Insanely clean build this is the kind of stack that actually moves the space forward 🚀\nThe speed the infra the partnerships everything screams real execution\nIf this is v1 the next waves are going to hit like a truck\nMassive respect this is seriously well built 🔥",
-    "url": "https://x.com/jonnydahorse/status/1990487298417569961",
-    "timestamp": "2025-11-17T18:28:48.000Z",
-    "metadata": {
-      "conversation_id": "1990487298417569961",
-      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -530,19 +530,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow0203",
-    "source": "reddit",
-    "author": "vargalas",
-    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
-    "timestamp": "2025-11-13T12:42:42.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
