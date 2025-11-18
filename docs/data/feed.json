@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1990574443622445399",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "@francesca_lab @FactoryAI Soon!",
+    "url": "https://x.com/nathanpareo/status/1990574443622445399",
+    "timestamp": "2025-11-18T00:15:05.000Z",
+    "metadata": {
+      "conversation_id": "1990574443622445399",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990572487596519736",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "@JoelDeTeves @bentossell @FactoryAI Plus he's got super cute twins",
+    "url": "https://x.com/MickeyShaughnes/status/1990572487596519736",
+    "timestamp": "2025-11-18T00:07:18.000Z",
+    "metadata": {
+      "conversation_id": "1990572487596519736",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990569818295246883",
+    "source": "twitter",
+    "author": "RobotServicesX",
+    "content": "I like watching @FactoryAI droid chew through tough engineering problems. https://t.co/vy4i2XR8Bt",
+    "url": "https://x.com/RobotServicesX/status/1990569818295246883",
+    "timestamp": "2025-11-17T23:56:42.000Z",
+    "metadata": {
+      "conversation_id": "1990569818295246883",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990569011172815294",
     "source": "twitter",
     "author": "ain3sh",
@@ -8,7 +53,7 @@
     "timestamp": "2025-11-17T23:53:29.000Z",
     "metadata": {
       "conversation_id": "1990569011172815294",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,10 +68,10 @@
     "timestamp": "2025-11-17T23:39:49.000Z",
     "metadata": {
       "conversation_id": "1990565568261640264",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
+      "quotes": 1
     }
   },
   {
@@ -38,7 +83,7 @@
     "timestamp": "2025-11-17T23:36:33.000Z",
     "metadata": {
       "conversation_id": "1990564746324828478",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,7 +98,7 @@
     "timestamp": "2025-11-17T23:30:54.000Z",
     "metadata": {
       "conversation_id": "1990563324506091923",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +113,7 @@
     "timestamp": "2025-11-17T22:59:20.000Z",
     "metadata": {
       "conversation_id": "1990555381240844336",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -83,9 +128,9 @@
     "timestamp": "2025-11-17T22:40:37.000Z",
     "metadata": {
       "conversation_id": "1990550671750541762",
-      "likes": 4,
+      "likes": 6,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -128,7 +173,7 @@
     "timestamp": "2025-11-17T21:51:22.000Z",
     "metadata": {
       "conversation_id": "1990538277355729072",
-      "likes": 8,
+      "likes": 11,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -190,7 +235,7 @@
       "conversation_id": "1990496556836139285",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -248,54 +293,9 @@
     "timestamp": "2025-11-17T18:28:48.000Z",
     "metadata": {
       "conversation_id": "1990487298417569961",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990486571364311061",
-    "source": "twitter",
-    "author": "ain3sh",
-    "content": "@EnoReyes @CloudTrader4 @FactoryAI @EnoReyes any feedback/thoughts on my attempt? Wanted to purposely deviate from Anthropic’s strategy for actually motivating the model to load and use the skills while staying compatible :)\n\nhttps://t.co/7ZwvFouVFD",
-    "url": "https://x.com/ain3sh/status/1990486571364311061",
-    "timestamp": "2025-11-17T18:25:54.000Z",
-    "metadata": {
-      "conversation_id": "1990486571364311061",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990475533323288657",
-    "source": "twitter",
-    "author": "kllrbeez",
-    "content": "@explosivesox @FactoryAI @getdomeapi @openservai @Polymarket @hash_dive Big! $serv rooting!",
-    "url": "https://x.com/kllrbeez/status/1990475533323288657",
-    "timestamp": "2025-11-17T17:42:03.000Z",
-    "metadata": {
-      "conversation_id": "1990475533323288657",
       "likes": 2,
       "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990472700071194919",
-    "source": "twitter",
-    "author": "steipete",
-    "content": "@BillCrosby @FactoryAI 🫶",
-    "url": "https://x.com/steipete/status/1990472700071194919",
-    "timestamp": "2025-11-17T17:30:47.000Z",
-    "metadata": {
-      "conversation_id": "1990472700071194919",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -530,6 +530,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow0203",
+    "source": "reddit",
+    "author": "vargalas",
+    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
+    "timestamp": "2025-11-13T12:42:42.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
