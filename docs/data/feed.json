@@ -15,6 +15,21 @@
     }
   },
   {
+    "id": "twitter_1990708022772122095",
+    "source": "twitter",
+    "author": "hakemer",
+    "content": "#ChangeMyMind\n\n@FactoryAI is amazing when you use the free tokens. When you actually start paying for it, starts sucking big time.",
+    "url": "https://x.com/hakemer/status/1990708022772122095",
+    "timestamp": "2025-11-18T09:05:52.000Z",
+    "metadata": {
+      "conversation_id": "1990708022772122095",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990706765261123777",
     "source": "twitter",
     "author": "immoinulmoin",
@@ -23,6 +38,36 @@
     "timestamp": "2025-11-18T09:00:53.000Z",
     "metadata": {
       "conversation_id": "1990706765261123777",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990706765261123777",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@ben_vargas @FactoryAI thank you mate",
+    "url": "https://x.com/immoinulmoin/status/1990706765261123777",
+    "timestamp": "2025-11-18T09:00:53.000Z",
+    "metadata": {
+      "conversation_id": "1990706765261123777",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990703250497208368",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MullerNavas @FactoryAI @EnoReyes dope! wdym missing access 😊 - you can sign up for the $20/mo plan or byok on free tier to continue!",
+    "url": "https://x.com/bentossell/status/1990703250497208368",
+    "timestamp": "2025-11-18T08:46:55.000Z",
+    "metadata": {
+      "conversation_id": "1990703250497208368",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -60,6 +105,21 @@
     }
   },
   {
+    "id": "twitter_1990702660014780754",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@immoinulmoin @FactoryAI Nice, glad you got it working 🙌",
+    "url": "https://x.com/ben_vargas/status/1990702660014780754",
+    "timestamp": "2025-11-18T08:44:34.000Z",
+    "metadata": {
+      "conversation_id": "1990702660014780754",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990702248226160840",
     "source": "twitter",
     "author": "bentossell",
@@ -68,6 +128,36 @@
     "timestamp": "2025-11-18T08:42:56.000Z",
     "metadata": {
       "conversation_id": "1990702248226160840",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990702248226160840",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@captaink99 @tomosman @warpdotdev @cursor_ai @FactoryAI to not be scared of the terminal - warp is great. its how i started using the terminal. but factory agent is top tier 😊",
+    "url": "https://x.com/bentossell/status/1990702248226160840",
+    "timestamp": "2025-11-18T08:42:56.000Z",
+    "metadata": {
+      "conversation_id": "1990702248226160840",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990701819232686138",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@erd0xbc @FactoryAI yeh will fix 😊",
+    "url": "https://x.com/bentossell/status/1990701819232686138",
+    "timestamp": "2025-11-18T08:41:13.000Z",
+    "metadata": {
+      "conversation_id": "1990701819232686138",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -105,6 +195,21 @@
     }
   },
   {
+    "id": "twitter_1990701627381285306",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@damien_r_h @FactoryAI @cursor_ai @supabase i tried something like this v early in the year - going to give it a go again",
+    "url": "https://x.com/bentossell/status/1990701627381285306",
+    "timestamp": "2025-11-18T08:40:28.000Z",
+    "metadata": {
+      "conversation_id": "1990701627381285306",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990699585216680029",
     "source": "twitter",
     "author": "immoinulmoin",
@@ -116,6 +221,36 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990699585216680029",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@ben_vargas @FactoryAI so it was config yaml issue, copied yours and removed amp logic, working fine, thanks mate",
+    "url": "https://x.com/immoinulmoin/status/1990699585216680029",
+    "timestamp": "2025-11-18T08:32:21.000Z",
+    "metadata": {
+      "conversation_id": "1990699585216680029",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990684480898527433",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "@captaink99 @warpdotdev @cursor_ai @FactoryAI both are great",
+    "url": "https://x.com/tomosman/status/1990684480898527433",
+    "timestamp": "2025-11-18T07:32:20.000Z",
+    "metadata": {
+      "conversation_id": "1990684480898527433",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -150,6 +285,21 @@
     }
   },
   {
+    "id": "twitter_1990671815383851458",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "@tomosman @warpdotdev @cursor_ai @FactoryAI Why use warp over factory droid?",
+    "url": "https://x.com/captaink99/status/1990671815383851458",
+    "timestamp": "2025-11-18T06:42:00.000Z",
+    "metadata": {
+      "conversation_id": "1990671815383851458",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990661475333980535",
     "source": "twitter",
     "author": "riley_ngg",
@@ -158,6 +308,36 @@
     "timestamp": "2025-11-18T06:00:55.000Z",
     "metadata": {
       "conversation_id": "1990661475333980535",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990661475333980535",
+    "source": "twitter",
+    "author": "riley_ngg",
+    "content": "@punit_arani @FactoryAI @matanSF @bentossell loved reading this. that sounds like an amazing way to leverage ai for coding.",
+    "url": "https://x.com/riley_ngg/status/1990661475333980535",
+    "timestamp": "2025-11-18T06:00:55.000Z",
+    "metadata": {
+      "conversation_id": "1990661475333980535",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990626311522693579",
+    "source": "twitter",
+    "author": "minheo93698092",
+    "content": "@FactoryAI @matanSF 👏 https://t.co/N1s7GGUM3P",
+    "url": "https://x.com/minheo93698092/status/1990626311522693579",
+    "timestamp": "2025-11-18T03:41:11.000Z",
+    "metadata": {
+      "conversation_id": "1990626311522693579",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -195,6 +375,21 @@
     }
   },
   {
+    "id": "twitter_1990618990247621117",
+    "source": "twitter",
+    "author": "minheo93698092",
+    "content": "@FactoryAI @matanSF Urgent implementation is needed for Droid.",
+    "url": "https://x.com/minheo93698092/status/1990618990247621117",
+    "timestamp": "2025-11-18T03:12:05.000Z",
+    "metadata": {
+      "conversation_id": "1990618990247621117",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990617356209451229",
     "source": "twitter",
     "author": "tokwonomics",
@@ -204,6 +399,36 @@
     "metadata": {
       "conversation_id": "1990617356209451229",
       "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990617356209451229",
+    "source": "twitter",
+    "author": "tokwonomics",
+    "content": "@scaling01 @FactoryAI grok 4.1 droid when",
+    "url": "https://x.com/tokwonomics/status/1990617356209451229",
+    "timestamp": "2025-11-18T03:05:36.000Z",
+    "metadata": {
+      "conversation_id": "1990617356209451229",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990612539710075291",
+    "source": "twitter",
+    "author": "greptile",
+    "content": "@FHulayyil @FactoryAI you can ask factory to resolve greptile comments too i think!",
+    "url": "https://x.com/greptile/status/1990612539710075291",
+    "timestamp": "2025-11-18T02:46:27.000Z",
+    "metadata": {
+      "conversation_id": "1990612539710075291",
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -240,6 +465,21 @@
     }
   },
   {
+    "id": "twitter_1990611594447917324",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@FactoryAI https://t.co/L5ARvdTle0",
+    "url": "https://x.com/erd0xbc/status/1990611594447917324",
+    "timestamp": "2025-11-18T02:42:42.000Z",
+    "metadata": {
+      "conversation_id": "1990611594447917324",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990610801405628828",
     "source": "twitter",
     "author": "erd0xbc",
@@ -251,6 +491,36 @@
       "likes": 0,
       "retweets": 0,
       "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990610801405628828",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "Last @FactoryAI droid update seems to have a debug flag active\n\n{\"level\":\"info\",\"value\":{\"droidCount\":0,\"isCurrentlyRegistered\":false},\"tags\":{},\"msg\":\"[TaskToolManager] Checking droid availability\"}\n{\"level\":\"info\",\"value\":{\"isRegistered\":false},\"tags\":{},\"msg\":\"[TaskToolManager] Initialization complete\"}",
+    "url": "https://x.com/erd0xbc/status/1990610801405628828",
+    "timestamp": "2025-11-18T02:39:33.000Z",
+    "metadata": {
+      "conversation_id": "1990610801405628828",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990610699114905619",
+    "source": "twitter",
+    "author": "sanxroz",
+    "content": "@FHulayyil @FactoryAI @greptile review with @cubic_dev_ \n\nYou’re welcome",
+    "url": "https://x.com/sanxroz/status/1990610699114905619",
+    "timestamp": "2025-11-18T02:39:09.000Z",
+    "metadata": {
+      "conversation_id": "1990610699114905619",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -285,6 +555,21 @@
     }
   },
   {
+    "id": "twitter_1990590044042834415",
+    "source": "twitter",
+    "author": "RayFernando1337",
+    "content": "This is from my interview with @luke_alvoeiro from @FactoryAI",
+    "url": "https://x.com/RayFernando1337/status/1990590044042834415",
+    "timestamp": "2025-11-18T01:17:04.000Z",
+    "metadata": {
+      "conversation_id": "1990590044042834415",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990585305800585699",
     "source": "twitter",
     "author": "acoolcss03",
@@ -297,6 +582,34 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990585305800585699",
+    "source": "twitter",
+    "author": "acoolcss03",
+    "content": "@bentossell Can’t live without @FactoryAI on hacks",
+    "url": "https://x.com/acoolcss03/status/1990585305800585699",
+    "timestamp": "2025-11-18T00:58:14.000Z",
+    "metadata": {
+      "conversation_id": "1990585305800585699",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_discussion_374",
+    "source": "github",
+    "author": "vibl",
+    "content": "[Discussion] 20M tokens promised, 1M tokens received...\n\nThe website https://factorycli.com/ promises free 20M tokens. After clicking on the link and signing up, I only received 1M tokens . ",
+    "url": "https://github.com/Factory-AI/factory/discussions/374",
+    "timestamp": "2025-11-17T00:05:46Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "General",
+      "number": 374
     }
   },
   {
@@ -339,6 +652,32 @@
     }
   },
   {
+    "id": "github_issue_372",
+    "source": "github",
+    "author": "presidentoor",
+    "content": "[Issue] Done Shield Disablement\n\nWhen unchecking the Drone Shield button and clicking save, the system responds with an error that it fails to disable the drone shield.",
+    "url": "https://github.com/Factory-AI/factory/issues/372",
+    "timestamp": "2025-11-15T21:48:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 372
+    }
+  },
+  {
+    "id": "github_issue_371",
+    "source": "github",
+    "author": "presidentoor",
+    "content": "[Issue] Support Button Doesn't Work\n\nWhen logged in at app.factory.ai the drop down on the right with the support link, doesn't do anything.",
+    "url": "https://github.com/Factory-AI/factory/issues/371",
+    "timestamp": "2025-11-15T21:47:24Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 371
+    }
+  },
+  {
     "id": "github_issue_371",
     "source": "github",
     "author": "presidentoor",
@@ -365,6 +704,19 @@
     }
   },
   {
+    "id": "github_issue_370",
+    "source": "github",
+    "author": "aranej",
+    "content": "[Issue] UserPromptSubmit hook stdout not injected into LLM context\n\n## Problem\n\nUserPromptSubmit hooks execute successfully but their stdout is not injected into the LLM context, despite [documentation](https://github.com/Factory-AI/factory/blob/main/docs/reference/hooks-reference.mdx#userpromptsubmit-decision-control) stating it should be.\n\n**Expected:** Hook stdout added to context before prompt processing  \n**Actual:** Hook runs, outputs to stdout, but LLM never receives it\n\n## Evidence\n\nDebug logging proves hook execution:\n\n```\n[2025-11-15 16:16:05.140072] U",
+    "url": "https://github.com/Factory-AI/factory/issues/370",
+    "timestamp": "2025-11-15T15:36:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 370
+    }
+  },
+  {
     "id": "github_issue_369",
     "source": "github",
     "author": "BlackCatCmx",
@@ -375,6 +727,32 @@
       "type": "issue",
       "labels": [],
       "number": 369
+    }
+  },
+  {
+    "id": "github_issue_369",
+    "source": "github",
+    "author": "BlackCatCmx",
+    "content": "[Issue] The .factory/skills directory is created even when \"enableSkills\": false is set\n\nI have set \"enableSkills\": false in the settings.json, but every time droid starts it still automatically creates the .factory/skills directory.\n\nIs this expected behavior (e.g. I misunderstood how to configure it), or is this setting not intended to prevent the creation of the skills directory, or could this be a bug?",
+    "url": "https://github.com/Factory-AI/factory/issues/369",
+    "timestamp": "2025-11-15T14:38:14Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 369
+    }
+  },
+  {
+    "id": "github_issue_366",
+    "source": "github",
+    "author": "nikolas-sturm",
+    "content": "[Issue] Extension not working in WSL\n\nHi, my usual setup consists of VSC connecting to WSL Debian where all my projects reside. The Claude Code extension for VSC works perfectly fine in this setup, however I found that the droid extension is not recognized by the CLI when a WSL workspace is open. It instantly starts working when i open the windows native droid CLI in a non WSL workspace in VSC. I also found that trying to install the extension through the `/settings` menu simply fails when inside WSL. ",
+    "url": "https://github.com/Factory-AI/factory/issues/366",
+    "timestamp": "2025-11-15T11:29:55Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 366
     }
   },
   {
@@ -430,6 +808,32 @@
     }
   },
   {
+    "id": "github_discussion_361",
+    "source": "github",
+    "author": "aaronschwartz",
+    "content": "[Discussion] Does using the CLI in BYOK mode send data to Factory.ai?\n\nIf we configure the cli to use our own model through BYOK, does any of our data get sent to Factory.ai servers before being submitted to the model for processing? e.g. is there any codebase indexing or embedding being created by Factory.ai in the cloud before prompting the BYOK third party providers?",
+    "url": "https://github.com/Factory-AI/factory/discussions/361",
+    "timestamp": "2025-11-14T21:17:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 361
+    }
+  },
+  {
+    "id": "github_issue_360",
+    "source": "github",
+    "author": "hanlin-luo",
+    "content": "[Issue] CJK double-width characters problem\n\nChinese input (CJK double-width characters) causes cursor misalignment once the input spans more than two lines.\nThis is due to the line editor not correctly implementing Unicode East Asian Width, resulting in incorrect wcwidth calculations，（maybe）.\nIt’s recommended to enable or fix proper wide-character support in the TUI/line editor being used.\n\nhttps://github.com/user-attachments/assets/7be46a43-0fe3-4e76-98c0-bea3727137e3",
+    "url": "https://github.com/Factory-AI/factory/issues/360",
+    "timestamp": "2025-11-14T20:31:10Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 360
+    }
+  },
+  {
     "id": "github_issue_360",
     "source": "github",
     "author": "hanlin-luo",
@@ -456,6 +860,74 @@
     }
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": "reddit_1ox6p07",
+    "source": "reddit",
+    "author": "ShipSpecialist6727",
+    "content": "Being charge for all limit overage while having credit balance\n\nhttps://preview.redd.it/apq9eqc22a1g1.png?width=713&amp;format=png&amp;auto=webp&amp;s=b55698314d83f7e933e7c750576ab10285a54f3a\n\nhttps://preview.redd.it/c4n0ms032a1g1.png?width=1088&amp;format=png&amp;auto=webp&amp;s=4c124b65440a28c118b9d8a714f0da7618eaf4aa\n\nhttps://preview.redd.it/h2scb4072a1g1.png?width=1226&amp;format=png&amp;auto=webp&amp;s=7fbc4d224122903a737d9f9b4ed0c2092e03ce72\n\n  \nI'm being charge for 40$ limit overage while having my credit balance from my referral .  \nThe support is to",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ox6p07/being_charge_for_all_limit_overage_while_having/",
+    "timestamp": "2025-11-14T19:54:09.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owv5gf",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "how to set up custom models with Groq in &lt;1 min\n\nhttps://reddit.com/link/1owv5gf/video/vfpxccohu71g1/player\n\nvideo above  \ndocs: [https://docs.factory.ai/cli/byok/groq](https://docs.factory.ai/cli/byok/groq)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owv5gf/how_to_set_up_custom_models_with_groq_in_1_min/",
+    "timestamp": "2025-11-14T12:27:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owv5gf",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "how to set up custom models with Groq in &lt;1 min\n\nhttps://reddit.com/link/1owv5gf/video/vfpxccohu71g1/player\n\nvideo above  \ndocs: [https://docs.factory.ai/cli/byok/groq](https://docs.factory.ai/cli/byok/groq)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owv5gf/how_to_set_up_custom_models_with_groq_in_1_min/",
+    "timestamp": "2025-11-14T12:27:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owpdgs",
+    "source": "reddit",
+    "author": "Informal-Spinach-345",
+    "content": "Todo list with minimax m2\n\nAny one else have issues with Minimax M2 on vllm not being able to properly use the todo list? \n\n  \nThis is what the output looks like, it eventually moves on but I never see a todo list:\n\n   Let me create a comprehensive todo list that captures all the remaining work.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;I need to fix the todo format - the todos parameter should be an array, not an object.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;Let me check the todo structure more carefully. Looking",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owpdgs/todo_list_with_minimax_m2/",
+    "timestamp": "2025-11-14T06:41:19.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 8,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owpdgs",
+    "source": "reddit",
+    "author": "Informal-Spinach-345",
+    "content": "Todo list with minimax m2\n\nAny one else have issues with Minimax M2 on vllm not being able to properly use the todo list? \n\n  \nThis is what the output looks like, it eventually moves on but I never see a todo list:\n\n   Let me create a comprehensive todo list that captures all the remaining work.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;I need to fix the todo format - the todos parameter should be an array, not an object.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;Let me check the todo structure more carefully. Looking",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owpdgs/todo_list_with_minimax_m2/",
+    "timestamp": "2025-11-14T06:41:19.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 8,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+>>>>>>> Stashed changes
     "id": "reddit_1owbvoj",
     "source": "reddit",
     "author": "bentossell",
@@ -465,6 +937,32 @@
     "metadata": {
       "score": 8,
       "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owbvoj",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "How should we post changelogs here?\n\nhey, i'm ben - dev rel at factory. you may have seen me answering comments.\n\nwe have a changelog now but has like 4/5 updates a week. its automated as a bot in our discord channel. \n\nshould we add anything here? if so, what format is best?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
+    "timestamp": "2025-11-13T20:22:54.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow4spq",
+    "source": "reddit",
+    "author": "Rough-Aioli-7829",
+    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
+    "timestamp": "2025-11-13T15:58:33.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -508,6 +1006,19 @@
     }
   },
   {
+    "id": "github_issue_348",
+    "source": "github",
+    "author": "aranej",
+    "content": "[Issue] 🚀 Feature Request: Native Task Queue Support for Interactive Mode\n\n## 📋 Summary\n\nRequest for **native task queuing functionality** in Droid CLI interactive mode, allowing users to queue multiple prompts for sequential or parallel processing without waiting for each task to complete before submitting the next one.\n\n## 🎯 Problem Statement\n\n### Current User Experience (Frustrating)\n\n```bash\n> /sys-info is running...\n[User types: /init-prompt]\n❌ Command doesn't register - must wait for completion\n\n[After 30 seconds...]\n✅ /sys-info completed\n\n[User must now re-typ",
+    "url": "https://github.com/Factory-AI/factory/issues/348",
+    "timestamp": "2025-11-13T09:01:07Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 348
+    }
+  },
+  {
     "id": "github_issue_345",
     "source": "github",
     "author": "xianzou",
@@ -518,6 +1029,61 @@
       "type": "issue",
       "labels": [],
       "number": 345
+    }
+  },
+  {
+<<<<<<< Updated upstream
+=======
+    "id": "github_issue_345",
+    "source": "github",
+    "author": "xianzou",
+    "content": "[Issue] Running dorid in PowerShell produces no output\n\n<img width=\"1113\" height=\"626\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0bddc80a-404e-4fee-9575-96c0cdc89b94\" />\n\nRunning dorid in PowerShell produces no output，I have already installed dorid.",
+    "url": "https://github.com/Factory-AI/factory/issues/345",
+    "timestamp": "2025-11-13T01:46:56Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 345
+    }
+  },
+  {
+    "id": "reddit_1ovbn7q",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
+    "timestamp": "2025-11-12T17:34:16.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ovbn7q",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
+    "timestamp": "2025-11-12T17:34:16.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+>>>>>>> Stashed changes
+    "id": "github_issue_341",
+    "source": "github",
+    "author": "580ai",
+    "content": "[Issue] droid：It seems that the maximum output tokens will not be outputted anymore once they reach 8192\n\nIt will suddenly terminate and then remain stuck without returning any content until the maximum timeout is reached",
+    "url": "https://github.com/Factory-AI/factory/issues/341",
+    "timestamp": "2025-11-12T08:46:22Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 341
     }
   },
   {
@@ -547,6 +1113,19 @@
     }
   },
   {
+    "id": "github_issue_340",
+    "source": "github",
+    "author": "korallis",
+    "content": "[Issue] Multi Agent Issues in regards to aggrigated RPC\n\n 1. Describe the behavior\n     •  When you invoke multiple tools via the parallel wrapper, you get no output until every sub-task completes.\n     •  If any sub-task fails, the entire batch is reported as failed even though the other tasks actually ran.\n\n   2. Explain why it’s a problem\n     •  You can’t see partial results or errors in real time.\n     •  One failing branch masks useful output from the others, slowing triage and forcing retries.\n\n   3. Request the remedy\n     •  Ask for streaming",
+    "url": "https://github.com/Factory-AI/factory/issues/340",
+    "timestamp": "2025-11-11T17:16:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 340
+    }
+  },
+  {
     "id": "github_issue_337",
     "source": "github",
     "author": "etwk",
@@ -557,6 +1136,32 @@
       "type": "issue",
       "labels": [],
       "number": 337
+    }
+  },
+  {
+    "id": "github_issue_337",
+    "source": "github",
+    "author": "etwk",
+    "content": "[Issue] Make Copy Smooth\n\nDroid UI looks nice, but when I try to copy text to a editor to work further on it, there are some formatting issues:\n  - Frequent un-intended line breaks\n  - Empty space before each lines\n\nCan we make the transaction more smooth? It'll be huge UX enhancement.",
+    "url": "https://github.com/Factory-AI/factory/issues/337",
+    "timestamp": "2025-11-10T23:07:38Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 337
+    }
+  },
+  {
+    "id": "github_issue_335",
+    "source": "github",
+    "author": "etwk",
+    "content": "[Issue] Subagent No Output\n\nTesting some subagents with the builtin models, the subagents seems running well but the main process never gets the output from the subagent task.\n\nUsing latest Droid (0.22.14) with the GPT-5-Codex model, getting this result:\n```\nAttempted to invoke the available subagents (code-reviewer, debugger) with simple greeting prompts, but each Task call returned “No output received from task subagent,” so the requested “hi” response could not be produced.\n```",
+    "url": "https://github.com/Factory-AI/factory/issues/335",
+    "timestamp": "2025-11-10T12:55:34Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 335
     }
   },
   {
@@ -586,6 +1191,32 @@
     }
   },
   {
+    "id": "github_issue_334",
+    "source": "github",
+    "author": "etwk",
+    "content": "[Issue] droid exec will change default model for the main process\n\nCurrently droid exec will change default model for the main process, maybe we should change this partly because of convenience, and partly because of process separation, not letting 2 unrelated process interfering in any possible way.",
+    "url": "https://github.com/Factory-AI/factory/issues/334",
+    "timestamp": "2025-11-10T12:42:52Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 334
+    }
+  },
+  {
+    "id": "github_issue_331",
+    "source": "github",
+    "author": "spionkind",
+    "content": "[Issue] Issue with GPT5 Codex and Custom Model on Droid\n\n Hi,\n\nwhenever I chosed GPT5-codex model it show this error message:\nError: 400 Invalid 'tools[40].name': string too long. Expected a string with maximum length 64, but got a string with length 66 instead.\n\nand when I try with custom model (qwen3 coder), it shows this:\nError: 400 <400> InternalError.Algo.InvalidParameter: The length of the tool name cannot exceed 64.\n\nDroid still works well with other model suchas sonnet 4.5, glm 4.6\n\nPlease help me on this issues\n\nBest regards,\nGiang",
+    "url": "https://github.com/Factory-AI/factory/issues/331",
+    "timestamp": "2025-11-09T16:19:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 331
+    }
+  },
+  {
     "id": "github_issue_331",
     "source": "github",
     "author": "spionkind",
@@ -609,6 +1240,45 @@
       "type": "issue",
       "labels": [],
       "number": 330
+    }
+  },
+  {
+    "id": "github_issue_330",
+    "source": "github",
+    "author": "olsavmic",
+    "content": "[Issue] Feature Request: Implement Statusline Support\n\n  Add support for customizable statuslines in Factory's CLI interface, as documented in [Claude Code's statusline\n  feature](https://code.claude.com/docs/en/statusline).\n\n  Motivation\n\n  Statuslines provide persistent contextual information at the bottom of the interface, which is incredibly helpful for:\n   •  Git awareness: Immediately see the current branch without running git status\n   •  Directory context: Know your current working directory at a glance\n   •  Session info: Display the curren",
+    "url": "https://github.com/Factory-AI/factory/issues/330",
+    "timestamp": "2025-11-09T11:34:21Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 330
+    }
+  },
+  {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "github_issue_329",
+    "source": "github",
+    "author": "TheSingular",
+    "content": "[Issue] Spec mode hides reasoning level effort in model name\n\nWhen using the spec mode, you cannot see the reasoning effort of the model you have selected (if it supports reasoning).\nYou can still change the reasoning effort via the tab key, but you cannot see its effect at all. Other modes properly display the reasoning effort in parentheses.\n\nHow to reproduce:\n1. Use model Sonnet 4.5 with low reasoning effort, do not choose a separate model for the spec model.\n2. Toggle to spec mode via ctrl + t.\n3. Observe the parentheses containing the reasoning effort",
+    "url": "https://github.com/Factory-AI/factory/issues/329",
+    "timestamp": "2025-11-09T09:12:43Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 329
     }
   },
   {
@@ -638,6 +1308,19 @@
     }
   },
   {
+    "id": "github_issue_328",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] custom model support reasoning\n\n",
+    "url": "https://github.com/Factory-AI/factory/issues/328",
+    "timestamp": "2025-11-08T15:47:20Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 328
+    }
+  },
+  {
     "id": "github_issue_325",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -651,6 +1334,22 @@
     }
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": "github_issue_325",
+    "source": "github",
+    "author": "Evan-Kim2028",
+    "content": "[Issue] Task subagent runs tools but returns no final message (intermittent)\n\nSummary\n- Intermittently, Task executions succeed and run tools (Grep/Read/Glob/TodoWrite) but no final assistant message is emitted, and the wrapper surfaces: \"No output received from task subagent.\" This blocks using dbt droids for reviews.\n\nEnvironment\n- OS: macOS darwin 24.6.0\n- Factory CLI/session: latest as of 2025-11-07\n- Model: OpenAI GPT-5\n- gh: 2.80.0\n\nReproduction (today)\n1) Launch Task with subagent_type=\"dbt-quality-droid\" on local repo /Users/evandekim/Documents/spellbook (branch: ",
+    "url": "https://github.com/Factory-AI/factory/issues/325",
+    "timestamp": "2025-11-07T21:38:02Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 325
+    }
+  },
+  {
+>>>>>>> Stashed changes
     "id": "reddit_1or5cow",
     "source": "reddit",
     "author": "Durst123",
@@ -674,6 +1373,32 @@
       "type": "issue",
       "labels": [],
       "number": 321
+    }
+  },
+  {
+    "id": "github_issue_321",
+    "source": "github",
+    "author": "nilzzzzzz",
+    "content": "[Issue] Droid exec --output-format debug is not returning the result\n\nWe rely heavily on `droid exec` but since one of the last updates there is a huge issue. Running `droid exec --output-format debug` does not return anymore the result but just the debug outputs before:\n\nReproduction:\n\n```\ndroid exec \"which services does the backend have\" --output-format debug\n\n{\"type\":\"system\",\"subtype\":\"init\",\"cwd\":\"/Users/nilz/Repositories/awork-backend\",\"session_id\":\"273c1ae2-ffec-4ef5-b748-e04d713000fa\",\"tools\":[\"Read\",\"LS\",\"Execute\",\"Edit\",\"ApplyPatch\",\"Grep\",\"Glob\",\"Create",
+    "url": "https://github.com/Factory-AI/factory/issues/321",
+    "timestamp": "2025-11-07T12:11:44Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 321
+    }
+  },
+  {
+    "id": "github_issue_319",
+    "source": "github",
+    "author": "Bladed3d",
+    "content": "[Issue] \"Endless Processing\" When using custom model openrouter: Grok-Code-Fast-1\n\nWhen using custom model openrouter: Grok-Code-Fast-1 after giving it a task, Droid will keep working on that until I press ESC then display context it has been building up. Upon further review, it seems that Droid using Grok is having a conversation with itself, forgetting to include me and wait for my actual participation:\n\n(This is just some of the context...)\n\nConfirming Dashboard Functionality\n   •  The dashboard no longer shows duplicates, displaying only the current session's 1\n      root ",
+    "url": "https://github.com/Factory-AI/factory/issues/319",
+    "timestamp": "2025-11-06T20:19:04Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 319
     }
   },
   {
@@ -729,6 +1454,84 @@
     }
   },
   {
+    "id": "github_discussion_309",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] Droid CLI: configurable timeouts per mcp server\n\n**Motivation**: I use a 'Language Server Protocol' mcp for adding tools to query symbols and find_usage and such. But on large projects and during first-time use they can take quite some time before giving responses; causing timeouts in droid cli. If I could configure a larger timeout for this specific mcp server it could work better.",
+    "url": "https://github.com/Factory-AI/factory/discussions/309",
+    "timestamp": "2025-11-04T10:48:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 309
+    }
+  },
+  {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1om3tvt",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
+    "timestamp": "2025-11-02T00:38:45.000Z",
+    "metadata": {
+      "score": 9,
+      "num_comments": 13,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oljgx4",
+    "source": "reddit",
+    "author": "steve1215",
+    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
+    "timestamp": "2025-11-01T09:23:30.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -739,6 +1542,32 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
+    }
+  },
+  {
+    "id": "github_discussion_240",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Mini Changelog\n\n<img width=\"686\" height=\"397\" alt=\"Screenshot 2025-10-22 at 14 58 16\" src=\"https://github.com/user-attachments/assets/0288d87c-55b1-44b4-91cb-33d745fc052b\" />\r\n",
+    "url": "https://github.com/Factory-AI/factory/discussions/240",
+    "timestamp": "2025-10-23T09:45:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 240
+    }
+  },
+  {
+    "id": "github_discussion_225",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] Change Log\n\nCan we have more updated change logs somewhere if possible. \r\n\r\nSuccessfully updated to version 0.21.5 Just saw this ",
+    "url": "https://github.com/Factory-AI/factory/discussions/225",
+    "timestamp": "2025-10-21T09:52:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 225
     }
   },
   {
@@ -768,6 +1597,19 @@
     }
   },
   {
+    "id": "github_discussion_223",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] [Discussion] Droid Exec Headless Streaming with output format (JSON)\n\nDroid Exec (Headless)\r\nIt make sense to use --output-format json if you're running a headless droid exec as that's the best way to programmatically manage the headless droid. The issue for me is i can't see the process and potentially stop it without --output-format debug and i can't run both output format. \r\n\r\nShould we consider having a different parameter for \"streaming\" , it's not so much for debugging but more to manage the task itself. ",
+    "url": "https://github.com/Factory-AI/factory/discussions/223",
+    "timestamp": "2025-10-21T02:46:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 223
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -778,6 +1620,32 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "github_discussion_214",
+    "source": "github",
+    "author": "0xStuart",
+    "content": "[Discussion] JetBrains Plugin\n\nThe documentation says there is a JetBrains Plugin in the marketplace, but I can't find it.",
+    "url": "https://github.com/Factory-AI/factory/discussions/214",
+    "timestamp": "2025-10-19T19:55:35Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 214
+    }
+  },
+  {
+    "id": "github_discussion_164",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Discussion] Droid Exec - custom models supported?\n\ncan we have support for custom models in droid exec? even if it were just simple endpoint/key.",
+    "url": "https://github.com/Factory-AI/factory/discussions/164",
+    "timestamp": "2025-10-10T18:34:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 164
     }
   },
   {
@@ -807,6 +1675,19 @@
     }
   },
   {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    }
+  },
+  {
     "id": "github_discussion_108",
     "source": "github",
     "author": "factory-ben",
@@ -817,6 +1698,32 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 108
+    }
+  },
+  {
+    "id": "github_discussion_108",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Release v1.3.220\n\n---\r\n\r\nThis release brings HTTP MCP server support, a `/compress` command to optimize your context usage and droid exec for CDE.\r\n\r\n---\r\n\r\n## HTTP MCP Server Support\r\n\r\nFactory now supports streamable HTTP-based Model Context Protocol (MCP) servers in addition to stdio-based servers. This enables you to connect to MCP servers running as web services, making it easier to integrate with cloud-hosted tools and services.\r\n\r\nWhen adding an MCP server, Factory automatically detects whether it's HTTP o",
+    "url": "https://github.com/Factory-AI/factory/discussions/108",
+    "timestamp": "2025-10-03T20:21:56Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 108
+    }
+  },
+  {
+    "id": "github_discussion_99",
+    "source": "github",
+    "author": "Evan-Kim2028",
+    "content": "[Discussion] Droid source code\n\nIs droid closed source? I am not able to find any code. I would like to be able to see how the droid tools are implemented if the code is available to see",
+    "url": "https://github.com/Factory-AI/factory/discussions/99",
+    "timestamp": "2025-10-02T17:51:27Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 99
     }
   },
   {
@@ -846,6 +1753,19 @@
     }
   },
   {
+    "id": "github_discussion_95",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.16.0 Release Notes\n\n- Sonnet 4.5 model is now available\r\n- Clear chat input using double ESC or Ctrl-C\r\n- User-configured allow and deny list of commands to execute\r\n- Option to disable droid commit co-authoring\r\n- Auth using FACTORY_API_KEY\r\n- Fixed UI bugs due to resizing",
+    "url": "https://github.com/Factory-AI/factory/discussions/95",
+    "timestamp": "2025-10-01T20:05:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 95
+    }
+  },
+  {
     "id": "github_discussion_92",
     "source": "github",
     "author": "msneijders",
@@ -856,6 +1776,32 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 92
+    }
+  },
+  {
+    "id": "github_discussion_92",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] MCP tools filtering\n\nI would like to configure exactly what tools of a MCP server should be made available.\r\n\r\nMotivation: MCP servers with overlapping functionality and too many unneeded tools is confusing the models.",
+    "url": "https://github.com/Factory-AI/factory/discussions/92",
+    "timestamp": "2025-10-01T09:07:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 92
+    }
+  },
+  {
+    "id": "github_discussion_82",
+    "source": "github",
+    "author": "mweichert",
+    "content": "[Discussion] Web API?\n\nHi there! Is there a web API to create and manage sessions?",
+    "url": "https://github.com/Factory-AI/factory/discussions/82",
+    "timestamp": "2025-09-29T13:16:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 82
     }
   },
   {
@@ -885,6 +1831,19 @@
     }
   },
   {
+    "id": "github_discussion_72",
+    "source": "github",
+    "author": "rubendn",
+    "content": "[Discussion] Droid selection in CLI?\n\nIs there a way to use one of the specialized Droids (Product, Tutorial, etc) via the CLI?  I don't see a way to select in the slash commands.\r\n\r\nAlso, is there a way on Windows to select a local workspace path besides ~\\?\r\n\r\nThanks!",
+    "url": "https://github.com/Factory-AI/factory/discussions/72",
+    "timestamp": "2025-09-29T05:17:49Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 72
+    }
+  },
+  {
     "id": "github_discussion_66",
     "source": "github",
     "author": "factory-ben",
@@ -895,6 +1854,32 @@
       "type": "discussion",
       "category": "Show + tell",
       "number": 66
+    }
+  },
+  {
+    "id": "github_discussion_66",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] 2 new community builds: use claude/codex max subscriptions with droid\n\n- [Factory CLI with ChatGPT Codex / Claude subscription via CLIProxyAPI](https://gist.github.com/chandika/c4b64c5b8f5e29f6112021d46c159fdd) - Guide to run Factory CLI against Claude Code Max or ChatGPT Codex through CLIProxyAPI by [chandika](https://github.com/chandika)\r\n- [Factory CLI with Claude subscription via CLIProxyAPI](https://gist.github.com/ben-vargas/9f1a14ac5f78d10eba56be437b7c76e5) - Setup instructions for using Factory CLI with Claude Code Max through CLIProxyAPI by [ben-vargas](ht",
+    "url": "https://github.com/Factory-AI/factory/discussions/66",
+    "timestamp": "2025-09-27T19:15:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Show + tell",
+      "number": 66
+    }
+  },
+  {
+    "id": "github_discussion_65",
+    "source": "github",
+    "author": "jimkyndemeyer",
+    "content": "[Discussion] BYOK with Anthropic models on Amazon Bedrock\n\nWould be great to have the option of using Amazon Bedrock for Anthropic models with BYOK.\r\n\r\nAnthropic has official SDKs for Bedrock, but the model env config is a bit different:\r\n- AWS region\r\n- Access key id\r\n- Secret access key",
+    "url": "https://github.com/Factory-AI/factory/discussions/65",
+    "timestamp": "2025-09-27T09:46:55Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 65
     }
   },
   {
@@ -924,6 +1909,19 @@
     }
   },
   {
+    "id": "github_discussion_59",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] #1 on Terminal Bench\n\n<img width=\"1582\" height=\"972\" alt=\"Screenshot 2025-09-25 at 17 15 56\" src=\"https://github.com/user-attachments/assets/9e9c80b6-825c-41cc-b8c7-236b21e3f61c\" />\r\n\r\nRead how we did it: https://factory.ai/news/terminal-bench",
+    "url": "https://github.com/Factory-AI/factory/discussions/59",
+    "timestamp": "2025-09-25T19:22:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 59
+    }
+  },
+  {
     "id": "github_discussion_32",
     "source": "github",
     "author": "factory-ben",
@@ -934,6 +1932,32 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 32
+    }
+  },
+  {
+    "id": "github_discussion_32",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.7.0 Release Notes\n\nCLI Release (0.7.0)\r\n\r\n- Autonomy level selection: Users can now select any preferred autonomy level when confirming the ExitSpec tool\r\n- Claude reasoning support: Added support for Claude's reasoning capabilities\r\n- Session resumption: Users can now resume existing sessions when operating in Exec Mode\r\n- Image reading capabilities: The CLI can now read and process images",
+    "url": "https://github.com/Factory-AI/factory/discussions/32",
+    "timestamp": "2025-09-19T20:15:48Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 32
+    }
+  },
+  {
+    "id": "github_discussion_25",
+    "source": "github",
+    "author": "DannyAziz",
+    "content": "[Discussion] Change model even if I've already written a prompt out\n\nSometimes I write a message, then realise I want to drop down to Sonnet, and I have to delete my message to hit the slash command. I wish there was a way to do this without deleting everything.",
+    "url": "https://github.com/Factory-AI/factory/discussions/25",
+    "timestamp": "2025-09-16T22:58:36Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 25
     }
   },
   {
