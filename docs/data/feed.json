@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1990835612237132268",
+    "source": "twitter",
+    "author": "Klaudioz",
+    "content": "Testing Gemini 3.0 Pro now with @FactoryAI droid 🔥 https://t.co/GGbIfsg2tG",
+    "url": "https://x.com/Klaudioz/status/1990835612237132268",
+    "timestamp": "2025-11-18T17:32:52.000Z",
+    "metadata": {
+      "conversation_id": "1990835612237132268",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990835307302752385",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@arimedai @FactoryAI Not yet. Even with my BYOM glm-4.6, it works quite well",
+    "url": "https://x.com/bradvangelder/status/1990835307302752385",
+    "timestamp": "2025-11-18T17:31:39.000Z",
+    "metadata": {
+      "conversation_id": "1990835307302752385",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990834890837782911",
+    "source": "twitter",
+    "author": "arimedai",
+    "content": "@bradvangelder @FactoryAI Felt the same. Control is everything. Hit any limits on complex projects yet?",
+    "url": "https://x.com/arimedai/status/1990834890837782911",
+    "timestamp": "2025-11-18T17:30:00.000Z",
+    "metadata": {
+      "conversation_id": "1990834890837782911",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990834640874021007",
     "source": "twitter",
     "author": "5aikat",
