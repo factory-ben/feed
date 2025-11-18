@@ -58,7 +58,7 @@ Update the `ACCESS_TOKEN_HASH` constant in `public/index.html` with the output.
 ## Repository Structure
 
 ```
-/Users/bentossell/repos/ccc/
+./
 ├── .github/
 │   └── workflows/
 │       └── scrape-feeds.yml    # GitHub Action (runs every 10 min)
