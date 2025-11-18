@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990671815383851458",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "@tomosman @warpdotdev @cursor_ai @FactoryAI Why use warp over factory droid?",
+    "url": "https://x.com/captaink99/status/1990671815383851458",
+    "timestamp": "2025-11-18T06:42:00.000Z",
+    "metadata": {
+      "conversation_id": "1990671815383851458",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990661475333980535",
     "source": "twitter",
     "author": "riley_ngg",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990563324506091923",
-    "source": "twitter",
-    "author": "caleyhui",
-    "content": "Super frustrated but pushing through.\nGot further along building out a web and iOS app using @genspark_ai then I had using @boltdotnew  or @Replit but now having issues with @RevenueCat.  Once I get that sorted, looking forward to trying @FactoryAI to check the code for bugs.",
-    "url": "https://x.com/caleyhui/status/1990563324506091923",
-    "timestamp": "2025-11-17T23:30:54.000Z",
-    "metadata": {
-      "conversation_id": "1990563324506091923",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
