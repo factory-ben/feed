@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990784618589810897",
+    "source": "twitter",
+    "author": "nilag_dev",
+    "content": "@iannuttall @FactoryAI Imagine this in droid insta ultra plan purchase haha",
+    "url": "https://x.com/nilag_dev/status/1990784618589810897",
+    "timestamp": "2025-11-18T14:10:14.000Z",
+    "metadata": {
+      "conversation_id": "1990784618589810897",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990783609591246921",
+    "source": "twitter",
+    "author": "stnkvcs",
+    "content": "@iannuttall @FactoryAI I was JUST reading their docs and it seems Gemini is BYOK only. @FactoryAI why?? I was saving 40M tokens just for Gemini 3 lol",
+    "url": "https://x.com/stnkvcs/status/1990783609591246921",
+    "timestamp": "2025-11-18T14:06:14.000Z",
+    "metadata": {
+      "conversation_id": "1990783609591246921",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990781410509262929",
     "source": "twitter",
     "author": "iannuttall",
