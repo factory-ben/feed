@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1990810856095899749",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "@bentossell @FactoryAI I just saw it today after using it for months. It would’ve helped me tremendously if I’d known this a couple of weeks ago.",
+    "url": "https://x.com/nathanpareo/status/1990810856095899749",
+    "timestamp": "2025-11-18T15:54:30.000Z",
+    "metadata": {
+      "conversation_id": "1990810856095899749",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990810250270622183",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@andreihasna @iannuttall @FactoryAI try 10m tokens on us free and see for yourself 😊",
+    "url": "https://x.com/bentossell/status/1990810250270622183",
+    "timestamp": "2025-11-18T15:52:05.000Z",
+    "metadata": {
+      "conversation_id": "1990810250270622183",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990810151322792221",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nathanpareo @FactoryAI 🧠 \n\n(it shows the command if you exit the session too in the cli)",
+    "url": "https://x.com/bentossell/status/1990810151322792221",
+    "timestamp": "2025-11-18T15:51:42.000Z",
+    "metadata": {
+      "conversation_id": "1990810151322792221",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990810008427151561",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MirAI_Newz @iannuttall @FactoryAI 👀",
+    "url": "https://x.com/bentossell/status/1990810008427151561",
+    "timestamp": "2025-11-18T15:51:08.000Z",
+    "metadata": {
+      "conversation_id": "1990810008427151561",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990807011768828318",
     "source": "twitter",
     "author": "EngrSARFRAZawan",
