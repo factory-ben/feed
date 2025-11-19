@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991066008073748521",
+    "source": "twitter",
+    "author": "thevibecodr",
+    "content": "@FactoryAI I asked the exact same task to Gemini CLI vs Droid CLI, both with Gemini-3-Pro: Droid took over 50 minutes, Gemini took 4 minutes. Is that normal or am I using it wrong? https://t.co/tviVxjbhak",
+    "url": "https://x.com/thevibecodr/status/1991066008073748521",
+    "timestamp": "2025-11-19T08:48:23.000Z",
+    "metadata": {
+      "conversation_id": "1991066008073748521",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991064895303942588",
+    "source": "twitter",
+    "author": "bloomindesignim",
+    "content": "@bentossell @hightbunker @FactoryAI We need a 400. 200 is too small for 1 person but 2000 is extreme.",
+    "url": "https://x.com/bloomindesignim/status/1991064895303942588",
+    "timestamp": "2025-11-19T08:43:57.000Z",
+    "metadata": {
+      "conversation_id": "1991064895303942588",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991063028154913134",
     "source": "twitter",
     "author": "aliouftw",
