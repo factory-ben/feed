@@ -1,5 +1,48 @@
 [
   {
+    "id": "github_issue_390",
+    "source": "github",
+    "author": "ajdiyassin",
+    "content": "[Issue] GPT-5.1-Codex-Max\n\nWe are spoiled lol",
+    "url": "https://github.com/Factory-AI/factory/issues/390",
+    "timestamp": "2025-11-19T19:41:53Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 390
+    }
+  },
+  {
+    "id": "twitter_1991229498235244916",
+    "source": "twitter",
+    "author": "unethicalapps",
+    "content": "@legreenois @makerfounder @FactoryAI same here, also dozens of agent crashes and thinking errrors?",
+    "url": "https://x.com/unethicalapps/status/1991229498235244916",
+    "timestamp": "2025-11-19T19:38:02.000Z",
+    "metadata": {
+      "conversation_id": "1991229498235244916",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991229099516252538",
+    "source": "twitter",
+    "author": "unethicalapps",
+    "content": "@makerfounder @FactoryAI how was your antigravity experience?",
+    "url": "https://x.com/unethicalapps/status/1991229099516252538",
+    "timestamp": "2025-11-19T19:36:27.000Z",
+    "metadata": {
+      "conversation_id": "1991229099516252538",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991228046347501592",
     "source": "twitter",
     "author": "Math4Good",
