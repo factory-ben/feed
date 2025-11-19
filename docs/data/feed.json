@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_1991063028154913134",
+    "source": "twitter",
+    "author": "aliouftw",
+    "content": "@jcurtis @FactoryAI really curious about this, I'm also researching how to make something similar for my workflow. would love to take a look when you have something to share!",
+    "url": "https://x.com/aliouftw/status/1991063028154913134",
+    "timestamp": "2025-11-19T08:36:32.000Z",
+    "metadata": {
+      "conversation_id": "1991063028154913134",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991061884716700063",
+    "source": "twitter",
+    "author": "rudrank",
+    "content": "@lkuczborski I also like @FactoryAI; so many options 🫠",
+    "url": "https://x.com/rudrank/status/1991061884716700063",
+    "timestamp": "2025-11-19T08:32:00.000Z",
+    "metadata": {
+      "conversation_id": "1991061884716700063",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_386",
+    "source": "github",
+    "author": "etwk",
+    "content": "[Issue] Option to Disable Auto Update\n\nSuggest add one setting to disable auto-update completely and one option to skip it during `droid exec`:\n  - Avoid unnecessary latency and requests.\n  - Prevent bug causing Droid stuck at startup on `Checking for updates...`\n  - Sometimes we may use `droid exec` high frequency on one same machine, not efficient to check update every time",
+    "url": "https://github.com/Factory-AI/factory/issues/386",
+    "timestamp": "2025-11-19T08:23:32Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 386
+    }
+  },
+  {
+    "id": "twitter_1991059534979174632",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "@GergelyOrosz That’s why I’ll stick with @FactoryAI",
+    "url": "https://x.com/captaink99/status/1991059534979174632",
+    "timestamp": "2025-11-19T08:22:39.000Z",
+    "metadata": {
+      "conversation_id": "1991059534979174632",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991059464154468665",
     "source": "twitter",
     "author": "monali_dambre",
