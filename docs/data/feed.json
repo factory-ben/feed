@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1991055281095405734",
+    "source": "twitter",
+    "author": "SaloniRakheja",
+    "content": "@NathanLands @FactoryAI Just what I was looking for today. Tried a bunch of design tools, let's see what FactoryAI does..",
+    "url": "https://x.com/SaloniRakheja/status/1991055281095405734",
+    "timestamp": "2025-11-19T08:05:45.000Z",
+    "metadata": {
+      "conversation_id": "1991055281095405734",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991053372007592078",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@matanSF @FactoryAI will get back at you!",
+    "url": "https://x.com/makerfounder/status/1991053372007592078",
+    "timestamp": "2025-11-19T07:58:10.000Z",
+    "metadata": {
+      "conversation_id": "1991053372007592078",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991052884214231201",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@makerfounder @FactoryAI Let me know what you think!",
+    "url": "https://x.com/matanSF/status/1991052884214231201",
+    "timestamp": "2025-11-19T07:56:14.000Z",
+    "metadata": {
+      "conversation_id": "1991052884214231201",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991052414917476509",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "Yesterday was all about Antigravity, today I'm testing Gemini pro 3 in @FactoryAI  Droid.\n\nThey just added it to their list of models, will be testing it out today to see if I keep using Droid or move to Antigravity as my daily driver.\n\nit's been my go to CLI coding agent for the past month since their launch, let's see how it does with Gemini",
+    "url": "https://x.com/makerfounder/status/1991052414917476509",
+    "timestamp": "2025-11-19T07:54:22.000Z",
+    "metadata": {
+      "conversation_id": "1991052414917476509",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991049936310530294",
     "source": "twitter",
     "author": "NathanLands",
