@@ -1,5 +1,93 @@
 [
   {
+    "id": "twitter_1991203063781007863",
+    "source": "twitter",
+    "author": "xSAVIKx",
+    "content": "@JohnONolan @FactoryAI Feels like a modern alternative to running DELETE in SQL with no where clause 🙂",
+    "url": "https://x.com/xSAVIKx/status/1991203063781007863",
+    "timestamp": "2025-11-19T17:52:59.000Z",
+    "metadata": {
+      "conversation_id": "1991203063781007863",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991202740601507889",
+    "source": "twitter",
+    "author": "rvm0n_",
+    "content": "i love @vercel \ni love @cursor_ai \ni love @v0 \ni love @shadcn \ni love @tembo \ni love @elevenlabsio \ni love @FactoryAI \ni love @nextjs \ni love @mintlify \ni love @convex \ni love @opencode \ni love @helixdb \ni love @supermemory",
+    "url": "https://x.com/rvm0n_/status/1991202740601507889",
+    "timestamp": "2025-11-19T17:51:42.000Z",
+    "metadata": {
+      "conversation_id": "1991202740601507889",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991202416784560490",
+    "source": "twitter",
+    "author": "JohnONolan",
+    "content": "@xSAVIKx @FactoryAI good way to learn data restoration I guess 😅",
+    "url": "https://x.com/JohnONolan/status/1991202416784560490",
+    "timestamp": "2025-11-19T17:50:25.000Z",
+    "metadata": {
+      "conversation_id": "1991202416784560490",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1p1ehzk",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "v0.26.7 changelog - custom models in subagents, mcp image support, /sessions linked to directories\n\n**New features**\n\n• Directory-Specific Sessions: Sessions are now stored per directory and automatically switch to the correct working directory when loaded. The /sessions command shows only sessions created in your current directory plus favorited sessions\n\n• MCP Image Support: MCP tools can now return images that are sent to the LLM for analysis\n\n• Custom Models for Subdroids: Subdroids can now use custom models instead of inheriting from parent session\n\n\n\n**Bug fixes**\n\n• Fixed console output",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p1ehzk/v0267_changelog_custom_models_in_subagents_mcp/",
+    "timestamp": "2025-11-19T17:50:09.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1991202105839784231",
+    "source": "twitter",
+    "author": "xSAVIKx",
+    "content": "@JohnONolan @FactoryAI I learned that big query had point in time recovery in a similar way. \nAI agent used my local Google credentials when running a test instead of connecting to a test container. And happily deleted a whole dataset 😀",
+    "url": "https://x.com/xSAVIKx/status/1991202105839784231",
+    "timestamp": "2025-11-19T17:49:11.000Z",
+    "metadata": {
+      "conversation_id": "1991202105839784231",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991202004480455140",
+    "source": "twitter",
+    "author": "connortbot",
+    "content": "@bentossell @FactoryAI Like you guys hit a limit cause I was using you? But tbh it completed the turn so I think it was just bad model performance",
+    "url": "https://x.com/connortbot/status/1991202004480455140",
+    "timestamp": "2025-11-19T17:48:47.000Z",
+    "metadata": {
+      "conversation_id": "1991202004480455140",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991198310045045203",
     "source": "twitter",
     "author": "hightbunker",
