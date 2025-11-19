@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991206643367923989",
+    "source": "twitter",
+    "author": "rvm0n_",
+    "content": "@tembo @vercel @cursor_ai @v0 @shadcn @elevenlabsio @FactoryAI @nextjs @mintlify @convex @opencode @helixdb @supermemory there are always ways",
+    "url": "https://x.com/rvm0n_/status/1991206643367923989",
+    "timestamp": "2025-11-19T18:07:13.000Z",
+    "metadata": {
+      "conversation_id": "1991206643367923989",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991206414203920583",
+    "source": "twitter",
+    "author": "yzx396",
+    "content": "@minheo93698092 @FactoryAI Don’t lie, Gemini 3 Pro is NOT as good at tool calling as Sonnet 4.5. Maybe it can be used for planning subagent",
+    "url": "https://x.com/yzx396/status/1991206414203920583",
+    "timestamp": "2025-11-19T18:06:18.000Z",
+    "metadata": {
+      "conversation_id": "1991206414203920583",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991205883246743929",
+    "source": "twitter",
+    "author": "tembo",
+    "content": "@rvm0n_ @vercel @cursor_ai @v0 @shadcn @elevenlabsio @FactoryAI @nextjs @mintlify @convex @opencode @helixdb @supermemory we love you, but how can we be first next time 🙄",
+    "url": "https://x.com/tembo/status/1991205883246743929",
+    "timestamp": "2025-11-19T18:04:12.000Z",
+    "metadata": {
+      "conversation_id": "1991205883246743929",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991203063781007863",
     "source": "twitter",
     "author": "xSAVIKx",
