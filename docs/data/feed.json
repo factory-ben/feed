@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991184735746371714",
+    "source": "twitter",
+    "author": "faizanafzal",
+    "content": "@JohnONolan @FactoryAI I didn't even realise these AI shells could override phpunit configs like that. Running tests on your actual dev DB is honestly the worst case scenario 😅",
+    "url": "https://x.com/faizanafzal/status/1991184735746371714",
+    "timestamp": "2025-11-19T16:40:10.000Z",
+    "metadata": {
+      "conversation_id": "1991184735746371714",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991183269052703003",
+    "source": "twitter",
+    "author": "JosephLGabriele",
+    "content": "@hightbunker @FactoryAI I appreciate your perspective, Emilian.",
+    "url": "https://x.com/JosephLGabriele/status/1991183269052703003",
+    "timestamp": "2025-11-19T16:34:20.000Z",
+    "metadata": {
+      "conversation_id": "1991183269052703003",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991178237565981158",
     "source": "twitter",
     "author": "JohnONolan",
