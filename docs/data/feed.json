@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991102606631149752",
+    "source": "twitter",
+    "author": "towrywang",
+    "content": "@FactoryAI begging, please work on  TUI experience.\nFix this weird issues. Support basic c-f, c-b, c-n, and vim (j,k) on the list. https://t.co/P5w7heN5xk",
+    "url": "https://x.com/towrywang/status/1991102606631149752",
+    "timestamp": "2025-11-19T11:13:48.000Z",
+    "metadata": {
+      "conversation_id": "1991102606631149752",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991102183409094740",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@makerfounder @FactoryAI How did it do?",
+    "url": "https://x.com/bradvangelder/status/1991102183409094740",
+    "timestamp": "2025-11-19T11:12:08.000Z",
+    "metadata": {
+      "conversation_id": "1991102183409094740",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991092663072800976",
     "source": "twitter",
     "author": "5aikat",
