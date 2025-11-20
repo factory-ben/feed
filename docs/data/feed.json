@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991609445282132294",
+    "source": "twitter",
+    "author": "simontheweb",
+    "content": "@EnoReyes @FactoryAI https://t.co/igeTCxDtGe",
+    "url": "https://x.com/simontheweb/status/1991609445282132294",
+    "timestamp": "2025-11-20T20:47:48.000Z",
+    "metadata": {
+      "conversation_id": "1991609445282132294",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991609178209620413",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "That is one of the angles they were using. We didn't want to add too much detail :) \n\nBut I think the interesting / novel stuff here:\n\n1. They reverse engineered *several* popular coding agent tools endpoints + clients\n2. They used this inference for interesting / malicious use cases (including what we suspect is building evals/training data for models)\n3. They were searching for vulns + endpoint data using coding agents (open + closed source) and building their exploits with coding agents\n4. We had to defend with coding agents to keep up",
+    "url": "https://x.com/EnoReyes/status/1991609178209620413",
+    "timestamp": "2025-11-20T20:46:45.000Z",
+    "metadata": {
+      "conversation_id": "1991609178209620413",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991609116679368965",
+    "source": "twitter",
+    "author": "Rs3A2G",
+    "content": "@FactoryAI So factory is owned by anthropic and is now the only other account trying to give anthropic credibility? What state was linked in this one? Let me guess... https://t.co/sejmaDUxH8",
+    "url": "https://x.com/Rs3A2G/status/1991609116679368965",
+    "timestamp": "2025-11-20T20:46:30.000Z",
+    "metadata": {
+      "conversation_id": "1991609116679368965",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991608442012725681",
     "source": "twitter",
     "author": "bentossell",
