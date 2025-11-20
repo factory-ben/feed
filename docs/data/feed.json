@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_402",
+    "source": "github",
+    "author": "ncrimi",
+    "content": "[Issue] Factory Bridge does not connect my local code with Websession\n\nDear all,\n\nWhen I want to connect my websession with the local code, it is not possible.\nI type in the 6 fig code from the web sesh into my factory bridge however it does not recognize a session. I deleted, reinstalled the newest version of the factory bridge. Furthermore, I restarted my computer but it is still not working. Why? Can anyone help out here?\n\nThx and best,\nNic",
+    "url": "https://github.com/Factory-AI/factory/issues/402",
+    "timestamp": "2025-11-20T16:27:04Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 402
+    }
+  },
+  {
     "id": "twitter_1991537147191726105",
     "source": "twitter",
     "author": "MedonB082602",
