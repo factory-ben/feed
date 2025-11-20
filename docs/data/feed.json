@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991417480905207984",
+    "source": "twitter",
+    "author": "mdsiaofficial",
+    "content": "@minheo93698092 @FactoryAI Droid is doing good",
+    "url": "https://x.com/mdsiaofficial/status/1991417480905207984",
+    "timestamp": "2025-11-20T08:05:00.000Z",
+    "metadata": {
+      "conversation_id": "1991417480905207984",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991416772709486783",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@FactoryAI's Droid CLI was running over an hour to iteratively fix an IOS build issue yesterday evening while I was working on a new feature.\n\nThis CLI is changing the game!",
+    "url": "https://x.com/bradvangelder/status/1991416772709486783",
+    "timestamp": "2025-11-20T08:02:12.000Z",
+    "metadata": {
+      "conversation_id": "1991416772709486783",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991416768443937060",
+    "source": "twitter",
+    "author": "mxacod",
+    "content": "@JohnONolan @FactoryAI Shell env variables quietly rewrite your test scripts behind your back.",
+    "url": "https://x.com/mxacod/status/1991416768443937060",
+    "timestamp": "2025-11-20T08:02:10.000Z",
+    "metadata": {
+      "conversation_id": "1991416768443937060",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991410197202653265",
     "source": "twitter",
     "author": "bradvangelder",
