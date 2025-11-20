@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991588232459620449",
+    "source": "twitter",
+    "author": "DrStarson",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI Too many software defined shifts are happening at once: drones are becoming AI driven, cars as well, and the software domain is rapidly shifting from retrieval-based to generative. \n\nThis shift massively balloons the attack surface area!",
+    "url": "https://x.com/DrStarson/status/1991588232459620449",
+    "timestamp": "2025-11-20T19:23:31.000Z",
+    "metadata": {
+      "conversation_id": "1991588232459620449",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991587446124085671",
+    "source": "twitter",
+    "author": "hightbunker",
+    "content": "@orange_boy @bentossell @FactoryAI 🤫🤫🤐📑",
+    "url": "https://x.com/hightbunker/status/1991587446124085671",
+    "timestamp": "2025-11-20T19:20:23.000Z",
+    "metadata": {
+      "conversation_id": "1991587446124085671",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991586172322410581",
     "source": "twitter",
     "author": "ModelYGuy",
