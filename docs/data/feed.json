@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_1991754189488422921",
+    "source": "twitter",
+    "author": "AVGVSTVS96",
+    "content": "@bentossell @FactoryAI @bentossell same issue with Gemini 3.0 Low - Bug Report ID: 87473ef9-2e82-48c1-97c1-40700c8a4751",
+    "url": "https://x.com/AVGVSTVS96/status/1991754189488422921",
+    "timestamp": "2025-11-21T06:22:58.000Z",
+    "metadata": {
+      "conversation_id": "1991754189488422921",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1p2rbdh",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.26.10 Released - MCP Registry Expansion\n\n## New features\n\n* **MCP Registry Expansion** - Added 30+ new MCP server integrations including development tools (Playwright, Braintrust, Honeycomb), databases (Supabase, MongoDB, Prisma, Neon), security scanning (Snyk, Semgrep), and more\n\n## Bug fixes\n\n* Fixed race conditions where model changes mid-turn\n* Fixed bug report command\n* Fixed support for duplicate model IDs in custom model configurations\n* Fix PowerShell command execution on Windows\n\n---\n\n[View full changelog](https://docs.factory",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p2rbdh/factory_cli_v02610_released_mcp_registry_expansion/",
+    "timestamp": "2025-11-21T06:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1991752629182230756",
+    "source": "twitter",
+    "author": "valofpszz",
+    "content": "@FactoryAI this is both so cool and scary",
+    "url": "https://x.com/valofpszz/status/1991752629182230756",
+    "timestamp": "2025-11-21T06:16:46.000Z",
+    "metadata": {
+      "conversation_id": "1991752629182230756",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991752034480189577",
+    "source": "twitter",
+    "author": "rafiulm_",
+    "content": "@bentossell @GoodFarmingAdam @FactoryAI By the way, my viewers really appreciated the 40 million tokens you gave out in a previous tweet😄",
+    "url": "https://x.com/rafiulm_/status/1991752034480189577",
+    "timestamp": "2025-11-21T06:14:24.000Z",
+    "metadata": {
+      "conversation_id": "1991752034480189577",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991746680866353618",
     "source": "twitter",
     "author": "ChickenT1000",
