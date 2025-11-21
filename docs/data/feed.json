@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.95,
+      "reason": "Explicit question directed to FactoryAI asking about preferences",
+      "classifiedAt": "2025-11-21T23:54:46.267Z"
     }
   },
   {
