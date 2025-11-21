@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991813684465950988",
+    "source": "twitter",
+    "author": "sir4K_zen",
+    "content": "@FactoryAI Crazy how these attackers are scaling up! What’s the next step in our defenses?",
+    "url": "https://x.com/sir4K_zen/status/1991813684465950988",
+    "timestamp": "2025-11-21T10:19:23.000Z",
+    "metadata": {
+      "conversation_id": "1991813684465950988",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991811601264246901",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "Hey @FactoryAI @bentossell trying to Droid on mobile with Gemini 3 and not seeing the new models. Does something need to be enabled?  (Tried safari and chrome) https://t.co/xctryuNU5R",
+    "url": "https://x.com/jcurtis/status/1991811601264246901",
+    "timestamp": "2025-11-21T10:11:06.000Z",
+    "metadata": {
+      "conversation_id": "1991811601264246901",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991808619244138608",
     "source": "twitter",
     "author": "bentossell",
