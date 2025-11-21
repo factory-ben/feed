@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2025-11-21T21:09:17.531Z",
+  "tools": {
+    "classify-feed": {
+      "name": "classify-feed",
+      "description": "Batch-classify feed items via droid exec + GLM 4.6 and persist label metadata.",
+      "version": "0.1.0",
+      "entry": "tools/classify-feed/script.js",
+      "hash": "bf774e9ff1e5b51a9c59caad94d15f98e21ec38a890d4449da9c06bbba92c36e",
+      "size": 6761,
+      "args": [
+        "--input <path>",
+        "--output <path>",
+        "--dry-run",
+        "--max-batch <n>",
+        "--label-field <key>",
+        "--stats <path>"
+      ],
+      "env": [
+        "FACTORY_API_KEY",
+        "MODEL_ID",
+        "MODEL_REASONING",
+        "CLASSIFIER_MAX_BATCH"
+      ]
+    }
+  }
+}

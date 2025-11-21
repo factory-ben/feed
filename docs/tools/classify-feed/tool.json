@@ -1,0 +1,19 @@
+{
+  "name": "classify-feed",
+  "description": "Batch-classify feed items via droid exec + GLM 4.6 and persist label metadata.",
+  "version": "0.1.0",
+  "args": [
+    "--input <path>",
+    "--output <path>",
+    "--dry-run",
+    "--max-batch <n>",
+    "--label-field <key>",
+    "--stats <path>"
+  ],
+  "env": [
+    "FACTORY_API_KEY",
+    "MODEL_ID",
+    "MODEL_REASONING",
+    "CLASSIFIER_MAX_BATCH"
+  ]
+}
