@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 1,
+      "reason": "FactoryAI is mentioned but no specific action or sentiment is directed at them",
+      "classifiedAt": "2025-11-21T22:32:32.427Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 1,
+      "reason": "FactoryAI is mentioned in a conversation between users but not the main target",
+      "classifiedAt": "2025-11-21T22:32:32.427Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 1,
+      "reason": "FactoryAI is referenced in ongoing conversation between other users",
+      "classifiedAt": "2025-11-21T22:32:32.427Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 1,
+      "reason": "FactoryAI is mentioned in conversation between other users, no direct engagement",
+      "classifiedAt": "2025-11-21T22:32:32.427Z"
     }
   },
   {
@@ -72,6 +96,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 1,
+      "reason": "FactoryAI is mentioned between users discussing regulation, no specific action needed",
+      "classifiedAt": "2025-11-21T22:32:32.427Z"
     }
   },
   {
