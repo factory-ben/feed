@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.95,
+      "reason": "User is asking a direct question about Antigravity usage, which requires a response.",
+      "classifiedAt": "2025-11-21T23:38:42.899Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.9,
+      "reason": "User is reporting a specific issue with signup verification failing and blocking their access.",
+      "classifiedAt": "2025-11-21T23:38:42.899Z"
     }
   },
   {
