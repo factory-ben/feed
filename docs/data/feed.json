@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992279614585278831",
+    "source": "twitter",
+    "author": "NabeelHQ",
+    "content": "@leoisadev @FactoryAI @cursor_ai We will see when that happens.",
+    "url": "https://x.com/NabeelHQ/status/1992279614585278831",
+    "timestamp": "2025-11-22T17:10:49.000Z",
+    "metadata": {
+      "conversation_id": "1992279614585278831",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992278681549455437",
+    "source": "twitter",
+    "author": "neoneue",
+    "content": "@GabrielMBauer @FactoryAI Example: https://t.co/kM6X8qojmk",
+    "url": "https://x.com/neoneue/status/1992278681549455437",
+    "timestamp": "2025-11-22T17:07:07.000Z",
+    "metadata": {
+      "conversation_id": "1992278681549455437",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992278236857040959",
+    "source": "twitter",
+    "author": "neoneue",
+    "content": "@GabrielMBauer @FactoryAI I'm impressed so far with its ability to learn from issues and ask how it can improve. \nJust now it missed a few bugs and updated itself to spot them. Claude used to just apologize and forget next time, so we'll see if the adaptation sticks with DROID :)",
+    "url": "https://x.com/neoneue/status/1992278236857040959",
+    "timestamp": "2025-11-22T17:05:21.000Z",
+    "metadata": {
+      "conversation_id": "1992278236857040959",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992277628506767489",
     "source": "twitter",
     "author": "osi_fav",
