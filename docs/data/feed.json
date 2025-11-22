@@ -3936,5 +3936,83 @@
       "category": "Factory Official",
       "number": 240
     }
+  },
+  {
+    "id": "github_discussion_225",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] Change Log\n\nCan we have more updated change logs somewhere if possible. \r\n\r\nSuccessfully updated to version 0.21.5 Just saw this ",
+    "url": "https://github.com/Factory-AI/factory/discussions/225",
+    "timestamp": "2025-10-21T09:52:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 225
+    }
+  },
+  {
+    "id": "github_discussion_223",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] [Discussion] Droid Exec Headless Streaming with output format (JSON)\n\nDroid Exec (Headless)\r\nIt make sense to use --output-format json if you're running a headless droid exec as that's the best way to programmatically manage the headless droid. The issue for me is i can't see the process and potentially stop it without --output-format debug and i can't run both output format. \r\n\r\nShould we consider having a different parameter for \"streaming\" , it's not so much for debugging but more to manage the task itself. ",
+    "url": "https://github.com/Factory-AI/factory/discussions/223",
+    "timestamp": "2025-10-21T02:46:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 223
+    }
+  },
+  {
+    "id": "github_discussion_214",
+    "source": "github",
+    "author": "0xStuart",
+    "content": "[Discussion] JetBrains Plugin\n\nThe documentation says there is a JetBrains Plugin in the marketplace, but I can't find it.",
+    "url": "https://github.com/Factory-AI/factory/discussions/214",
+    "timestamp": "2025-10-19T19:55:35Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 214
+    }
+  },
+  {
+    "id": "github_discussion_164",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Discussion] Droid Exec - custom models supported?\n\ncan we have support for custom models in droid exec? even if it were just simple endpoint/key.",
+    "url": "https://github.com/Factory-AI/factory/discussions/164",
+    "timestamp": "2025-10-10T18:34:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 164
+    }
+  },
+  {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    }
+  },
+  {
+    "id": "github_discussion_108",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Release v1.3.220\n\n---\r\n\r\nThis release brings HTTP MCP server support, a `/compress` command to optimize your context usage and droid exec for CDE.\r\n\r\n---\r\n\r\n## HTTP MCP Server Support\r\n\r\nFactory now supports streamable HTTP-based Model Context Protocol (MCP) servers in addition to stdio-based servers. This enables you to connect to MCP servers running as web services, making it easier to integrate with cloud-hosted tools and services.\r\n\r\nWhen adding an MCP server, Factory automatically detects whether it's HTTP o",
+    "url": "https://github.com/Factory-AI/factory/discussions/108",
+    "timestamp": "2025-10-03T20:21:56Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 108
+    }
   }
 ]
