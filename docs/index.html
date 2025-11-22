@@ -525,6 +525,79 @@
       color: var(--text-muted);
     }
 
+    .category-badge {
+      font-size: 0.7rem;
+      padding: 0.15rem 0.5rem;
+      border-radius: 9999px;
+      border: 1px solid var(--border);
+      font-weight: 500;
+    }
+
+    .category-badge.mention {
+      background: #e0e7ff;
+      color: #4338ca;
+      border-color: #c7d2fe;
+    }
+
+    .category-badge.bug {
+      background: #fee2e2;
+      color: #dc2626;
+      border-color: #fecaca;
+    }
+
+    .category-badge.love {
+      background: #dcfce7;
+      color: #16a34a;
+      border-color: #bbf7d0;
+    }
+
+    .category-badge.question {
+      background: #fef3c7;
+      color: #d97706;
+      border-color: #fde68a;
+    }
+
+    .category-badge.other {
+      background: #f3f4f6;
+      color: #6b7280;
+      border-color: #e5e7eb;
+    }
+
+    [data-theme="dark"] .category-badge.mention {
+      background: #312e81;
+      color: #c7d2fe;
+      border-color: #4338ca;
+    }
+
+    [data-theme="dark"] .category-badge.bug {
+      background: #7f1d1d;
+      color: #fecaca;
+      border-color: #dc2626;
+    }
+
+    [data-theme="dark"] .category-badge.love {
+      background: #14532d;
+      color: #bbf7d0;
+      border-color: #16a34a;
+    }
+
+    [data-theme="dark"] .category-badge.question {
+      background: #78350f;
+      color: #fde68a;
+      border-color: #d97706;
+    }
+
+    [data-theme="dark"] .category-badge.other {
+      background: #374151;
+      color: #d1d5db;
+      border-color: #6b7280;
+    }
+
+    .filter-pill .count {
+      font-size: 0.75rem;
+      opacity: 0.7;
+    }
+
     .author {
       color: var(--text-muted);
       font-size: 0.875rem;
@@ -851,6 +924,28 @@
           <i data-lucide="github"></i>
         </button>
       </div>
+      <div class="filter-pills">
+        <button class="filter-pill active" data-category="mention" title="Mentions">
+          <i data-lucide="message-circle"></i>
+          <span class="count">0</span>
+        </button>
+        <button class="filter-pill active" data-category="bug" title="Bugs">
+          <i data-lucide="bug"></i>
+          <span class="count">0</span>
+        </button>
+        <button class="filter-pill active" data-category="love" title="Love">
+          <i data-lucide="heart"></i>
+          <span class="count">0</span>
+        </button>
+        <button class="filter-pill active" data-category="question" title="Questions">
+          <i data-lucide="help-circle"></i>
+          <span class="count">0</span>
+        </button>
+        <button class="filter-pill active" data-category="other" title="Other">
+          <i data-lucide="circle"></i>
+          <span class="count">0</span>
+        </button>
+      </div>
       <div class="time-filter-container" style="position: relative;">
         <button class="icon-btn" id="timeFilterBtn" title="Time filter">
           <i data-lucide="clock"></i>
@@ -911,6 +1006,7 @@
   <div class="selection-bar">
     <div class="selection-info" id="selectionStatus">No posts selected</div>
     <div class="selection-actions">
+      <button class="secondary-btn" id="selectAllFilterBtn">Select all in filter</button>
       <button class="action-btn" id="archiveSelectedBtn" disabled>Archive selected</button>
       <button class="action-btn" id="sendToSlackBtn" disabled>Send to Slack</button>
       <button class="icon-btn icon-only" id="toggleArchivedBtn" title="Toggle archived posts">
@@ -987,6 +1083,7 @@
     let customDays = null;
     let currentSortOrder = 'newest';
     let activeFilters = new Set(['twitter', 'reddit', 'github']);
+    let activeCategoryFilters = new Set(['mention', 'bug', 'love', 'question', 'other']);
     let currentView = 'columns';
     let hiddenUsernames = new Set();
     let lastSeenTimestamps = {};
@@ -994,6 +1091,11 @@
     let archivedIds = new Set();
     let showArchived = false;
     let activeCardId = null;
+
+    function getCategory(item) {
+      // Support new 'category' field or old 'classification.label' field
+      return item.category || item.classification?.label || null;
+    }
     let visibleItems = [];
     let commandPaletteOpen = false;
     let commandPaletteItems = [];
@@ -1006,6 +1108,7 @@
     const errorContainer = document.getElementById('error');
     const statusMessage = document.getElementById('statusMessage');
     const selectionStatus = document.getElementById('selectionStatus');
+    const selectAllFilterBtn = document.getElementById('selectAllFilterBtn');
     const archiveSelectedBtn = document.getElementById('archiveSelectedBtn');
     const sendToSlackBtn = document.getElementById('sendToSlackBtn');
     const toggleArchivedBtn = document.getElementById('toggleArchivedBtn');
@@ -1147,6 +1250,20 @@
       });
     });
 
+    document.querySelectorAll('.filter-pill[data-category]').forEach(pill => {
+      pill.addEventListener('click', () => {
+        const category = pill.dataset.category;
+        if (activeCategoryFilters.has(category)) {
+          activeCategoryFilters.delete(category);
+          pill.classList.remove('active');
+        } else {
+          activeCategoryFilters.add(category);
+          pill.classList.add('active');
+        }
+        renderFeed(allItems);
+      });
+    });
+
     timeFilterBtn.addEventListener('click', () => {
       timeFilterDropdown.classList.toggle('open');
     });
@@ -1215,6 +1332,14 @@
           event.target.value = '';
         }
       }
+    });
+
+    selectAllFilterBtn.addEventListener('click', () => {
+      const toSelect = visibleItems.filter(item => !archivedIds.has(item.id));
+      if (toSelect.length === 0) return;
+      toSelect.forEach(item => selectedIds.add(item.id));
+      renderFeed(allItems);
+      showStatusMessage(`Selected ${toSelect.length} post${toSelect.length === 1 ? '' : 's'}`, 'info');
     });
 
     archiveSelectedBtn.addEventListener('click', () => {
@@ -1370,6 +1495,26 @@
       });
     }
 
+    function updateCategoryCounts() {
+      const categoryCounts = { mention: 0, bug: 0, love: 0, question: 0, other: 0 };
+      allItems.forEach(item => {
+        if (archivedIds.has(item.id)) return;
+        if (!activeFilters.has(item.source)) return;
+        const category = getCategory(item);
+        if (category && categoryCounts.hasOwnProperty(category)) {
+          categoryCounts[category]++;
+        }
+      });
+      document.querySelectorAll('.filter-pill[data-category]').forEach(pill => {
+        const category = pill.dataset.category;
+        const count = categoryCounts[category] || 0;
+        const countSpan = pill.querySelector('.count');
+        if (countSpan) {
+          countSpan.textContent = count;
+        }
+      });
+    }
+
     function getSourceIcon(source, metadata) {
       let icon = `<span class="source-icon"><i data-lucide="${sourceIcons[source] || 'circle'}"></i>`;
       if (source === 'github' && metadata?.type === 'issue') {
@@ -1483,6 +1628,8 @@
 
       const filtered = items.filter(item => {
         if (!activeFilters.has(item.source)) return false;
+        const category = getCategory(item);
+        if (category && !activeCategoryFilters.has(category)) return false;
         if (!showArchived && archivedIds.has(item.id)) return false;
         if (hiddenUsernames.size > 0 && hiddenUsernames.has(item.author.toLowerCase())) return false;
         if (!isWithinTimeRange(item.timestamp)) return false;
@@ -1547,6 +1694,7 @@
       updateSelectionStatus();
       updateArchivedToggleButton();
       updateNewBadges();
+      updateCategoryCounts();
       if (commandPaletteOpen) {
         updateCommandPaletteList();
       }
@@ -1564,11 +1712,14 @@
         if (archivedIds.has(item.id)) classes.push('archived');
         if (item.id === activeCardId) classes.push('focused');
         const statusBadge = archivedIds.has(item.id) ? '<span class="status-badge">Archived</span>' : '';
+        const category = getCategory(item);
+        const categoryBadge = category ? `<span class="category-badge ${category}">${category}</span>` : '';
         return `
           <div class="${classes.join(' ')}" data-id="${item.id}" data-url="${item.url}" data-source="${item.source}">
             <div class="card-header">
               ${getSourceIcon(item.source, item.metadata)}
               <span class="author">${item.author}</span>
+              ${categoryBadge}
               ${statusBadge}
             </div>
             <div class="content ${needsExpand ? 'collapsed' : ''}">${needsExpand ? truncated + '...' : contentText}</div>
@@ -1599,11 +1750,14 @@
           if (selectedIds.has(item.id)) classes.push('selected');
           if (archivedIds.has(item.id)) classes.push('archived');
           if (item.id === activeCardId) classes.push('focused');
+          const category = getCategory(item);
+          const categoryBadge = category ? `<span class="category-badge ${category}">${category}</span>` : '';
           return `
             <div class="${classes.join(' ')}" data-id="${item.id}" data-url="${item.url}" data-source="${item.source}">
               <div class="card-header">
                 <span class="author">${item.author}</span>
                 ${item.source === 'github' && item.metadata?.type === 'issue' ? '<span class="type-tag">[issue]</span>' : ''}
+                ${categoryBadge}
                 ${archivedIds.has(item.id) ? '<span class="status-badge">Archived</span>' : ''}
               </div>
               <div class="content ${needsExpand ? 'collapsed' : ''}">${needsExpand ? truncated + '...' : contentText}</div>
