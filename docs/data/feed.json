@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.9,
+      "reason": "User reports 'really bad experience with Gemini 3 in droid' indicating an issue or problem with the product.",
+      "classifiedAt": "2025-11-22T12:09:12.384Z"
     }
   },
   {
