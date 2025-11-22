@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "User references FactoryAI and offers assistance, no specific issue or question.",
+      "classifiedAt": "2025-11-22T18:59:18.923Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.8,
+      "reason": "Brief acknowledgment referencing FactoryAI, no specific action needed.",
+      "classifiedAt": "2025-11-22T18:59:18.923Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.7,
+      "reason": "General discussion about subscription pricing and usage concerns, not directly addressing Factory as a brand.",
+      "classifiedAt": "2025-11-22T18:59:18.923Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.8,
+      "reason": "User expresses positive sentiment with kudos and praise for benchmark details.",
+      "classifiedAt": "2025-11-22T18:59:18.923Z"
     }
   },
   {
@@ -72,6 +96,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 1
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "User flagging content for Factory team, simple reference without specific issue or question.",
+      "classifiedAt": "2025-11-22T18:59:18.923Z"
     }
   },
   {
