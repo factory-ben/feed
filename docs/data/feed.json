@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.95,
+      "reason": "Factory is referenced in comparison with Droid but no action is requested",
+      "classifiedAt": "2025-11-22T14:39:18.192Z"
     }
   },
   {
