@@ -614,12 +614,43 @@
     }
 
     @media (max-width: 640px) {
-      .header-top { padding: 0 16px; }
-      .header-sub { padding: 0 16px; }
+      .app-header { padding: 0 16px; height: auto; flex-wrap: wrap; gap: 12px; py: 12px; }
       .app-filters { overflow-x: auto; max-width: 100%; }
       .shortcuts-help { display: none; }
       .card { padding-left: 16px; padding-top: 44px; }
       .card-checkbox { top: 16px; left: 16px; }
+      
+      /* Mobile layout adjustments */
+      .main-wrapper { flex-direction: column; }
+      .sidebar {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+        flex-direction: row;
+        overflow-x: auto;
+        padding: 12px;
+        height: auto;
+        gap: 12px;
+      }
+      .category-item {
+        min-width: auto;
+        width: auto;
+        white-space: nowrap;
+        padding: 6px 12px;
+        background: var(--card-bg);
+        border: 1px solid var(--border);
+      }
+      .category-item.active {
+        border-color: var(--text);
+        background: var(--text);
+        color: var(--bg);
+      }
+      .category-item.active i {
+        stroke: var(--bg);
+      }
+      .category-item .count {
+        margin-left: 8px;
+      }
     }
   </style>
 </head>
@@ -677,21 +708,27 @@
   <div class="main-wrapper">
     <aside class="sidebar">
         <button class="category-item active" data-category="all">
+            <i data-lucide="layers" style="width: 16px; height: 16px; margin-right: 8px;"></i>
             <span>All</span>
         </button>
         <button class="category-item" data-category="mention">
+            <i data-lucide="at-sign" style="width: 16px; height: 16px; margin-right: 8px;"></i>
             <span>Mentions</span> <span class="count" id="cat-count-mention">0</span>
         </button>
         <button class="category-item" data-category="bug">
+            <i data-lucide="bug" style="width: 16px; height: 16px; margin-right: 8px;"></i>
             <span>Bugs</span> <span class="count" id="cat-count-bug">0</span>
         </button>
         <button class="category-item" data-category="love">
+            <i data-lucide="heart" style="width: 16px; height: 16px; margin-right: 8px;"></i>
             <span>Love</span> <span class="count" id="cat-count-love">0</span>
         </button>
         <button class="category-item" data-category="question">
+            <i data-lucide="help-circle" style="width: 16px; height: 16px; margin-right: 8px;"></i>
             <span>Questions</span> <span class="count" id="cat-count-question">0</span>
         </button>
         <button class="category-item" data-category="other">
+            <i data-lucide="archive" style="width: 16px; height: 16px; margin-right: 8px;"></i>
             <span>Other</span> <span class="count" id="cat-count-other">0</span>
         </button>
     </aside>
@@ -981,9 +1018,8 @@
 
           <div class="card-header">
             <div class="card-meta">
-              <span class="source-badge source-${item.source}">
+              <span class="source-badge source-${item.source}" title="${item.source}">
                 <i data-lucide="${sourceIcon}" style="width: 12px; height: 12px;"></i>
-                ${item.source}
               </span>
               <span class="card-author">${item.author}</span>
               <span class="card-time">• ${timeAgo}</span>
@@ -1251,6 +1287,14 @@
                     break;
                 case 'r':
                     fetchFeed();
+                    break;
+                case 'arrowdown':
+                    e.preventDefault();
+                    moveFocus(1);
+                    break;
+                case 'arrowup':
+                    e.preventDefault();
+                    moveFocus(-1);
                     break;
             }
         });
