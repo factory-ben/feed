@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.9,
+      "reason": "User is asking for clarification about the significance of Factory AI compared to other tools",
+      "classifiedAt": "2025-11-22T17:54:23.066Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "User expresses positive interest and willingness to try Factory AI ('Gotta try factory for sure')",
+      "classifiedAt": "2025-11-22T17:54:23.066Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "User references using Factory AI droids and skills in their project without specific sentiment or request",
+      "classifiedAt": "2025-11-22T17:54:23.066Z"
     }
   },
   {
