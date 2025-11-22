@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992341050497905119",
+    "source": "twitter",
+    "author": "garyfung",
+    "content": "@makerfounder @antigravity @FactoryAI why is it still called nano. It should not be pro and nano at the same time\n\ngive me the ultra banana",
+    "url": "https://x.com/garyfung/status/1992341050497905119",
+    "timestamp": "2025-11-22T21:14:57.000Z",
+    "metadata": {
+      "conversation_id": "1992341050497905119",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992340678299541963",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@garyfung @antigravity @FactoryAI yes I was really enthusiastic about that feature as well, and the nano banana integration",
+    "url": "https://x.com/makerfounder/status/1992340678299541963",
+    "timestamp": "2025-11-22T21:13:28.000Z",
+    "metadata": {
+      "conversation_id": "1992340678299541963",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992339587671462274",
     "source": "twitter",
     "author": "garyfung",
