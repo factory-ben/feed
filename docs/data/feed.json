@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.95,
+      "reason": "User expresses strong positive sentiment with 'magic holy shit' praising Factory AI Droid's performance.",
+      "classifiedAt": "2025-11-22T00:50:21.869Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.9,
+      "reason": "User describes Factory AI as 'the best harness for mixed model coding' showing strong positive sentiment.",
+      "classifiedAt": "2025-11-22T00:50:21.869Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 1
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.85,
+      "reason": "User praises GPT 5.1 as 'a beast' while discussing it positively in context with Factory AI.",
+      "classifiedAt": "2025-11-22T00:50:21.869Z"
     }
   },
   {
