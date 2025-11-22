@@ -58,29 +58,84 @@
     .app-header {
       background: var(--card-bg);
       border-bottom: 1px solid var(--border);
-      display: flex;
-      flex-direction: column;
-      flex-shrink: 0;
-      z-index: 20;
-    }
-
-    .header-top {
       height: 60px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       padding: 0 24px;
-      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+      z-index: 20;
     }
 
-    .header-sub {
-      height: 48px;
+    .main-wrapper {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .sidebar {
+      width: 240px;
+      background: var(--bg);
+      border-right: 1px solid var(--border);
+      padding: 20px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      overflow-y: auto;
+      flex-shrink: 0;
+    }
+
+    .main-container {
+      flex: 1;
+      overflow: hidden;
+      display: flex;
+      position: relative;
+      background: var(--bg);
+    }
+
+    /* Sidebar Categories */
+    .category-item {
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      color: var(--text-secondary);
       display: flex;
       align-items: center;
-      padding: 0 24px;
-      gap: 8px;
-      overflow-x: auto;
-      background: var(--bg);
+      justify-content: space-between;
+      transition: all 0.15s;
+      border: none;
+      background: transparent;
+      width: 100%;
+      text-align: left;
+    }
+
+    .category-item:hover {
+      background: var(--hover);
+      color: var(--text);
+    }
+
+    .category-item.active {
+      background: var(--card-bg);
+      color: var(--text);
+      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+      font-weight: 600;
+    }
+    
+    .category-item .count {
+        background: var(--border);
+        padding: 2px 6px;
+        border-radius: 99px;
+        font-size: 10px;
+        min-width: 20px;
+        text-align: center;
+        opacity: 0.8;
+    }
+
+    /* Hide card actions as requested */
+    .card-actions {
+      display: none !important;
     }
 
     .app-logo {
@@ -583,72 +638,72 @@
 
   <!-- App Layout -->
   <header class="app-header">
-    <div class="header-top">
-      <div class="app-logo">
-        <i data-lucide="zap" style="width: 18px; height: 18px;"></i>
-        Factory Feed
-      </div>
-      
-      <div class="app-filters">
-        <button class="filter-tab active" data-filter="all">
-          All <span class="badge" id="count-all">0</span>
-        </button>
-        <button class="filter-tab" data-filter="twitter">
-          <i data-lucide="twitter" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-twitter">0</span>
-        </button>
-        <button class="filter-tab" data-filter="reddit">
-          <i data-lucide="message-square" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-reddit">0</span>
-        </button>
-        <button class="filter-tab" data-filter="github">
-          <i data-lucide="github" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-github">0</span>
-        </button>
-      </div>
-
-      <div class="app-controls">
-        <button class="icon-btn" id="refreshBtn" title="Refresh (R)">
-          <i data-lucide="refresh-cw"></i>
-        </button>
-        <button class="icon-btn" id="archiveToggleBtn" title="View Archived">
-          <i data-lucide="archive"></i>
-        </button>
-        <button class="icon-btn" id="themeBtn" title="Toggle Theme">
-          <i data-lucide="moon"></i>
-        </button>
-        <button class="icon-btn" id="settingsBtn" title="Settings">
-          <i data-lucide="settings"></i>
-        </button>
-      </div>
+    <div class="app-logo">
+      <i data-lucide="zap" style="width: 18px; height: 18px;"></i>
+      Factory Feed
+    </div>
+    
+    <div class="app-filters">
+      <button class="filter-tab active" data-filter="all">
+        All <span class="badge" id="count-all">0</span>
+      </button>
+      <button class="filter-tab" data-filter="twitter">
+        <i data-lucide="twitter" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-twitter">0</span>
+      </button>
+      <button class="filter-tab" data-filter="reddit">
+        <i data-lucide="message-square" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-reddit">0</span>
+      </button>
+      <button class="filter-tab" data-filter="github">
+        <i data-lucide="github" style="width: 12px; height: 12px;"></i> <span class="badge" id="count-github">0</span>
+      </button>
     </div>
 
-    <div class="header-sub">
-        <button class="category-pill active" data-category="all">
-            All
-        </button>
-        <button class="category-pill" data-category="mention">
-            Mentions <span class="count" id="cat-count-mention">0</span>
-        </button>
-        <button class="category-pill" data-category="bug">
-            Bugs <span class="count" id="cat-count-bug">0</span>
-        </button>
-        <button class="category-pill" data-category="love">
-            Love <span class="count" id="cat-count-love">0</span>
-        </button>
-        <button class="category-pill" data-category="question">
-            Questions <span class="count" id="cat-count-question">0</span>
-        </button>
-        <button class="category-pill" data-category="other">
-            Other <span class="count" id="cat-count-other">0</span>
-        </button>
+    <div class="app-controls">
+      <button class="icon-btn" id="refreshBtn" title="Refresh (R)">
+        <i data-lucide="refresh-cw"></i>
+      </button>
+      <button class="icon-btn" id="archiveToggleBtn" title="View Archived">
+        <i data-lucide="archive"></i>
+      </button>
+      <button class="icon-btn" id="themeBtn" title="Toggle Theme">
+        <i data-lucide="moon"></i>
+      </button>
+      <button class="icon-btn" id="settingsBtn" title="Settings">
+        <i data-lucide="settings"></i>
+      </button>
     </div>
   </header>
 
-  <main class="main-container">
-    <div class="feed-container" id="scrollContainer">
-      <div id="feedList" class="feed-list">
-        <div class="loading-state">Loading feed...</div>
+  <div class="main-wrapper">
+    <aside class="sidebar">
+        <button class="category-item active" data-category="all">
+            <span>All</span>
+        </button>
+        <button class="category-item" data-category="mention">
+            <span>Mentions</span> <span class="count" id="cat-count-mention">0</span>
+        </button>
+        <button class="category-item" data-category="bug">
+            <span>Bugs</span> <span class="count" id="cat-count-bug">0</span>
+        </button>
+        <button class="category-item" data-category="love">
+            <span>Love</span> <span class="count" id="cat-count-love">0</span>
+        </button>
+        <button class="category-item" data-category="question">
+            <span>Questions</span> <span class="count" id="cat-count-question">0</span>
+        </button>
+        <button class="category-item" data-category="other">
+            <span>Other</span> <span class="count" id="cat-count-other">0</span>
+        </button>
+    </aside>
+
+    <main class="main-container">
+      <div class="feed-container" id="scrollContainer">
+        <div id="feedList" class="feed-list">
+          <div class="loading-state">Loading feed...</div>
+        </div>
       </div>
-    </div>
-  </main>
+    </main>
+  </div>
   
   <div class="bulk-actions-bar" id="bulkBar">
       <div class="bulk-count" id="bulkCount">0 selected</div>
@@ -712,7 +767,7 @@
       tokenSubmit: document.getElementById('tokenSubmit'),
       tokenError: document.getElementById('tokenError'),
       filterTabs: document.querySelectorAll('.filter-tab'),
-      categoryPills: document.querySelectorAll('.category-pill'),
+      categoryItems: document.querySelectorAll('.category-item'),
       bulkBar: document.getElementById('bulkBar'),
       bulkCount: document.getElementById('bulkCount'),
       counts: {
@@ -935,12 +990,9 @@
               ${category ? `<span class="tag tag-${category}">${category}</span>` : ''}
             </div>
             <div class="card-actions">
-              <button class="action-pill action-open" data-id="${item.id}" data-url="${item.url}" title="Open Link (Enter)">
-                Open
-              </button>
-              <button class="action-pill action-archive" data-id="${item.id}">
-                ${isArchived ? 'Unarchive' : 'Archive'}
-              </button>
+              <!-- Hidden by CSS as requested, but kept for logic if needed later -->
+              <button class="action-pill action-open" data-id="${item.id}" data-url="${item.url}" title="Open Link (Enter)">Open</button>
+              <button class="action-pill action-archive" data-id="${item.id}">${isArchived ? 'Unarchive' : 'Archive'}</button>
             </div>
           </div>
           
@@ -1121,12 +1173,12 @@
             });
         });
         
-        // Category Pills
-        elements.categoryPills.forEach(pill => {
-            pill.addEventListener('click', () => {
-                elements.categoryPills.forEach(p => p.classList.remove('active'));
-                pill.classList.add('active');
-                state.activeCategory = pill.dataset.category;
+        // Category Items
+        elements.categoryItems.forEach(item => {
+            item.addEventListener('click', () => {
+                elements.categoryItems.forEach(i => i.classList.remove('active'));
+                item.classList.add('active');
+                state.activeCategory = item.dataset.category;
                 state.selectedIds.clear();
                 render();
                 elements.scrollContainer.scrollTop = 0;
@@ -1176,7 +1228,11 @@
                 case 'j': moveFocus(1); break;
                 case 'k': moveFocus(-1); break;
                 case 'e': 
-                    if (state.focusedId) toggleArchive(state.focusedId); 
+                    if (state.selectedIds.size > 0) {
+                        archiveSelected();
+                    } else if (state.focusedId) {
+                        toggleArchive(state.focusedId); 
+                    }
                     break;
                 case 'x':
                     if (state.focusedId) toggleSelection(state.focusedId);
