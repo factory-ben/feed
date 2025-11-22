@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.8,
+      "reason": "FactoryAI is mentioned in conversation but no specific action or question is directed at them",
+      "classifiedAt": "2025-11-22T20:19:38.068Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.8,
+      "reason": "FactoryAI is mentioned as participant in a challenge but no direct question or issue is raised",
+      "classifiedAt": "2025-11-22T20:19:38.068Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.7,
+      "reason": "Just an emoji reaction, FactoryAI is mentioned but this appears to be minimal engagement",
+      "classifiedAt": "2025-11-22T20:19:38.068Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 2
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.9,
+      "reason": "Explicitly asking the audience for input on who FactoryAI's Droid should fight next - seeking community engagement/input",
+      "classifiedAt": "2025-11-22T20:19:38.068Z"
     }
   },
   {
@@ -72,6 +96,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.8,
+      "reason": "Discussion about FactoryAI product features compared to competitors, but no clear category fits",
+      "classifiedAt": "2025-11-22T20:19:38.068Z"
     }
   },
   {
@@ -87,6 +117,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.7,
+      "reason": "FactoryAI is mentioned in context of needing vim mode, but not a clear bug report or question",
+      "classifiedAt": "2025-11-22T20:19:38.068Z"
     }
   },
   {
