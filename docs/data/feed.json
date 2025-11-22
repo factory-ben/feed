@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "FactoryAI is listed as one of many synchronous coding agents, just a reference without specific sentiment or question",
+      "classifiedAt": "2025-11-22T15:54:49.351Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.85,
+      "reason": "User is asking for a comparison between droid, opencode, and codex - explicit question",
+      "classifiedAt": "2025-11-22T15:54:49.351Z"
     }
   },
   {
