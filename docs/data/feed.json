@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.95,
+      "reason": "Factory AI is mentioned in conversation about benchmarking but no specific action or request is made",
+      "classifiedAt": "2025-11-22T10:19:35.436Z"
     }
   },
   {
