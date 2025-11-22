@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992258254643298782",
+    "source": "twitter",
+    "author": "NielsRogge",
+    "content": "Crazy how crowded the synchronous coding agents space is atm: \n\n- @claudeai Code \n- @cursor_ai\n- @OpenAI Codex\n- @windsurf\n- @antigravity\n- @AmpCode\n- @FactoryAI\n- Gemini CLI \n- @code \n\nDid I miss any?",
+    "url": "https://x.com/NielsRogge/status/1992258254643298782",
+    "timestamp": "2025-11-22T15:45:56.000Z",
+    "metadata": {
+      "conversation_id": "1992258254643298782",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992258171038240869",
+    "source": "twitter",
+    "author": "SeeLos",
+    "content": "@makerfounder @antigravity @FactoryAI Oooh can you do droid vs opencode vs codex",
+    "url": "https://x.com/SeeLos/status/1992258171038240869",
+    "timestamp": "2025-11-22T15:45:36.000Z",
+    "metadata": {
+      "conversation_id": "1992258171038240869",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992256444578877544",
     "source": "twitter",
     "author": "neoneue",
