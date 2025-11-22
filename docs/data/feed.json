@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992152094363848930",
+    "source": "twitter",
+    "author": "darshil",
+    "content": "@FeifanZ @FactoryAI you gotta try it to believe the hype",
+    "url": "https://x.com/darshil/status/1992152094363848930",
+    "timestamp": "2025-11-22T08:44:06.000Z",
+    "metadata": {
+      "conversation_id": "1992152094363848930",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992152008447640017",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@EnoReyes @huntermbown @FactoryAI Enos, it stops doing what it said it will do. Don't know how much is steerable by @FactoryAI though, in case it's a model issue. \n\nhttps://t.co/WJnBZZsti6",
+    "url": "https://x.com/5aikat/status/1992152008447640017",
+    "timestamp": "2025-11-22T08:43:45.000Z",
+    "metadata": {
+      "conversation_id": "1992152008447640017",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992148541582823522",
     "source": "twitter",
     "author": "mikez93",
@@ -270,6 +300,21 @@
       "confidence": 0.85,
       "reason": "User expressing positive sentiment describing Factory as a 'powerhouse' combination.",
       "classifiedAt": "2025-11-22T06:41:31.770Z"
+    }
+  },
+  {
+    "id": "twitter_1992117022847545399",
+    "source": "twitter",
+    "author": "joelreymont",
+    "content": "@pascallammers_ @FactoryAI I do the same, just without Droids. \n\nWhat’s the benefit of Droids here?",
+    "url": "https://x.com/joelreymont/status/1992117022847545399",
+    "timestamp": "2025-11-22T06:24:44.000Z",
+    "metadata": {
+      "conversation_id": "1992117022847545399",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
     }
   },
   {
