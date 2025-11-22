@@ -26,7 +26,7 @@ const MANUAL_REFRESH_THROTTLE_MS = 30000;
 app.use(express.json());
 
 // Serve static files
-app.use(express.static(path.join(__dirname, '../public')));
+app.use(express.static(path.join(__dirname, '../docs')));
 
 // API endpoint to get feed
 app.get('/api/feed', async (req, res) => {
