@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992317114695192707",
+    "source": "twitter",
+    "author": "BuildWithAJ",
+    "content": "@leoisadev @FactoryAI @cursor_ai When I build the Luna9 fully fledged client Im gonna move everthing to neovim",
+    "url": "https://x.com/BuildWithAJ/status/1992317114695192707",
+    "timestamp": "2025-11-22T19:39:50.000Z",
+    "metadata": {
+      "conversation_id": "1992317114695192707",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992316886114037974",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@BuildWithAJ @FactoryAI @cursor_ai Yea ngl old vscode is pretty good but factory ai ide would go crazy!",
+    "url": "https://x.com/leoisadev/status/1992316886114037974",
+    "timestamp": "2025-11-22T19:38:55.000Z",
+    "metadata": {
+      "conversation_id": "1992316886114037974",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992314349424087283",
     "source": "twitter",
     "author": "nibzard",
