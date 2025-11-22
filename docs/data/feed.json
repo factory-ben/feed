@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "Factory is referenced in a discussion about orchestration focus, no action needed.",
+      "classifiedAt": "2025-11-22T18:21:51.779Z"
     }
   },
   {
