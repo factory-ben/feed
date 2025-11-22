@@ -1,5 +1,108 @@
 [
   {
+    "id": "twitter_1992024201096777920",
+    "source": "twitter",
+    "author": "FeifanZ",
+    "content": "@farezv @FactoryAI my timeline finally wandered into the cool kids' club",
+    "url": "https://x.com/FeifanZ/status/1992024201096777920",
+    "timestamp": "2025-11-22T00:15:54.000Z",
+    "metadata": {
+      "conversation_id": "1992024201096777920",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992024019814785508",
+    "source": "twitter",
+    "author": "farezv",
+    "content": "@FeifanZ @FactoryAI We’ve been talking about it for a while now.",
+    "url": "https://x.com/farezv/status/1992024019814785508",
+    "timestamp": "2025-11-22T00:15:10.000Z",
+    "metadata": {
+      "conversation_id": "1992024019814785508",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_415",
+    "source": "github",
+    "author": "latiefahmad",
+    "content": "[Issue] can't paste image as file attach\n\nAfter the latest update, I can't paste images as attachments. \nID bug report: 3ad55dea-825c-4beb-bf84-cad68e91bc2a",
+    "url": "https://github.com/Factory-AI/factory/issues/415",
+    "timestamp": "2025-11-22T00:09:18Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 415
+    }
+  },
+  {
+    "id": "twitter_1992022451317047617",
+    "source": "twitter",
+    "author": "codeitlikemiley",
+    "content": "@FactoryAI @FeifanZ gooooood",
+    "url": "https://x.com/codeitlikemiley/status/1992022451317047617",
+    "timestamp": "2025-11-22T00:08:57.000Z",
+    "metadata": {
+      "conversation_id": "1992022451317047617",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992021657930854408",
+    "source": "twitter",
+    "author": "FeifanZ",
+    "content": "@erd0xbc @FactoryAI I see some Amp on your timeline … how do you think Factory compares to Amp?",
+    "url": "https://x.com/FeifanZ/status/1992021657930854408",
+    "timestamp": "2025-11-22T00:05:47.000Z",
+    "metadata": {
+      "conversation_id": "1992021657930854408",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992020434888560893",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FeifanZ @FactoryAI Where have you been the last months? 🤔",
+    "url": "https://x.com/SvenMeyer/status/1992020434888560893",
+    "timestamp": "2025-11-22T00:00:56.000Z",
+    "metadata": {
+      "conversation_id": "1992020434888560893",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992019178434560210",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@FeifanZ @FactoryAI It’s a better Claude Code with multiple models.",
+    "url": "https://x.com/erd0xbc/status/1992019178434560210",
+    "timestamp": "2025-11-21T23:55:56.000Z",
+    "metadata": {
+      "conversation_id": "1992019178434560210",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992017619386597552",
     "source": "twitter",
     "author": "FeifanZ",
