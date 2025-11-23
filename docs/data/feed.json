@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1992600481634644147",
+    "source": "twitter",
+    "author": "0xmatti",
+    "content": "@bentossell @ayman_alderson @FactoryAI @opencode i find the proxy thing kinda hard to set up, am i wrong ?",
+    "url": "https://x.com/0xmatti/status/1992600481634644147",
+    "timestamp": "2025-11-23T14:25:50.000Z",
+    "metadata": {
+      "conversation_id": "1992600481634644147",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992598650309206082",
     "source": "twitter",
     "author": "leoisadev",
