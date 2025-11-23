@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992641218510262699",
+    "source": "twitter",
+    "author": "explorersofai",
+    "content": "Hey @FactoryAI is this issue resolved yet? https://t.co/pYFSCklUPh",
+    "url": "https://x.com/explorersofai/status/1992641218510262699",
+    "timestamp": "2025-11-23T17:07:42.000Z",
+    "metadata": {
+      "conversation_id": "1992641218510262699",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992641213091254355",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@kaanozgur81 @zaidmukaddam @FactoryAI it’s a cli and not an ide but works in all ides. we have a web version 2 very very soon i think you’ll like",
+    "url": "https://x.com/bentossell/status/1992641213091254355",
+    "timestamp": "2025-11-23T17:07:41.000Z",
+    "metadata": {
+      "conversation_id": "1992641213091254355",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992640681970463066",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@kaanozgur81 @zaidmukaddam @FactoryAI free tier you have to bring your own key. you can get 10m free tokens signing up to use our native models.",
+    "url": "https://x.com/bentossell/status/1992640681970463066",
+    "timestamp": "2025-11-23T17:05:34.000Z",
+    "metadata": {
+      "conversation_id": "1992640681970463066",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992640190498877580",
     "source": "twitter",
     "author": "benvargas",
