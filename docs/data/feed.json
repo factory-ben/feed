@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992697182617780674",
+    "source": "twitter",
+    "author": "realmcore_",
+    "content": "@ayman_alderson @FactoryAI @opencode @thdxr Dax uses one of the clis definitely for sure",
+    "url": "https://x.com/realmcore_/status/1992697182617780674",
+    "timestamp": "2025-11-23T20:50:05.000Z",
+    "metadata": {
+      "conversation_id": "1992697182617780674",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992697144181199205",
+    "source": "twitter",
+    "author": "yikesawjeez",
+    "content": "@bentossell @FactoryAI ya if i get more specific bugs ill send em in; heartening to hear tho bc i like the idea/approach on ur web ver re: ctx mgmt via web w/ connectors &amp; shared session w cli droids, but most of the time the web parts of that basically dont work lol",
+    "url": "https://x.com/yikesawjeez/status/1992697144181199205",
+    "timestamp": "2025-11-23T20:49:56.000Z",
+    "metadata": {
+      "conversation_id": "1992697144181199205",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992696771706007742",
+    "source": "twitter",
+    "author": "realmcore_",
+    "content": "@ayman_alderson @FactoryAI @opencode @thdxr",
+    "url": "https://x.com/realmcore_/status/1992696771706007742",
+    "timestamp": "2025-11-23T20:48:27.000Z",
+    "metadata": {
+      "conversation_id": "1992696771706007742",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992691183265669135",
     "source": "twitter",
     "author": "bez69259",
