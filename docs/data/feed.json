@@ -42,7 +42,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992613193458614287",
@@ -57,7 +58,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992612232312897545",
@@ -72,7 +74,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992602774744559732",
@@ -87,7 +90,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992602611250553214",
@@ -102,7 +106,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992602101252526477",
@@ -117,7 +122,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992601953667522916",
@@ -132,7 +138,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992601834062840267",
@@ -147,7 +154,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992601772431737102",
@@ -162,7 +170,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992600481634644147",
@@ -177,7 +186,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992598650309206082",
@@ -192,7 +202,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992598449767018802",
@@ -207,7 +218,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992598384201335069",
@@ -222,7 +234,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992597520179200334",
@@ -237,7 +250,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992597011993157976",
@@ -252,7 +266,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992596475868860569",
@@ -267,7 +282,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992596116488245700",
@@ -282,7 +298,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992595182244827298",
@@ -297,7 +314,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992595109733662771",
@@ -312,7 +330,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992594384676884791",
@@ -327,7 +346,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992594326787141882",
@@ -342,7 +362,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992594220629332060",
@@ -357,7 +378,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992594162001265149",
@@ -372,7 +394,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992593274029371821",
@@ -387,7 +410,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992592361260773537",
@@ -402,7 +426,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992582105222742390",
@@ -417,7 +442,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992581188465418724",
@@ -432,7 +458,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992570522425782410",
@@ -447,7 +474,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992569507429355923",
@@ -462,7 +490,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992567512568111416",
@@ -477,7 +506,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992567480582324597",
@@ -492,7 +522,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992566135427109218",
@@ -507,7 +538,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992561585601265871",
@@ -522,7 +554,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992561232474526182",
@@ -537,7 +570,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992559529259827458",
@@ -552,7 +586,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992559172312088894",
@@ -567,7 +602,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992557790917976367",
@@ -582,7 +618,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992557093673701578",
@@ -597,7 +634,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992555805103866363",
@@ -612,7 +650,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992555058920403095",
@@ -627,7 +666,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992552500180787282",
@@ -642,7 +682,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992550945087979940",
@@ -657,7 +698,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992550078637060490",
@@ -672,7 +714,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992549731436810394",
@@ -687,7 +730,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992549730413400326",
@@ -702,7 +746,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992546496701472909",
@@ -717,7 +762,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992539814634381348",
@@ -732,7 +778,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992533169304916080",
@@ -747,7 +794,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992529994434658643",
@@ -762,7 +810,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992523182683955496",
@@ -777,7 +826,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992522754697076895",
@@ -792,7 +842,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992521851277594714",
@@ -807,7 +858,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992516325206618262",
@@ -822,7 +874,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992515302089965724",
@@ -837,7 +890,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992508551991083441",
@@ -852,7 +906,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992507691655438374",
@@ -867,7 +922,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992505429113651462",
@@ -882,7 +938,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992505115899740558",
@@ -897,7 +954,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992504284496433333",
@@ -912,7 +970,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992504212849410190",
@@ -927,7 +986,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992504098177028539",
@@ -942,7 +1002,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992503899169898654",
@@ -957,7 +1018,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992503740423934231",
@@ -972,7 +1034,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992502441573835111",
@@ -987,7 +1050,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992501793360953538",
@@ -1002,7 +1066,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992501661131301175",
@@ -1017,7 +1082,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992501362597478443",
@@ -1032,7 +1098,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992498918056472642",
@@ -1047,7 +1114,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992498652842242554",
@@ -1062,7 +1130,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992498360079786271",
@@ -1077,7 +1146,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992498191624007942",
@@ -1092,7 +1162,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992492544366977340",
@@ -1107,7 +1178,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992491079657291925",
@@ -1122,7 +1194,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992487261653622898",
@@ -1137,7 +1210,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992477131436405181",
@@ -1152,7 +1226,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992475130531070161",
@@ -1167,7 +1242,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992470916086018471",
@@ -1182,7 +1258,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992470289700229408",
@@ -1197,7 +1274,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992469160123855012",
@@ -1212,7 +1290,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992467643295760462",
@@ -1227,7 +1306,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992465932854390784",
@@ -1242,7 +1322,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992465629375504712",
@@ -1257,7 +1338,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992465083977671148",
@@ -1272,7 +1354,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992465041870745739",
@@ -1287,7 +1370,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992463596471951420",
@@ -1302,7 +1386,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992463206598779320",
@@ -1317,7 +1402,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992462732336177256",
@@ -1332,7 +1418,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992462044185211001",
@@ -1347,7 +1434,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992461806934384650",
@@ -1362,7 +1450,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992461697781788974",
@@ -1377,7 +1466,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992460908254380091",
@@ -1392,7 +1482,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992459708951941318",
@@ -1407,7 +1498,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992455535191552070",
@@ -1422,7 +1514,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992455280291086603",
@@ -1437,7 +1530,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992453462496596111",
@@ -1452,7 +1546,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992451678982029454",
@@ -1467,7 +1562,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992451172779876687",
@@ -1482,7 +1578,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992437964690129344",
@@ -1497,7 +1594,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_issue_420",
@@ -1510,7 +1608,8 @@
       "type": "issue",
       "labels": [],
       "number": 420
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992430718627217485",
@@ -1525,7 +1624,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992429469710344343",
@@ -1540,7 +1640,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992427868719325598",
@@ -1555,7 +1656,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992426255409725509",
@@ -1570,7 +1672,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992423388200177994",
@@ -1585,7 +1688,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992416020582314424",
@@ -1600,7 +1704,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992415193880481988",
@@ -1615,7 +1720,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992414705600626840",
@@ -1630,7 +1736,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992414410485424492",
@@ -1645,7 +1752,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992410869574311938",
@@ -1660,7 +1768,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992409552348921935",
@@ -1675,7 +1784,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992409325290307589",
@@ -1690,7 +1800,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992409292365045854",
@@ -1705,7 +1816,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992407187852025916",
@@ -1720,7 +1832,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992406958461395284",
@@ -1735,7 +1848,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992406900550602786",
@@ -1750,7 +1864,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992406413138911535",
@@ -1765,7 +1880,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992404870507462769",
@@ -1780,7 +1896,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992403751718867003",
@@ -1795,7 +1912,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992402957825167770",
@@ -1810,7 +1928,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992399832401723492",
@@ -1825,7 +1944,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992399242867216833",
@@ -1840,7 +1960,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992396616737935709",
@@ -1855,7 +1976,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992395959171703285",
@@ -1870,7 +1992,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992394921253433748",
@@ -1885,7 +2008,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992394543480832419",
@@ -1900,7 +2024,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992394304695017762",
@@ -1915,7 +2040,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992393642581913831",
@@ -1930,7 +2056,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992393475195855278",
@@ -1945,7 +2072,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992393226557456715",
@@ -1960,7 +2088,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992392952740778224",
@@ -1975,7 +2104,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992392790513496485",
@@ -1990,7 +2120,8 @@
       "retweets": 0,
       "replies": 2,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_1992392569209446909",
@@ -2005,7 +2136,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992392365362000041",
@@ -2020,7 +2152,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992392124583788720",
@@ -2035,7 +2168,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992392000990220462",
@@ -2050,7 +2184,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992391743971733504",
@@ -2065,7 +2200,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992391674111344741",
@@ -2080,7 +2216,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992391209487311021",
@@ -2095,7 +2232,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992390664299180210",
@@ -2110,7 +2248,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_1992389336449568882",
@@ -2125,7 +2264,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992383582246203859",
@@ -2140,7 +2280,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992382356225962139",
@@ -2155,7 +2296,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992381152930464068",
@@ -2170,7 +2312,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992378341287170279",
@@ -2185,7 +2328,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992377990710428045",
@@ -2200,7 +2344,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992374758244057202",
@@ -2215,7 +2360,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992374498839105980",
@@ -2230,7 +2376,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992373987146690695",
@@ -2245,7 +2392,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992371219384156472",
@@ -2260,7 +2408,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992370524702585170",
@@ -2275,7 +2424,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992369489648976021",
@@ -2290,7 +2440,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992369376931271136",
@@ -2305,7 +2456,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992368617632247935",
@@ -2320,7 +2472,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992367663469973596",
@@ -2335,7 +2488,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992367332312977591",
@@ -2350,7 +2504,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992365761743237558",
@@ -2365,7 +2520,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992364194931609701",
@@ -2380,7 +2536,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992363933722980627",
@@ -2395,7 +2552,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992362546075156846",
@@ -2410,7 +2568,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992362509635031254",
@@ -2425,7 +2584,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992360594771685584",
@@ -2440,7 +2600,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992359078518280633",
@@ -2455,7 +2616,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992357768171516329",
@@ -2470,7 +2632,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992355637553181018",
@@ -2485,7 +2648,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992355346543956080",
@@ -2500,7 +2664,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992354799602618766",
@@ -2515,7 +2680,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992354109874417864",
@@ -2530,7 +2696,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992353997672546479",
@@ -2545,7 +2712,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992353381554462861",
@@ -2560,7 +2728,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992351732907880676",
@@ -2575,7 +2744,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992350600642916387",
@@ -2590,7 +2760,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992350130557927872",
@@ -2605,7 +2776,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992345527309189551",
@@ -2620,7 +2792,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992344192329355692",
@@ -2635,7 +2808,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992343602476060821",
@@ -2650,7 +2824,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992342999033114945",
@@ -2665,7 +2840,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992341050497905119",
@@ -2680,7 +2856,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992340678299541963",
@@ -2695,7 +2872,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992339587671462274",
@@ -2710,7 +2888,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992338741772644526",
@@ -2725,7 +2904,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992338725767115156",
@@ -2740,7 +2920,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992337982565835203",
@@ -2755,7 +2936,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992336978344603830",
@@ -2770,7 +2952,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992336786585174457",
@@ -2785,7 +2968,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992335083752276005",
@@ -2800,7 +2984,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992335073585320180",
@@ -2815,7 +3000,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992334545895719392",
@@ -2830,7 +3016,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992334353452732679",
@@ -2845,7 +3032,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992333879299256629",
@@ -2860,7 +3048,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992333748554321984",
@@ -2875,7 +3064,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992333718133080252",
@@ -2890,7 +3080,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992333166707921052",
@@ -2905,7 +3096,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992331715759726778",
@@ -2920,7 +3112,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992331582569664942",
@@ -2935,7 +3128,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1p43e48",
@@ -2948,7 +3142,8 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992327879359910048",
@@ -2963,7 +3158,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992327509195567610",
@@ -2978,7 +3174,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992326062114836711",
@@ -2999,7 +3196,8 @@
       "confidence": 0.8,
       "reason": "FactoryAI is mentioned in conversation but no specific action or question is directed at them",
       "classifiedAt": "2025-11-22T20:19:38.068Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992325881092833383",
@@ -3020,7 +3218,8 @@
       "confidence": 0.8,
       "reason": "FactoryAI is mentioned as participant in a challenge but no direct question or issue is raised",
       "classifiedAt": "2025-11-22T20:19:38.068Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992325640637362602",
@@ -3041,7 +3240,8 @@
       "confidence": 0.7,
       "reason": "Just an emoji reaction, FactoryAI is mentioned but this appears to be minimal engagement",
       "classifiedAt": "2025-11-22T20:19:38.068Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992325634765508876",
@@ -3062,7 +3262,8 @@
       "confidence": 0.9,
       "reason": "Explicitly asking the audience for input on who FactoryAI's Droid should fight next - seeking community engagement/input",
       "classifiedAt": "2025-11-22T20:19:38.068Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992325455366492397",
@@ -3083,7 +3284,8 @@
       "confidence": 0.8,
       "reason": "Discussion about FactoryAI product features compared to competitors, but no clear category fits",
       "classifiedAt": "2025-11-22T20:19:38.068Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992325071617335438",
@@ -3104,7 +3306,8 @@
       "confidence": 0.7,
       "reason": "FactoryAI is mentioned in context of needing vim mode, but not a clear bug report or question",
       "classifiedAt": "2025-11-22T20:19:38.068Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992323084310007900",
@@ -3125,7 +3328,8 @@
       "confidence": 1,
       "reason": "FactoryAI is referenced in a tweet about letting games begin, but no specific action or question for Factory is required.",
       "classifiedAt": "2025-11-22T20:06:55.789Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992322799890002102",
@@ -3146,7 +3350,8 @@
       "confidence": 0.9,
       "reason": "Contains an explicit question 'Who should @FactoryAI's Droid fight next?' seeking user input/votes about future content.",
       "classifiedAt": "2025-11-22T20:06:55.789Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992320491827437797",
@@ -3167,7 +3372,8 @@
       "confidence": 0.8,
       "reason": "User expresses curiosity and asks to see results between different tools, implying a question about comparative performance.",
       "classifiedAt": "2025-11-22T19:54:22.260Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992319072147849519",
@@ -3188,7 +3394,8 @@
       "confidence": 0.9,
       "reason": "FactoryAI is mentioned in a thank you message but no specific action or question is directed at them.",
       "classifiedAt": "2025-11-22T19:54:22.260Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992318387830366478",
@@ -3209,7 +3416,8 @@
       "confidence": 0.9,
       "reason": "FactoryAI is mentioned in a conversation about tools but no specific request or question is made.",
       "classifiedAt": "2025-11-22T19:54:22.260Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992317114695192707",
@@ -3230,7 +3438,8 @@
       "confidence": 0.9,
       "reason": "FactoryAI is referenced in a personal development plan discussion without any direct request.",
       "classifiedAt": "2025-11-22T19:54:22.260Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992316886114037974",
@@ -3251,7 +3460,8 @@
       "confidence": 0.7,
       "reason": "User expresses positive enthusiasm about FactoryAI IDE with 'would go crazy' which indicates excitement/praise.",
       "classifiedAt": "2025-11-22T19:54:22.260Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992314349424087283",
@@ -3272,7 +3482,8 @@
       "confidence": 0.9,
       "reason": "FactoryAI is mentioned in a list of companies/people but no specific action or sentiment is directed at them.",
       "classifiedAt": "2025-11-22T19:34:50.414Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992312629608825168",
@@ -3293,7 +3504,8 @@
       "confidence": 0.85,
       "reason": "User expresses positive sentiment saying 'Well done' and sharing positive experience with FactoryAI.",
       "classifiedAt": "2025-11-22T19:34:50.414Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992312136438284797",
@@ -3314,7 +3526,8 @@
       "confidence": 0.9,
       "reason": "User references FactoryAI in a comparison of development tools but no action needed.",
       "classifiedAt": "2025-11-22T19:21:29.488Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992311857001206012",
@@ -3335,7 +3548,8 @@
       "confidence": 0.8,
       "reason": "Mentions FactoryAI in a competitive context but doesn't fit other categories precisely.",
       "classifiedAt": "2025-11-22T19:21:29.488Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992310179011141978",
@@ -3356,7 +3570,8 @@
       "confidence": 0.95,
       "reason": "Explicitly states 'bug report' and provides reference ID for issue tracking.",
       "classifiedAt": "2025-11-22T19:21:29.488Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992308198305677380",
@@ -3377,7 +3592,8 @@
       "confidence": 0.95,
       "reason": "Brief user mention without specific content or action needed",
       "classifiedAt": "2025-11-22T19:09:32.732Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992308151623012478",
@@ -3398,7 +3614,8 @@
       "confidence": 0.9,
       "reason": "User reports crashing issue requiring attention",
       "classifiedAt": "2025-11-22T19:09:32.732Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992307961218355302",
@@ -3419,7 +3636,8 @@
       "confidence": 0.95,
       "reason": "User describes technical setup with unhandled exception that needs fixing",
       "classifiedAt": "2025-11-22T19:09:32.732Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992307714056466748",
@@ -3440,7 +3658,8 @@
       "confidence": 0.95,
       "reason": "Simple mention tagging without substantive content",
       "classifiedAt": "2025-11-22T19:09:32.732Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992307274992197920",
@@ -3461,7 +3680,8 @@
       "confidence": 0.85,
       "reason": "User responding to bug report about specific issue described",
       "classifiedAt": "2025-11-22T19:09:32.732Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992305630833733728",
@@ -3482,7 +3702,8 @@
       "confidence": 0.9,
       "reason": "User references FactoryAI and offers assistance, no specific issue or question.",
       "classifiedAt": "2025-11-22T18:59:18.923Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992305067295457371",
@@ -3503,7 +3724,8 @@
       "confidence": 0.8,
       "reason": "Brief acknowledgment referencing FactoryAI, no specific action needed.",
       "classifiedAt": "2025-11-22T18:59:18.923Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992305030930575609",
@@ -3524,7 +3746,8 @@
       "confidence": 0.7,
       "reason": "General discussion about subscription pricing and usage concerns, not directly addressing Factory as a brand.",
       "classifiedAt": "2025-11-22T18:59:18.923Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992304761237029045",
@@ -3545,7 +3768,8 @@
       "confidence": 0.8,
       "reason": "User expresses positive sentiment with kudos and praise for benchmark details.",
       "classifiedAt": "2025-11-22T18:59:18.923Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992304636129316980",
@@ -3566,7 +3790,8 @@
       "confidence": 0.9,
       "reason": "User flagging content for Factory team, simple reference without specific issue or question.",
       "classifiedAt": "2025-11-22T18:59:18.923Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992304476670370261",
@@ -3587,7 +3812,8 @@
       "confidence": 0.9,
       "reason": "Factory is referenced in a discussion about AI development approaches, no action needed",
       "classifiedAt": "2025-11-22T18:51:43.934Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992304424279323094",
@@ -3608,7 +3834,8 @@
       "confidence": 0.8,
       "reason": "Positive endorsement stating Factory is worth it and expands productivity",
       "classifiedAt": "2025-11-22T18:51:43.934Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992304186994638975",
@@ -3629,7 +3856,8 @@
       "confidence": 0.85,
       "reason": "Expresses enthusiasm and desire to get Factory as a Christmas present",
       "classifiedAt": "2025-11-22T18:51:43.934Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992301906052653472",
@@ -3650,7 +3878,8 @@
       "confidence": 0.9,
       "reason": "User expresses positive sentiment with 'welcome addition!' showing praise for the feature.",
       "classifiedAt": "2025-11-22T18:41:34.122Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992301417516966132",
@@ -3671,7 +3900,8 @@
       "confidence": 0.95,
       "reason": "User reports a specific crashing bug with enter key that makes the product 'unusable' and mentions filing a bug report.",
       "classifiedAt": "2025-11-22T18:41:34.122Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992300780255388031",
@@ -3692,7 +3922,8 @@
       "confidence": 0.9,
       "reason": "User expresses positive sentiment saying price 'feels unlimited' which is praise for value.",
       "classifiedAt": "2025-11-22T18:41:34.122Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992300014954037496",
@@ -3713,7 +3944,8 @@
       "confidence": 0.8,
       "reason": "Simple agreement 'Yea' in reply to Factory mention without specific feedback or question.",
       "classifiedAt": "2025-11-22T18:41:34.122Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992299976005935615",
@@ -3734,7 +3966,8 @@
       "confidence": 0.7,
       "reason": "Vague expression of hope without specific question or clear sentiment about Factory.",
       "classifiedAt": "2025-11-22T18:41:34.122Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992299849694445634",
@@ -3755,7 +3988,8 @@
       "confidence": 0.8,
       "reason": "General observation about what 'so many people say' without direct Factory content or clear sentiment.",
       "classifiedAt": "2025-11-22T18:41:34.122Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992299390158184508",
@@ -3776,7 +4010,8 @@
       "confidence": 0.7,
       "reason": "Mentions trying Factory AI but content is primarily about personal action, not feedback or question.",
       "classifiedAt": "2025-11-22T18:41:34.122Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992296851417006322",
@@ -3797,7 +4032,8 @@
       "confidence": 0.9,
       "reason": "Factory is referenced in a discussion about orchestration focus, no action needed.",
       "classifiedAt": "2025-11-22T18:21:51.779Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992293370023268604",
@@ -3818,7 +4054,8 @@
       "confidence": 1,
       "reason": "Factory AI is referenced/shoutout but no specific action or sentiment expressed",
       "classifiedAt": "2025-11-22T18:08:43.513Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992290290246517065",
@@ -3839,7 +4076,8 @@
       "confidence": 0.9,
       "reason": "User is asking for clarification about the significance of Factory AI compared to other tools",
       "classifiedAt": "2025-11-22T17:54:23.066Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992290086441091207",
@@ -3860,7 +4098,8 @@
       "confidence": 0.85,
       "reason": "User expresses positive interest and willingness to try Factory AI ('Gotta try factory for sure')",
       "classifiedAt": "2025-11-22T17:54:23.066Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992289180496560562",
@@ -3881,7 +4120,8 @@
       "confidence": 0.9,
       "reason": "User references using Factory AI droids and skills in their project without specific sentiment or request",
       "classifiedAt": "2025-11-22T17:54:23.066Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992288162048249955",
@@ -3902,7 +4142,8 @@
       "confidence": 0.95,
       "reason": "Explicit praise for 'truly amazing reading experience' - positive sentiment towards Factory AI",
       "classifiedAt": "2025-11-22T17:46:22.421Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992286780402618791",
@@ -3923,7 +4164,8 @@
       "confidence": 0.85,
       "reason": "Uses 'truly beautiful and delivers excellent results' with positive sentiment, though mentions an issue with tokens",
       "classifiedAt": "2025-11-22T17:46:22.421Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992285964157518025",
@@ -3944,7 +4186,8 @@
       "confidence": 0.9,
       "reason": "Positive sentiment with phrase 'It's damn good!' expressing strong approval/praise",
       "classifiedAt": "2025-11-22T17:39:20.934Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992281407146873194",
@@ -3965,7 +4208,8 @@
       "confidence": 0.9,
       "reason": "User is asking FactoryAI to build a Water AI and Water Company, which is an explicit request/question",
       "classifiedAt": "2025-11-22T17:29:26.074Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992279614585278831",
@@ -3986,7 +4230,8 @@
       "confidence": 0.9,
       "reason": "Factory is referenced in a reply but no action needed or sentiment expressed",
       "classifiedAt": "2025-11-22T17:18:07.369Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992278681549455437",
@@ -4007,7 +4252,8 @@
       "confidence": 0.8,
       "reason": "Factory is referenced in a reply sharing an example, no specific sentiment",
       "classifiedAt": "2025-11-22T17:18:07.369Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992278236857040959",
@@ -4028,7 +4274,8 @@
       "confidence": 0.85,
       "reason": "Positive sentiment expressing impression and praise for DROID's ability to adapt and learn",
       "classifiedAt": "2025-11-22T17:18:07.369Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992277628506767489",
@@ -4049,7 +4296,8 @@
       "confidence": 0.9,
       "reason": "Simple mention of FactoryAI with no clear sentiment or question",
       "classifiedAt": "2025-11-22T17:06:32.106Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992277568343478516",
@@ -4070,7 +4318,8 @@
       "confidence": 0.85,
       "reason": "References FactoryAI in curiosity context but no explicit question",
       "classifiedAt": "2025-11-22T17:06:32.106Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992276992444567591",
@@ -4091,7 +4340,8 @@
       "confidence": 0.8,
       "reason": "Expresses negative opinion about Droid sign-up process but doesn't clearly fit bug complaint or question",
       "classifiedAt": "2025-11-22T17:06:32.106Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992273455723823134",
@@ -4112,7 +4362,8 @@
       "confidence": 0.9,
       "reason": "Factory is referenced with an intention to try but no specific action required",
       "classifiedAt": "2025-11-22T16:54:50.140Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992273234683924528",
@@ -4133,7 +4384,8 @@
       "confidence": 0.95,
       "reason": "Positive statement praising Droid as 'pretty great'",
       "classifiedAt": "2025-11-22T16:48:02.516Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992272199206776975",
@@ -4154,7 +4406,8 @@
       "confidence": 0.8,
       "reason": "Mentions Factory but is about setup time of unspecified things, not directly about Factory",
       "classifiedAt": "2025-11-22T16:48:02.516Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992271946961351041",
@@ -4175,7 +4428,8 @@
       "confidence": 0.9,
       "reason": "Simple mention as recommendation, no strong sentiment or question",
       "classifiedAt": "2025-11-22T16:48:02.516Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992271779176534117",
@@ -4196,7 +4450,8 @@
       "confidence": 0.95,
       "reason": "Strong positive statement calling it 'the best'",
       "classifiedAt": "2025-11-22T16:48:02.516Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992271276791259570",
@@ -4217,7 +4472,8 @@
       "confidence": 0.9,
       "reason": "Direct question about pricing and free trial details",
       "classifiedAt": "2025-11-22T16:48:02.516Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992271212106625101",
@@ -4238,7 +4494,8 @@
       "confidence": 0.85,
       "reason": "Simple mention with link, no clear sentiment or request",
       "classifiedAt": "2025-11-22T16:48:02.516Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992270857943789705",
@@ -4259,7 +4516,8 @@
       "confidence": 0.8,
       "reason": "Mentions Factory in context of not having tried it yet, no clear action needed",
       "classifiedAt": "2025-11-22T16:48:02.516Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992270671922201055",
@@ -4280,7 +4538,8 @@
       "confidence": 0.95,
       "reason": "Explicit question about whether Factory AI is free to try",
       "classifiedAt": "2025-11-22T16:48:02.516Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992270550379741351",
@@ -4301,7 +4560,8 @@
       "confidence": 1,
       "reason": "Strong positive feedback with specific compliments and praise",
       "classifiedAt": "2025-11-22T16:48:02.516Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992270005564485857",
@@ -4322,7 +4582,8 @@
       "confidence": 0.9,
       "reason": "General discussion about coding tools without mentioning FactoryAI specifically.",
       "classifiedAt": "2025-11-22T16:34:36.957Z"
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_1992269586583175385",
@@ -4343,7 +4604,8 @@
       "confidence": 1,
       "reason": "Directly mentions @FactoryAI as 'the actual best one' but doesn't ask question or report issue.",
       "classifiedAt": "2025-11-22T16:34:36.957Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992268020119437314",
@@ -4364,7 +4626,8 @@
       "confidence": 0.85,
       "reason": "Contains rhetorical question about when FactoryAI will make their own IDE.",
       "classifiedAt": "2025-11-22T16:34:36.957Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992267531382616184",
@@ -4385,7 +4648,8 @@
       "confidence": 0.9,
       "reason": "Includes @FactoryAI in a list of coding tools but no specific action required.",
       "classifiedAt": "2025-11-22T16:34:36.957Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992261964383556061",
@@ -4406,7 +4670,8 @@
       "confidence": 0.8,
       "reason": "User is asking about a specific feature (prompt enhancement) that Droid doesn't have. This is a feature request/question about product capabilities.",
       "classifiedAt": "2025-11-22T16:07:01.825Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992258254643298782",
@@ -4427,7 +4692,8 @@
       "confidence": 0.9,
       "reason": "FactoryAI is listed as one of many synchronous coding agents, just a reference without specific sentiment or question",
       "classifiedAt": "2025-11-22T15:54:49.351Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992258171038240869",
@@ -4448,7 +4714,8 @@
       "confidence": 0.85,
       "reason": "User is asking for a comparison between droid, opencode, and codex - explicit question",
       "classifiedAt": "2025-11-22T15:54:49.351Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992256444578877544",
@@ -4469,7 +4736,8 @@
       "confidence": 0.9,
       "reason": "Factory is referenced in a conversation but no specific action or sentiment is expressed",
       "classifiedAt": "2025-11-22T15:46:24.018Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992256370654224667",
@@ -4490,7 +4758,8 @@
       "confidence": 0.9,
       "reason": "Factory is referenced in a conversation but no specific action or sentiment is expressed",
       "classifiedAt": "2025-11-22T15:46:24.018Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992256123630710865",
@@ -4511,7 +4780,8 @@
       "confidence": 0.8,
       "reason": "User expressing excitement about testing DROID but no explicit question, bug report, or praise directed at Factory",
       "classifiedAt": "2025-11-22T15:38:38.822Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992251070752645599",
@@ -4532,7 +4802,8 @@
       "confidence": 1,
       "reason": "Factory is referenced with @ mention but no action needed",
       "classifiedAt": "2025-11-22T15:18:34.480Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992246626505871395",
@@ -4553,7 +4824,8 @@
       "confidence": 0.95,
       "reason": "Factory is referenced with @FactoryAI but no specific action, question, bug report, or positive sentiment is expressed",
       "classifiedAt": "2025-11-22T15:06:01.072Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992242182825406968",
@@ -4574,7 +4846,8 @@
       "confidence": 0.85,
       "reason": "Positive sentiment with 'really improving' and expresses positive evaluation of Factory AI's progress",
       "classifiedAt": "2025-11-22T14:48:55.106Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992239618109079889",
@@ -4595,7 +4868,8 @@
       "confidence": 0.95,
       "reason": "Factory is referenced in comparison with Droid but no action is requested",
       "classifiedAt": "2025-11-22T14:39:18.192Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992235123627151854",
@@ -4616,7 +4890,8 @@
       "confidence": 0.9,
       "reason": "User is explicitly asking about CLI rules and suggesting someone try asking what rules are being used",
       "classifiedAt": "2025-11-22T14:18:05.628Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992229647812338091",
@@ -4637,7 +4912,8 @@
       "confidence": 0.9,
       "reason": "User expresses positive sentiment praising the Codex CLI's performance and generous usage limits",
       "classifiedAt": "2025-11-22T13:54:25.444Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992228686561739099",
@@ -4658,7 +4934,8 @@
       "confidence": 0.85,
       "reason": "User expresses positive sentiment calling Droid CLI their favorite, though notes limitation with token consumption",
       "classifiedAt": "2025-11-22T13:54:25.444Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992227769506521469",
@@ -4679,7 +4956,8 @@
       "confidence": 0.8,
       "reason": "User mentions Factory AI and droid in comparison discussion, no explicit action needed",
       "classifiedAt": "2025-11-22T13:54:25.444Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992224646608126021",
@@ -4700,7 +4978,8 @@
       "confidence": 0.9,
       "reason": "Positive sentiment with 'objectively owns this space' indicating strong praise for FactoryAI",
       "classifiedAt": "2025-11-22T13:44:09.974Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992223614373183729",
@@ -4721,7 +5000,8 @@
       "confidence": 0.9,
       "reason": "User mentions Factory AI's new CLI feature but doesn't ask a question or action item",
       "classifiedAt": "2025-11-22T13:32:33.462Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992222356413338086",
@@ -4742,7 +5022,8 @@
       "confidence": 0.8,
       "reason": "User is asking about feature availability on Twitter/X platform",
       "classifiedAt": "2025-11-22T13:32:33.462Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992205337227931774",
@@ -4763,7 +5044,8 @@
       "confidence": 0.9,
       "reason": "User mentions Factory AI in comparison context but no action needed",
       "classifiedAt": "2025-11-22T12:24:12.618Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992204031658242078",
@@ -4784,7 +5066,8 @@
       "confidence": 0.85,
       "reason": "User mentions Factory AI in conversation but no explicit question or action requested",
       "classifiedAt": "2025-11-22T12:24:12.618Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992200850870349845",
@@ -4805,7 +5088,8 @@
       "confidence": 0.9,
       "reason": "User reports 'really bad experience with Gemini 3 in droid' indicating an issue or problem with the product.",
       "classifiedAt": "2025-11-22T12:09:12.384Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992197544365932672",
@@ -4826,7 +5110,8 @@
       "confidence": 0.95,
       "reason": "User explicitly asks 'how can i order one?' which is a direct question about obtaining a product.",
       "classifiedAt": "2025-11-22T11:54:27.925Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992193159200481555",
@@ -4847,7 +5132,8 @@
       "confidence": 0.9,
       "reason": "Negative sentiment but not a specific bug report or question",
       "classifiedAt": "2025-11-22T11:35:14.733Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992191263068602495",
@@ -4868,7 +5154,8 @@
       "confidence": 0.9,
       "reason": "Expresses jealousy but no action needed or explicit question/praise/bug",
       "classifiedAt": "2025-11-22T11:26:43.984Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992190476032909691",
@@ -4889,7 +5176,8 @@
       "confidence": 0.8,
       "reason": "Asks explicitly if one can be sent to Norway - direct question",
       "classifiedAt": "2025-11-22T11:26:43.984Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992189064406090142",
@@ -4910,7 +5198,8 @@
       "confidence": 0.95,
       "reason": "Strong positive sentiment with praise for Factory AI's capabilities and CLI experience.",
       "classifiedAt": "2025-11-22T11:17:29.155Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992188567926268171",
@@ -4931,7 +5220,8 @@
       "confidence": 0.85,
       "reason": "Explicit request/question asking for Factory AI availability in Switzerland.",
       "classifiedAt": "2025-11-22T11:17:29.155Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992187993201779071",
@@ -4952,7 +5242,8 @@
       "confidence": 0.7,
       "reason": "Simple agreement/reference without explicit question or strong sentiment.",
       "classifiedAt": "2025-11-22T11:17:29.155Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992187775576400254",
@@ -4973,7 +5264,8 @@
       "confidence": 0.8,
       "reason": "Referencing Factory AI as 'the OG' but no clear category applies.",
       "classifiedAt": "2025-11-22T11:17:29.155Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992183245694542084",
@@ -4994,7 +5286,8 @@
       "confidence": 0.9,
       "reason": "User asks a direct question about Warp being an IDE mentioning FactoryAI",
       "classifiedAt": "2025-11-22T10:54:21.083Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992183078241120479",
@@ -5015,7 +5308,8 @@
       "confidence": 0.85,
       "reason": "User expresses enthusiasm with 'LFG 🔥' and thanks showing positive sentiment",
       "classifiedAt": "2025-11-22T10:54:21.083Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992173754533974173",
@@ -5036,7 +5330,8 @@
       "confidence": 0.95,
       "reason": "Factory AI is mentioned in conversation about benchmarking but no specific action or request is made",
       "classifiedAt": "2025-11-22T10:19:35.436Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992171089422962740",
@@ -5057,7 +5352,8 @@
       "confidence": 0.95,
       "reason": "User is comparing features between Factory AI's CLI tool and Codex without expressing explicit sentiment or asking a direct question",
       "classifiedAt": "2025-11-22T10:06:30.571Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992169194977477097",
@@ -5078,7 +5374,8 @@
       "confidence": 0.85,
       "reason": "User is asking for a comparison between Claude Code and Droid with specific models, which is an explicit question",
       "classifiedAt": "2025-11-22T09:54:57.592Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992167683949793417",
@@ -5099,7 +5396,8 @@
       "confidence": 0.75,
       "reason": "Post contains emojis and mentions but no clear sentiment, question, or issue - appears to be just acknowledgment",
       "classifiedAt": "2025-11-22T09:54:57.592Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_418",
@@ -5118,7 +5416,8 @@
       "confidence": 0.95,
       "reason": "User reports an authentication issue with Figma MCP, indicating something is broken and not working as expected.",
       "classifiedAt": "2025-11-22T09:44:13.947Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "reddit_1p3olcg",
@@ -5137,7 +5436,8 @@
       "confidence": 0.9,
       "reason": "This is a product announcement/release note that does not fit into any of the defined categories (mention, bug, love, question). It's purely informational content about a CLI release.",
       "classifiedAt": "2025-11-22T09:07:46.557Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992152094363848930",
@@ -5158,7 +5458,8 @@
       "confidence": 0.85,
       "reason": "Positive hype and enthusiasm with 'gotta try it to believe the hype' suggests strong positive sentiment toward FactoryAI",
       "classifiedAt": "2025-11-22T08:49:30.169Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992152008447640017",
@@ -5179,7 +5480,8 @@
       "confidence": 0.75,
       "reason": "Reports that 'it stops doing what it said it will do' indicating a functional issue or bug with the product",
       "classifiedAt": "2025-11-22T08:49:30.169Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992148541582823522",
@@ -5200,7 +5502,8 @@
       "confidence": 0.9,
       "reason": "FactoryAI is referenced in a reply about alpha timing but no specific action or sentiment is directed at them",
       "classifiedAt": "2025-11-22T08:39:07.763Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992147919135289780",
@@ -5221,7 +5524,8 @@
       "confidence": 0.85,
       "reason": "Positive praise for FactoryAI's evolution in LLM coding tools, describing them as 'excellent' and 'pulling their weight'",
       "classifiedAt": "2025-11-22T08:39:07.763Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992129895095554536",
@@ -5242,7 +5546,8 @@
       "confidence": 0.9,
       "reason": "User reports CPU spike and performance issues with droid instance, describing technical problem that needs resolution.",
       "classifiedAt": "2025-11-22T07:18:42.592Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992128773848981972",
@@ -5263,7 +5568,8 @@
       "confidence": 0.95,
       "reason": "User reports CPU and temperature spikes when launching droid, plus issues with background process pop-up not responding to Esc key - clear technical bug report.",
       "classifiedAt": "2025-11-22T07:18:42.592Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992126054102962674",
@@ -5284,7 +5590,8 @@
       "confidence": 0.95,
       "reason": "Positive sentiment expressing praise with emojis and superlatives like 'best' and 'so much better'",
       "classifiedAt": "2025-11-22T07:06:35.931Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992125076511314388",
@@ -5305,7 +5612,8 @@
       "confidence": 0.8,
       "reason": "Positive reaction using phrase 'smoked it' to indicate excellent performance",
       "classifiedAt": "2025-11-22T07:06:35.931Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992124912849604896",
@@ -5326,7 +5634,8 @@
       "confidence": 0.8,
       "reason": "Positive outcome announcement showing Droid winning 3-0 benchmark",
       "classifiedAt": "2025-11-22T07:06:35.931Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992124711262966199",
@@ -5347,7 +5656,8 @@
       "confidence": 0.75,
       "reason": "Excited announcement about shipping benchmark, positive tone with 'finally shipped lol'",
       "classifiedAt": "2025-11-22T07:06:35.931Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992123402514280576",
@@ -5368,7 +5678,8 @@
       "confidence": 0.9,
       "reason": "FactoryAI is mentioned in a casual conversation without any specific sentiment or question.",
       "classifiedAt": "2025-11-22T06:54:59.443Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992123170762190900",
@@ -5389,7 +5700,8 @@
       "confidence": 0.8,
       "reason": "Expresses preference for Factory's product over Claude Code with positive comparison and sentiment.",
       "classifiedAt": "2025-11-22T06:54:59.443Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992120155309277633",
@@ -5410,7 +5722,8 @@
       "confidence": 0.9,
       "reason": "User is asking a specific question about workflow capabilities and requesting an example.",
       "classifiedAt": "2025-11-22T06:41:31.770Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992118066931700210",
@@ -5431,7 +5744,8 @@
       "confidence": 0.8,
       "reason": "User making a request that doesn't fit other categories - asking to destroy something again, unclear intent.",
       "classifiedAt": "2025-11-22T06:41:31.770Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992117331355701412",
@@ -5452,7 +5766,8 @@
       "confidence": 0.85,
       "reason": "User expressing positive sentiment describing Factory as a 'powerhouse' combination.",
       "classifiedAt": "2025-11-22T06:41:31.770Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992117022847545399",
@@ -5473,7 +5788,8 @@
       "confidence": 0.9,
       "reason": "Direct question asking 'What's the benefit of Droids here?' seeking information about FactoryAI product features",
       "classifiedAt": "2025-11-22T08:49:30.169Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992116456662966523",
@@ -5494,7 +5810,8 @@
       "confidence": 0.9,
       "reason": "User expressing strong positive sentiment about Sonnet in Factory, saying it 'hits different' and encouraging others to try.",
       "classifiedAt": "2025-11-22T06:41:31.770Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992111837715005939",
@@ -5515,7 +5832,8 @@
       "confidence": 0.8,
       "reason": "User is asking for troubleshooting guidance on AI model performance comparison",
       "classifiedAt": "2025-11-22T06:08:31.749Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992102545104523524",
@@ -5536,7 +5854,8 @@
       "confidence": 0.9,
       "reason": "Factory is mentioned as a planned use case for coding, no specific action or sentiment expressed.",
       "classifiedAt": "2025-11-22T05:32:01.590Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992099292065182168",
@@ -5557,7 +5876,8 @@
       "confidence": 0.9,
       "reason": "User praises FactoryAI for doing a good job building CLI tools and automating tasks. Expresses positive sentiment about product capabilities.",
       "classifiedAt": "2025-11-22T05:19:25.758Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992098429967990979",
@@ -5578,7 +5898,8 @@
       "confidence": 0.8,
       "reason": "User references FactoryAI in a conversation without expressing specific sentiment or asking a question - just acknowledging something they've seen.",
       "classifiedAt": "2025-11-22T05:19:25.758Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992097692131172397",
@@ -5599,7 +5920,8 @@
       "confidence": 0.85,
       "reason": "User gives approval with 'Approved, this message is' suggesting positive endorsement of FactoryAI.",
       "classifiedAt": "2025-11-22T05:19:25.758Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992088458106741125",
@@ -5620,7 +5942,8 @@
       "confidence": 0.9,
       "reason": "Factory AI is merely referenced in a casual conversation, no action needed or sentiment expressed",
       "classifiedAt": "2025-11-22T04:38:14.111Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992088293656482115",
@@ -5641,7 +5964,8 @@
       "confidence": 0.7,
       "reason": "User appears to be responding with agreement that makes sense in context of Factory AI, suggesting question/clarification",
       "classifiedAt": "2025-11-22T04:38:14.111Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992088187376947307",
@@ -5662,7 +5986,8 @@
       "confidence": 0.8,
       "reason": "Factory AI is referenced in a comparative comment, no specific action or sentiment",
       "classifiedAt": "2025-11-22T04:38:14.111Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992088034150687027",
@@ -5683,7 +6008,8 @@
       "confidence": 0.9,
       "reason": "User indicates they will check out Factory AI, neutral reference",
       "classifiedAt": "2025-11-22T04:38:14.111Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992087705367503231",
@@ -5704,7 +6030,8 @@
       "confidence": 0.95,
       "reason": "Explicit question asking for clarification about what user means by 'agentic stuff' in relation to Factory AI",
       "classifiedAt": "2025-11-22T04:38:14.111Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992086526386454953",
@@ -5725,7 +6052,8 @@
       "confidence": 0.85,
       "reason": "Factory AI is mentioned in a technical discussion about model speeds but no action is required",
       "classifiedAt": "2025-11-22T04:25:13.074Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992082543307575694",
@@ -5746,7 +6074,8 @@
       "confidence": 0.9,
       "reason": "Factory AI droid is mentioned as part of engineering stack, no action needed.",
       "classifiedAt": "2025-11-22T04:11:02.020Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992082466526662862",
@@ -5767,7 +6096,8 @@
       "confidence": 0.95,
       "reason": "Positive sentiment with 'good service sir' showing praise for Factory AI.",
       "classifiedAt": "2025-11-22T04:11:02.020Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992076945509761045",
@@ -5788,7 +6118,8 @@
       "confidence": 0.8,
       "reason": "User expresses positive sentiment with 'Good job' and appreciation for helps",
       "classifiedAt": "2025-11-22T03:49:32.530Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992075913916522566",
@@ -5809,7 +6140,8 @@
       "confidence": 0.9,
       "reason": "Simple mention/sharing without specific action or sentiment",
       "classifiedAt": "2025-11-22T03:49:32.530Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992075293696405774",
@@ -5830,7 +6162,8 @@
       "confidence": 0.7,
       "reason": "Positive review praising browser integration and success story",
       "classifiedAt": "2025-11-22T03:49:32.530Z"
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_1992074865894146098",
@@ -5851,7 +6184,8 @@
       "confidence": 0.9,
       "reason": "Simple mention/sharing link without specific action or sentiment",
       "classifiedAt": "2025-11-22T03:49:32.530Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992073575571103934",
@@ -5872,7 +6206,8 @@
       "confidence": 0.95,
       "reason": "Positive praise for Factory AI raising the bar, enthusiastic tone with superlative language",
       "classifiedAt": "2025-11-22T03:34:46.535Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992073571137724927",
@@ -5893,7 +6228,8 @@
       "confidence": 0.98,
       "reason": "Highly positive comparison describing Droid as ideal senior dev, praising multiple capabilities",
       "classifiedAt": "2025-11-22T03:34:46.535Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992073554872107012",
@@ -5914,7 +6250,8 @@
       "confidence": 0.92,
       "reason": ">Positive comparison showing Droid outperforming competitor, praising perfect execution vs small miss",
       "classifiedAt": "2025-11-22T03:34:46.535Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992073542645469193",
@@ -5935,7 +6272,8 @@
       "confidence": 0.93,
       "reason": "Positive praise highlighting Droid's superior performance and error-handling capabilities",
       "classifiedAt": "2025-11-22T03:34:46.535Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992073530792636876",
@@ -5956,7 +6294,8 @@
       "confidence": 0.9,
       "reason": "Highly enthusiastic thread praising Droid's performance, calling it an embarrassing win for competitors",
       "classifiedAt": "2025-11-22T03:34:46.535Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992071730853269541",
@@ -5977,7 +6316,8 @@
       "confidence": 0.85,
       "reason": "Political criticism unrelated to Factory product, mentions Factory in negative context but not about product",
       "classifiedAt": "2025-11-22T03:34:46.535Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992071682241261654",
@@ -5998,7 +6338,8 @@
       "confidence": 0.88,
       "reason": "User reporting specific issues with Slack integration and support page - clear bug report",
       "classifiedAt": "2025-11-22T03:34:46.535Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992065995624853543",
@@ -6019,7 +6360,8 @@
       "confidence": 0.8,
       "reason": "User is providing a suggestion/instruction to Factory AI, which falls under asking Factory to implement something specific.",
       "classifiedAt": "2025-11-22T03:13:39.331Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992055448363540773",
@@ -6040,7 +6382,8 @@
       "confidence": 0.95,
       "reason": "Strong positive sentiment praising Factory AI as a superior product with better service than providers",
       "classifiedAt": "2025-11-22T02:44:13.540Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992051174187717032",
@@ -6061,7 +6404,8 @@
       "confidence": 0.9,
       "reason": "Post uses positive slang 'goated' to praise Factory AI products",
       "classifiedAt": "2025-11-22T02:09:30.226Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992050519980851359",
@@ -6082,7 +6426,8 @@
       "confidence": 0.8,
       "reason": "Comparative analysis of Factory AI products without emotional sentiment or specific issue",
       "classifiedAt": "2025-11-22T02:09:30.226Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992042843922178347",
@@ -6103,7 +6448,8 @@
       "confidence": 0.7,
       "reason": "Feature request/suggestion without explicit question format",
       "classifiedAt": "2025-11-22T02:09:30.226Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992042584995422321",
@@ -6124,7 +6470,8 @@
       "confidence": 0.9,
       "reason": "Clear report of UI bug where task appears finished but interface shows still thinking",
       "classifiedAt": "2025-11-22T02:09:30.226Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992040968271405508",
@@ -6145,7 +6492,8 @@
       "confidence": 0.8,
       "reason": "Author is asking for feedback on how Factory can improve, which is an explicit question seeking input.",
       "classifiedAt": "2025-11-22T01:24:33.146Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992032132777078922",
@@ -6166,7 +6514,8 @@
       "confidence": 0.95,
       "reason": "User expresses strong positive sentiment with 'magic holy shit' praising Factory AI Droid's performance.",
       "classifiedAt": "2025-11-22T00:50:21.869Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992027975651635639",
@@ -6187,7 +6536,8 @@
       "confidence": 0.9,
       "reason": "User describes Factory AI as 'the best harness for mixed model coding' showing strong positive sentiment.",
       "classifiedAt": "2025-11-22T00:50:21.869Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992027483303260595",
@@ -6208,7 +6558,8 @@
       "confidence": 0.85,
       "reason": "User praises GPT 5.1 as 'a beast' while discussing it positively in context with Factory AI.",
       "classifiedAt": "2025-11-22T00:50:21.869Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992024201096777920",
@@ -6229,7 +6580,8 @@
       "confidence": 0.9,
       "reason": "User mentions FactoryAI in casual conversation about timeline, no specific action needed",
       "classifiedAt": "2025-11-22T00:23:30.387Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992024019814785508",
@@ -6250,7 +6602,8 @@
       "confidence": 0.85,
       "reason": "Response to conversation mentioning FactoryAI, no specific issue or question",
       "classifiedAt": "2025-11-22T00:23:30.387Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_issue_415",
@@ -6269,7 +6622,8 @@
       "confidence": 1,
       "reason": "Explicit bug report about inability to paste images as attachments after update",
       "classifiedAt": "2025-11-22T00:23:30.387Z"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992022451317047617",
@@ -6290,7 +6644,8 @@
       "confidence": 0.95,
       "reason": "Positive sentiment with 'gooooood' indicating praise for FactoryAI",
       "classifiedAt": "2025-11-22T00:23:30.387Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992021657930854408",
@@ -6311,7 +6666,8 @@
       "confidence": 0.85,
       "reason": "Explicit question asking for comparison between Factory and Amp",
       "classifiedAt": "2025-11-22T00:23:30.387Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992020434888560893",
@@ -6332,7 +6688,8 @@
       "confidence": 0.8,
       "reason": "Questioning where someone has been, directed at FactoryAI context",
       "classifiedAt": "2025-11-22T00:23:30.387Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992019178434560210",
@@ -6353,7 +6710,8 @@
       "confidence": 0.9,
       "reason": "Describing FactoryAI as 'better Claude Code with multiple models' - informational reference",
       "classifiedAt": "2025-11-22T00:23:30.387Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992017619386597552",
@@ -6374,7 +6732,8 @@
       "confidence": 0.95,
       "reason": "Explicit question directed to FactoryAI asking about preferences",
       "classifiedAt": "2025-11-21T23:54:46.267Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992015068146680055",
@@ -6395,7 +6754,8 @@
       "confidence": 1,
       "reason": "FactoryAI is referenced in a casual conversation context with no specific action requested or sentiment expressed.",
       "classifiedAt": "2025-11-21T23:47:00.747Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992013687721513313",
@@ -6416,7 +6776,8 @@
       "confidence": 0.95,
       "reason": "User is asking a direct question about Antigravity usage, which requires a response.",
       "classifiedAt": "2025-11-21T23:38:42.899Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992013438101635350",
@@ -6437,7 +6798,8 @@
       "confidence": 0.9,
       "reason": "User is reporting a specific issue with signup verification failing and blocking their access.",
       "classifiedAt": "2025-11-21T23:38:42.899Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992012176379576831",
@@ -6458,7 +6820,8 @@
       "confidence": 0.9,
       "reason": "Author expresses positive sentiment calling organic love 'the dream' in context of Factory",
       "classifiedAt": "2025-11-21T23:29:42.539Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992011821373649072",
@@ -6479,7 +6842,8 @@
       "confidence": 0.8,
       "reason": "Direct question asking 'who would win in droids v bots?' to Factory",
       "classifiedAt": "2025-11-21T23:29:42.539Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992011582931628301",
@@ -6500,7 +6864,8 @@
       "confidence": 0.95,
       "reason": "Detailed positive comparison praising Factory Droid over Claude Code, highlighting superior UX",
       "classifiedAt": "2025-11-21T23:29:42.539Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992010460112314536",
@@ -6521,7 +6886,8 @@
       "confidence": 0.8,
       "reason": "Factory mentioned in discussion about organic marketing vs paid promotion",
       "classifiedAt": "2025-11-21T23:29:42.539Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992010268315099419",
@@ -6542,7 +6908,8 @@
       "confidence": 0.9,
       "reason": "Strong positive statement calling Factory 'truly an amazing tool'",
       "classifiedAt": "2025-11-21T23:29:42.539Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1992009458625437993",
@@ -6563,7 +6930,8 @@
       "confidence": 0.85,
       "reason": "User reports an issue with Droid taking unwanted actions despite instructions to plan only",
       "classifiedAt": "2025-11-21T23:18:44.111Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992009283375169714",
@@ -6584,7 +6952,8 @@
       "confidence": 0.75,
       "reason": "Comment about growth metrics without specific praise or question",
       "classifiedAt": "2025-11-21T23:18:44.111Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992004607837618293",
@@ -6605,7 +6974,8 @@
       "confidence": 0.95,
       "reason": "This is a speculative/fictional prediction about future AI market scenarios, not a direct question, bug report, or actionable mention.",
       "classifiedAt": "2025-11-21T23:06:41.024Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1992004326462795998",
@@ -6626,7 +6996,8 @@
       "confidence": 0.9,
       "reason": "User is asking a specific question about Factory AI's product offering - whether it has CLI and VS Code extension options.",
       "classifiedAt": "2025-11-21T23:06:41.024Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1992002273942315487",
@@ -6647,7 +7018,8 @@
       "confidence": 0.9,
       "reason": "Positive sentiment and praise for Factory AI",
       "classifiedAt": "2025-11-21T22:54:53.823Z"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "github_issue_414",
@@ -6666,7 +7038,8 @@
       "confidence": 0.9,
       "reason": "Explicit question about terminal bench performance and future plans despite positive framing.",
       "classifiedAt": "2025-11-21T22:45:31.434Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1991997913065738624",
@@ -6687,7 +7060,8 @@
       "confidence": 0.8,
       "reason": "Factory is referenced in reply but no specific issue, praise, or question directed at them.",
       "classifiedAt": "2025-11-21T22:45:31.434Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1991996915303825727",
@@ -6708,7 +7082,8 @@
       "confidence": 1,
       "reason": "FactoryAI is mentioned but no specific action or sentiment is directed at them",
       "classifiedAt": "2025-11-21T22:32:32.427Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1991996841664430504",
@@ -6729,7 +7104,8 @@
       "confidence": 1,
       "reason": "FactoryAI is mentioned in a conversation between users but not the main target",
       "classifiedAt": "2025-11-21T22:32:32.427Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1991996209398161632",
@@ -6750,7 +7126,8 @@
       "confidence": 1,
       "reason": "FactoryAI is referenced in ongoing conversation between other users",
       "classifiedAt": "2025-11-21T22:32:32.427Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1991995791242866988",
@@ -6771,7 +7148,8 @@
       "confidence": 1,
       "reason": "FactoryAI is mentioned in conversation between other users, no direct engagement",
       "classifiedAt": "2025-11-21T22:32:32.427Z"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1991995371414032623",
@@ -6792,7 +7170,8 @@
       "confidence": 1,
       "reason": "FactoryAI is mentioned between users discussing regulation, no specific action needed",
       "classifiedAt": "2025-11-21T22:32:32.427Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1991993063116583328",
@@ -6813,7 +7192,8 @@
       "confidence": 0.9,
       "reason": "User references FactoryAI but no action needed - just acknowledging mention",
       "classifiedAt": "2025-11-21T22:18:52.241Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1991985297853419729",
@@ -6834,7 +7214,8 @@
       "confidence": 0.9,
       "reason": "FactoryAI is referenced in a quote but no specific action or sentiment is directed at Factory",
       "classifiedAt": "2025-11-21T21:47:31.286Z"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "reddit_1p0ksg7",
@@ -6847,7 +7228,8 @@
       "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_issue_381",
@@ -6860,7 +7242,8 @@
       "type": "issue",
       "labels": [],
       "number": 381
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1p0glpz",
@@ -6873,7 +7256,8 @@
       "score": 10,
       "num_comments": 5,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1p0bc2n",
@@ -6886,7 +7270,8 @@
       "score": 1,
       "num_comments": 4,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_379",
@@ -6899,7 +7284,8 @@
       "type": "issue",
       "labels": [],
       "number": 379
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1p0a05d",
@@ -6912,7 +7298,8 @@
       "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_378",
@@ -6925,7 +7312,8 @@
       "type": "issue",
       "labels": [],
       "number": 378
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_discussion_374",
@@ -6938,7 +7326,8 @@
       "type": "discussion",
       "category": "General",
       "number": 374
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "reddit_1oz18qh",
@@ -6951,7 +7340,8 @@
       "score": 3,
       "num_comments": 5,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1oys5f5",
@@ -6964,7 +7354,8 @@
       "score": 2,
       "num_comments": 1,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_372",
@@ -6977,7 +7368,8 @@
       "type": "issue",
       "labels": [],
       "number": 372
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_371",
@@ -6990,7 +7382,8 @@
       "type": "issue",
       "labels": [],
       "number": 371
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_370",
@@ -7003,7 +7396,8 @@
       "type": "issue",
       "labels": [],
       "number": 370
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_issue_369",
@@ -7016,7 +7410,8 @@
       "type": "issue",
       "labels": [],
       "number": 369
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_discussion_361",
@@ -7029,7 +7424,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 361
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_360",
@@ -7042,7 +7438,8 @@
       "type": "issue",
       "labels": [],
       "number": 360
-    }
+    },
+    "category": "other"
   },
   {
     "id": "github_issue_348",
@@ -7055,7 +7452,8 @@
       "type": "issue",
       "labels": [],
       "number": 348
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_345",
@@ -7068,7 +7466,8 @@
       "type": "issue",
       "labels": [],
       "number": 345
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_discussion_309",
@@ -7081,7 +7480,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 309
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_discussion_240",
@@ -7094,7 +7494,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
+    },
+    "category": "other"
   },
   {
     "id": "github_discussion_225",
@@ -7107,7 +7508,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
+    },
+    "category": "other"
   },
   {
     "id": "github_discussion_223",
@@ -7120,7 +7522,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_discussion_214",
@@ -7133,7 +7536,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
+    },
+    "category": "other"
   },
   {
     "id": "github_discussion_164",
@@ -7146,7 +7550,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 164
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_151",
@@ -7159,7 +7564,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 151
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_108",
@@ -7172,7 +7578,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 108
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_99",
@@ -7185,7 +7592,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 99
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_95",
@@ -7198,7 +7606,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 95
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_92",
@@ -7211,7 +7620,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 92
-    }
+    },
+    "category": "other"
   },
   {
     "id": "github_discussion_82",
@@ -7224,7 +7634,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 82
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_72",
@@ -7237,7 +7648,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 72
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_66",
@@ -7250,7 +7662,8 @@
       "type": "discussion",
       "category": "Show + tell",
       "number": 66
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_65",
@@ -7263,7 +7676,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 65
-    }
+    },
+    "category": "other"
   },
   {
     "id": "github_discussion_59",
@@ -7276,6 +7690,7 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 59
-    }
+    },
+    "category": "mention"
   }
 ]
