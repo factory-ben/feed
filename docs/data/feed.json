@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992711898845041130",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@deliprao @makerfounder @FactoryAI can use a proxy",
+    "url": "https://x.com/bentossell/status/1992711898845041130",
+    "timestamp": "2025-11-23T21:48:34.000Z",
+    "metadata": {
+      "conversation_id": "1992711898845041130",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992711431381459224",
+    "source": "twitter",
+    "author": "lsj5031",
+    "content": "Tech salad: Python/C#/Svelte/JS for these, but my last gig? Rust/Solidity/TypeScript wizardry. Satisfied dogfooders here, but hey – rough edges = collab fuel. Huge shout to\n@opencode @AmpCode @FactoryAI @ctodotnew especially @thdxr \nEconomy tough? Let's hack wins. DMs wide open for job leads, build ideas, or just \"hey, Auckland coffee?\". What's your slump-buster tool? Quote-RT yours; best gets a custom Hoppy tweak. Stars = rocket fuel.  #OpenSource #IndieDev #NZTech",
+    "url": "https://x.com/lsj5031/status/1992711431381459224",
+    "timestamp": "2025-11-23T21:46:42.000Z",
+    "metadata": {
+      "conversation_id": "1992711431381459224",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992702403263766866",
     "source": "twitter",
     "author": "bentossell",
@@ -8168,6 +8198,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1oydnzt",
+    "source": "reddit",
+    "author": "EggNo4904",
+    "content": "When i put my real number this is what i get ( i moved it out, also the pretty print some vercel blocks heard a lot of droid would love to be able to try it)\n\nImages:\n\thttps://preview.redd.it/huzzfboe3k1g1.png?auto=webp&amp;s=f342b5e1a1ba7e0c301f58a658fd42ac56fe6535\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oydnzt/when_i_put_my_real_number_this_is_what_i_get_i/",
+    "timestamp": "2025-11-16T05:38:43.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_issue_372",
