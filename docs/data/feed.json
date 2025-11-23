@@ -7636,6 +7636,19 @@
     "category": "mention"
   },
   {
+    "id": "github_issue_383",
+    "source": "github",
+    "author": "bimapopo345",
+    "content": "[Issue] Bug: Terminal UI Input Prompt Fails to Render in Large Repositories (v0.26.6)\n\n## 🐛 Bug: Terminal UI Input Prompt Fails to Render in Large Repositories (v0.26.6)\n\n### 📝 Description\nWhen executing the `droid` command within a large project directory, the interactive chat prompt (`> /` or `>>`) at the bottom of the terminal is completely missing or cut off. All initialization logs and the DROID logo appear successfully, but the interface is incomplete, making the CLI unusable in that specific directory.\n\nThe Droid CLI launches and renders the input prompt correctly when ex",
+    "url": "https://github.com/Factory-AI/factory/issues/383",
+    "timestamp": "2025-11-19T03:19:35Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 383
+    }
+  },
+  {
     "id": "reddit_1p0ksg7",
     "source": "reddit",
     "author": "bentossell",
