@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1992437964690129344",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@makerfounder @antigravity @FactoryAI Did you have any special agent files or anything else for both",
+    "url": "https://x.com/martin_ict_algo/status/1992437964690129344",
+    "timestamp": "2025-11-23T03:40:03.000Z",
+    "metadata": {
+      "conversation_id": "1992437964690129344",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_420",
+    "source": "github",
+    "author": "tzutoo",
+    "content": "[Issue] [CLI] MCP error -32001:  Request timed out\n\nMCP tool calling should add ability to configure timeout setting like Codex or Claude Code to preview MCP error -32001:  Request timed out.\n\nThis is quite useful when calling tools like RepoPrompt (since it will write long running tasks before returning result back to Factory Droid CLI.)\n",
+    "url": "https://github.com/Factory-AI/factory/issues/420",
+    "timestamp": "2025-11-23T03:38:20Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 420
+    }
+  },
+  {
+    "id": "twitter_1992430718627217485",
+    "source": "twitter",
+    "author": "BananaSauce_",
+    "content": "@makerfounder @antigravity @FactoryAI How does one revert/undochanges made in droid?",
+    "url": "https://x.com/BananaSauce_/status/1992430718627217485",
+    "timestamp": "2025-11-23T03:11:15.000Z",
+    "metadata": {
+      "conversation_id": "1992430718627217485",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992429469710344343",
     "source": "twitter",
     "author": "fcoury",
