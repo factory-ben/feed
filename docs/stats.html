@@ -547,6 +547,14 @@
     .chart-bar-fill.twitter { background: var(--twitter-color); }
     .chart-bar-fill.reddit { background: var(--reddit-color); }
     .chart-bar-fill.github { background: var(--github-color); }
+    
+    /* Category colors - matching main feed */
+    .chart-bar-fill.mention { background: #4338ca; }
+    .chart-bar-fill.bug { background: #dc2626; }
+    .chart-bar-fill.love { background: #16a34a; }
+    .chart-bar-fill.question { background: #d97706; }
+    .chart-bar-fill.other,
+    .chart-bar-fill.uncategorized { background: #6b7280; }
 
     .list-item {
       display: flex;
@@ -966,17 +974,17 @@
               <span class="stat-card-title">By Category</span>
               <i data-lucide="tag" class="stat-card-icon"></i>
             </div>
-            <div class="chart-container">
+            <div class="chart">
               ${Object.entries(byCategory).sort((a, b) => b[1] - a[1]).map(([cat, count]) => {
-                const maxCount = Math.max(...Object.values(byCategory));
-                const percentage = maxCount > 0 ? (count / maxCount) * 100 : 0;
+                const maxCategoryCount = Math.max(...Object.values(byCategory));
                 return `
-                  <div class="chart-bar-row">
-                    <span class="chart-bar-label">${cat.charAt(0).toUpperCase() + cat.slice(1)}</span>
-                    <div class="chart-bar-wrapper">
-                      <div class="chart-bar" style="width: ${percentage}%"></div>
+                  <div class="chart-bar">
+                    <div class="chart-label">${cat.charAt(0).toUpperCase() + cat.slice(1)}</div>
+                    <div class="chart-bar-bg">
+                      <div class="chart-bar-fill ${cat}" style="width: ${(count / maxCategoryCount) * 100}%">
+                        ${count}
+                      </div>
                     </div>
-                    <span class="chart-bar-value">${count}</span>
                   </div>
                 `;
               }).join('')}
