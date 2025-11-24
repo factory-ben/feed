@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993064027707330775",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@bentossell @FactoryAI @AnthropicAI brt",
+    "url": "https://x.com/NickSloggett/status/1993064027707330775",
+    "timestamp": "2025-11-24T21:07:48.000Z",
+    "metadata": {
+      "conversation_id": "1993064027707330775",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993063843434840092",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@NickSloggett @FactoryAI @AnthropicAI not long - join discord, i'll be opening early access there soon https://t.co/Vsxt781YOZ",
+    "url": "https://x.com/bentossell/status/1993063843434840092",
+    "timestamp": "2025-11-24T21:07:04.000Z",
+    "metadata": {
+      "conversation_id": "1993063843434840092",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993063509404663947",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@bentossell @FactoryAI @AnthropicAI wen gui",
+    "url": "https://x.com/NickSloggett/status/1993063509404663947",
+    "timestamp": "2025-11-24T21:05:44.000Z",
+    "metadata": {
+      "conversation_id": "1993063509404663947",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993063429335298352",
     "source": "twitter",
     "author": "bentossell",
