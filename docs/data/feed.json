@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1992986712616677778",
+    "source": "twitter",
+    "author": "meTheKarthik",
+    "content": "@bentossell @FactoryAI also @bentossell i've noticed in the latest update that gemini 3.0 has a difficult time exiting the spec mode. it just mentions it needs to something and gets stuck. \n\ni have to manually nudge it. https://t.co/DzLvsIUUEC",
+    "url": "https://x.com/meTheKarthik/status/1992986712616677778",
+    "timestamp": "2025-11-24T16:00:34.000Z",
+    "metadata": {
+      "conversation_id": "1992986712616677778",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992980604887970073",
     "source": "twitter",
     "author": "bentossell",
