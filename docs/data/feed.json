@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993059009247776888",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@masfiq018 @FactoryAI Well, since I have it working with Factory Droid and CLIProxyAPI (required PR to add the model slug support to CLIProxyAPI), you might be barking at the wrong people... have you checked if the proxy you use has added the slug yet (that i knows about it) so it can route?",
+    "url": "https://x.com/benvargas/status/1993059009247776888",
+    "timestamp": "2025-11-24T20:47:51.000Z",
+    "metadata": {
+      "conversation_id": "1993059009247776888",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993058324812906598",
     "source": "twitter",
     "author": "masfiq018",
