@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992880020520366457",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "It's finally here! @Zai_org released the local Vision MCP.\n\nDid some first tests in Claude code, and it's quite impressive. Waiting for it to be working on @FactoryAI's Droid CLI.\n \nIn the meantime, you can already add it:\n\nCC: claude mcp add -s user zai-mcp-server --env Z_AI_API_KEY=your_api_key Z_AI_MODE=ZAI -- npx -y \"@z_ai/mcp-server\"\n\nDroid CLI: droid mcp add zai-vision \"npx -y @z_ai/mcp-server\" --env Z_AI_API_KEY=your_api_key \n--env=Z_AI_MODE=ZAI",
+    "url": "https://x.com/bradvangelder/status/1992880020520366457",
+    "timestamp": "2025-11-24T08:56:37.000Z",
+    "metadata": {
+      "conversation_id": "1992880020520366457",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992877717575102971",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "Hi @FactoryAI @bentossell Would it be possible to enable image pasting when the new ZAI Vision MCP is enabled? https://t.co/XBQoXVlRnr",
+    "url": "https://x.com/bradvangelder/status/1992877717575102971",
+    "timestamp": "2025-11-24T08:47:28.000Z",
+    "metadata": {
+      "conversation_id": "1992877717575102971",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992874089825075530",
     "source": "twitter",
     "author": "launchaddict",
@@ -8852,6 +8882,19 @@
       "number": 345
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_341",
+    "source": "github",
+    "author": "580ai",
+    "content": "[Issue] droid：It seems that the maximum output tokens will not be outputted anymore once they reach 8192\n\nIt will suddenly terminate and then remain stuck without returning any content until the maximum timeout is reached",
+    "url": "https://github.com/Factory-AI/factory/issues/341",
+    "timestamp": "2025-11-12T08:46:22Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 341
+    }
   },
   {
     "id": "github_discussion_309",
