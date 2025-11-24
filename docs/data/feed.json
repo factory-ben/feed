@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993044879468024194",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Added Opus 4.5 to @FactoryAI via BYOK subscription support - CLIProxyAPI support PR'd and pending merge. https://t.co/HygyhOWblk",
+    "url": "https://x.com/benvargas/status/1993044879468024194",
+    "timestamp": "2025-11-24T19:51:42.000Z",
+    "metadata": {
+      "conversation_id": "1993044879468024194",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993043615753310253",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@aeitroc @FactoryAI Send you a dm",
+    "url": "https://x.com/pascallammers_/status/1993043615753310253",
+    "timestamp": "2025-11-24T19:46:41.000Z",
+    "metadata": {
+      "conversation_id": "1993043615753310253",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993043108997874180",
+    "source": "twitter",
+    "author": "darshil",
+    "content": "every model launch makes it even more clear that @factoryai has the potential to win here\n\nalmost like the plaid for coding agents",
+    "url": "https://x.com/darshil/status/1993043108997874180",
+    "timestamp": "2025-11-24T19:44:40.000Z",
+    "metadata": {
+      "conversation_id": "1993043108997874180",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993040795386224869",
     "source": "twitter",
     "author": "ofadev",
