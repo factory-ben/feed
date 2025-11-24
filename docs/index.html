@@ -256,6 +256,14 @@
       margin-left: calc(-1 * var(--sidebar-width));
     }
     
+    .sidebar-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.5);
+      z-index: 35;
+    }
+    
     .sidebar-nav {
       flex: 1;
       overflow-y: auto;
@@ -276,6 +284,39 @@
       margin-top: auto;
       padding-top: 16px;
       border-top: 1px solid var(--border);
+    }
+    
+    .sidebar-commands-section .sidebar-section-title {
+      cursor: pointer;
+      user-select: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: color 0.15s;
+    }
+    
+    .sidebar-commands-section .sidebar-section-title:hover {
+      color: var(--text);
+    }
+    
+    .sidebar-commands-section .sidebar-section-title svg {
+      width: 12px;
+      height: 12px;
+      transition: transform 0.2s;
+    }
+    
+    .sidebar-commands-section.collapsed .sidebar-section-title svg {
+      transform: rotate(-90deg);
+    }
+    
+    .sidebar-commands-list {
+      max-height: 500px;
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+    }
+    
+    .sidebar-commands-section.collapsed .sidebar-commands-list {
+      max-height: 0;
     }
     
     .sidebar-section-title {
@@ -1076,13 +1117,26 @@
         flex: 0 1 auto;
       }
       
-      .multi-select-toggle-nav {
-        order: 10;
-        margin-right: 4px;
+      .secondary-nav-right {
+        display: flex;
+        align-items: center;
+        gap: 8px;
       }
       
-      .display-selector {
-        order: 11;
+      .bulk-actions-bar {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        max-width: calc(100vw - 32px);
+        padding: 6px;
+      }
+      
+      .bulk-selection-info {
+        padding: 4px 8px;
+      }
+      
+      .bulk-count {
+        white-space: nowrap;
+        font-size: 12px;
       }
       
       .sidebar {
@@ -1096,6 +1150,14 @@
       
       .sidebar.collapsed {
         margin-left: calc(-1 * var(--sidebar-width) - 20px);
+      }
+      
+      .sidebar-overlay {
+        display: none;
+      }
+      
+      .sidebar:not(.collapsed) ~ .sidebar-overlay {
+        display: block;
       }
       
       .app-header { 
@@ -1330,29 +1392,34 @@
       </div>
     </div>
     
-    <button class="icon-btn multi-select-toggle-nav" id="multiSelectToggleNav" title="Multi-select" style="display: none;">
-      <i data-lucide="check-square"></i>
-    </button>
-    
-    <div class="display-selector">
-      <button class="display-btn" id="displayBtn">
-        <i data-lucide="layout-grid"></i>
-        <span id="displayLabel">Compact</span>
-        <i data-lucide="chevron-down" style="width: 12px; height: 12px;"></i>
+    <div class="secondary-nav-right">
+      <button class="icon-btn multi-select-toggle-nav" id="multiSelectToggleNav" title="Multi-select" style="display: none;">
+        <i data-lucide="check-square"></i>
       </button>
-      <div class="display-dropdown" id="displayDropdown">
-        <div class="display-option selected" data-mode="compact">
-          <span>Compact</span>
-          <i data-lucide="check" style="width: 14px; height: 14px;"></i>
-        </div>
-        <div class="display-option" data-mode="detailed">
-          <span>Detailed</span>
+      
+      <div class="display-selector">
+        <button class="display-btn" id="displayBtn">
+          <i data-lucide="layout-grid"></i>
+          <span id="displayLabel">Compact</span>
+          <i data-lucide="chevron-down" style="width: 12px; height: 12px;"></i>
+        </button>
+        <div class="display-dropdown" id="displayDropdown">
+          <div class="display-option selected" data-mode="compact">
+            <span>Compact</span>
+            <i data-lucide="check" style="width: 14px; height: 14px;"></i>
+          </div>
+          <div class="display-option" data-mode="detailed">
+            <span>Detailed</span>
+          </div>
         </div>
       </div>
     </div>
   </nav>
 
   <div class="main-wrapper">
+    <!-- Sidebar Overlay (mobile only) -->
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+    
     <!-- Sidebar -->
     <aside class="sidebar" id="sidebar">
       
@@ -1376,42 +1443,51 @@
         </div>
         
         <div class="sidebar-section sidebar-commands-section">
-          <div class="sidebar-section-title">Commands</div>
-          <div class="sidebar-command">
-            <kbd>← / →</kbd>
-            <span>Toggle sidebar</span>
+          <div class="sidebar-section-title">
+            Commands
+            <i data-lucide="chevron-down"></i>
           </div>
-          <div class="sidebar-command">
-            <kbd>↑/↓ or J/K</kbd>
-            <span>Navigate</span>
-          </div>
-          <div class="sidebar-command">
-            <kbd>X</kbd>
-            <span>Select</span>
-          </div>
-          <div class="sidebar-command">
-            <kbd>E</kbd>
-            <span>Archive</span>
-          </div>
-          <div class="sidebar-command">
-            <kbd>Enter</kbd>
-            <span>Open</span>
-          </div>
-          <div class="sidebar-command">
-            <kbd>⌘ Enter</kbd>
-            <span>Open in new tab</span>
-          </div>
-          <div class="sidebar-command">
-            <kbd>R</kbd>
-            <span>Refresh</span>
-          </div>
-          <div class="sidebar-command">
-            <kbd>Shift X</kbd>
-            <span>Multi-select mode</span>
-          </div>
-          <div class="sidebar-command">
-            <kbd>Esc</kbd>
-            <span>Clear selection</span>
+          <div class="sidebar-commands-list">
+            <div class="sidebar-command">
+              <kbd>← / →</kbd>
+              <span>Toggle sidebar</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>↑/↓ or J/K</kbd>
+              <span>Navigate</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>X</kbd>
+              <span>Select</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>E</kbd>
+              <span>Archive</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>Enter</kbd>
+              <span>Open</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>⌘ Enter</kbd>
+              <span>Open in new tab</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>R</kbd>
+              <span>Refresh</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>Shift X</kbd>
+              <span>Multi-select mode</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>Shift Click</kbd>
+              <span>Range select</span>
+            </div>
+            <div class="sidebar-command">
+              <kbd>Esc</kbd>
+              <span>Clear selection</span>
+            </div>
           </div>
         </div>
       </nav>
@@ -1449,6 +1525,7 @@
   <div id="settingsModal" class="overlay">
     <div class="modal" style="max-width: 600px;">
       <h2>Configuration</h2>
+      <p style="font-size: 13px; margin-bottom: 16px;">Add usernames to <code>hiddenAuthors</code> array to hide posts from specific authors (e.g., your own posts).</p>
       <textarea id="configInput" style="height: 300px; font-family: monospace; font-size: 12px;"></textarea>
       <div style="display: flex; gap: 10px;">
         <button id="saveConfigBtn">Save Changes</button>
@@ -1479,7 +1556,8 @@
       focusedId: null,
       config: {},
       multiSelectMode: false,
-      displayMode: 'compact' // compact, detailed
+      displayMode: 'compact', // compact, detailed
+      lastSelectedIndex: -1 // for shift-click range selection
     };
 
     // DOM Elements
@@ -1581,16 +1659,27 @@
 
     function getConfig() {
       try {
-        return JSON.parse(localStorage.getItem(STORAGE_KEYS.CONFIG) || '{}') || {};
-      } catch { return {}; }
+        const config = JSON.parse(localStorage.getItem(STORAGE_KEYS.CONFIG) || '{}') || {};
+        // Ensure hiddenAuthors exists as an array
+        if (!config.hiddenAuthors) {
+          config.hiddenAuthors = [];
+        }
+        return config;
+      } catch { 
+        return { hiddenAuthors: [] }; 
+      }
     }
 
     // --- Rendering ---
     function render() {
       // Filter items
       state.filteredItems = state.items.filter(item => {
+        // CRITICAL: Archive filter must be checked FIRST and is view-agnostic
         const isArchived = state.archivedIds.has(item.id);
         if (state.showArchived !== isArchived) return false;
+        
+        // Hidden authors filter
+        if (state.config.hiddenAuthors && state.config.hiddenAuthors.includes(item.author)) return false;
         
         // Source filter
         if (state.activeFilter !== 'all' && item.source !== state.activeFilter) return false;
@@ -1643,9 +1732,23 @@
              const id = card.dataset.id;
              focusCard(id);
              
+             // Shift-click for range selection
+             if (e.shiftKey && state.lastSelectedIndex !== -1) {
+               const currentIndex = state.filteredItems.findIndex(i => i.id === id);
+               const start = Math.min(state.lastSelectedIndex, currentIndex);
+               const end = Math.max(state.lastSelectedIndex, currentIndex);
+               
+               for (let i = start; i <= end; i++) {
+                 state.selectedIds.add(state.filteredItems[i].id);
+               }
+               render();
+               return;
+             }
+             
              // In multi-select mode, clicking anywhere selects the post
              if (state.multiSelectMode) {
                toggleSelection(id);
+               state.lastSelectedIndex = state.filteredItems.findIndex(i => i.id === id);
              } else {
                // Otherwise, open the URL
                const url = card.dataset.url;
@@ -1658,7 +1761,22 @@
           box.addEventListener('click', (e) => {
               e.stopPropagation();
               const id = box.dataset.id;
+              
+              // Shift-click on checkbox also does range selection
+              if (e.shiftKey && state.lastSelectedIndex !== -1) {
+                const currentIndex = state.filteredItems.findIndex(i => i.id === id);
+                const start = Math.min(state.lastSelectedIndex, currentIndex);
+                const end = Math.max(state.lastSelectedIndex, currentIndex);
+                
+                for (let i = start; i <= end; i++) {
+                  state.selectedIds.add(state.filteredItems[i].id);
+                }
+                render();
+                return;
+              }
+              
               toggleSelection(id);
+              state.lastSelectedIndex = state.filteredItems.findIndex(i => i.id === id);
           });
       });
     }
@@ -1900,10 +2018,17 @@
         // Sidebar Toggle
         const sidebar = document.getElementById('sidebar');
         const navSidebarToggle = document.getElementById('navSidebarToggle');
+        const sidebarOverlay = document.getElementById('sidebarOverlay');
         
         navSidebarToggle.addEventListener('click', () => {
             sidebar.classList.toggle('collapsed');
             localStorage.setItem('sidebarCollapsed', sidebar.classList.contains('collapsed'));
+        });
+        
+        // Mobile overlay closes sidebar
+        sidebarOverlay.addEventListener('click', () => {
+            sidebar.classList.add('collapsed');
+            localStorage.setItem('sidebarCollapsed', 'true');
         });
         
         // Restore sidebar state or auto-collapse on small screens
@@ -1913,6 +2038,22 @@
         if (savedState === 'true' || (savedState === null && isSmallScreen)) {
             sidebar.classList.add('collapsed');
         }
+        
+        // Commands accordion
+        const commandsSection = document.querySelector('.sidebar-commands-section');
+        const commandsTitle = commandsSection.querySelector('.sidebar-section-title');
+        
+        // Restore commands expanded state (default collapsed on mobile, expanded on desktop)
+        const commandsExpanded = localStorage.getItem('commandsExpanded');
+        if (commandsExpanded === 'false' || (commandsExpanded === null && isSmallScreen)) {
+            commandsSection.classList.add('collapsed');
+        }
+        
+        commandsTitle.addEventListener('click', () => {
+            commandsSection.classList.toggle('collapsed');
+            localStorage.setItem('commandsExpanded', !commandsSection.classList.contains('collapsed'));
+            lucide.createIcons();
+        });
         
         // Source Icon Buttons
         document.querySelectorAll('.source-icon-btn').forEach(btn => {
@@ -2090,7 +2231,14 @@
         });
 
         document.getElementById('settingsBtn').addEventListener('click', () => {
-            elements.configInput.value = JSON.stringify(state.config, null, 2);
+            // Show config with helpful defaults if empty
+            const configToShow = Object.keys(state.config).length > 0 && state.config.hiddenAuthors 
+              ? state.config 
+              : { 
+                  hiddenAuthors: [],
+                  ...state.config
+                };
+            elements.configInput.value = JSON.stringify(configToShow, null, 2);
             elements.settingsModal.classList.add('open');
         });
 
