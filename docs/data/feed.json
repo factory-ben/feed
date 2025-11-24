@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1993032952822088043",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@FactoryAI No joke, living inside the terminal, with best buddy droid",
+    "url": "https://x.com/CloudTrader4/status/1993032952822088043",
+    "timestamp": "2025-11-24T19:04:19.000Z",
+    "metadata": {
+      "conversation_id": "1993032952822088043",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993032821846454755",
+    "source": "twitter",
+    "author": "anthonyronning_",
+    "content": "@MirAI_Newz @FactoryAI This is what we all want to know lol. Please factory keep running those terminal evals 🥺",
+    "url": "https://x.com/anthonyronning_/status/1993032821846454755",
+    "timestamp": "2025-11-24T19:03:48.000Z",
+    "metadata": {
+      "conversation_id": "1993032821846454755",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993032792209604756",
+    "source": "twitter",
+    "author": "RayaneRachid_",
+    "content": "@MirAI_Newz @FactoryAI Looks better than sonnet, it was a poor prompt tho will test with another one https://t.co/MofPVGSi2e",
+    "url": "https://x.com/RayaneRachid_/status/1993032792209604756",
+    "timestamp": "2025-11-24T19:03:41.000Z",
+    "metadata": {
+      "conversation_id": "1993032792209604756",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993032654116229194",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@FactoryAI You are a little bit late mate https://t.co/VKDTlWH1rN",
+    "url": "https://x.com/CloudTrader4/status/1993032654116229194",
+    "timestamp": "2025-11-24T19:03:08.000Z",
+    "metadata": {
+      "conversation_id": "1993032654116229194",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993031948772811024",
+    "source": "twitter",
+    "author": "MirAI_Newz",
+    "content": "@FactoryAI How does it compares with Gemini 3?",
+    "url": "https://x.com/MirAI_Newz/status/1993031948772811024",
+    "timestamp": "2025-11-24T19:00:19.000Z",
+    "metadata": {
+      "conversation_id": "1993031948772811024",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993031725874819556",
+    "source": "twitter",
+    "author": "RayaneRachid_",
+    "content": "@FactoryAI lets gooo",
+    "url": "https://x.com/RayaneRachid_/status/1993031725874819556",
+    "timestamp": "2025-11-24T18:59:26.000Z",
+    "metadata": {
+      "conversation_id": "1993031725874819556",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993029072348438609",
     "source": "twitter",
     "author": "the_raizen",
