@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993076772498555205",
+    "source": "twitter",
+    "author": "dannyveigatx",
+    "content": "@bentossell @FactoryAI Almost to NY. We arrive wed morning then drive home to TX \n\nCan’t wait to get back on my fiber connection 😂",
+    "url": "https://x.com/dannyveigatx/status/1993076772498555205",
+    "timestamp": "2025-11-24T21:58:26.000Z",
+    "metadata": {
+      "conversation_id": "1993076772498555205",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993073660455010445",
     "source": "twitter",
     "author": "RayaneRachid_",
@@ -10780,6 +10795,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1p1oncv",
+    "source": "reddit",
+    "author": "ieagam",
+    "content": "bug in subdroids?\n\nIs there any bug in the recent release on subdroids? I've been using bunch of subdroids now in my workflow, and suddenly it malfunctions consistently.\n\nAFAIK, when using subdroids, the main agent calls subagents; and these subagents also outputs its text output between tool calls before finalizing its response, in its own context window. But after when a subdroid completes the task, it seems that the text it outputted in the middle of the tool calls, rather than the final response, gets fed into",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p1oncv/bug_in_subdroids/",
+    "timestamp": "2025-11-20T00:20:08.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 7,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "reddit_1p1ehzk",
