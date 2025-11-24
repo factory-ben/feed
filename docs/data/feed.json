@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_421",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Issue] Droid EISDIR error when launching droid 26.1 on OSX Tahoe 26.1\n\n\nError when launching droid. Appeared to be related to a custom command but I have cleared the custom commands folder (~/.factory/commands or .factory/commands) even cleared out the skills folder just in case\n\ndroid: v0.26.12\nOSX Tahoe 26.1\n\n% droid\n{\"level\":\"error\",\"error\":\"Error: EISDIR: illegal operation on a directory, read\",\"tags\":{},\"msg\":\"Failed to read custom command\\nError: EISDIR: illegal operation on a directory, read\\n    at spawnSync (unknown)\\n    at spawnSync (node:child_process:2",
+    "url": "https://github.com/Factory-AI/factory/issues/421",
+    "timestamp": "2025-11-24T16:33:40Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 421
+    }
+  },
+  {
     "id": "twitter_1992992183818047654",
     "source": "twitter",
     "author": "grok",
