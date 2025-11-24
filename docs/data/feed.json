@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1992842454639186201",
+    "source": "twitter",
+    "author": "ljupc0",
+    "content": "Heh - turns out eavesdropping on @FactoryAI droid talk to @lmstudio is not only useful but tremendous fun! Who knew?? 😂 The model/agent interaction is oft - 'were you raised by wolves, you two, per chance??' 😄 Really? You thought '$ mkdir /Project' will work, that's the way to go? fr! ffs \nSeems droid does not realise it was started in the 'current project directory' to make things easier for it. Do people usually launch their agent on Mars, while wanting it to edit files on Earth?? \nAll these xml-like conversations remind me - the language spoken (the protocol) needs to be human readable. And even better if reading well than poorly. Internet - in addition to being free - IETF very early on cottoned on the fact \"no human readable -> no human will get interested -> no one to make it work -> stays cr*p and dies for lack of use\". So one could follow SMTP, POP3 and be not only readable, but read oh-key at leasat in not excellent. \nFormalisation of these things into some xml monstrosity is good when teaching principles to students. It's bad if used in actual practice. Much better to in practice make use of every nook and cranny to your advantage, use any accidental twist and turn, to make things more efficient, easier etc. UTF-8 backward compatible variable length encoding comes to mind.\nThe setup is as straightforward as it gets. For Droid I used\n$ cat ~/.factory/config.json\n{\n  \"custom_models\": [\n    {\n      \"model_display_name\": \"LMStudio/qwen3-30b-a3b-yoyo-v5\",\n      \"model\": \"qwen3-30b-a3b-yoyo-v5-qx86-hi-mlx\",\n      \"base_url\": \"http://localhost:1234/v1\",\n      \"api_key\": \"sk\",\n      \"provider\": \"generic-chat-completion-api\",\n      \"max_tokens\": 262144\n    }\n  ]\n}\nthen once in $ droid, select with /model. NB the \"model\": \"qwen3-30b-a3b-yoyo-v5-qx86-hi-mlx\" must match whatever LMStudio label uses. That \"qwen3-30b-a3b-yoyo-v5-qx86-hi-mlx\" is huggingface .co/nightmedia/Qwen3-30B-A3B-YOYO-V5-qx86-hi-mlx. In LMStudio need to turn on 'Verbose logging' to see the content of the messages exchanged with the coding agent. (droid)",
+    "url": "https://x.com/ljupc0/status/1992842454639186201",
+    "timestamp": "2025-11-24T06:27:21.000Z",
+    "metadata": {
+      "conversation_id": "1992842454639186201",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992834416683749548",
     "source": "twitter",
     "author": "okiraku_neko",
