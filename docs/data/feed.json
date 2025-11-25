@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993436954000867790",
+    "source": "twitter",
+    "author": "vatro_vrbanic",
+    "content": "@FactoryAI I don't see my last two Droid sessions (one 20 hours ago, another 2 days ago) in the CLI /sessions overview, but I can see them on https://t.co/DEuvQkgQ2t why is that? 🤔",
+    "url": "https://x.com/vatro_vrbanic/status/1993436954000867790",
+    "timestamp": "2025-11-25T21:49:40.000Z",
+    "metadata": {
+      "conversation_id": "1993436954000867790",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993434545836978310",
     "source": "twitter",
     "author": "martin_ict_algo",
