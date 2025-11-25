@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993449955831497196",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@RayFernando1337 @FactoryAI @bentossell",
+    "url": "https://x.com/CloudTrader4/status/1993449955831497196",
+    "timestamp": "2025-11-25T22:41:20.000Z",
+    "metadata": {
+      "conversation_id": "1993449955831497196",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993449366401777837",
+    "source": "twitter",
+    "author": "C72Al",
+    "content": "Droid from @FactoryAI on fire tonight - three screens , three different projects, triple tracking (as they say).\n\nSeems like even longer periods of iteration before any compaction than last week.\n\nSuper fast and accurate work based on project files and images.\n\nThis week built a data quality analysis tool which extracts Copper CRM data and gives each deal and learn score based on completion of field data. Links directly to Copper pages for sales team to update the records.\n\nBuild an automation to analyse, summary and compare week on week and month on month deal progress with weighted pipeline values.\n\nBuilt a calculator for a friend that is super complex but the UI will save their customers and staff hours per week.\n\nAlmost finished my book ‘Claude code for beginners’ but will need to start the ‘droid as an alternative’ chapter now.\n\nClaude has prepped everything for publishing on Amazon including formatting.\n\nProductivity at ATH. \n\nReminds me of self build Apache/PHP/MySql early days in 1999 when there were no barriers to what you could do and 4am finishes were normal (and fun).\n\nIf you aren’t in this Rodeo you are being left behind.",
+    "url": "https://x.com/C72Al/status/1993449366401777837",
+    "timestamp": "2025-11-25T22:39:00.000Z",
+    "metadata": {
+      "conversation_id": "1993449366401777837",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993436954000867790",
     "source": "twitter",
     "author": "vatro_vrbanic",
