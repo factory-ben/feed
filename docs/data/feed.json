@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993430461759225898",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@yggdrasil__ai @SvenMeyer @GolGappay102 @rudrank @FactoryAI we had flicker issues weeks back but should’ve the case now. can you share what app you see this in? and if possible share the id when you run /bug",
+    "url": "https://x.com/bentossell/status/1993430461759225898",
+    "timestamp": "2025-11-25T21:23:52.000Z",
+    "metadata": {
+      "conversation_id": "1993430461759225898",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993430454280814701",
+    "source": "twitter",
+    "author": "JorgeConsulting",
+    "content": "Finally figured out how to get an interesting cost-effective coding setup: GLM 4.6 coding plan with GPT 5.1 High using my ChatGPT Subscription.\n\nUsed @FactoryAI and Zen MCP with the clink tool along with some configuration settings. Now I can use GPT 5.1 High even in Claude Code.",
+    "url": "https://x.com/JorgeConsulting/status/1993430454280814701",
+    "timestamp": "2025-11-25T21:23:51.000Z",
+    "metadata": {
+      "conversation_id": "1993430454280814701",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993429555407995148",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@martinpcolley @FactoryAI anthropic overloaded! they posted about. sorry!!",
+    "url": "https://x.com/bentossell/status/1993429555407995148",
+    "timestamp": "2025-11-25T21:20:16.000Z",
+    "metadata": {
+      "conversation_id": "1993429555407995148",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993428761635848226",
     "source": "twitter",
     "author": "RayaneRachid_",
