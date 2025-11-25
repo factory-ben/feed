@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993289360020742430",
+    "source": "twitter",
+    "author": "akkytech1",
+    "content": "@bentossell @FactoryAI So the image wasn't from the web but from VS Code or something, thank you! I'm looking forward to it. I'm having fun with the CLI and Opus!",
+    "url": "https://x.com/akkytech1/status/1993289360020742430",
+    "timestamp": "2025-11-25T12:03:11.000Z",
+    "metadata": {
+      "conversation_id": "1993289360020742430",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993289029316755586",
+    "source": "twitter",
+    "author": "hzapperz",
+    "content": "@Mind9Excel @FactoryAI Benchmarks don’t account for other areas of improvement \n\n4.5 opus has taste",
+    "url": "https://x.com/hzapperz/status/1993289029316755586",
+    "timestamp": "2025-11-25T12:01:52.000Z",
+    "metadata": {
+      "conversation_id": "1993289029316755586",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993285598489329671",
     "source": "twitter",
     "author": "cocolobaEMS",
@@ -11976,6 +12006,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1p24scm",
+    "source": "reddit",
+    "author": "mediumbrownfox",
+    "content": "Is there a YOLO mode similar to claude code?\n\nLoving Droid and Gemini 3 so far.  I'd really like to let it run loose on some not so important projects of mine and see what it can do, but I am constantly having to Plan / Approve every 30 seconds which is frustrating, even though I have Auto (high) - allow all commands selected.  Any way to enable a yolo or sandbox mode? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p24scm/is_there_a_yolo_mode_similar_to_claude_code/",
+    "timestamp": "2025-11-20T14:37:42.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "reddit_1p1zh3p",
