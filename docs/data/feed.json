@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993334170702213529",
+    "source": "twitter",
+    "author": "znkaizenzn",
+    "content": "@benvargas @FactoryAI Can it support Effort parameter for Opus 4.5?",
+    "url": "https://x.com/znkaizenzn/status/1993334170702213529",
+    "timestamp": "2025-11-25T15:01:15.000Z",
+    "metadata": {
+      "conversation_id": "1993334170702213529",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993333347758841957",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@NilkhanVaibhav @augmentcode @AnthropicAI @FactoryAI 100% I’m going to check out @FactoryAI I’ve been hearing good things. Crazy how no one even responds to the posts here on their official page.",
+    "url": "https://x.com/TheEcomNomad/status/1993333347758841957",
+    "timestamp": "2025-11-25T14:57:59.000Z",
+    "metadata": {
+      "conversation_id": "1993333347758841957",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993329759015624897",
     "source": "twitter",
     "author": "leoisadev",
