@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1993319178489475514",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1993315371118739910",
@@ -12098,7 +12100,8 @@
       "type": "issue",
       "labels": [],
       "number": 402
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1p24scm",
