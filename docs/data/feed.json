@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1993721700438139137",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "@nkgoutham @FactoryAI Use skills or droids (sub-agents) when used they automatically load their appropriate context",
+    "url": "https://x.com/_BrianKimball/status/1993721700438139137",
+    "timestamp": "2025-11-26T16:41:09.000Z",
+    "metadata": {
+      "conversation_id": "1993721700438139137",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993719268333248870",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@wolfaidev @neki_tech @FactoryAI looking. shouldnt be active so looks like a bug",
+    "url": "https://x.com/bentossell/status/1993719268333248870",
+    "timestamp": "2025-11-26T16:31:29.000Z",
+    "metadata": {
+      "conversation_id": "1993719268333248870",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993719071481946119",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nkgoutham @FactoryAI yeh exactly",
+    "url": "https://x.com/bentossell/status/1993719071481946119",
+    "timestamp": "2025-11-26T16:30:42.000Z",
+    "metadata": {
+      "conversation_id": "1993719071481946119",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993717256547950649",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AriesTheCoder @ImSh4yy @FactoryAI 🧠",
+    "url": "https://x.com/bentossell/status/1993717256547950649",
+    "timestamp": "2025-11-26T16:23:30.000Z",
+    "metadata": {
+      "conversation_id": "1993717256547950649",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993717176097034718",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@minheo93698092 @FactoryAI 🫡",
+    "url": "https://x.com/bentossell/status/1993717176097034718",
+    "timestamp": "2025-11-26T16:23:10.000Z",
+    "metadata": {
+      "conversation_id": "1993717176097034718",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993717150541103482",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@bentossell @FactoryAI ooh - i'll do this next. maybe a better way here might be to also tell when to access a certain file, in https://t.co/Rz1fpSoxAG ?",
+    "url": "https://x.com/nkgoutham/status/1993717150541103482",
+    "timestamp": "2025-11-26T16:23:04.000Z",
+    "metadata": {
+      "conversation_id": "1993717150541103482",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993716941996065220",
+    "source": "twitter",
+    "author": "martinpcolley",
+    "content": "@bentossell @pascallammers_ @FactoryAI Yeah that was it! thanks\n\nThis is it really helpful any plans to update the main Standard Tokens view with daily/hourly/session related breakdowns? Really helps me identify my factory usage and use it more. https://t.co/J9KJq7oCAi",
+    "url": "https://x.com/martinpcolley/status/1993716941996065220",
+    "timestamp": "2025-11-26T16:22:15.000Z",
+    "metadata": {
+      "conversation_id": "1993716941996065220",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993716645404274970",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Arkdezin @FactoryAI looking into it",
+    "url": "https://x.com/bentossell/status/1993716645404274970",
+    "timestamp": "2025-11-26T16:21:04.000Z",
+    "metadata": {
+      "conversation_id": "1993716645404274970",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993716211776151844",
     "source": "twitter",
     "author": "bentossell",
