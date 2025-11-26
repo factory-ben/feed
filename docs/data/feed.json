@@ -15726,6 +15726,19 @@
     "category": "mention"
   },
   {
+    "id": "github_issue_410",
+    "source": "github",
+    "author": "captjt",
+    "content": "[Issue] Hook Input Payload Mismatch\n\nIt seems after debugging some of the hooks to tie into `PreToolUse` or other hooks the official docs don't reflect the actual payloads getting passed around.\n\nHere are my debug hook configurations from my `~/.factory/settings.json`. I am running droid version `0.26.10`.\n\n```json\n{\n  \"hooks\": {\n    \"PostToolUse\": [\n      {\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \"jq -r '.' >> ~/.factory/post-tool-hook-log.txt\"\n          }\n        ],\n        \"matcher\": ",
+    "url": "https://github.com/Factory-AI/factory/issues/410",
+    "timestamp": "2025-11-21T17:35:46Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 410
+    }
+  },
+  {
     "id": "reddit_1p2wh3j",
     "source": "reddit",
     "author": "branik_10",
