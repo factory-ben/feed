@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993753862604534184",
+    "source": "twitter",
+    "author": "hightbunker",
+    "content": "@orange_boy @FactoryAI The system prompt to which I refer is the main prompt that cursor uses for each call, ltrrly what Cursor runs on, the core on which the “Cursor agent” behaves (see the attached post regarding the plan logic and build button) . \n\nhttps://t.co/1x95AYs2sE",
+    "url": "https://x.com/hightbunker/status/1993753862604534184",
+    "timestamp": "2025-11-26T18:48:57.000Z",
+    "metadata": {
+      "conversation_id": "1993753862604534184",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993753762914337018",
+    "source": "twitter",
+    "author": "ColdBrewTrades",
+    "content": "@ai_for_success @FactoryAI thoughts on this with droids",
+    "url": "https://x.com/ColdBrewTrades/status/1993753762914337018",
+    "timestamp": "2025-11-26T18:48:33.000Z",
+    "metadata": {
+      "conversation_id": "1993753762914337018",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993752195473220028",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "My bet is this issue is solved long ago. \nIf I recall I saw they contacted in X later. \n\nMaybe it’s a false memory. \n\nI feel like I’m out of your context. Not sure what you call system prompt here.\n\nSeems like you know difference  between LLM and AGENT. \n\nThat’s not someone’s fault. More like some guys do it better. Agents are still very young.",
+    "url": "https://x.com/orange_boy/status/1993752195473220028",
+    "timestamp": "2025-11-26T18:42:20.000Z",
+    "metadata": {
+      "conversation_id": "1993752195473220028",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993751520991686754",
     "source": "twitter",
     "author": "hightbunker",
