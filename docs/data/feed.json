@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993648449091453210",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Day 1 of using Droid by @FactoryAI after a brief hiatus. \n\nFirst steps first - before I build anything, I add a bunch of context files for LLMs to go through. Since I'll be using only Droid for my work, I'm ditching Claude (web) and doing some basic set up for context-setting for Droid. \n\nHow I do this:\n- run Droid in CLI at the project folder, which contains a \"context-docs\" folder\n- organise all context docs (formatted for LLMs) into this folder\n- choose Gemini 3 pro (high) from Droid, to go through all documents in this context-docs folder and gather context first, before doing ANY brainstorming. \n\nMy goal here is to do some brainstorming to arrive at marketing angles + PRD for a tool I'm building. \n\nIs there a better way for context management with CLI tools in general?",
+    "url": "https://x.com/nkgoutham/status/1993648449091453210",
+    "timestamp": "2025-11-26T11:50:05.000Z",
+    "metadata": {
+      "conversation_id": "1993648449091453210",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993642395720966254",
     "source": "twitter",
     "author": "MirAI_Newz",
