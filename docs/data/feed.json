@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1993617986352205855",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AriesTheCoder @EnoReyes @FactoryAI no not at all - ping any time. and traditionally people are scared of compacting but shouldnt be with us!",
+    "url": "https://x.com/bentossell/status/1993617986352205855",
+    "timestamp": "2025-11-26T09:49:02.000Z",
+    "metadata": {
+      "conversation_id": "1993617986352205855",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993617438118916297",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "Thanks @bentossell . Ended up just biting the bullet and started a new session in another terminal. Just so happened that I started this session back in version 0.26.x upgrades happened and the latest version is now 0.27.2 could be that something changed and now it can't parse it.\n\nI just used /session, picked the session from the list that I had and it looks like it was able to continue, just amazed that it actually looks and feels like it's kept the context.\n\nAnyway, it's trivial. Sorry to waste your time on this. Was just genuinely curious as I start to flex my way into being a droid power-user 💪",
+    "url": "https://x.com/AriesTheCoder/status/1993617438118916297",
+    "timestamp": "2025-11-26T09:46:51.000Z",
+    "metadata": {
+      "conversation_id": "1993617438118916297",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993617364445954484",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nwp @FactoryAI feel free to dm with any details on how you're working / using tokens",
+    "url": "https://x.com/bentossell/status/1993617364445954484",
+    "timestamp": "2025-11-26T09:46:33.000Z",
+    "metadata": {
+      "conversation_id": "1993617364445954484",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993616706229633359",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Alberto8793 @augmentcode @AnthropicAI @FactoryAI @terminalbench coming soon",
+    "url": "https://x.com/bentossell/status/1993616706229633359",
+    "timestamp": "2025-11-26T09:43:57.000Z",
+    "metadata": {
+      "conversation_id": "1993616706229633359",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993616507696447967",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@renatoaraujoc @dannyveigatx @TheEcomNomad @augmentcode @AnthropicAI @FactoryAI *keen to hear what you think 😅",
+    "url": "https://x.com/bentossell/status/1993616507696447967",
+    "timestamp": "2025-11-26T09:43:09.000Z",
+    "metadata": {
+      "conversation_id": "1993616507696447967",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993616427157532710",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@renatoaraujoc @dannyveigatx @TheEcomNomad @augmentcode @AnthropicAI @FactoryAI 10m free tokens on signup to give it a whirl 😊 - keek tok",
+    "url": "https://x.com/bentossell/status/1993616427157532710",
+    "timestamp": "2025-11-26T09:42:50.000Z",
+    "metadata": {
+      "conversation_id": "1993616427157532710",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993613223128699177",
     "source": "twitter",
     "author": "bentossell",
