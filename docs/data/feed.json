@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993724641396068502",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "@bentossell @FactoryAI Lets see but seems doable :) at least 2 project will be released before end of month.",
+    "url": "https://x.com/nathanpareo/status/1993724641396068502",
+    "timestamp": "2025-11-26T16:52:50.000Z",
+    "metadata": {
+      "conversation_id": "1993724641396068502",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993721700438139137",
     "source": "twitter",
     "author": "_BrianKimball",
@@ -14962,6 +14977,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1p2rbdh",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.26.10 Released - MCP Registry Expansion\n\n## New features\n\n* **MCP Registry Expansion** - Added 30+ new MCP server integrations including development tools (Playwright, Braintrust, Honeycomb), databases (Supabase, MongoDB, Prisma, Neon), security scanning (Snyk, Semgrep), and more\n\n## Bug fixes\n\n* Fixed race conditions where model changes mid-turn\n* Fixed bug report command\n* Fixed support for duplicate model IDs in custom model configurations\n* Fix PowerShell command execution on Windows\n\n---\n\n[View full changelog](https://docs.factory",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p2rbdh/factory_cli_v02610_released_mcp_registry_expansion/",
+    "timestamp": "2025-11-21T06:21:56.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_issue_403",
