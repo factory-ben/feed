@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1993806210475413611",
+    "source": "twitter",
+    "author": "zkstx",
+    "content": "@agent_wrap @NickSloggett @FactoryAI @AnthropicAI Ah, yeah, that's a good first step. Can you explain what you would need my phone number for? https://t.co/HKOwYQUXhy",
+    "url": "https://x.com/zkstx/status/1993806210475413611",
+    "timestamp": "2025-11-26T22:16:58.000Z",
+    "metadata": {
+      "conversation_id": "1993806210475413611",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993805875845402664",
+    "source": "twitter",
+    "author": "swyx",
+    "content": "@Pranav2278 @cognition @DevinAI @FactoryAI they'll get there im sure. i'm more just promoting the idea that literally EVERYBODY should have some kind of Slack coworker agent in their chats today and if you don't you're def just behind and lazy to even try it",
+    "url": "https://x.com/swyx/status/1993805875845402664",
+    "timestamp": "2025-11-26T22:15:38.000Z",
+    "metadata": {
+      "conversation_id": "1993805875845402664",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993805012292784367",
+    "source": "twitter",
+    "author": "Pranav2278",
+    "content": "@swyx @cognition @DevinAI Still waiting for @FactoryAI to put out the same degree of slack integration\n\nDevin is goated",
+    "url": "https://x.com/Pranav2278/status/1993805012292784367",
+    "timestamp": "2025-11-26T22:12:12.000Z",
+    "metadata": {
+      "conversation_id": "1993805012292784367",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993804734621471029",
+    "source": "twitter",
+    "author": "constantin_e21",
+    "content": "@iScienceLuvr Opus 4.5 is available in DROID CLI! \n\nI love Claude Code and what it’s done for the scene, but imo @FactoryAI is better and is also model agnostic\n\nDisclaimer: they are not paying me to say these things haha\n\nGive it a try and let me know how you get along!",
+    "url": "https://x.com/constantin_e21/status/1993804734621471029",
+    "timestamp": "2025-11-26T22:11:06.000Z",
+    "metadata": {
+      "conversation_id": "1993804734621471029",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993800137236468007",
     "source": "twitter",
     "author": "jonhillymakes",
