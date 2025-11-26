@@ -1,5 +1,153 @@
 [
   {
+    "id": "twitter_1993501984847208466",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Absolutely, providers give out a lot more inference per month than the cost of the monthly subscription... they can afford to as they run the models, Factory has to buy them from the provider, so you won't get as much \"value\". Flip side as you mentioned, you want be getting harness companies native (intended) experience or what they've been doing/testing internally (most likely).",
+    "url": "https://x.com/benvargas/status/1993501984847208466",
+    "timestamp": "2025-11-26T02:08:05.000Z",
+    "metadata": {
+      "conversation_id": "1993501984847208466",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993501544017543550",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "Hi @EnoReyes and @FactoryAI  - long time fan, first time connector. Any reason as to why you use Gemini 3 Pro low for Spec? I imagined it would be high as it needs to do more reasoning etc?\n\nJust curious is all. https://t.co/UNVbaRpcKM",
+    "url": "https://x.com/AriesTheCoder/status/1993501544017543550",
+    "timestamp": "2025-11-26T02:06:20.000Z",
+    "metadata": {
+      "conversation_id": "1993501544017543550",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993501451390468096",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@SvenMeyer @FactoryAI yeah, I think batching is recommended above 32k so probably not as good for cli programming (if the anthropic docs are still accurate). https://t.co/E3WWw6HZf8",
+    "url": "https://x.com/benvargas/status/1993501451390468096",
+    "timestamp": "2025-11-26T02:05:58.000Z",
+    "metadata": {
+      "conversation_id": "1993501451390468096",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993501101854015679",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@benvargas @FactoryAI do you think it is cheaper to get the subs from model provider than via factory?\nThe later is of course \"out of the box\" and you can split your token budget across models as you need.",
+    "url": "https://x.com/SvenMeyer/status/1993501101854015679",
+    "timestamp": "2025-11-26T02:04:34.000Z",
+    "metadata": {
+      "conversation_id": "1993501101854015679",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_434",
+    "source": "github",
+    "author": "lqp1037951137",
+    "content": "[Issue] I can't paste images in Droid on the Windows CLI.\n\nI can't paste images in Droid on the Windows CLI.",
+    "url": "https://github.com/Factory-AI/factory/issues/434",
+    "timestamp": "2025-11-26T01:59:48Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 434
+    }
+  },
+  {
+    "id": "twitter_1993499778882453985",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@augmentcode @AnthropicAI Testing, testing, 1, 2, 3! Looking forward to comparing it to @FactoryAI's implementation. May the best agent win! Would love to see both on @terminalbench soon!",
+    "url": "https://x.com/Alberto8793/status/1993499778882453985",
+    "timestamp": "2025-11-26T01:59:19.000Z",
+    "metadata": {
+      "conversation_id": "1993499778882453985",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993499476045230263",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@benvargas @FactoryAI Great, thank you. Interestingly in the ARC-AGI-2 benchmark they had no-think, 8k, 16k, 32k, 64k https://t.co/5ETAGXJ60H",
+    "url": "https://x.com/SvenMeyer/status/1993499476045230263",
+    "timestamp": "2025-11-26T01:58:07.000Z",
+    "metadata": {
+      "conversation_id": "1993499476045230263",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993498525674750272",
+    "source": "twitter",
+    "author": "faizintfd",
+    "content": "falling in love with this workflow featuring Droid Orchestrator @FactoryAI https://t.co/2wDt3ez214",
+    "url": "https://x.com/faizintfd/status/1993498525674750272",
+    "timestamp": "2025-11-26T01:54:20.000Z",
+    "metadata": {
+      "conversation_id": "1993498525674750272",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993497816275300356",
+    "source": "twitter",
+    "author": "minheo93698092",
+    "content": "Why I love DROID:  \nIt can rapidly bring Claude Code’s ecosystem while achieving higher terminal benchmark scores than Claude Code when using the same model.  \nThank you. @FactoryAI https://t.co/uB4Kb4DPHK",
+    "url": "https://x.com/minheo93698092/status/1993497816275300356",
+    "timestamp": "2025-11-26T01:51:31.000Z",
+    "metadata": {
+      "conversation_id": "1993497816275300356",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993493872031445024",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@SvenMeyer @FactoryAI Also should mention that as far as the new `effort` level Opus 4.5 uses, when nothing is passed Anthropic defaults to \"High\" as per their docs. So effectively you're always sending high effort and then with these variants you're defining thinking budget.",
+    "url": "https://x.com/benvargas/status/1993493872031445024",
+    "timestamp": "2025-11-26T01:35:51.000Z",
+    "metadata": {
+      "conversation_id": "1993493872031445024",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993490070880567602",
     "source": "twitter",
     "author": "Jackhortonlol",
