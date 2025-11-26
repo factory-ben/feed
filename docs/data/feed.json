@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_442",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Issue] [test] - project level mcps\n\n@droid do project level mcps override user-level mcps or vice-versa?",
+    "url": "https://github.com/Factory-AI/factory/issues/442",
+    "timestamp": "2025-11-26T21:27:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 442
+    }
+  },
+  {
+    "id": "twitter_1993791570664140995",
+    "source": "twitter",
+    "author": "JonDotJames",
+    "content": "@iannuttall @FactoryAI Do you mean like you let it run for 2 hours. Or bit by bit with you captaining?",
+    "url": "https://x.com/JonDotJames/status/1993791570664140995",
+    "timestamp": "2025-11-26T21:18:47.000Z",
+    "metadata": {
+      "conversation_id": "1993791570664140995",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993789308864745776",
     "source": "twitter",
     "author": "RadicDavydov",
