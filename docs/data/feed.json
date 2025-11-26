@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993738758416683435",
+    "source": "twitter",
+    "author": "asyoutosh",
+    "content": "@neki_tech @FactoryAI I would but with Claude code I get continuous rate limits. Spent 20M in 2 days 😭",
+    "url": "https://x.com/asyoutosh/status/1993738758416683435",
+    "timestamp": "2025-11-26T17:48:56.000Z",
+    "metadata": {
+      "conversation_id": "1993738758416683435",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993738476890575088",
+    "source": "twitter",
+    "author": "emicovi",
+    "content": "@iScienceLuvr just use @FactoryAI https://t.co/H9aqUhi5sK 10 millions token for free and you will love it",
+    "url": "https://x.com/emicovi/status/1993738476890575088",
+    "timestamp": "2025-11-26T17:47:49.000Z",
+    "metadata": {
+      "conversation_id": "1993738476890575088",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993732845773139983",
     "source": "twitter",
     "author": "rywalker",
