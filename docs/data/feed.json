@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_435",
+    "source": "github",
+    "author": "stone100010",
+    "content": "[Issue] vscode login error\n\nAccess blocked, please contact your admin\ngoogle account: rocklicy911@gmail.com",
+    "url": "https://github.com/Factory-AI/factory/issues/435",
+    "timestamp": "2025-11-26T03:49:33Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 435
+    }
+  },
+  {
     "id": "twitter_1993520068941299842",
     "source": "twitter",
     "author": "MickeyShaughnes",
