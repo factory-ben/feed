@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993876066595680498",
+    "source": "twitter",
+    "author": "quantum_citoyen",
+    "content": "@constantin_e21 @iScienceLuvr @FactoryAI Claude Code's limitations are real-FactoryAI solves this with model agnosticism. Try it if you hate vendor lock-in.",
+    "url": "https://x.com/quantum_citoyen/status/1993876066595680498",
+    "timestamp": "2025-11-27T02:54:33.000Z",
+    "metadata": {
+      "conversation_id": "1993876066595680498",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993873868566766046",
     "source": "twitter",
     "author": "AIFlow_ML",
@@ -16124,6 +16139,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1p38zyx",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "demo of skills in droid - prototype, browser tools and frontend\n\nCheck the demo [https://x.com/bentossell/status/1991960096864338000?s=20](https://x.com/bentossell/status/1991960096864338000?s=20)\n\nvideo too big to post here and not on YT yet sorry! ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p38zyx/demo_of_skills_in_droid_prototype_browser_tools/",
+    "timestamp": "2025-11-21T20:12:10.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_issue_411",
