@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994100477051474187",
+    "source": "twitter",
+    "author": "GyenAbubakar",
+    "content": "@flaviocopes @jitendravyas @opencode @FactoryAI Wait really. https://t.co/v1Lnh9HHqM",
+    "url": "https://x.com/GyenAbubakar/status/1994100477051474187",
+    "timestamp": "2025-11-27T17:46:16.000Z",
+    "metadata": {
+      "conversation_id": "1994100477051474187",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994096858990301434",
     "source": "twitter",
     "author": "pvncher",
@@ -15652,6 +15667,19 @@
       "classifiedAt": "2025-11-22T09:07:46.557Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1p3olcg",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.26.12 Released - `/review` command\n\n## New features\n\n* **`/review` command** - that provides an interactive code review workflow. Review code changes in different ways: comparing against a base branch, reviewing specific commits, examining uncommitted changes, or providing custom review instructions.\n\n## Bug fixes\n\n* Gemini 3 Pro now uses the updated 0.8× pricing multiplier - replacing introductory pricing\n* MCP navigator now fills the terminal\n* Update routing for /resume to filter correctly to /sessions\n* Position cursor at star",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p3olcg/factory_cli_v02612_released_review_command/",
+    "timestamp": "2025-11-22T08:56:55.000Z",
+    "metadata": {
+      "score": 14,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_1992152094363848930",
