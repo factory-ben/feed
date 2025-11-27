@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994073741605916770",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Day 2 with Droid by @FactoryAI.\n\nI am trying to translate a decade of curriculum design experience into a software engine that builds personalized learning paths - for ANY curriculum! \n\nThis isn't a simple wrapper; it requires orchestrating four distinct agents that handle analysis, planning, design, and content creation in a continuous loop.\n\nThe hardest part has been the architecture.\n\nHere's the chronology of my build (its been 16 hours so far):\n- used Droid to brainstorm, and design the PRD\n- built the foundations in @boltdotnew to get a basic version and UI - a pre-MVP version.\n- moved to @stitchbygoogle for UI, took it to Google AI Studio to get a design system\n- took that design system and applied to the whole pre-MVP version\n- Then used Claude Code and Gemini CLI for some heavy lifting, but I kept hitting walls with state management.\n\nThe agents struggled to pass context effectively during handoffs, and the logic kept breaking.\n\nThis is where Droid actually surprised me.\n\nIt started almost one-shotted fixes regarding agent handoffs that Claude and Gemini just couldn't resolve.\n\nIt feels less like a code generator and more like an architect that understands system design.\n\nI am significantly closer to shipping this than I expected to be. \n\nIf @FactoryAI launches a $100/month tier, I am jumping right in!",
+    "url": "https://x.com/nkgoutham/status/1994073741605916770",
+    "timestamp": "2025-11-27T16:00:02.000Z",
+    "metadata": {
+      "conversation_id": "1994073741605916770",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994071837555265872",
     "source": "twitter",
     "author": "constantin_e21",
