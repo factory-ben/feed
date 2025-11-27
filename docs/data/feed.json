@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993974084162474045",
+    "source": "twitter",
+    "author": "jennie_mi6363",
+    "content": "@AndreWolke @FactoryAI @AnthropicAI @erpnext That's incredibly efficient! How did you prompt Claude to handle the real-time streaming latency of TTS (e.g., WebSocket vs. SSE) to ensure seamless voice feedback on the dashboard with zero lag?",
+    "url": "https://x.com/jennie_mi6363/status/1993974084162474045",
+    "timestamp": "2025-11-27T09:24:02.000Z",
+    "metadata": {
+      "conversation_id": "1993974084162474045",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993972789624115285",
     "source": "twitter",
     "author": "Silas_Schuettel",
