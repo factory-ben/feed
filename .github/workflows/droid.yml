@@ -51,22 +51,48 @@ jobs:
         run: |
           COMMENT='${{ github.event.comment.body }}'
           PROMPT=$(echo "$COMMENT" | sed 's/.*@droid//')
+          ISSUE_NUM="${{ github.event.issue.number }}"
+          REPO="${{ github.repository }}"
 
-          cat > prompt.txt << EOF
-          Repository: ${{ github.repository }}
-          PR/Issue: #${{ github.event.issue.number }}
+          if [ -n "${{ github.event.issue.pull_request }}" ]; then
+            # This is a PR
+            cat > prompt.txt << 'EOF'
+          Repository: $REPO
+          Pull Request: #$ISSUE_NUM
 
           Task: $PROMPT
 
-          If this requires file changes:
+          This is a PR - you can make file changes:
           - Make the necessary code changes
           - Commit them with a clear message
           - The workflow will push them to the PR branch
 
-          If this is just a question or doesn't require changes:
-          - Use the GitHub CLI (gh) to post a comment with your response
-          - Example: gh pr comment ${{ github.event.issue.number }} --body "your response"
+          If this is just a question:
+          - Use: gh pr comment $ISSUE_NUM --body "your response"
           EOF
+          else
+            # This is a regular issue
+            cat > prompt.txt << 'EOF'
+          Repository: $REPO
+          Issue: #$ISSUE_NUM
+
+          Task: $PROMPT
+
+          This is a regular issue - you CANNOT make file changes directly.
+
+          If the task requires code changes:
+          - Create a new branch with: git checkout -b droid/issue-$ISSUE_NUM
+          - Make the code changes and commit them
+          - Push the branch: git push -u origin droid/issue-$ISSUE_NUM
+          - Create a PR: gh pr create --title "Fix for #$ISSUE_NUM" --body "Addresses #$ISSUE_NUM\n\n$PROMPT"
+
+          For questions or information:
+          - Use: gh issue comment $ISSUE_NUM --body "your response"
+          EOF
+          fi
+
+          # Replace variables in prompt
+          sed -i.bak "s|\$REPO|$REPO|g; s|\$ISSUE_NUM|$ISSUE_NUM|g; s|\$PROMPT|$PROMPT|g" prompt.txt
 
           droid exec --auto high -f prompt.txt
 
