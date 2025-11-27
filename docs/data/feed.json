@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994102153883930851",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "@5aikat @pvncher @mitchellh @WisprFlow @FactoryAI @ExaAILabs @convex Almost same set exa and ref as a base and vercel and aws as project set",
+    "url": "https://x.com/orange_boy/status/1994102153883930851",
+    "timestamp": "2025-11-27T17:52:56.000Z",
+    "metadata": {
+      "conversation_id": "1994102153883930851",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994100477051474187",
     "source": "twitter",
     "author": "GyenAbubakar",
@@ -15648,6 +15663,19 @@
       "classifiedAt": "2025-11-22T09:44:13.947Z"
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_418",
+    "source": "github",
+    "author": "WeYaTa-Dev",
+    "content": "[Discussion] Unable to authenticate Figma MCP\n\nI have run this command and the mcp's added successfully\r\n`droid mcp add figma https://mcp.figma.com/mcp --type http`\r\n\r\nBut when I tried to authenticate the mcp via /mcp command, it said:\r\n<img width=\"1209\" height=\"420\" alt=\"image\" src=\"https://github.com/user-attachments/assets/01774d30-442e-4361-b2ec-2cb67855f193\" />",
+    "url": "https://github.com/Factory-AI/factory/discussions/418",
+    "timestamp": "2025-11-22T09:31:10Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 418
+    }
   },
   {
     "id": "reddit_1p3olcg",
