@@ -1,9 +1,10 @@
 # Classification Summary
 
-**Date:** 2025-11-27 00:50 UTC
+**Date:** 2025-11-27 02:52 UTC
 
-**Items Classified:** 1
+**Items classified:** 3 (new)
 
+**Category breakdown:**
 | Category | Count | Percentage |
 |----------|-------|------------|
-| question | 1 | 100% |
+| question | 3     | 100%       |
