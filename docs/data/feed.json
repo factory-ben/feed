@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_446",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Custom Slash Commands Support Custom Model\n\n",
+    "url": "https://github.com/Factory-AI/factory/issues/446",
+    "timestamp": "2025-11-27T23:03:45Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 446
+    }
+  },
+  {
     "id": "twitter_1994173531341373797",
     "source": "twitter",
     "author": "caunlee",
