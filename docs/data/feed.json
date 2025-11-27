@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994055264975331555",
+    "source": "twitter",
+    "author": "UrvashiAI",
+    "content": "@bradvangelder @Zai_org @FactoryAI cool! will give it a try!",
+    "url": "https://x.com/UrvashiAI/status/1994055264975331555",
+    "timestamp": "2025-11-27T14:46:37.000Z",
+    "metadata": {
+      "conversation_id": "1994055264975331555",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994053953311359054",
+    "source": "twitter",
+    "author": "towrywang",
+    "content": "@jitendravyas @flaviocopes @opencode @FactoryAI Does droid support j,k and ctrl-n, ctrl-p like opencode and claude code did?",
+    "url": "https://x.com/towrywang/status/1994053953311359054",
+    "timestamp": "2025-11-27T14:41:24.000Z",
+    "metadata": {
+      "conversation_id": "1994053953311359054",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994046552164454904",
     "source": "twitter",
     "author": "aeitroc",
