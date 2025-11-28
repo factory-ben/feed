@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1994494695700132347",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "Na real que eu vejo que falta um workflow correto para não dar ruim. O problema está sendo, lance do jeito que está e depois corrija. \n\nEu mesmo tenho 6 LLM que uso para codar. Uso umas pequena para criar o código, com subagents usando o Droid da @FactoryAI \nE depois reviso com as melhores LLM's que tem agora no mercado, tipo o Gemini 3.0 que tem uma janela de contexto gigante. Rodo os subagents de revisor de segurança e de revisor de código. \nE só faço o commit se pelo menos 3 LLM me diz que está tudo ok com o código que foi criado. Nesse meio do caminho rodo com MCP para buscar documentação atualizada, e web search. \n\nA chance de erro é muito baixa, por que a revisão e testes de stress são grandes. E ainda quando for para produção eu rodo outro subagent de pentest. \n\nEntão ao meu ver, dá sim para criar sistemas com IA, mas se você souber o minimo do workflow.",
+    "url": "https://x.com/_alissonryan/status/1994494695700132347",
+    "timestamp": "2025-11-28T19:52:46.000Z",
+    "metadata": {
+      "conversation_id": "1994494695700132347",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1p94a7m",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.27.4 Released - Interleaved thinking support and more\n\n## New features\n\n* **Interleaved thinking support** - Display multiple thinking blocks during streaming, including redacted thinking blocks with safety messages\n* **Show thinking setting** - Show AI thinking/reasoning on the main view, turn on/off in `/settings`\n* **Hooks always enabled** - The hooks feature is now permanently enabled and available via the `/hooks` command\n\n## Bug fixes\n\n* Fixed ESC/Q navigation in `/model` menus - pressing ESC or Q now properly navigates back to previous menu l",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p94a7m/factory_cli_v0274_released_interleaved_thinking/",
+    "timestamp": "2025-11-28T19:49:52.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1994490891885842480",
     "source": "twitter",
     "author": "ramnanimanan",
