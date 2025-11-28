@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_449",
+    "source": "github",
+    "author": "langri-sha",
+    "content": "[Issue] [CLI] Expand variables in MCP configuration\n\nI'd like to request if support could be added for expanding variables in the `mcp.json` configuration, e.g:\n\n```\n   \"context7\": {\n      \"type\": \"http\",\n      \"url\": \"https://mcp.context7.com/mcp\",\n      \"headers\": {\n        \"CONTEXT7_API_KEY\": \"${CONTEXT7_API_KEY}\"\n      },\n      \"disabled\": false\n    },\n```\n\nWhy is this important? It's great for users that are configuring secrets from a secret store.\n\nCertain agents already support this.",
+    "url": "https://github.com/Factory-AI/factory/issues/449",
+    "timestamp": "2025-11-28T21:05:37Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 449
+    }
+  },
+  {
     "id": "twitter_1994499587554644380",
     "source": "twitter",
     "author": "5aikat",
