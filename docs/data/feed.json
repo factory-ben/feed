@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994453835063201962",
+    "source": "twitter",
+    "author": "soumyo",
+    "content": "@bentossell @FactoryAI What are the issues to go via an intermediary, like a detailed plan in markdown? Genuinely curious to know more about it.\n\nSo far, there have been cases where I opened codex, got a detailed plan using Codex Max and then fed into Factory for implementation.",
+    "url": "https://x.com/soumyo/status/1994453835063201962",
+    "timestamp": "2025-11-28T17:10:24.000Z",
+    "metadata": {
+      "conversation_id": "1994453835063201962",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994450974425895406",
     "source": "twitter",
     "author": "bentossell",
