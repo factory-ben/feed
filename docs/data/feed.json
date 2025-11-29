@@ -15008,6 +15008,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1p43e48",
+    "source": "reddit",
+    "author": "sibonyves",
+    "content": "Running GPU code\n\nHello. I’m currently using codex and contemplating the switch to factory AI. An issue I have with codex cli is that in the sandbox it doesn’t have access to my GPU. So all my code that runs on cuda can’t be tested automatically, and the agent runs loops and ends up trying to patch « non functioning » code (that actually functions very well) and adding CPU fallbacks. \n\nDoes the factory AI sandbox work with running gpu code? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p43e48/running_gpu_code/",
+    "timestamp": "2025-11-22T20:31:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1992327879359910048",
     "source": "twitter",
     "author": "NickSloggett",
@@ -19946,6 +19959,19 @@
       "number": 108
     },
     "category": "mention"
+  },
+  {
+    "id": "github_discussion_108",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Release v1.3.220\n\n---\r\n\r\nThis release brings HTTP MCP server support, a `/compress` command to optimize your context usage and droid exec for CDE.\r\n\r\n---\r\n\r\n## HTTP MCP Server Support\r\n\r\nFactory now supports streamable HTTP-based Model Context Protocol (MCP) servers in addition to stdio-based servers. This enables you to connect to MCP servers running as web services, making it easier to integrate with cloud-hosted tools and services.\r\n\r\nWhen adding an MCP server, Factory automatically detects whether it's HTTP o",
+    "url": "https://github.com/Factory-AI/factory/discussions/108",
+    "timestamp": "2025-10-03T20:21:56Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 108
+    }
   },
   {
     "id": "github_discussion_99",
