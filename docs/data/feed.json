@@ -20102,6 +20102,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_72",
+    "source": "github",
+    "author": "rubendn",
+    "content": "[Discussion] Droid selection in CLI?\n\nIs there a way to use one of the specialized Droids (Product, Tutorial, etc) via the CLI?  I don't see a way to select in the slash commands.\r\n\r\nAlso, is there a way on Windows to select a local workspace path besides ~\\?\r\n\r\nThanks!",
+    "url": "https://github.com/Factory-AI/factory/discussions/72",
+    "timestamp": "2025-09-29T05:17:49Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 72
+    }
+  },
+  {
     "id": "github_discussion_66",
     "source": "github",
     "author": "factory-ben",
@@ -20114,6 +20127,19 @@
       "number": 66
     },
     "category": "mention"
+  },
+  {
+    "id": "github_discussion_66",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] 2 new community builds: use claude/codex max subscriptions with droid\n\n- [Factory CLI with ChatGPT Codex / Claude subscription via CLIProxyAPI](https://gist.github.com/chandika/c4b64c5b8f5e29f6112021d46c159fdd) - Guide to run Factory CLI against Claude Code Max or ChatGPT Codex through CLIProxyAPI by [chandika](https://github.com/chandika)\r\n- [Factory CLI with Claude subscription via CLIProxyAPI](https://gist.github.com/ben-vargas/9f1a14ac5f78d10eba56be437b7c76e5) - Setup instructions for using Factory CLI with Claude Code Max through CLIProxyAPI by [ben-vargas](ht",
+    "url": "https://github.com/Factory-AI/factory/discussions/66",
+    "timestamp": "2025-09-27T19:15:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Show + tell",
+      "number": 66
+    }
   },
   {
     "id": "github_discussion_65",
