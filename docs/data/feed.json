@@ -19704,6 +19704,19 @@
     "category": "other"
   },
   {
+    "id": "github_discussion_309",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] Droid CLI: configurable timeouts per mcp server\n\n**Motivation**: I use a 'Language Server Protocol' mcp for adding tools to query symbols and find_usage and such. But on large projects and during first-time use they can take quite some time before giving responses; causing timeouts in droid cli. If I could configure a larger timeout for this specific mcp server it could work better.",
+    "url": "https://github.com/Factory-AI/factory/discussions/309",
+    "timestamp": "2025-11-04T10:48:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 309
+    }
+  },
+  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
