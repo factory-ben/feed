@@ -1423,7 +1423,7 @@
     <div class="modal" style="max-width: 600px;">
       <h2>Configuration</h2>
       <p style="font-size: 13px; margin-bottom: 12px; line-height: 1.5;">
-        Configure feed settings using JSON format. Add usernames to <code>hiddenAuthors</code> to hide posts from specific authors.
+        Configure feed settings using JSON format. Add usernames to <code>hiddenAuthors</code> to hide posts from specific authors. <strong>Settings sync across all your devices.</strong>
       </p>
       <details style="margin-bottom: 16px; font-size: 12px; color: var(--text-secondary);">
         <summary style="cursor: pointer; font-weight: 600; margin-bottom: 8px;">Example configuration</summary>
@@ -1548,6 +1548,83 @@
       }
     }
 
+    // Load user settings (hiddenAuthors) from Supabase
+    async function loadUserSettings() {
+      if (!state.user) return;
+      
+      try {
+        const { data, error } = await supabase
+          .from('user_settings')
+          .select('hidden_authors')
+          .eq('user_id', state.user.id)
+          .single();
+        
+        if (error && error.code !== 'PGRST116') { // PGRST116 = no rows returned
+          console.error('[Supabase] Error loading user settings:', error);
+          return;
+        }
+        
+        if (data?.hidden_authors) {
+          state.config.hiddenAuthors = data.hidden_authors;
+        } else {
+          state.config.hiddenAuthors = [];
+        }
+        
+        console.log('[Supabase] Loaded hiddenAuthors:', state.config.hiddenAuthors);
+      } catch (e) {
+        console.error('[Supabase] Exception loading user settings:', e);
+      }
+    }
+
+    // Save user settings to Supabase
+    async function saveUserSettings(hiddenAuthors) {
+      if (!state.user) return false;
+      
+      try {
+        const { error } = await supabase
+          .from('user_settings')
+          .upsert({
+            user_id: state.user.id,
+            hidden_authors: hiddenAuthors
+          }, {
+            onConflict: 'user_id'
+          });
+        
+        if (error) {
+          console.error('[Supabase] Error saving user settings:', error);
+          return false;
+        }
+        return true;
+      } catch (e) {
+        console.error('[Supabase] Exception saving user settings:', e);
+        return false;
+      }
+    }
+
+    // Subscribe to real-time user settings changes
+    function subscribeToUserSettings() {
+      if (!state.user) return;
+      
+      supabase
+        .channel('user_settings_changes')
+        .on('postgres_changes', {
+          event: '*',
+          schema: 'public',
+          table: 'user_settings',
+          filter: `user_id=eq.${state.user.id}`
+        }, (payload) => {
+          console.log('[Supabase] User settings real-time update:', payload);
+          
+          if (payload.eventType === 'INSERT' || payload.eventType === 'UPDATE') {
+            const { hidden_authors } = payload.new;
+            state.config.hiddenAuthors = hidden_authors || [];
+            render();
+            showToast('Settings synced from another device');
+          }
+        })
+        .subscribe();
+    }
+
     // Subscribe to real-time post state changes
     function subscribeToPostStates() {
       if (!state.user) return;
@@ -1620,7 +1697,9 @@
       elements.logoutBtn.style.display = 'flex';
       
       await loadPostStates();
+      await loadUserSettings();
       subscribeToPostStates();
+      subscribeToUserSettings();
       await fetchFeed();
       setInterval(fetchFeed, 60000);
     }
@@ -2260,15 +2339,23 @@ showToast(`Archived ${successCount}/${count} items`, 'warning');
             elements.settingsModal.classList.remove('open');
         });
 
-        document.getElementById('saveConfigBtn').addEventListener('click', () => {
+        document.getElementById('saveConfigBtn').addEventListener('click', async () => {
             try {
                 const newConfig = JSON.parse(elements.configInput.value);
-                localStorage.setItem(STORAGE_KEYS.CONFIG, JSON.stringify(newConfig));
-                state.config = newConfig;
-                elements.settingsModal.classList.remove('open');
-                showToast('Configuration saved - feed refreshed');
-                // Refresh the feed to apply new filters
-                render();
+                const hiddenAuthors = newConfig.hiddenAuthors || [];
+                
+                // Save to Supabase
+                const success = await saveUserSettings(hiddenAuthors);
+                
+                if (success) {
+                  state.config = newConfig;
+                  elements.settingsModal.classList.remove('open');
+                  showToast('Configuration saved to cloud - syncs across devices!');
+                  // Refresh the feed to apply new filters
+                  render();
+                } else {
+                  showToast('Failed to save settings - try again', 'error');
+                }
             } catch {
                 alert('Invalid JSON');
             }

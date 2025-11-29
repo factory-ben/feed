@@ -88,3 +88,45 @@ CREATE TRIGGER update_post_states_updated_at
 
 -- Enable realtime for post_states (for cross-device sync)
 ALTER PUBLICATION supabase_realtime ADD TABLE post_states;
+
+-- User settings table (for hiddenAuthors and other preferences)
+CREATE TABLE IF NOT EXISTS user_settings (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  user_id UUID REFERENCES auth.users(id) ON DELETE CASCADE UNIQUE,
+  hidden_authors TEXT[] DEFAULT '{}',
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  updated_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- Index for user queries
+CREATE INDEX IF NOT EXISTS idx_user_settings_user ON user_settings(user_id);
+
+-- Enable Row Level Security
+ALTER TABLE user_settings ENABLE ROW LEVEL SECURITY;
+
+-- Users can only see and manage their own settings
+CREATE POLICY "Users can read own settings" ON user_settings
+  FOR SELECT
+  USING (auth.uid() = user_id);
+
+CREATE POLICY "Users can insert own settings" ON user_settings
+  FOR INSERT
+  WITH CHECK (auth.uid() = user_id);
+
+CREATE POLICY "Users can update own settings" ON user_settings
+  FOR UPDATE
+  USING (auth.uid() = user_id);
+
+CREATE POLICY "Users can delete own settings" ON user_settings
+  FOR DELETE
+  USING (auth.uid() = user_id);
+
+-- Trigger to auto-update updated_at on user_settings
+DROP TRIGGER IF EXISTS update_user_settings_updated_at ON user_settings;
+CREATE TRIGGER update_user_settings_updated_at
+  BEFORE UPDATE ON user_settings
+  FOR EACH ROW
+  EXECUTE FUNCTION update_updated_at_column();
+
+-- Enable realtime for user_settings (for cross-device sync)
+ALTER PUBLICATION supabase_realtime ADD TABLE user_settings;
