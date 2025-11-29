@@ -1567,7 +1567,14 @@
         if (data?.hidden_authors) {
           state.config.hiddenAuthors = data.hidden_authors;
         } else {
-          state.config.hiddenAuthors = [];
+          // No Supabase data yet - preserve existing localStorage settings
+          // and migrate them to Supabase if they exist
+          const existingHiddenAuthors = state.config.hiddenAuthors || [];
+          if (existingHiddenAuthors.length > 0) {
+            console.log('[Supabase] Migrating localStorage hiddenAuthors to Supabase:', existingHiddenAuthors);
+            await saveUserSettings(existingHiddenAuthors);
+          }
+          // Keep existing state.config.hiddenAuthors as-is
         }
         
         console.log('[Supabase] Loaded hiddenAuthors:', state.config.hiddenAuthors);
