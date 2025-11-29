@@ -20046,6 +20046,19 @@
     "category": "other"
   },
   {
+    "id": "github_discussion_92",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] MCP tools filtering\n\nI would like to configure exactly what tools of a MCP server should be made available.\r\n\r\nMotivation: MCP servers with overlapping functionality and too many unneeded tools is confusing the models.",
+    "url": "https://github.com/Factory-AI/factory/discussions/92",
+    "timestamp": "2025-10-01T09:07:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 92
+    }
+  },
+  {
     "id": "github_discussion_82",
     "source": "github",
     "author": "mweichert",
@@ -20058,6 +20071,19 @@
       "number": 82
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_82",
+    "source": "github",
+    "author": "mweichert",
+    "content": "[Discussion] Web API?\n\nHi there! Is there a web API to create and manage sessions?",
+    "url": "https://github.com/Factory-AI/factory/discussions/82",
+    "timestamp": "2025-09-29T13:16:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 82
+    }
   },
   {
     "id": "github_discussion_72",
