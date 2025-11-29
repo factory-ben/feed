@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994889372131275129",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "Is it just me, or Claude Sonnet started using more tokens? Literally two requests consume 1M tokens. I'm using a droid @FactoryAI \n🤔🤔🤔\n#vibecoding",
+    "url": "https://x.com/MihailVarich/status/1994889372131275129",
+    "timestamp": "2025-11-29T22:01:04.000Z",
+    "metadata": {
+      "conversation_id": "1994889372131275129",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994884434697547941",
     "source": "twitter",
     "author": "rahulvrane",
