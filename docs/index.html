@@ -1559,11 +1559,20 @@
         const localArchived = JSON.parse(localStorage.getItem('archivedIds') || '[]');
         if (localArchived.length > 0) {
           console.log('[Migration] Migrating', localArchived.length, 'archived items to Supabase');
-          await Promise.all(
+          const results = await Promise.all(
             localArchived.map(id => updatePostState(id, { is_archived: true }))
           );
-          // Clear localStorage after successful migration
-          localStorage.removeItem('archivedIds');
+          
+          // Only clear localStorage if all items migrated successfully
+          const allSucceeded = results.every(r => r);
+          if (allSucceeded) {
+            localStorage.removeItem('archivedIds');
+          } else {
+            // Keep only failed items in localStorage for retry
+            const failedIds = localArchived.filter((id, i) => !results[i]);
+            localStorage.setItem('archivedIds', JSON.stringify(failedIds));
+            console.warn('[Migration] Some items failed, kept in localStorage:', failedIds.length);
+          }
         }
       } catch (e) {
         console.error('[Migration] Error migrating localStorage to Supabase:', e);
