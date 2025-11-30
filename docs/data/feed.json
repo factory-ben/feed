@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994925436699381813",
+    "source": "twitter",
+    "author": "Jackhortonlol",
+    "content": "Churn Updates: 1/2 \n\nDroid Support + UI Polish (v2.1.9)\n\nI've improved our agent integration and cleaned up the terminal experience.\n\nNew Integration: Added support for @FactoryAI Droid CLI for pass off. \n\nCleaner Console: Running analysis now groups files by folder for better readability.\n\nCheck the changelog: https://t.co/jyUhMo45cu",
+    "url": "https://x.com/Jackhortonlol/status/1994925436699381813",
+    "timestamp": "2025-11-30T00:24:22.000Z",
+    "metadata": {
+      "conversation_id": "1994925436699381813",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994922747361722826",
+    "source": "twitter",
+    "author": "StressarN",
+    "content": "@bentossell @alxfazio @FactoryAI https://t.co/krZ40tvVIS",
+    "url": "https://x.com/StressarN/status/1994922747361722826",
+    "timestamp": "2025-11-30T00:13:41.000Z",
+    "metadata": {
+      "conversation_id": "1994922747361722826",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994916099373031910",
     "source": "twitter",
     "author": "jcurtis",
