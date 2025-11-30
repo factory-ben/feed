@@ -20284,6 +20284,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_379",
+    "source": "github",
+    "author": "vinayshetty000",
+    "content": "[Issue] Unable to Complete Onboarding Due to Phone Verification Error\n\nWhen signing in, I chose Google authentication and logged in successfully. During the welcome/onboarding process, I was asked to enter my phone number. I entered it, received the OTP, and submitted it. After that, the screen showed “Unexpected error.”\n\nWhen I tried entering the same phone number again, it showed “This number is already claimed.”\n\nI repeated the entire process with a different phone number, but the same error occurred. Now both numbers are unusable, and I cannot proceed further b",
+    "url": "https://github.com/Factory-AI/factory/issues/379",
+    "timestamp": "2025-11-18T12:11:39Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 379
+    }
+  },
+  {
     "id": "reddit_1p0a05d",
     "source": "reddit",
     "author": "Mindless_Relation729",
