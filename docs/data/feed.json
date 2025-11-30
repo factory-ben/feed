@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995160200748405145",
+    "source": "twitter",
+    "author": "MihailVarich",
+    "content": "@FactoryAI looks like new error. When I press ESC and manual aborted. Previously, after manually stopping the response, there were no problems with working in the same session. https://t.co/5b4KZP16d7",
+    "url": "https://x.com/MihailVarich/status/1995160200748405145",
+    "timestamp": "2025-11-30T15:57:14.000Z",
+    "metadata": {
+      "conversation_id": "1995160200748405145",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995140175823843781",
     "source": "twitter",
     "author": "MinChonChiSF",
