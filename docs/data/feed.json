@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995477779291267319",
+    "source": "twitter",
+    "author": "raimonvibe",
+    "content": "@lohigowda_in @FactoryAI Yes that’s a nice feature, Claude has that too",
+    "url": "https://x.com/raimonvibe/status/1995477779291267319",
+    "timestamp": "2025-12-01T12:59:11.000Z",
+    "metadata": {
+      "conversation_id": "1995477779291267319",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995475930899202461",
+    "source": "twitter",
+    "author": "anas0ra",
+    "content": "@DFintelligence Opus 4.5 avec l'agent @FactoryAI c'est vraiment quelque chose. Je suis curieux de voir ce que ça peut donner avec Claude code",
+    "url": "https://x.com/anas0ra/status/1995475930899202461",
+    "timestamp": "2025-12-01T12:51:50.000Z",
+    "metadata": {
+      "conversation_id": "1995475930899202461",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995469425982546024",
     "source": "twitter",
     "author": "pgbouncer",
