@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995368025290412224",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@itsbyrobin @FactoryAI i am building a fun project with it in factory cli, i dont have any issue, i find it better in planning than gpt 5 high, it could droid sauce but true",
+    "url": "https://x.com/immoinulmoin/status/1995368025290412224",
+    "timestamp": "2025-12-01T05:43:04.000Z",
+    "metadata": {
+      "conversation_id": "1995368025290412224",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995367611232874876",
+    "source": "twitter",
+    "author": "itsbyrobin",
+    "content": "@immoinulmoin @FactoryAI have you tried creating plans with gpt-5-high first and then letting opus run with it? because for me, that's the gold standard. opus simply isn't that great at context engineering yet",
+    "url": "https://x.com/itsbyrobin/status/1995367611232874876",
+    "timestamp": "2025-12-01T05:41:25.000Z",
+    "metadata": {
+      "conversation_id": "1995367611232874876",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_463",
     "source": "github",
     "author": "zhaozhongwenzzw",
