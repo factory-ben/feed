@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1995511660312719619",
+    "source": "twitter",
+    "author": "wnsbye",
+    "content": "@bentossell @FactoryAI u da goat",
+    "url": "https://x.com/wnsbye/status/1995511660312719619",
+    "timestamp": "2025-12-01T15:13:49.000Z",
+    "metadata": {
+      "conversation_id": "1995511660312719619",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995511287565131847",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "When you believe ML models can grant wishes, you ask them for what you want.\n\nA problem appears if you believe they're capable of real things in the real world and they're not.\n\nThis is why I like using droid from @FactoryAI so much - basically anything you want done on a computer, you tell it and it does it.",
+    "url": "https://x.com/MickeyShaughnes/status/1995511287565131847",
+    "timestamp": "2025-12-01T15:12:20.000Z",
+    "metadata": {
+      "conversation_id": "1995511287565131847",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995510801185341535",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MihailVarich @FactoryAI ah yeah known issue because of new thinking blocks, if you quit and resume session should be all good",
+    "url": "https://x.com/bentossell/status/1995510801185341535",
+    "timestamp": "2025-12-01T15:10:24.000Z",
+    "metadata": {
+      "conversation_id": "1995510801185341535",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995510677935694339",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@wnsbye @FactoryAI yes its coming",
+    "url": "https://x.com/bentossell/status/1995510677935694339",
+    "timestamp": "2025-12-01T15:09:55.000Z",
+    "metadata": {
+      "conversation_id": "1995510677935694339",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995505498066751954",
     "source": "twitter",
     "author": "Ricardo_Nth",
