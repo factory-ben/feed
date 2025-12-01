@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995520405785006456",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@bentossell @FactoryAI I love droids !",
+    "url": "https://x.com/AIFlow_ML/status/1995520405785006456",
+    "timestamp": "2025-12-01T15:48:34.000Z",
+    "metadata": {
+      "conversation_id": "1995520405785006456",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995519284630737181",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AIFlow_ML @FactoryAI yeh we auto-import them, you can change the import flag claudeHooksImported to true to prevent re-importing in settings.json",
+    "url": "https://x.com/bentossell/status/1995519284630737181",
+    "timestamp": "2025-12-01T15:44:07.000Z",
+    "metadata": {
+      "conversation_id": "1995519284630737181",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995515182148395060",
     "source": "twitter",
     "author": "LoomisLoud",
