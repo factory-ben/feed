@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1995515182148395060",
+    "source": "twitter",
+    "author": "LoomisLoud",
+    "content": "Not me refreshing regularly @FactoryAI integrations page waiting for bitbucket integration",
+    "url": "https://x.com/LoomisLoud/status/1995515182148395060",
+    "timestamp": "2025-12-01T15:27:48.000Z",
+    "metadata": {
+      "conversation_id": "1995515182148395060",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995513991041585532",
+    "source": "twitter",
+    "author": "viditchess",
+    "content": "@FactoryAI @bentossell @matanSF  droid is v cool! It helped us  speed up the entire thing :)",
+    "url": "https://x.com/viditchess/status/1995513991041585532",
+    "timestamp": "2025-12-01T15:23:04.000Z",
+    "metadata": {
+      "conversation_id": "1995513991041585532",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_472",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] todos paramete error\n\nThinking:                                                                   hide in /settings\n  I need to pass the todos parameter as an array, not just the array. Let me fix this.\n\n\nThinking:                                                                   hide in /settings\n  It seems there's an issue with the TodoWrite tool. Let me try a different approach and \n  start by examining the files directly. I'll read the settings.json file and explore the \n  directory structure.\n",
+    "url": "https://github.com/Factory-AI/factory/issues/472",
+    "timestamp": "2025-12-01T15:20:33Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 472
+    }
+  },
+  {
     "id": "twitter_1995511660312719619",
     "source": "twitter",
     "author": "wnsbye",
@@ -15130,6 +15173,19 @@
       "number": 420
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_420",
+    "source": "github",
+    "author": "tzutoo",
+    "content": "[Issue] [CLI] MCP error -32001:  Request timed out\n\nMCP tool calling should add ability to configure timeout setting like Codex or Claude Code to preview MCP error -32001:  Request timed out.\n\nThis is quite useful when calling tools like RepoPrompt (since it will write long running tasks before returning result back to Factory Droid CLI.)\n",
+    "url": "https://github.com/Factory-AI/factory/issues/420",
+    "timestamp": "2025-11-23T03:38:20Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 420
+    }
   },
   {
     "id": "twitter_1992430718627217485",
