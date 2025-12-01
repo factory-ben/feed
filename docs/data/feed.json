@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_465",
+    "source": "github",
+    "author": "Li17860397285",
+    "content": "[Issue] todos must be an array\n\ntodowrite工具，参数todos的类型是个选择项，可以是array或者是string。经过debug，发现较多模型都按照prompt要求输出的是json字符（并非array），但是droid没有处理string类型的json字符串，导致报错：todos must be an array",
+    "url": "https://github.com/Factory-AI/factory/issues/465",
+    "timestamp": "2025-12-01T09:26:06Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 465
+    }
+  },
+  {
     "id": "twitter_1995403541561881008",
     "source": "twitter",
     "author": "technavi_tooru",
