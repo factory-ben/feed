@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wall of Love - Factory Feed</title>
+  <meta name="description" content="What people are saying about Factory AI">
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    :root {
+      --bg: #fafafa;
+      --card-bg: #ffffff;
+      --sidebar-bg: #f6f6f6;
+      --border: #eaeaea;
+      --text: #000000;
+      --text-secondary: #666666;
+      --text-tertiary: #888888;
+      --accent: #000000;
+      --accent-fg: #ffffff;
+      --hover: #f5f5f5;
+      --selection: #e6f7ff;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --error: #ef4444;
+      
+      --twitter-color: #1d9bf0;
+      --reddit-color: #ff4500;
+      --github-color: #24292f;
+      
+      --sidebar-width: 240px;
+    }
+
+    [data-theme="dark"] {
+      --bg: #000000;
+      --card-bg: #0a0a0a;
+      --sidebar-bg: #0a0a0a;
+      --border: #333333;
+      --text: #ffffff;
+      --text-secondary: #a1a1a1;
+      --text-tertiary: #666666;
+      --accent: #ffffff;
+      --accent-fg: #000000;
+      --hover: #111111;
+      --selection: #1a1a1a;
+      --github-color: #ffffff;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      font-size: 14px;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .app-header {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      flex-shrink: 0;
+      z-index: 20;
+    }
+
+    .header-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .app-logo {
+      font-weight: 700;
+      font-size: 16px;
+      letter-spacing: -0.02em;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .page-title {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    .page-title svg {
+      color: #16a34a;
+    }
+
+    .app-controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .icon-btn {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      border-radius: 6px;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .icon-btn:hover {
+      background: var(--hover);
+      color: var(--text);
+      border-color: var(--text-secondary);
+    }
+
+    .icon-btn svg {
+      width: 16px;
+      height: 16px;
+    }
+
+    /* Search Bar */
+    .search-container {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .search-box {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 12px;
+      flex: 1;
+      min-width: 200px;
+      max-width: 400px;
+      transition: border-color 0.15s;
+    }
+
+    .search-box:focus-within {
+      border-color: var(--text-secondary);
+    }
+
+    .search-box svg {
+      width: 16px;
+      height: 16px;
+      color: var(--text-tertiary);
+      flex-shrink: 0;
+    }
+
+    .search-box input {
+      flex: 1;
+      border: none;
+      background: none;
+      outline: none;
+      color: var(--text);
+      font-size: 14px;
+    }
+
+    .search-box input::placeholder {
+      color: var(--text-tertiary);
+    }
+
+    .clear-search {
+      background: none;
+      border: none;
+      color: var(--text-tertiary);
+      cursor: pointer;
+      padding: 2px;
+      display: none;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .clear-search:hover {
+      color: var(--text);
+    }
+
+    .clear-search.visible {
+      display: flex;
+    }
+
+    .results-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      white-space: nowrap;
+    }
+
+    .source-filters {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .source-btn {
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--card-bg);
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s;
+    }
+
+    .source-btn:hover {
+      background: var(--hover);
+      color: var(--text);
+    }
+
+    .source-btn.active {
+      background: var(--text);
+      color: var(--bg);
+      border-color: var(--text);
+    }
+
+    .source-btn svg {
+      width: 14px;
+      height: 14px;
+    }
+
+    /* Main Content */
+    .main-wrapper {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      width: var(--sidebar-width);
+      background: var(--sidebar-bg);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      transition: margin-left 0.2s ease;
+      position: relative;
+    }
+    
+    .sidebar.collapsed {
+      margin-left: calc(-1 * var(--sidebar-width));
+    }
+    
+    .sidebar-nav {
+      flex: 1;
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .sidebar-sections {
+      flex: 1;
+    }
+    
+    .sidebar-section {
+      margin-bottom: 24px;
+    }
+    
+    .sidebar-section-title {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-tertiary);
+      padding: 8px 12px;
+      margin-bottom: 4px;
+    }
+    
+    .sidebar-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 14px;
+      color: var(--text-tertiary);
+      cursor: pointer;
+      transition: all 0.15s;
+      text-decoration: none;
+    }
+    
+    .sidebar-item:hover {
+      background: var(--hover);
+      color: var(--text);
+    }
+    
+    .sidebar-item.active {
+      background: var(--card-bg);
+      font-weight: 500;
+      color: var(--text);
+    }
+    
+    .sidebar-item svg {
+      width: 16px;
+      height: 16px;
+      color: var(--text-tertiary);
+    }
+    
+    .sidebar-item.active svg {
+      color: var(--text);
+    }
+
+    .main-container {
+      flex: 1;
+      overflow: hidden;
+      display: flex;
+      position: relative;
+      background: var(--card-bg);
+    }
+
+    .feed-container {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px;
+      scroll-behavior: smooth;
+    }
+
+    .feed-list {
+      max-width: 100%;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      padding-bottom: 100px;
+    }
+
+    /* Cards */
+    .card {
+      background: transparent;
+      border-bottom: 1px solid var(--border);
+      padding: 16px 20px;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .card:hover {
+      background: var(--hover);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .source-badge {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+      border-radius: 6px;
+      flex-shrink: 0;
+    }
+    
+    .source-badge svg {
+      width: 16px;
+      height: 16px;
+    }
+    
+    .source-twitter { color: var(--twitter-color); background: rgba(29, 155, 240, 0.1); }
+    .source-reddit { color: var(--reddit-color); background: rgba(255, 69, 0, 0.1); }
+    .source-github { color: var(--github-color); background: rgba(128, 128, 128, 0.1); }
+    
+    [data-theme="dark"] .source-github { background: rgba(255, 255, 255, 0.1); }
+
+    .card-author {
+      font-weight: 600;
+      color: var(--text);
+      font-size: 14px;
+    }
+
+    .card-time {
+      color: var(--text-tertiary);
+      font-size: 13px;
+      margin-left: auto;
+    }
+
+    .card-content {
+      color: var(--text);
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    .card-content a {
+      color: var(--twitter-color);
+      text-decoration: none;
+    }
+
+    .card-content a:hover {
+      text-decoration: underline;
+    }
+
+    .card-content .highlight {
+      background: #fef08a;
+      color: #000;
+      padding: 1px 2px;
+      border-radius: 2px;
+    }
+
+    [data-theme="dark"] .card-content .highlight {
+      background: #854d0e;
+      color: #fef08a;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      font-size: 13px;
+      color: var(--text-tertiary);
+    }
+
+    .engagement-metric {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .engagement-metric svg {
+      width: 14px;
+      height: 14px;
+    }
+
+    /* Loading & Empty States */
+    .loading-state, .empty-state {
+      padding: 60px 40px;
+      text-align: center;
+      color: var(--text-secondary);
+    }
+
+    .empty-state svg {
+      width: 48px;
+      height: 48px;
+      color: var(--text-tertiary);
+      margin-bottom: 16px;
+    }
+
+    .empty-state h3 {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    /* Mobile Responsive */
+    @media (max-width: 768px) {
+      .app-header {
+        padding: 12px 16px;
+      }
+
+      .header-top {
+        flex-wrap: wrap;
+      }
+
+      .search-container {
+        width: 100%;
+      }
+
+      .search-box {
+        max-width: none;
+      }
+
+      .source-filters {
+        width: 100%;
+        overflow-x: auto;
+      }
+
+      .sidebar {
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        z-index: 40;
+        box-shadow: 2px 0 8px rgba(0,0,0,0.15);
+      }
+      
+      .sidebar.collapsed {
+        margin-left: calc(-1 * var(--sidebar-width) - 20px);
+      }
+
+      .feed-container {
+        padding: 12px;
+      }
+
+      .card {
+        padding: 12px 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-top">
+      <div class="header-left">
+        <a href="index.html" class="app-logo" aria-label="Factory Feed Home">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width: 18px; height: 18px;"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path></svg>
+        </a>
+        <div class="page-title">
+          <i data-lucide="heart"></i>
+          Wall of Love
+        </div>
+      </div>
+      
+      <div class="app-controls">
+        <button class="icon-btn" id="themeBtn" title="Toggle Theme">
+          <i data-lucide="moon"></i>
+        </button>
+      </div>
+    </div>
+
+    <div class="search-container">
+      <div class="search-box">
+        <i data-lucide="search"></i>
+        <input type="text" id="searchInput" placeholder="Search posts... (e.g., opus, claude, droid)">
+        <button class="clear-search" id="clearSearch" title="Clear search">
+          <i data-lucide="x"></i>
+        </button>
+      </div>
+      <span class="results-count" id="resultsCount"></span>
+      <div class="source-filters">
+        <button class="source-btn active" data-source="all">
+          <i data-lucide="layers"></i>
+          All
+        </button>
+        <button class="source-btn" data-source="twitter">
+          <i data-lucide="twitter"></i>
+        </button>
+        <button class="source-btn" data-source="reddit">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" viewBox="0 0 16 16">
+            <path d="M6.167 8a.83.83 0 0 0-.83.83c0 .459.372.84.83.831a.831.831 0 0 0 0-1.661m1.843 3.647c.315 0 1.403-.038 1.976-.611a.23.23 0 0 0 0-.306.213.213 0 0 0-.306 0c-.353.363-1.126.487-1.67.487-.545 0-1.308-.124-1.671-.487a.213.213 0 0 0-.306 0 .213.213 0 0 0 0 .306c.564.563 1.652.61 1.977.61zm.992-2.807c0 .458.373.83.831.83s.83-.381.83-.83a.831.831 0 0 0-1.66 0z"/>
+            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.828-1.165c-.315 0-.602.124-.812.325-.801-.573-1.9-.945-3.121-.993l.534-2.501 1.738.372a.83.83 0 1 0 .83-.869.83.83 0 0 0-.744.468l-1.938-.41a.2.2 0 0 0-.153.028.2.2 0 0 0-.086.134l-.592 2.788c-1.24.038-2.358.41-3.17.992-.21-.2-.496-.324-.81-.324a1.163 1.163 0 0 0-.478 2.224q-.03.17-.029.353c0 1.795 2.091 3.256 4.669 3.256s4.668-1.451 4.668-3.256c0-.114-.01-.238-.029-.353.401-.181.688-.592.688-1.069 0-.65-.525-1.165-1.165-1.165"/>
+          </svg>
+        </button>
+        <button class="source-btn" data-source="github">
+          <i data-lucide="github"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="main-wrapper">
+    <aside class="sidebar collapsed" id="sidebar">
+      <nav class="sidebar-nav">
+        <div class="sidebar-sections">
+          <div class="sidebar-section">
+            <div class="sidebar-section-title">Views</div>
+            <a href="index.html" class="sidebar-item">
+              <i data-lucide="inbox"></i>
+              <span>All</span>
+            </a>
+            <a href="index.html#archived" class="sidebar-item">
+              <i data-lucide="archive"></i>
+              <span>Archived</span>
+            </a>
+            <a href="stats.html" class="sidebar-item">
+              <i data-lucide="bar-chart-3"></i>
+              <span>Stats</span>
+            </a>
+            <a href="love.html" class="sidebar-item active">
+              <i data-lucide="heart"></i>
+              <span>Wall of Love</span>
+            </a>
+          </div>
+        </div>
+      </nav>
+    </aside>
+    
+    <main class="main-container">
+      <div class="feed-container" id="scrollContainer">
+        <div id="feedList" class="feed-list">
+          <div class="loading-state">Loading love posts...</div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    // State
+    let allItems = [];
+    let filteredItems = [];
+    let currentSource = 'all';
+    let searchQuery = '';
+
+    // DOM Elements
+    const feedList = document.getElementById('feedList');
+    const searchInput = document.getElementById('searchInput');
+    const clearSearchBtn = document.getElementById('clearSearch');
+    const resultsCount = document.getElementById('resultsCount');
+
+    // --- Initialization ---
+    function init() {
+      setupTheme();
+      setupSidebar();
+      setupSearch();
+      setupSourceFilters();
+      
+      // Read search query from URL
+      const urlParams = new URLSearchParams(window.location.search);
+      const q = urlParams.get('q');
+      if (q) {
+        searchQuery = q;
+        searchInput.value = q;
+        clearSearchBtn.classList.add('visible');
+      }
+      
+      fetchFeed();
+    }
+
+    // --- Theme ---
+    function setupTheme() {
+      const themeBtn = document.getElementById('themeBtn');
+      const stored = localStorage.getItem('theme');
+      if (stored === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        themeBtn.innerHTML = '<i data-lucide="sun"></i>';
+      }
+
+      themeBtn.addEventListener('click', () => {
+        const current = document.documentElement.getAttribute('data-theme');
+        const next = current === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+        
+        const icon = next === 'dark' ? 'sun' : 'moon';
+        themeBtn.innerHTML = `<i data-lucide="${icon}"></i>`;
+        lucide.createIcons();
+      });
+    }
+
+    // --- Sidebar ---
+    function setupSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      
+      document.addEventListener('keydown', e => {
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+        
+        if (e.key === 'ArrowLeft') {
+          sidebar.classList.add('collapsed');
+        } else if (e.key === 'ArrowRight') {
+          sidebar.classList.remove('collapsed');
+        }
+      });
+    }
+
+    // --- Search ---
+    function setupSearch() {
+      let debounceTimer;
+      
+      searchInput.addEventListener('input', (e) => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+          searchQuery = e.target.value.trim();
+          updateURL();
+          render();
+        }, 200);
+        
+        clearSearchBtn.classList.toggle('visible', e.target.value.length > 0);
+      });
+      
+      clearSearchBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        searchQuery = '';
+        clearSearchBtn.classList.remove('visible');
+        updateURL();
+        render();
+        searchInput.focus();
+      });
+      
+      // Handle Escape key
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          searchInput.value = '';
+          searchQuery = '';
+          clearSearchBtn.classList.remove('visible');
+          updateURL();
+          render();
+        }
+      });
+    }
+
+    function updateURL() {
+      const url = new URL(window.location);
+      if (searchQuery) {
+        url.searchParams.set('q', searchQuery);
+      } else {
+        url.searchParams.delete('q');
+      }
+      window.history.replaceState({}, '', url);
+    }
+
+    // --- Source Filters ---
+    function setupSourceFilters() {
+      document.querySelectorAll('.source-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.source-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentSource = btn.dataset.source;
+          render();
+        });
+      });
+    }
+
+    // --- Data ---
+    async function fetchFeed() {
+      try {
+        const res = await fetch('./data/feed.json');
+        if (!res.ok) throw new Error('Failed to fetch');
+        const items = await res.json();
+        
+        // Filter to only "love" category items (both archived and unarchived)
+        allItems = items.filter(item => item.category === 'love');
+        
+        // Sort by date desc
+        allItems.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+        
+        render();
+      } catch (err) {
+        console.error(err);
+        feedList.innerHTML = '<div class="loading-state">Failed to load feed</div>';
+      }
+    }
+
+    // --- Rendering ---
+    function render() {
+      // Apply filters
+      filteredItems = allItems.filter(item => {
+        // Source filter
+        if (currentSource !== 'all' && item.source !== currentSource) return false;
+        
+        // Search filter
+        if (searchQuery) {
+          const query = searchQuery.toLowerCase();
+          const content = (item.content || '').toLowerCase();
+          const author = (item.author || '').toLowerCase();
+          if (!content.includes(query) && !author.includes(query)) return false;
+        }
+        
+        return true;
+      });
+
+      // Update results count
+      if (searchQuery) {
+        resultsCount.textContent = `${filteredItems.length} result${filteredItems.length !== 1 ? 's' : ''} for "${searchQuery}"`;
+      } else {
+        resultsCount.textContent = `${filteredItems.length} love post${filteredItems.length !== 1 ? 's' : ''}`;
+      }
+
+      // Render list
+      if (filteredItems.length === 0) {
+        feedList.innerHTML = `
+          <div class="empty-state">
+            <i data-lucide="search-x"></i>
+            <h3>No posts found</h3>
+            <p>${searchQuery ? `No love posts match "${searchQuery}"` : 'No love posts yet'}</p>
+          </div>
+        `;
+        lucide.createIcons();
+        return;
+      }
+
+      const html = filteredItems.map(item => createCardHTML(item)).join('');
+      feedList.innerHTML = html;
+      
+      lucide.createIcons();
+      attachCardListeners();
+    }
+
+    function createCardHTML(item) {
+      const date = new Date(item.timestamp);
+      const timeAgo = getTimeAgo(date);
+      
+      let sourceIconHTML = '';
+      if (item.source === 'twitter') {
+        sourceIconHTML = '<i data-lucide="twitter"></i>';
+      } else if (item.source === 'reddit') {
+        sourceIconHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M6.167 8a.83.83 0 0 0-.83.83c0 .459.372.84.83.831a.831.831 0 0 0 0-1.661m1.843 3.647c.315 0 1.403-.038 1.976-.611a.23.23 0 0 0 0-.306.213.213 0 0 0-.306 0c-.353.363-1.126.487-1.67.487-.545 0-1.308-.124-1.671-.487a.213.213 0 0 0-.306 0 .213.213 0 0 0 0 .306c.564.563 1.652.61 1.977.61zm.992-2.807c0 .458.373.83.831.83s.83-.381.83-.83a.831.831 0 0 0-1.66 0z"/><path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.828-1.165c-.315 0-.602.124-.812.325-.801-.573-1.9-.945-3.121-.993l.534-2.501 1.738.372a.83.83 0 1 0 .83-.869.83.83 0 0 0-.744.468l-1.938-.41a.2.2 0 0 0-.153.028.2.2 0 0 0-.086.134l-.592 2.788c-1.24.038-2.358.41-3.17.992-.21-.2-.496-.324-.81-.324a1.163 1.163 0 0 0-.478 2.224q-.03.17-.029.353c0 1.795 2.091 3.256 4.669 3.256s4.668-1.451 4.668-3.256c0-.114-.01-.238-.029-.353.401-.181.688-.592.688-1.069 0-.65-.525-1.165-1.165-1.165"/></svg>';
+      } else if (item.source === 'github') {
+        sourceIconHTML = '<i data-lucide="github"></i>';
+      }
+
+      // Highlight search terms in content
+      let content = formatContent(item.content);
+      if (searchQuery) {
+        content = highlightSearchTerms(content, searchQuery);
+      }
+
+      // Build engagement metrics
+      let engagementHTML = '';
+      const metrics = [];
+      if (item.metadata?.likes) {
+        metrics.push(`<span class="engagement-metric"><i data-lucide="heart"></i>${formatNumber(item.metadata.likes)}</span>`);
+      }
+      if (item.metadata?.retweets) {
+        metrics.push(`<span class="engagement-metric"><i data-lucide="repeat"></i>${formatNumber(item.metadata.retweets)}</span>`);
+      }
+      if (item.metadata?.replies) {
+        metrics.push(`<span class="engagement-metric"><i data-lucide="message-circle"></i>${formatNumber(item.metadata.replies)}</span>`);
+      }
+      if (metrics.length > 0) {
+        engagementHTML = metrics.join('');
+      }
+
+      return `
+        <div class="card" data-url="${item.url}">
+          <div class="card-header">
+            <span class="source-badge source-${item.source}">
+              ${sourceIconHTML}
+            </span>
+            <span class="card-author">@${item.author}</span>
+            <span class="card-time">${timeAgo}</span>
+          </div>
+          <div class="card-content">${content}</div>
+          ${engagementHTML ? `<div class="card-footer">${engagementHTML}</div>` : ''}
+        </div>
+      `;
+    }
+
+    function attachCardListeners() {
+      document.querySelectorAll('.card').forEach(card => {
+        card.addEventListener('click', (e) => {
+          if (e.target.tagName === 'A') return;
+          const url = card.dataset.url;
+          if (url) window.open(url, '_blank');
+        });
+      });
+    }
+
+    // --- Helpers ---
+    function getTimeAgo(date) {
+      const now = new Date();
+      const diffMs = now - date;
+      const diffMins = Math.floor(diffMs / 60000);
+      const diffHours = Math.floor(diffMs / 3600000);
+      const diffDays = Math.floor(diffMs / 86400000);
+
+      if (diffMins < 1) return 'now';
+      if (diffMins < 60) return `${diffMins}m`;
+      if (diffHours < 24) return `${diffHours}h`;
+      if (diffDays < 7) return `${diffDays}d`;
+      
+      return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    }
+
+    function formatNumber(num) {
+      if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
+      if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
+      return num.toString();
+    }
+
+    function formatContent(text) {
+      if (!text) return '';
+      
+      // Escape HTML
+      text = text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      
+      // Convert URLs to links
+      text = text.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+      
+      // Convert @mentions to links (Twitter)
+      text = text.replace(/@(\w+)/g, '<a href="https://x.com/$1" target="_blank" rel="noopener">@$1</a>');
+      
+      return text;
+    }
+
+    function highlightSearchTerms(html, query) {
+      if (!query) return html;
+      
+      // Simple case-insensitive highlight (avoiding highlighting inside HTML tags)
+      const regex = new RegExp(`(${escapeRegex(query)})(?![^<]*>)`, 'gi');
+      return html.replace(regex, '<span class="highlight">$1</span>');
+    }
+
+    function escapeRegex(string) {
+      return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    // Initialize
+    init();
+    lucide.createIcons();
+  </script>
+</body>
+</html>
