@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_462",
+    "source": "github",
+    "author": "lqp1037951137",
+    "content": "[Issue] I can't paste images in a Windows environment.\n\nI can't paste images in the Windows environment. It has been two weeks, please resolve this as soon as possible.",
+    "url": "https://github.com/Factory-AI/factory/issues/462",
+    "timestamp": "2025-12-01T02:28:29Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 462
+    }
+  },
+  {
+    "id": "twitter_1995306625952084119",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@ChaosCruxFL @KirkMarple @FactoryAI Interesting! ... and then in the CLI, how does it know how to use the 'knowledge DROID' ?",
+    "url": "https://x.com/SvenMeyer/status/1995306625952084119",
+    "timestamp": "2025-12-01T01:39:05.000Z",
+    "metadata": {
+      "conversation_id": "1995306625952084119",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995296267770216503",
     "source": "twitter",
     "author": "faizintfd",
