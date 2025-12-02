@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995886045465117056",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@TanukiLabsAI @FactoryAI @AnthropicAI Yep, Droid was consistently ~2x faster across all rounds.\nTracking cost would be interesting but I didn’t this time because I was on paid Claude Code (not direct API credits).",
+    "url": "https://x.com/makerfounder/status/1995886045465117056",
+    "timestamp": "2025-12-02T16:01:29.000Z",
+    "metadata": {
+      "conversation_id": "1995886045465117056",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995883279506178445",
+    "source": "twitter",
+    "author": "TanukiLabsAI",
+    "content": "@makerfounder @FactoryAI @AnthropicAI Interesting, 50% faster proves orchestration &gt; raw model power for speed.\n\nDid you track API costs between the two? That'd be a deciding factor for some people .",
+    "url": "https://x.com/TanukiLabsAI/status/1995883279506178445",
+    "timestamp": "2025-12-02T15:50:30.000Z",
+    "metadata": {
+      "conversation_id": "1995883279506178445",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995879396549574673",
     "source": "twitter",
     "author": "bentossell",
