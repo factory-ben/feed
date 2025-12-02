@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995793443411345742",
+    "source": "twitter",
+    "author": "MirAI_Newz",
+    "content": "I have a huge problem right now running Deepseek v3.2 Evals. It looks like on @FactoryAI or @Opencode it doesn't let me call tools. \n\nIt's either a huge skill issue on my side (most probably) or they are not supported yet.\n\nThis is what I got with simple @OpenRouterAI Calls: https://t.co/TCxhJ7VQjf",
+    "url": "https://x.com/MirAI_Newz/status/1995793443411345742",
+    "timestamp": "2025-12-02T09:53:31.000Z",
+    "metadata": {
+      "conversation_id": "1995793443411345742",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995793336574046537",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@farezv @FactoryAI @GeminiApp Good question ... let me post them up too! :)",
+    "url": "https://x.com/AriesTheCoder/status/1995793336574046537",
+    "timestamp": "2025-12-02T09:53:06.000Z",
+    "metadata": {
+      "conversation_id": "1995793336574046537",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995778824500642284",
     "source": "twitter",
     "author": "farezv",
