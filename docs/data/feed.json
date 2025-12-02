@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995941636690641395",
+    "source": "twitter",
+    "author": "jaredjanuary",
+    "content": "@claudeai @OpenAI @FactoryAI @supabase @shadcn https://t.co/YdaUgwCds1",
+    "url": "https://x.com/jaredjanuary/status/1995941636690641395",
+    "timestamp": "2025-12-02T19:42:23.000Z",
+    "metadata": {
+      "conversation_id": "1995941636690641395",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995940711078973931",
+    "source": "twitter",
+    "author": "jaredjanuary",
+    "content": "Site link: https://t.co/Adu4QFtfvR\n\nTools used: @claudeai Sonnet 4,5 front-end, Opus 4,5 back-end, @OpenAI codex alongside @FactoryAI for proper @supabase integration. @shadcn-based components everywhere, YOCO payment processor and last but not least, Courier Guy deliveries",
+    "url": "https://x.com/jaredjanuary/status/1995940711078973931",
+    "timestamp": "2025-12-02T19:38:42.000Z",
+    "metadata": {
+      "conversation_id": "1995940711078973931",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995926738388521068",
     "source": "twitter",
     "author": "makerfounder",
