@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1995803043162644491",
+    "source": "twitter",
+    "author": "0xSongra",
+    "content": "@bentossell @viditchess @FactoryAI @matanSF Intent 🫣 and incentive",
+    "url": "https://x.com/0xSongra/status/1995803043162644491",
+    "timestamp": "2025-12-02T10:31:40.000Z",
+    "metadata": {
+      "conversation_id": "1995803043162644491",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995802668753633663",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@0xSongra @viditchess @FactoryAI @matanSF whats blocking you?",
+    "url": "https://x.com/bentossell/status/1995802668753633663",
+    "timestamp": "2025-12-02T10:30:11.000Z",
+    "metadata": {
+      "conversation_id": "1995802668753633663",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995802526281510976",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@marovole @FactoryAI if you reject and add some details, often it does ask qs like this. \n\nlooking into cc-like ones https://t.co/oKYuQbKEgZ",
+    "url": "https://x.com/bentossell/status/1995802526281510976",
+    "timestamp": "2025-12-02T10:29:37.000Z",
+    "metadata": {
+      "conversation_id": "1995802526281510976",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995801684946321520",
+    "source": "twitter",
+    "author": "0xSongra",
+    "content": "@viditchess @FactoryAI @bentossell @matanSF Somehow haven’t been able to move to droid from Claude Code",
+    "url": "https://x.com/0xSongra/status/1995801684946321520",
+    "timestamp": "2025-12-02T10:26:16.000Z",
+    "metadata": {
+      "conversation_id": "1995801684946321520",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995795693881970892",
     "source": "twitter",
     "author": "marovole",
