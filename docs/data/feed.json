@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995926738388521068",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@AriesTheCoder @FactoryAI @AnthropicAI as close as it gets! big difference in speed though",
+    "url": "https://x.com/makerfounder/status/1995926738388521068",
+    "timestamp": "2025-12-02T18:43:11.000Z",
+    "metadata": {
+      "conversation_id": "1995926738388521068",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995925048121807246",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@makerfounder @FactoryAI @AnthropicAI Close match...",
+    "url": "https://x.com/AriesTheCoder/status/1995925048121807246",
+    "timestamp": "2025-12-02T18:36:28.000Z",
+    "metadata": {
+      "conversation_id": "1995925048121807246",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995923386024034468",
     "source": "twitter",
     "author": "EnoReyes",
