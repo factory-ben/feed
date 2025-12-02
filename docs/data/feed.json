@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995944964627538067",
+    "source": "twitter",
+    "author": "abhagsain",
+    "content": "@bentossell this is a very annoying issue with @FactoryAI \nThis happens when I stop the agent with Ctrl+C &amp; when I see it's going in the wrong direction.\nThe session doesn't work after this, so I always lose track of all the conversation history. Huge waste of time and money https://t.co/TAkneLAK5D",
+    "url": "https://x.com/abhagsain/status/1995944964627538067",
+    "timestamp": "2025-12-02T19:55:37.000Z",
+    "metadata": {
+      "conversation_id": "1995944964627538067",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995944547168518653",
+    "source": "twitter",
+    "author": "Carlos_0x",
+    "content": "hey @FactoryAI pls let me pay you! https://t.co/nMZUTH29bC",
+    "url": "https://x.com/Carlos_0x/status/1995944547168518653",
+    "timestamp": "2025-12-02T19:53:57.000Z",
+    "metadata": {
+      "conversation_id": "1995944547168518653",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995941636690641395",
     "source": "twitter",
     "author": "jaredjanuary",
