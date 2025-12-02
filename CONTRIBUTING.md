@@ -23,7 +23,7 @@ Thank you for your interest in contributing! This project is open source and we 
    ```bash
    cp .env.example .env
    # Add your API keys to .env
-   npm install
+   pnpm install
    ```
 4. **Create a branch:**
    ```bash
@@ -36,10 +36,10 @@ Thank you for your interest in contributing! This project is open source and we 
 
 ```bash
 # Run the local server
-npm start
+pnpm start
 
 # Test the scraper
-npm run scrape
+pnpm run scrape
 
 # Check the output
 cat docs/data/feed.json
@@ -56,8 +56,8 @@ cat docs/data/feed.json
 
 Before submitting:
 
-1. **Test locally** - Run `npm start` and verify everything works
-2. **Test scraping** - Run `npm run scrape` and check output
+1. **Test locally** - Run `pnpm start` and verify everything works
+2. **Test scraping** - Run `pnpm run scrape` and check output
 3. **Check for secrets** - Run `git diff` and ensure no API keys are included
 4. **Verify the frontend** - Open http://localhost:3000 and test the UI
 
@@ -161,7 +161,7 @@ Want to add a new social platform? Here's how:
 - Verify token names match `.env.example`
 
 ### "Cannot find module"
-- Run `npm install` to ensure all dependencies are installed
+- Run `pnpm install` to ensure all dependencies are installed
 - Check Node.js version (requires 18+)
 
 ### "GitHub Actions Failing"
