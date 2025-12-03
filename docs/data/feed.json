@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1996145302454128801",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "@bentossell @AnthropicAI @claudeai @FactoryAI @alexalbert__ @steipete @iannuttall @romainhuet Awesome - care to share it?",
+    "url": "https://x.com/laup30/status/1996145302454128801",
+    "timestamp": "2025-12-03T09:11:41.000Z",
+    "metadata": {
+      "conversation_id": "1996145302454128801",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996142516068847681",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@laup30 @AnthropicAI @claudeai @FactoryAI @alexalbert__ @steipete @iannuttall @romainhuet i have a hook setup for this to try and catch any old models being included in any output",
+    "url": "https://x.com/bentossell/status/1996142516068847681",
+    "timestamp": "2025-12-03T09:00:37.000Z",
+    "metadata": {
+      "conversation_id": "1996142516068847681",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996140286045475039",
     "source": "twitter",
     "author": "laup30",
