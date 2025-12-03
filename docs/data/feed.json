@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1996336438254948557",
+    "source": "twitter",
+    "author": "geekytwoshoes",
+    "content": "@_AbhaySinghal @FactoryAI Hey Abhay, we are working on code gen agents as well and would love to connect. DM’ing",
+    "url": "https://x.com/geekytwoshoes/status/1996336438254948557",
+    "timestamp": "2025-12-03T21:51:11.000Z",
+    "metadata": {
+      "conversation_id": "1996336438254948557",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996336090853331310",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": ".@FactoryAI Droid with Opus 4.5 just helped me identify a difficult to troubleshoot race condition happening client side. Took 5 minutes to diagnose and reproduce and it walked me thru which console commands to run to verify it. Would have taken me hours, maybe even days. Insane!",
+    "url": "https://x.com/JoelDeTeves/status/1996336090853331310",
+    "timestamp": "2025-12-03T21:49:48.000Z",
+    "metadata": {
+      "conversation_id": "1996336090853331310",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996334710503661769",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@batsirai @FactoryAI i hear ya. for now i'd recommend spec mode opus 4.5 and then haiku 4.5 or sonnet 4.5 for execution\n\nselect them in /models",
+    "url": "https://x.com/bentossell/status/1996334710503661769",
+    "timestamp": "2025-12-03T21:44:19.000Z",
+    "metadata": {
+      "conversation_id": "1996334710503661769",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996334516915654712",
     "source": "twitter",
     "author": "bentossell",
