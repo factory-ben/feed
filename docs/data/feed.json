@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996193620102136106",
+    "source": "twitter",
+    "author": "batsirai",
+    "content": "@FactoryAI I wish droid would auto select models depending on the nature of the task or prompt. Sometimes I’m on Opus 4.5 working great, then I need to do some basic tasks but the pain of compressing and switching makes me just use Opus tokens on what could have been handled by GLM",
+    "url": "https://x.com/batsirai/status/1996193620102136106",
+    "timestamp": "2025-12-03T12:23:41.000Z",
+    "metadata": {
+      "conversation_id": "1996193620102136106",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996187792154452398",
     "source": "twitter",
     "author": "johnsinclair98",
