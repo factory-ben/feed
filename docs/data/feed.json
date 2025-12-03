@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1996049214867124693",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@igoro @augmentcode @zeddotdev @GitHubCopilot @kilocode any connection instrucitons for @FactoryAI ?",
+    "url": "https://x.com/Ricardo_Nth/status/1996049214867124693",
+    "timestamp": "2025-12-03T02:49:52.000Z",
+    "metadata": {
+      "conversation_id": "1996049214867124693",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996042261323554862",
+    "source": "twitter",
+    "author": "abhagsain",
+    "content": "I have been using @FactoryAI for over a month now, and this thing is a beast.\nTried the $20 plan + $20 overage, then switched to the $200 plan\nIt's like having a brilliant senior engineer by your side (who does all the work) https://t.co/H5oZ27nexF",
+    "url": "https://x.com/abhagsain/status/1996042261323554862",
+    "timestamp": "2025-12-03T02:22:14.000Z",
+    "metadata": {
+      "conversation_id": "1996042261323554862",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996039160268984417",
     "source": "twitter",
     "author": "stringer_kade",
