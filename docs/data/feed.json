@@ -1,5 +1,48 @@
 [
   {
+    "id": "github_issue_478",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Automatically open the last session\n\nI made this wrapper, which in essence just saves the latest session id in a `.droid` file. If such a file exists this file will be used unless the `-n|--new` flag is used. That way I do not manually have to search for the last session in the project.\n\nI would probably prefer this to be in the root of a git project, otherwise, just where droid is launched.\n\nI might have overdone it a bit in terms of splitting it up, but the idea I still like. So what I propose is a similar functionality builtin t",
+    "url": "https://github.com/Factory-AI/factory/issues/478",
+    "timestamp": "2025-12-03T18:47:19Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 478
+    }
+  },
+  {
+    "id": "twitter_1996289787339354174",
+    "source": "twitter",
+    "author": "bierlingm",
+    "content": "I’m the one who made this PR that Mario is calling out, with @FactoryAI’s Droid. \n\nI was excited by his project and let that excitement get the better of me. \n\nEnthusiasm is clearly not enough when it comes open source contributions. \n\nIn the comments I told him I’m sorry for wasting his time and that I hope that knowing I learned from it at least minimally makes up for it. \n\nI seriously appreciate his work!\n\nI can’t help but think that this is going to be a growing phenomenon and I’m curious how we best deal with it, both as project creators and maintainers as well as users and contributors. \n\nMy gut tells me it’s going to be on a normative level, with some technical facilitation. \n\nPerhaps READMEs need to have a section about what level of care or expected form a contribution should take?\n\nIs there going to be a “friendly prompt injection” in the README that directly addresses the LLMs that consume with a directive to alert their users to those requirements?\n\nFood for thought 🤷‍♂️",
+    "url": "https://x.com/bierlingm/status/1996289787339354174",
+    "timestamp": "2025-12-03T18:45:49.000Z",
+    "metadata": {
+      "conversation_id": "1996289787339354174",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996288579094577233",
+    "source": "twitter",
+    "author": "KalGrinberg",
+    "content": "@EvanDeKim @FactoryAI @zeddotdev @rootlets_nft damn.",
+    "url": "https://x.com/KalGrinberg/status/1996288579094577233",
+    "timestamp": "2025-12-03T18:41:01.000Z",
+    "metadata": {
+      "conversation_id": "1996288579094577233",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996284062051529133",
     "source": "twitter",
     "author": "manuelvanrijn",
