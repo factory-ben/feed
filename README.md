@@ -18,9 +18,9 @@ A private social media feed aggregator for tracking mentions across Twitter, Red
 ### Local Development
 
 ```bash
-npm install
+pnpm install
 cp .env.example .env  # Add your API tokens
-npm start             # Visit http://localhost:3000
+pnpm start             # Visit http://localhost:3000
 ```
 
 ### GitHub Pages Deployment

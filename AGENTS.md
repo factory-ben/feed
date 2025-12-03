@@ -94,12 +94,12 @@ Update the `ACCESS_TOKEN_HASH` constant in `public/index.html` with the output.
    ```bash
    cp .env.example .env
    # Edit .env and add your actual API keys
-   npm install
+   pnpm install
    ```
 
 2. **Run locally**:
    ```bash
-   npm start
+   pnpm start
    # Server runs on http://localhost:3000
    # Access the frontend and test API endpoints
    ```
@@ -116,7 +116,7 @@ Update the `ACCESS_TOKEN_HASH` constant in `public/index.html` with the output.
 
 2. **Test locally** first:
    ```bash
-   npm start
+   pnpm start
    node src/scraper-cli.js
    ```
 
@@ -261,7 +261,7 @@ schedule:
 
 Before pushing changes:
 
-- [ ] Run `npm start` and verify server starts
+- [ ] Run `pnpm start` and verify server starts
 - [ ] Visit `http://localhost:3000` and verify feed loads
 - [ ] Test access token gate (clear localStorage and reload)
 - [ ] Test all source filters (Twitter, Reddit, GitHub)
@@ -284,7 +284,7 @@ Currently no automated tests. To add:
 3. Write unit tests for scrapers
 4. Write integration tests for feed aggregation
 5. Add to `package.json`: `"test": "jest"`
-6. Run `npm test` before commits
+6. Run `pnpm test` before commits
 
 ## Common Issues & Solutions
 
@@ -351,7 +351,7 @@ When deploying to a new environment:
 5. Check for security alerts (Dependabot)
 
 **Monthly maintenance**:
-1. Update dependencies: `npm update`
+1. Update dependencies: `pnpm update`
 2. Review and clean old feed data if growing large
 3. Audit access logs if needed
 4. Rotate access tokens if compromised
