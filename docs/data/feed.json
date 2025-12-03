@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1996284062051529133",
+    "source": "twitter",
+    "author": "manuelvanrijn",
+    "content": "@Ricardo_Nth @igoro @augmentcode @zeddotdev @GitHubCopilot @kilocode @FactoryAI droid mcp add augment-code \"auggie\" [-w /your/project/path --mcp]\n\nMake sure you installed the prerelease of auggie",
+    "url": "https://x.com/manuelvanrijn/status/1996284062051529133",
+    "timestamp": "2025-12-03T18:23:04.000Z",
+    "metadata": {
+      "conversation_id": "1996284062051529133",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996281057709085169",
+    "source": "twitter",
+    "author": "EvanDeKim",
+    "content": "Great view of the mountains as I get ready to code with @FactoryAI and @zeddotdev https://t.co/j1D030lI1E",
+    "url": "https://x.com/EvanDeKim/status/1996281057709085169",
+    "timestamp": "2025-12-03T18:11:07.000Z",
+    "metadata": {
+      "conversation_id": "1996281057709085169",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996275787331477602",
     "source": "twitter",
     "author": "makerfounder",
