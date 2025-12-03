@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996151159351099858",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Built myself an admin panel with Droid by @FactoryAI \n\nI'm seeing users getting onboard over the last couple days. I wanted to understand usage and check how many programs/journeys got created. \n\nRan into some issues - which Droid solved quite easily. \n\nGLM4.6 threw some issues, but Gemini solved them!",
+    "url": "https://x.com/nkgoutham/status/1996151159351099858",
+    "timestamp": "2025-12-03T09:34:57.000Z",
+    "metadata": {
+      "conversation_id": "1996151159351099858",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996145302454128801",
     "source": "twitter",
     "author": "laup30",
