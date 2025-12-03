@@ -1,5 +1,33 @@
 [
   {
+    "id": "reddit_1pd1db2",
+    "source": "reddit",
+    "author": "Numerous_File_9927",
+    "content": "Is there any way I can add to my allow list in my settings for the droid to the MCB servers, just like you do in Claude Code? I don't want to run all commands in YOLO mode, and I don't want to always allow high-impact commands for all commands. All I just wanna is to surgically allow specific MCB se\n\nIs there any way I can add to my \"commandAllowlist\" in my settings.json for the droid to the MCP servers, just like you do in Claude Code?\n\nI don't want to run all commands in YOLO mode, and I don't want to always allow high-impact commands for all commands.\n\nAll I just wanna is to surgically allow specific MCP servers. I've tried a few variations of them - the naming add into the settings, and that's never worked. So I think maybe this feature is either missing or not implemented in droid cli a",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pd1db2/is_there_any_way_i_can_add_to_my_allow_list_in_my/",
+    "timestamp": "2025-12-03T11:08:35.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1996174521624326620",
+    "source": "twitter",
+    "author": "karanjagtiani04",
+    "content": "@makerfounder @FactoryAI @AnthropicAI Interesting to see the breakdown of each round. DROID's clean approach seems to have given it the edge. Did CLAUDE CODE's added features impact its overall performance in later rounds?",
+    "url": "https://x.com/karanjagtiani04/status/1996174521624326620",
+    "timestamp": "2025-12-03T11:07:47.000Z",
+    "metadata": {
+      "conversation_id": "1996174521624326620",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996173931468763141",
     "source": "twitter",
     "author": "karanjagtiani04",
