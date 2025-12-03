@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996140286045475039",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "Not at all sure that I can trust @AnthropicAI @claudeai  4.5 model when it makes such trivial (but massively impactful mistakes). Split terminal in @FactoryAI Droid with GPT-5.1 Codex, and Codex never misses a beat. \n@alexalbert__ @bentossell @steipete @iannuttall @romainhuet https://t.co/MaDEU9gSz2",
+    "url": "https://x.com/laup30/status/1996140286045475039",
+    "timestamp": "2025-12-03T08:51:45.000Z",
+    "metadata": {
+      "conversation_id": "1996140286045475039",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_476",
     "source": "github",
     "author": "aranej",
