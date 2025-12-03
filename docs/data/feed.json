@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1996245156186451973",
+    "source": "twitter",
+    "author": "jeremyeder",
+    "content": "@johnsinclair98 @BingBongBrent @bibryam @FactoryAI ahh, a man of culture",
+    "url": "https://x.com/jeremyeder/status/1996245156186451973",
+    "timestamp": "2025-12-03T15:48:28.000Z",
+    "metadata": {
+      "conversation_id": "1996245156186451973",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_477",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] 400 Bad Request error\n\nWhen using the factory CLI to call the Google Gemini model via BYOK (Bring Your Own Key), I received a 400 Bad Request error and the response body was empty.",
+    "url": "https://github.com/Factory-AI/factory/issues/477",
+    "timestamp": "2025-12-03T15:41:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 477
+    }
+  },
+  {
+    "id": "twitter_1996242898019328165",
+    "source": "twitter",
+    "author": "sreenivasan_ac",
+    "content": "@rsdgpt For someone using other IDE / CLI tools like @FactoryAI  @opencode  can you please give clearer instructions on how to update https://t.co/pLix1o4tf5 or https://t.co/N20GSvwCWG file to use osgrep instead of grep ? @rsdgpt",
+    "url": "https://x.com/sreenivasan_ac/status/1996242898019328165",
+    "timestamp": "2025-12-03T15:39:29.000Z",
+    "metadata": {
+      "conversation_id": "1996242898019328165",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996240199463116813",
     "source": "twitter",
     "author": "Alberto8793",
