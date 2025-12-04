@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996499717958897894",
+    "source": "twitter",
+    "author": "TheMattGacek",
+    "content": "@_AbhaySinghal @FactoryAI yoo - working on some similar problems, just dm'd",
+    "url": "https://x.com/TheMattGacek/status/1996499717958897894",
+    "timestamp": "2025-12-04T08:40:00.000Z",
+    "metadata": {
+      "conversation_id": "1996499717958897894",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1pdufm4",
     "source": "reddit",
     "author": "bentossell",
