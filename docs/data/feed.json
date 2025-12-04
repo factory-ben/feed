@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996694273035522191",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "Is there a non-flickering terminal for super long @FactoryAI sessions? Mac. Tried native, iterm2, ghostly.",
+    "url": "https://x.com/orange_boy/status/1996694273035522191",
+    "timestamp": "2025-12-04T21:33:06.000Z",
+    "metadata": {
+      "conversation_id": "1996694273035522191",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996684779547513083",
     "source": "twitter",
     "author": "bfioca",
