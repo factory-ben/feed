@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1996661229910479341",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "@DavidOndrej1 Have you ever tried Opus 4.5 in @FactoryAI droid?",
+    "url": "https://x.com/NilkhanVaibhav/status/1996661229910479341",
+    "timestamp": "2025-12-04T19:21:48.000Z",
+    "metadata": {
+      "conversation_id": "1996661229910479341",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996659301679878651",
+    "source": "twitter",
+    "author": "creatine_cycle",
+    "content": "@DeepDishEnjoyer @FactoryAI boy do i have news for you mr p4",
+    "url": "https://x.com/creatine_cycle/status/1996659301679878651",
+    "timestamp": "2025-12-04T19:14:08.000Z",
+    "metadata": {
+      "conversation_id": "1996659301679878651",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996658377930526751",
+    "source": "twitter",
+    "author": "DeepDishEnjoyer",
+    "content": "@creatine_cycle @FactoryAI you know how to code???",
+    "url": "https://x.com/DeepDishEnjoyer/status/1996658377930526751",
+    "timestamp": "2025-12-04T19:10:28.000Z",
+    "metadata": {
+      "conversation_id": "1996658377930526751",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996656899278905796",
     "source": "twitter",
     "author": "BillCrosby",
