@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996599550765658183",
+    "source": "twitter",
+    "author": "GKannanDev",
+    "content": "@jacksondecampos I'm using the @FactoryAI Droid and @AmpCode cli",
+    "url": "https://x.com/GKannanDev/status/1996599550765658183",
+    "timestamp": "2025-12-04T15:16:42.000Z",
+    "metadata": {
+      "conversation_id": "1996599550765658183",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1pe0wqy",
     "source": "reddit",
     "author": "EggNo4904",
