@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996639318702751953",
+    "source": "twitter",
+    "author": "scarneck_arpit",
+    "content": "@fredrivett @aidenybai @FactoryAI @AmpCode @windsurf @shadcn @base_ui @reui_io @storybookjs @playwrightweb @vitest_dev @bunjavascript @prisma @supabase @ExaAILabs @mermaidjs_ AI is good at v1 docs, terrible at keeping them in sync with fast-changing systems.\nThe only thing that’s worked for us is docs-as-code + watching PRs/tickets and having AI propose small doc diffs. Been hacking on this exact problem lately and it still feels wide open.",
+    "url": "https://x.com/scarneck_arpit/status/1996639318702751953",
+    "timestamp": "2025-12-04T17:54:44.000Z",
+    "metadata": {
+      "conversation_id": "1996639318702751953",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_483",
     "source": "github",
     "author": "ben-vargas",
