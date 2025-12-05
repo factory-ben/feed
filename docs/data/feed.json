@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1996980996915310825",
+    "source": "twitter",
+    "author": "STrosterud",
+    "content": "That is my question too 😄\n\nThough funny enough your dev setup video is very good. Tailscale in general makes custom setups so much nicer \n\nBring your own container, somehow, or just docs on good practice for it would be good enough for us\n\nWould instabuy something like that from you in an instant tho\n\nhttps://t.co/HvfVroRLe3",
+    "url": "https://x.com/STrosterud/status/1996980996915310825",
+    "timestamp": "2025-12-05T16:32:26.000Z",
+    "metadata": {
+      "conversation_id": "1996980996915310825",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996980242896871898",
+    "source": "twitter",
+    "author": "shellscape",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition heyoooo. don't sleep on Charlie!",
+    "url": "https://x.com/shellscape/status/1996980242896871898",
+    "timestamp": "2025-12-05T16:29:26.000Z",
+    "metadata": {
+      "conversation_id": "1996980242896871898",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996979873311604988",
+    "source": "twitter",
+    "author": "thdxr",
+    "content": "@STrosterud @karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition we have a channel open with linear - there's a question of where it would run since opencode is an open tool that can run anywhere\n\nlinear could choose to run it themselves \n\nwe'll probably at some point have a default offering but the shape of our stuff is a bit different",
+    "url": "https://x.com/thdxr/status/1996979873311604988",
+    "timestamp": "2025-12-05T16:27:58.000Z",
+    "metadata": {
+      "conversation_id": "1996979873311604988",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996979394607267917",
+    "source": "twitter",
+    "author": "STrosterud",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition @thdxr Opencode is so much bigger than one would think\n\nThis is not counting when people bring their own keys\n\nhttps://t.co/A8suHdy19o",
+    "url": "https://x.com/STrosterud/status/1996979394607267917",
+    "timestamp": "2025-12-05T16:26:04.000Z",
+    "metadata": {
+      "conversation_id": "1996979394607267917",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996979388521341367",
+    "source": "twitter",
+    "author": "abossy",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition glad to see @charlielabs_ai in there!",
+    "url": "https://x.com/abossy/status/1996979388521341367",
+    "timestamp": "2025-12-05T16:26:02.000Z",
+    "metadata": {
+      "conversation_id": "1996979388521341367",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996979118093824151",
+    "source": "twitter",
+    "author": "STrosterud",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition @thdxr opencode when? Or just docs on it\n\nhttps://t.co/9NpohpGahf",
+    "url": "https://x.com/STrosterud/status/1996979118093824151",
+    "timestamp": "2025-12-05T16:24:58.000Z",
+    "metadata": {
+      "conversation_id": "1996979118093824151",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996977323871293574",
     "source": "twitter",
     "author": "NilkhanVaibhav",
