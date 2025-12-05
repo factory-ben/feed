@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1996995995888943450",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@chdeist @FactoryAI @bentossell Ah gotcha, personally I use the factory max plan because I don't really want to manage all the different keys and stuff",
+    "url": "https://x.com/DannyAziz97/status/1996995995888943450",
+    "timestamp": "2025-12-05T17:32:02.000Z",
+    "metadata": {
+      "conversation_id": "1996995995888943450",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996994290803933628",
+    "source": "twitter",
+    "author": "chdeist",
+    "content": "@DannyAziz97 @FactoryAI @bentossell In the terminal inside Cursor. Or VS Code. Or wherever. But I like the way my Cursor account is set-up. \n\nJust wouldn't be using Composer/Chat. \n\nFor visibility of the project. \n\nI don't really get how people use the Terminal alone.",
+    "url": "https://x.com/chdeist/status/1996994290803933628",
+    "timestamp": "2025-12-05T17:25:15.000Z",
+    "metadata": {
+      "conversation_id": "1996994290803933628",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996993892881727633",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@chdeist @FactoryAI @bentossell What do you mean by \"run from a free Cursor account.\"?",
+    "url": "https://x.com/DannyAziz97/status/1996993892881727633",
+    "timestamp": "2025-12-05T17:23:41.000Z",
+    "metadata": {
+      "conversation_id": "1996993892881727633",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996992849074889159",
     "source": "twitter",
     "author": "chdeist",
