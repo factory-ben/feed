@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_489",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Make the user inputs clearer\n\nGlancing through ther terminal is it not clear what the user inputs are\n\n\n<img width=\"1181\" height=\"377\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/23920437-d7fd-4d2c-bc29-0f46667e791e\" />\n\nunless you know you have to look for a near invisible `●` it is really hard to find\n\nHighlighting the line with another colored bacground, a border or just something would be much appreciated",
+    "url": "https://github.com/Factory-AI/factory/issues/489",
+    "timestamp": "2025-12-05T11:47:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 489
+    }
+  },
+  {
     "id": "twitter_1996905342522085523",
     "source": "twitter",
     "author": "passinghour",
