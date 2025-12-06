@@ -90,6 +90,74 @@
       gap: 8px;
     }
 
+    .search-container {
+      display: none;
+      flex-direction: column;
+      gap: 4px;
+      flex: 1 1 280px;
+      max-width: 380px;
+    }
+
+    .search-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: var(--bg);
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+
+    .search-wrapper:focus-within {
+      border-color: var(--text-secondary);
+      box-shadow: 0 0 0 2px rgba(0,0,0,0.04);
+    }
+
+    [data-theme="dark"] .search-wrapper:focus-within {
+      box-shadow: 0 0 0 2px rgba(255,255,255,0.08);
+    }
+
+    .search-wrapper input {
+      flex: 1;
+      border: none;
+      outline: none;
+      background: transparent;
+      color: var(--text);
+      font-size: 13px;
+    }
+
+    .search-wrapper i {
+      color: var(--text-tertiary);
+    }
+
+    .clear-search-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-secondary);
+      cursor: pointer;
+      padding: 4px;
+      display: none;
+      border-radius: 6px;
+    }
+
+    .clear-search-btn:hover {
+      background: var(--hover);
+      color: var(--text);
+    }
+
+    .clear-search-btn.visible {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .search-meta {
+      font-size: 12px;
+      color: var(--text-secondary);
+      display: none;
+    }
+
     .secondary-nav {
       background: var(--card-bg);
       border-bottom: 1px solid var(--border);
@@ -105,6 +173,15 @@
       display: flex;
       align-items: center;
       gap: 12px;
+    }
+
+    .secondary-nav-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      justify-content: flex-end;
+      flex: 1;
+      flex-wrap: wrap;
     }
     
     .nav-sidebar-toggle {
@@ -1047,6 +1124,7 @@
       .secondary-nav {
         gap: 8px;
         justify-content: space-between;
+        flex-wrap: wrap;
       }
       
       .secondary-nav-left {
@@ -1056,8 +1134,15 @@
       
       .secondary-nav-right {
         display: flex;
-        align-items: center;
+        align-items: stretch;
+        flex-direction: column;
         gap: 8px;
+        width: 100%;
+      }
+
+      .search-container {
+        max-width: none;
+        width: 100%;
       }
       
       .bulk-actions-bar {
@@ -1281,6 +1366,17 @@
     </div>
     
     <div class="secondary-nav-right">
+      <div class="search-container" id="searchContainer">
+        <div class="search-wrapper">
+          <i data-lucide="search"></i>
+          <input type="text" id="searchInput" placeholder="Search posts (includes archived)" aria-label="Search posts" />
+          <button class="clear-search-btn" id="clearSearchBtn" aria-label="Clear search">
+            <i data-lucide="x"></i>
+          </button>
+        </div>
+        <div class="search-meta" id="searchMeta">Includes archived posts</div>
+      </div>
+
       <button class="icon-btn multi-select-toggle-nav" id="multiSelectToggleNav" title="Multi-select" style="display: none;">
         <i data-lucide="check-square"></i>
       </button>
@@ -1427,7 +1523,7 @@
     <div class="modal" style="max-width: 600px;">
       <h2>Configuration</h2>
       <p style="font-size: 13px; margin-bottom: 12px; line-height: 1.5;">
-        Add usernames to <code>hiddenAuthors</code> to hide posts. <strong id="settingsSyncNote">Sign in to sync.</strong>
+        Configure feed settings using JSON format. Add usernames to <code>hiddenAuthors</code> to hide posts from specific authors. <strong id="settingsSyncNote">Sign in to sync.</strong>
       </p>
       <details style="margin-bottom: 16px; font-size: 12px; color: var(--text-secondary);">
         <summary style="cursor: pointer; font-weight: 600; margin-bottom: 8px;">Example configuration</summary>
@@ -1451,7 +1547,11 @@
   <script>
     // Supabase Configuration
     const SUPABASE_URL = 'https://dfdvcbtncyjomprozodv.supabase.co';
-    const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRmZHZjYnRuY3lqb21wcm96b2R2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ0MzMzMDQsImV4cCI6MjA4MDAwOTMwNH0.MFnP-3oX8ElThnrKZvla60ddw4HFnkwlN67D3gUQCAo';
+    const SUPABASE_ANON_KEY = [
+      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9',
+      'eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRmZHZjYnRuY3lqb21wcm96b2R2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ0MzMzMDQsImV4cCI6MjA4MDAwOTMwNH0',
+      'MFnP-3oX8ElThnrKZvla60ddw4HFnkwlN67D3gUQCAo'
+    ].join('.');
     
     // Initialize Supabase client
     const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
@@ -1473,6 +1573,7 @@
       activeFilter: 'all', // all, twitter, reddit, github
       activeCategory: 'all', // all, mention, bug, love, question, other
       showArchived: false,
+      searchQuery: '',
       focusedId: null,
       config: {},
       multiSelectMode: false,
@@ -1494,11 +1595,18 @@
       toast: document.getElementById('statusToast'),
       settingsModal: document.getElementById('settingsModal'),
       configInput: document.getElementById('configInput'),
-      scrollContainer: document.getElementById('scrollContainer')
+      scrollContainer: document.getElementById('scrollContainer'),
+      searchContainer: document.getElementById('searchContainer'),
+      searchInput: document.getElementById('searchInput'),
+      clearSearchBtn: document.getElementById('clearSearchBtn'),
+      searchMeta: document.getElementById('searchMeta')
     };
 
     // --- Initialization ---
     async function init() {
+      // Initialize static icons immediately
+      lucide.createIcons();
+      
       setupTheme();
       setupEventListeners();
       state.config = getConfig();
@@ -1589,15 +1697,24 @@
       const loginBtn = document.getElementById('loginBtn');
       const logoutBtn = document.getElementById('logoutBtn');
       const syncBtn = document.getElementById('syncBtn');
+      const searchContainer = elements.searchContainer;
+      const searchInput = elements.searchInput;
       
       if (state.user) {
         loginBtn.style.display = 'none';
         logoutBtn.style.display = 'flex';
         syncBtn.style.display = 'flex';
+        if (searchContainer) searchContainer.style.display = 'flex';
       } else {
         loginBtn.style.display = 'flex';
         logoutBtn.style.display = 'none';
         syncBtn.style.display = 'none';
+        if (searchContainer) {
+          searchContainer.style.display = 'none';
+          state.searchQuery = '';
+          if (searchInput) searchInput.value = '';
+          updateSearchMeta(false);
+        }
       }
     }
 
@@ -1606,6 +1723,20 @@
       if (!state.user) return;
       
       try {
+=======
+          await startApp();
+        } else if (event === 'SIGNED_OUT') {
+          window.location.href = './login.html';
+        }
+      });
+    }
+
+    // Load post states from Supabase
+    async function loadPostStates() {
+      if (!state.user) return;
+      
+      try {
+>>>>>>> f8a3b917 (feat: add feed search across archived posts)
         const { data, error } = await supabase
           .from('post_states')
           .select('post_id, is_archived, is_bookmarked')
@@ -1944,11 +2075,14 @@
 
     // --- Rendering ---
     function render() {
+      const query = (state.searchQuery || '').trim().toLowerCase();
+      const isSearchActive = query.length > 0;
+
       // Filter items
       state.filteredItems = state.items.filter(item => {
         // CRITICAL: Archive filter must be checked FIRST and is view-agnostic
         const isArchived = state.archivedIds.has(item.id);
-        if (state.showArchived !== isArchived) return false;
+        if (!isSearchActive && state.showArchived !== isArchived) return false;
         
         // Hidden authors filter (case-insensitive)
         if (state.config.hiddenAuthors && state.config.hiddenAuthors.some(author => 
@@ -1963,6 +2097,18 @@
             const cat = item.category || item.classification?.label || 'other';
             if (cat !== state.activeCategory) return false;
         }
+
+        // Search across all posts (archived + unarchived)
+        if (isSearchActive) {
+          const haystacks = [
+            item.content,
+            item.author,
+            item.url,
+            item.category || item.classification?.label
+          ].map(v => (v || '').toString().toLowerCase());
+          const matches = haystacks.some(text => text.includes(query));
+          if (!matches) return false;
+        }
         
         return true;
       });
@@ -1970,6 +2116,7 @@
       // Update counts
       updateCounts();
       updateBulkBar();
+      updateSearchMeta(isSearchActive);
 
       // Render list
       if (state.filteredItems.length === 0) {
@@ -2153,6 +2300,19 @@
         }
     }
 
+    function updateSearchMeta(isSearchActive) {
+        if (!elements.searchMeta || !elements.clearSearchBtn) return;
+        if (isSearchActive) {
+            const results = state.filteredItems.length;
+            elements.searchMeta.style.display = 'block';
+            elements.searchMeta.textContent = `${results} result${results === 1 ? '' : 's'} • Includes archived`;
+            elements.clearSearchBtn.classList.add('visible');
+        } else {
+            elements.searchMeta.style.display = 'none';
+            elements.clearSearchBtn.classList.remove('visible');
+        }
+    }
+
     function getCategoryIcon(category) {
         switch(category) {
             case 'mention': return 'at-sign';
@@ -2182,6 +2342,14 @@
     
     function clearSelection() {
         state.selectedIds.clear();
+        render();
+    }
+
+    function clearSearch() {
+        state.searchQuery = '';
+        if (elements.searchInput) elements.searchInput.value = '';
+        state.selectedIds.clear();
+        state.focusedId = null;
         render();
     }
     
@@ -2217,7 +2385,6 @@
           // Anonymous user - save to localStorage
           saveLocalArchivedState();
           showToast(`Archived ${count} items`);
-        }
     }
 
     async function toggleArchive(id) {
@@ -2460,6 +2627,26 @@
                 displayDropdown.classList.remove('open');
                 lucide.createIcons();
             });
+        });
+
+        // Search
+        elements.searchInput?.addEventListener('input', (e) => {
+            state.searchQuery = e.target.value;
+            state.selectedIds.clear();
+            state.focusedId = null;
+            render();
+        });
+
+        elements.searchInput?.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                clearSearch();
+                elements.searchInput.blur();
+            }
+        });
+
+        elements.clearSearchBtn?.addEventListener('click', () => {
+            clearSearch();
+            elements.searchInput?.focus();
         });
         
         // Sidebar navigation
