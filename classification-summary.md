@@ -1,8 +1,10 @@
 # Classification Summary
 
-**Date:** 2025-12-06 10:00 UTC
+**Date:** 2025-12-06 10:55 UTC
 
-**Items classified:** 1
+**Total items classified:** 1
+
+## Category Breakdown
 
 | Category | Count | Percentage |
 |----------|-------|------------|
