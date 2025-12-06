@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1997303898554679774",
+    "source": "twitter",
+    "author": "rawkode",
+    "content": "Hey @FactoryAI , can you fix your changelog rss feed please?\n\nIt gets updated daily, but it always displays the 0.19.8 update.",
+    "url": "https://x.com/rawkode/status/1997303898554679774",
+    "timestamp": "2025-12-06T13:55:32.000Z",
+    "metadata": {
+      "conversation_id": "1997303898554679774",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997301267195199494",
     "source": "twitter",
     "author": "david_attisaas",
