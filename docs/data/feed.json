@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1997134207580094772",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@bentossell @FactoryAI is there anyway to have skills be used constantly or preloaded every run? I love @mixedbreadai mgrep but always forget to ask Droid to use it!",
+    "url": "https://x.com/Alberto8793/status/1997134207580094772",
+    "timestamp": "2025-12-06T02:41:14.000Z",
+    "metadata": {
+      "conversation_id": "1997134207580094772",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997133962813362442",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@gakonst The answer is droid :) @FactoryAI",
+    "url": "https://x.com/matanSF/status/1997133962813362442",
+    "timestamp": "2025-12-06T02:40:16.000Z",
+    "metadata": {
+      "conversation_id": "1997133962813362442",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1pfdnxv",
+    "source": "reddit",
+    "author": "Cyron_Wiz",
+    "content": "TUI issues?\n\nhttps://preview.redd.it/ryl3awxdsh5g1.png?width=2481&amp;format=png&amp;auto=webp&amp;s=41c1fa50f20e21885cf2e6ced8a6ac014f12df68\n\nTried on standard terminal and ghostty, width is never full, it's full only on settings ui. TODOs are never pinned even if enabled on settings",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pfdnxv/tui_issues/",
+    "timestamp": "2025-12-06T02:14:11.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1997111443917779306",
     "source": "twitter",
     "author": "bentossell",
