@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1997174683519828217",
+    "source": "twitter",
+    "author": "chdeist",
+    "content": "@thecureforblur @FactoryAI @DannyAziz97 @bentossell Here it is. It's a book scanning app. Takes a picture when motion stabilizes for more than a second (or whatever threshold you set). \n\nNext feature will OCR with Gemini and collate into a clean document.\n\nAlso works with iPhone and continuity camera. https://t.co/bWDi0MaSbr",
+    "url": "https://x.com/chdeist/status/1997174683519828217",
+    "timestamp": "2025-12-06T05:22:04.000Z",
+    "metadata": {
+      "conversation_id": "1997174683519828217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997168812194672887",
     "source": "twitter",
     "author": "AIFlow_ML",
