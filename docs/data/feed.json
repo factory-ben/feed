@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1997780632559047088",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "I oneshotted a bugfix with @FactoryAI's Droid CLI (with glm-4.6, which only costs me $3 a month) that I was trying to fix with Cursor the whole day...",
+    "url": "https://x.com/bradvangelder/status/1997780632559047088",
+    "timestamp": "2025-12-07T21:29:54.000Z",
+    "metadata": {
+      "conversation_id": "1997780632559047088",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997725952982544779",
     "source": "twitter",
     "author": "willmcgugan",
