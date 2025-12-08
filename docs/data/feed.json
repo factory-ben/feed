@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1998154453640495534",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@claudeusmaximus @FactoryAI opus is 2x\nsonnet is 1.2x\n\n40% of the price\n\nsame as anthropic pricing\nOpus 4.5:\nInput ≈ $0.005 / 1K tokens\nOutput ≈ $0.025 / 1K tokens\n\nSonnet 4.5:\nInput ≈ $0.003 / 1K tokens\nOutput ≈ $0.015 / 1K tokens",
+    "url": "https://x.com/bentossell/status/1998154453640495534",
+    "timestamp": "2025-12-08T22:15:20.000Z",
+    "metadata": {
+      "conversation_id": "1998154453640495534",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998149276631765117",
     "source": "twitter",
     "author": "CloudTrader4",
