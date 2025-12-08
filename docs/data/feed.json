@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_495",
+    "source": "github",
+    "author": "matdev83",
+    "content": "[Issue] Spec approval tool is triggering when actual task is finished\n\nBug Report ID: 01311a33-6e39-419d-9450-9fa3d63915e4\n\nI recently noticed that when Droid is close to completing a task (done without spec), it suddenly calls \"Propose specification\" tool, while it should actually summarize session and tell me what it done.\n\nIt happens on a regular basis. Not always, but I'd say ~80% of the time, always when the task is nearly done.\nIt's a bit odd and distorts the process.\n\nTested with Gemini 3 Pro and Opus 4.5 and it appears that this is agent's bug, not model-sp",
+    "url": "https://github.com/Factory-AI/factory/issues/495",
+    "timestamp": "2025-12-08T10:42:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 495
+    }
+  },
+  {
     "id": "twitter_1997975465341165884",
     "source": "twitter",
     "author": "marcgregory_",
