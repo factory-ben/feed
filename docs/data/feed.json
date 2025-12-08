@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1998015676233974084",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Built a document intelligence app for querying financial research PDFs. \nCoding agent: @FactoryAI Opus 4.5 & GPT-5.1-Codex-Max, @claudeai skills for frontend design.\n\nHere's the stack:\n\n  1. Frontend — Next.js + React + Tailwind CSS\n  2. Backend — Python FastAPI\n  3. Database — @MongoDB Atlas (stores documents + conversation history)\n  4. Search — @MongoDB Atlas hybrid search (vector + full-text with RRF)\n  5. Embeddings — OpenAI text-embedding-ada-002\n  6. LLM — Claude Opus 4.5 with real-time streaming\n  7. Orchestration — @LangChainAI \n\nHow it works: Upload a PDF → chunks get embedded and stored in MongoDB → ask questions → hybrid search finds relevant passages → Claude analyzes and responds with page citations.",
+    "url": "https://x.com/CloudTrader4/status/1998015676233974084",
+    "timestamp": "2025-12-08T13:03:53.000Z",
+    "metadata": {
+      "conversation_id": "1998015676233974084",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997983726404268149",
     "source": "twitter",
     "author": "laup30",
