@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1998136874419056719",
+    "source": "twitter",
+    "author": "LzyIndTky",
+    "content": "@bradvangelder @FactoryAI I’m still not sold on GLM 4.6.",
+    "url": "https://x.com/LzyIndTky/status/1998136874419056719",
+    "timestamp": "2025-12-08T21:05:29.000Z",
+    "metadata": {
+      "conversation_id": "1998136874419056719",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998131835562492199",
     "source": "twitter",
     "author": "seanquinnset",
