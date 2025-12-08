@@ -1,6 +1,6 @@
 # Classification Summary
 
-**Date**: 2025-12-08 18:45 UTC
+**Date**: 2025-12-08 20:48 UTC
 
 ## Results
 
@@ -10,8 +10,8 @@
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| mention | 1 | 100.0% |
+| mention | 0 | 0.0% |
 | bug | 0 | 0.0% |
 | love | 0 | 0.0% |
-| question | 0 | 0.0% |
+| question | 1 | 100.0% |
 | other | 0 | 0.0% |
