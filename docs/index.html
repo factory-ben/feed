@@ -1723,20 +1723,6 @@
       if (!state.user) return;
       
       try {
-=======
-          await startApp();
-        } else if (event === 'SIGNED_OUT') {
-          window.location.href = './login.html';
-        }
-      });
-    }
-
-    // Load post states from Supabase
-    async function loadPostStates() {
-      if (!state.user) return;
-      
-      try {
->>>>>>> f8a3b917 (feat: add feed search across archived posts)
         const { data, error } = await supabase
           .from('post_states')
           .select('post_id, is_archived, is_bookmarked')
