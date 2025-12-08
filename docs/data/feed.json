@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1997929193129337274",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@FactoryAI When implementing specs, does using Codex on high/low reasoning make any difference to token consumption?",
+    "url": "https://x.com/martin_ict_algo/status/1997929193129337274",
+    "timestamp": "2025-12-08T07:20:14.000Z",
+    "metadata": {
+      "conversation_id": "1997929193129337274",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997927585691656643",
+    "source": "twitter",
+    "author": "ebadgio_",
+    "content": "@karrisaarinen @rsg @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition I was too early \n\nhttps://t.co/cmTFbnQWAf",
+    "url": "https://x.com/ebadgio_/status/1997927585691656643",
+    "timestamp": "2025-12-08T07:13:50.000Z",
+    "metadata": {
+      "conversation_id": "1997927585691656643",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997921993702916366",
     "source": "twitter",
     "author": "getemojidomains",
