@@ -1,5 +1,78 @@
 [
   {
+    "id": "twitter_1998408735518052840",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@rawkode @FactoryAI i dont think there is any issue with it tbh https://t.co/VaZZdFQnQS - maybe something on your end?",
+    "url": "https://x.com/bentossell/status/1998408735518052840",
+    "timestamp": "2025-12-09T15:05:45.000Z",
+    "metadata": {
+      "conversation_id": "1998408735518052840",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998407528393458173",
+    "source": "twitter",
+    "author": "mhadtk",
+    "content": "@bentossell @supabase @FactoryAI Please 🙏",
+    "url": "https://x.com/mhadtk/status/1998407528393458173",
+    "timestamp": "2025-12-09T15:00:58.000Z",
+    "metadata": {
+      "conversation_id": "1998407528393458173",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998407256920998121",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mhadtk @supabase @FactoryAI hell yeah!",
+    "url": "https://x.com/bentossell/status/1998407256920998121",
+    "timestamp": "2025-12-09T14:59:53.000Z",
+    "metadata": {
+      "conversation_id": "1998407256920998121",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998407089803457014",
+    "source": "twitter",
+    "author": "vineelaero",
+    "content": "@CloudTrader4 @FactoryAI @claudeai So, why are you using mongodb instead of any vector db ?? What’s the rationale behind this ?",
+    "url": "https://x.com/vineelaero/status/1998407089803457014",
+    "timestamp": "2025-12-09T14:59:13.000Z",
+    "metadata": {
+      "conversation_id": "1998407089803457014",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_501",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Issue] Bug Report: FetchUrl Tool Over-Escaping Markdown Characters\n\nBug Report: FetchUrl Tool Over-Escaping Markdown Characters\n\nSummary\n\nFetchUrl's HTML-to-markdown converter is aggressively\n\nescaping special characters, corrupting markdown source\n\nfiles.\n\n──────────────────────────────────────────\n\nProblem #1: Periods in Numbered Headings\n\nExpected:\n\nmarkdown\n\n### 1. Extract, don't port\n\n### 2. Design for conversational entry\n\n### 3. Treat ChatGPT as \"home\"\n\nActual:\n\nmarkdown\n\n### 1\\. Extract, don't port\n\n### 2\\. Design for conversational entry\n\n### 3\\. Treat ",
+    "url": "https://github.com/Factory-AI/factory/issues/501",
+    "timestamp": "2025-12-09T14:58:58Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 501
+    }
+  },
+  {
     "id": "reddit_1pi9ass",
     "source": "reddit",
     "author": "Numerous_File_9927",
