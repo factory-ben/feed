@@ -1,6 +1,6 @@
 # Classification Summary
 
-**Date:** 2025-12-09 20:21 UTC
+**Date:** 2025-12-09 20:33 UTC
 
 **Items Classified:** 2
 
@@ -8,6 +8,6 @@
 |----------|-------|------------|
 | mention  | 1     | 50%        |
 | bug      | 0     | 0%         |
-| love     | 1     | 50%        |
-| question | 0     | 0%         |
+| love     | 0     | 0%         |
+| question | 1     | 50%        |
 | other    | 0     | 0%         |
