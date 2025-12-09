@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1998233821641421128",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FactoryAI @EnoReyes why does DROID come out so bad with practically every model ?\nhttps://t.co/h8Q6MoNROY",
+    "url": "https://x.com/SvenMeyer/status/1998233821641421128",
+    "timestamp": "2025-12-09T03:30:43.000Z",
+    "metadata": {
+      "conversation_id": "1998233821641421128",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_496",
     "source": "github",
     "author": "sheng-di",
