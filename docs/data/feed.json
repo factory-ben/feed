@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1998656815131980047",
+    "source": "twitter",
+    "author": "rossmorsali",
+    "content": "@bentossell @mattmedeiros @Tmeister @FactoryAI Curious why I need to enter my phone number to create an account?",
+    "url": "https://x.com/rossmorsali/status/1998656815131980047",
+    "timestamp": "2025-12-10T07:31:32.000Z",
+    "metadata": {
+      "conversation_id": "1998656815131980047",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998656735771558135",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@dylan522p I was actually sitting next to him while he was talking to @matanSF! \n\nI agree with him regarding @FactoryAI - Droid = awesome.",
+    "url": "https://x.com/AriesTheCoder/status/1998656735771558135",
+    "timestamp": "2025-12-10T07:31:13.000Z",
+    "metadata": {
+      "conversation_id": "1998656735771558135",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998655785883283590",
+    "source": "twitter",
+    "author": "shubham_gunner",
+    "content": "@FactoryAI Unable to login into droid because of the following error:\n\nVercel BotId check failed. Ensure your browser or network firewall is not blocking BotId scripts.\n\nHad raised the issue to support 4 days back, but still no response.",
+    "url": "https://x.com/shubham_gunner/status/1998655785883283590",
+    "timestamp": "2025-12-10T07:27:27.000Z",
+    "metadata": {
+      "conversation_id": "1998655785883283590",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998637808345567423",
     "source": "twitter",
     "author": "pgbouncer",
