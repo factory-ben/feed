@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1998812918717296793",
+    "source": "twitter",
+    "author": "shimeruchi",
+    "content": "Hey @FactoryAI, I attempted to register an account to try your CLI, but it shows 'Your organization has been deactivated.' Could you help me resolve this? Or who can I contact to fix it? Thanks.",
+    "url": "https://x.com/shimeruchi/status/1998812918717296793",
+    "timestamp": "2025-12-10T17:51:50.000Z",
+    "metadata": {
+      "conversation_id": "1998812918717296793",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998811912906129523",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "Enter: Vibe Coding 🤖\n\nI decided to build this differently. I didn't want to get bogged down in syntax errors. I wanted to focus on the design and the feeling.\n\nI used @FactoryAI's Droid CLI for the build.\n\nThis wasn't just \"copilot\" auto-complete. This was full-stack Vibe Coding. The AI handled the heavy lifting—the boilerplate, the database connections.\n\nThis freed me up to obsess over the micro-interactions. The UX. Making the app feel fast and native.",
+    "url": "https://x.com/bradvangelder/status/1998811912906129523",
+    "timestamp": "2025-12-10T17:47:50.000Z",
+    "metadata": {
+      "conversation_id": "1998811912906129523",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998800769739583686",
     "source": "twitter",
     "author": "HKilset",
