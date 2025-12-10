@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1998831175402664166",
+    "source": "twitter",
+    "author": "zeroXmusashi",
+    "content": "@HKilset @gdb @FactoryAI do you use default reasoning level with gpt-5.1-max? i use xhigh exclusively for code review and it’s slow but thorough\n\nhaven’t really tried using medium as a daily driver",
+    "url": "https://x.com/zeroXmusashi/status/1998831175402664166",
+    "timestamp": "2025-12-10T19:04:23.000Z",
+    "metadata": {
+      "conversation_id": "1998831175402664166",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998825637964906638",
     "source": "twitter",
     "author": "HKilset",
