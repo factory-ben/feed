@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1999099178778251284",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_515",
@@ -40,7 +42,8 @@
       "type": "issue",
       "labels": [],
       "number": 515
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_514",
@@ -53,7 +56,8 @@
       "type": "issue",
       "labels": [],
       "number": 514
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_513",
@@ -66,7 +70,8 @@
       "type": "issue",
       "labels": [],
       "number": 513
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1999097965680660757",
@@ -81,7 +86,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1999092759190532100",
