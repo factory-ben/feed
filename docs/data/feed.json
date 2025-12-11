@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999171501296058819",
+    "source": "twitter",
+    "author": "VRumenov75047",
+    "content": "@chigozzdev @CodeByNZ @FactoryAI If it’s working for you, its all good.\nFor me the GPT (4, 4.5, 5.1) models write code which is light years away from what I asked, and the worst part is - it doesnt even compile",
+    "url": "https://x.com/VRumenov75047/status/1999171501296058819",
+    "timestamp": "2025-12-11T17:36:43.000Z",
+    "metadata": {
+      "conversation_id": "1999171501296058819",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999171449958072595",
+    "source": "twitter",
+    "author": "bxsck_",
+    "content": "Somehow hit 200M tokens on  @FactoryAI  Droid in like 1–2 weeks. Output’s great but tokens vanish fast.\nAny better workflow than prompting + light Figma MCP + code review?\nAnd should I stick with the 200$ plan with PAYG after this or hop to Claude Code (or something better)?",
+    "url": "https://x.com/bxsck_/status/1999171449958072595",
+    "timestamp": "2025-12-11T17:36:31.000Z",
+    "metadata": {
+      "conversation_id": "1999171449958072595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999166262430302521",
     "source": "twitter",
     "author": "immoinulmoin",
