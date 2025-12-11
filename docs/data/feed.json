@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999253529048023077",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Also... @FactoryAI working with BYOK gpt-5.2 using ChatGPT Plus/Pro subscriptions via latest CLIProxyAPI release on github.\n\nGitHub gist I'm using to define gpt-5.2 models in Droid's ~/.factory/config.json - https://t.co/NMkasy3hYp https://t.co/eiumtM7gl8",
+    "url": "https://x.com/benvargas/status/1999253529048023077",
+    "timestamp": "2025-12-11T23:02:40.000Z",
+    "metadata": {
+      "conversation_id": "1999253529048023077",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999252190528196942",
+    "source": "twitter",
+    "author": "arminbuilds",
+    "content": "@maddiehfaulkner @cusp_ai @periodiclabs @axiommathai @HarmonicMath @FactoryAI @cognition @cartesia_ai @elevenlabsio This is easy. @periodiclabs @HarmonicMath @cognition @cartesia_ai",
+    "url": "https://x.com/arminbuilds/status/1999252190528196942",
+    "timestamp": "2025-12-11T22:57:21.000Z",
+    "metadata": {
+      "conversation_id": "1999252190528196942",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999250910095307217",
     "source": "twitter",
     "author": "StressarN",
