@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1998910835050295515",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@FactoryAI I'm losing an insane amount of token needing to restart everything over again because it keeps getting stuck.\n\nbug id for another issue: 9d8e2974-83bb-415b-9c04-a58fff894954",
+    "url": "https://x.com/bradvangelder/status/1998910835050295515",
+    "timestamp": "2025-12-11T00:20:55.000Z",
+    "metadata": {
+      "conversation_id": "1998910835050295515",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998895579460780304",
     "source": "twitter",
     "author": "bradvangelder",
