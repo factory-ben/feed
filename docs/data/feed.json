@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1999405995949203792",
+    "source": "twitter",
+    "author": "KP_meister",
+    "content": "@bentossell @JoelDeTeves @FactoryAI I did",
+    "url": "https://x.com/KP_meister/status/1999405995949203792",
+    "timestamp": "2025-12-12T09:08:31.000Z",
+    "metadata": {
+      "conversation_id": "1999405995949203792",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999405616737964378",
+    "source": "twitter",
+    "author": "MakTwenty",
+    "content": "@benvargas @FactoryAI And droid is moré fast what codex ?",
+    "url": "https://x.com/MakTwenty/status/1999405616737964378",
+    "timestamp": "2025-12-12T09:07:00.000Z",
+    "metadata": {
+      "conversation_id": "1999405616737964378",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999405409908760576",
+    "source": "twitter",
+    "author": "dctmfoo",
+    "content": "@bentossell @FactoryAI Thank you. Can't wait to give it a spin!",
+    "url": "https://x.com/dctmfoo/status/1999405409908760576",
+    "timestamp": "2025-12-12T09:06:11.000Z",
+    "metadata": {
+      "conversation_id": "1999405409908760576",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999404053634457786",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@dctmfoo @FactoryAI thanks - known issue being fixed 😊",
+    "url": "https://x.com/bentossell/status/1999404053634457786",
+    "timestamp": "2025-12-12T09:00:48.000Z",
+    "metadata": {
+      "conversation_id": "1999404053634457786",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999403509054341223",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@KP_meister @JoelDeTeves @FactoryAI try it 😊",
+    "url": "https://x.com/bentossell/status/1999403509054341223",
+    "timestamp": "2025-12-12T08:58:38.000Z",
+    "metadata": {
+      "conversation_id": "1999403509054341223",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999403431581429877",
+    "source": "twitter",
+    "author": "b1rkh0ff",
+    "content": "@JoelDeTeves @FactoryAI It is good, but expensive. I wouldn't call it better either, I get fantastic results with repop.+gpt 5.2+opus, not comparable to anything. Same flow works great with factory, but problem is pricing. My daily average is about 150m tokens with claude code, which is included in sub",
+    "url": "https://x.com/b1rkh0ff/status/1999403431581429877",
+    "timestamp": "2025-12-12T08:58:19.000Z",
+    "metadata": {
+      "conversation_id": "1999403431581429877",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999398559876043144",
     "source": "twitter",
     "author": "KP_meister",
