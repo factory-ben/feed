@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999508631545614501",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Some model providers (subscription providers) are more sensitive than others... Anthropic seems to be less so, they've allowed opencode to have it native in opencode for months now and there are far more users using opencode than my measly x following.\n\nOpenAI hasn't condoned it, but I also haven't seen them stop it. I've even seen OpenAI devs offer to help improve caching use to make it more efficient.\n\nGoogle's the only one I've heard of actually opposing it, but then again I could probably live without that $250/mo sub if thats the position they choose.\n\nBut to each their own, it is a risk, but I don't feel like it is a high risk of account ban at the moment.",
+    "url": "https://x.com/benvargas/status/1999508631545614501",
+    "timestamp": "2025-12-12T15:56:21.000Z",
+    "metadata": {
+      "conversation_id": "1999508631545614501",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999507421920915670",
     "source": "twitter",
     "author": "benvargas",
