@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1999513566043574568",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "😆 - yeah, it's using the same imitation method as CLIProxyAPI... every workaround/solution/offering that uses the ChatGPT Plus/Pro subs are doing the same thing, because the system prompts are validated in full in addition to some headers in the requests to their responses backend API that they have dedicated to Codex/Subscriber use.\n\nThey're not like Anthropic or Google which use the main public APIs with some header and portion of system prompt validation.",
+    "url": "https://x.com/benvargas/status/1999513566043574568",
+    "timestamp": "2025-12-12T16:15:57.000Z",
+    "metadata": {
+      "conversation_id": "1999513566043574568",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999512461846732839",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@DennisonBertram @FactoryAI That’s their web console and it is useful for agentic stuff\n\nThe real power us the Droid CLI\n\nBtw you can deploy droids to your GitHub repos and run them autonomously as part of your CI workflow",
+    "url": "https://x.com/JoelDeTeves/status/1999512461846732839",
+    "timestamp": "2025-12-12T16:11:34.000Z",
+    "metadata": {
+      "conversation_id": "1999512461846732839",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999512327901593657",
+    "source": "twitter",
+    "author": "SEDIDEL",
+    "content": "@benvargas @FactoryAI Take a look at this, maybe OpenAI now allows it openly, great!",
+    "url": "https://x.com/SEDIDEL/status/1999512327901593657",
+    "timestamp": "2025-12-12T16:11:02.000Z",
+    "metadata": {
+      "conversation_id": "1999512327901593657",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999511993003262217",
+    "source": "twitter",
+    "author": "DennisonBertram",
+    "content": "@JoelDeTeves @FactoryAI (I'm testing it again as we speak, and just as a CLI its clear)",
+    "url": "https://x.com/DennisonBertram/status/1999511993003262217",
+    "timestamp": "2025-12-12T16:09:42.000Z",
+    "metadata": {
+      "conversation_id": "1999511993003262217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999511910174052657",
+    "source": "twitter",
+    "author": "DennisonBertram",
+    "content": "@JoelDeTeves @FactoryAI No there was the whole factory thing on the front end, and droids could run in the cloud, people were calling them \"droids\" like they were a specific thing.",
+    "url": "https://x.com/DennisonBertram/status/1999511910174052657",
+    "timestamp": "2025-12-12T16:09:23.000Z",
+    "metadata": {
+      "conversation_id": "1999511910174052657",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999508631545614501",
     "source": "twitter",
     "author": "benvargas",
