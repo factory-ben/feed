@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999497455898100049",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Technically it could if it violates the terms your account is under, though I haven't seen or heard of it being a problem if you're not abusive, account sharing, using beyond consumer/individual typical use, etc.\n\nCertainly don't go sharing. With the workaround to use any of the provider subs, don't go building things that should be on API Key (web services, etc), that kind of thing.\n\nIt certainly might not be for everyone.",
+    "url": "https://x.com/benvargas/status/1999497455898100049",
+    "timestamp": "2025-12-12T15:11:57.000Z",
+    "metadata": {
+      "conversation_id": "1999497455898100049",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999497280349499446",
+    "source": "twitter",
+    "author": "_bitcoinera",
+    "content": "I originally thought this… and then I went back to Claude Code and saw how in depth planning has become with Opus 4.5.\n\nSo long as you tell it to export the plan to a directory, and then give it a priming prompt, it runs like an absolute dream for hours.\n\nAnd then there’s SSH.\n\nI have overhauled my entire server + networking stack and documentation, all managed via SSH in my tailnet. Incredible.",
+    "url": "https://x.com/_bitcoinera/status/1999497280349499446",
+    "timestamp": "2025-12-12T15:11:15.000Z",
+    "metadata": {
+      "conversation_id": "1999497280349499446",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999492084974379433",
     "source": "twitter",
     "author": "nullswan",
