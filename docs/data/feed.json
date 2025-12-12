@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1999322279227101625",
+    "source": "twitter",
+    "author": "joshdbirdwell",
+    "content": "@JoelDeTeves @FactoryAI Alright alright. Trying Droid because of your tweet first prompt sent.",
+    "url": "https://x.com/joshdbirdwell/status/1999322279227101625",
+    "timestamp": "2025-12-12T03:35:51.000Z",
+    "metadata": {
+      "conversation_id": "1999322279227101625",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999320198592233621",
+    "source": "twitter",
+    "author": "yeon_gyu_kim",
+    "content": "@JoelDeTeves @FactoryAI But what if all others are enjoying it with better TUI, easier setup:\n\nhttps://t.co/KixN6K4HKo",
+    "url": "https://x.com/yeon_gyu_kim/status/1999320198592233621",
+    "timestamp": "2025-12-12T03:27:35.000Z",
+    "metadata": {
+      "conversation_id": "1999320198592233621",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999315988744143124",
+    "source": "twitter",
+    "author": "SterlingCooley",
+    "content": "@FactoryAI Hi, how do I change to 5.2 ? I tried / modal but still only see 5.1 ...",
+    "url": "https://x.com/SterlingCooley/status/1999315988744143124",
+    "timestamp": "2025-12-12T03:10:51.000Z",
+    "metadata": {
+      "conversation_id": "1999315988744143124",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999315593816867097",
+    "source": "twitter",
+    "author": "Kyler_Lorin",
+    "content": "@JoelDeTeves @FactoryAI Codex with 5.2 is actually good too so far",
+    "url": "https://x.com/Kyler_Lorin/status/1999315593816867097",
+    "timestamp": "2025-12-12T03:09:17.000Z",
+    "metadata": {
+      "conversation_id": "1999315593816867097",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999276276612559101",
     "source": "twitter",
     "author": "bradvangelder",
