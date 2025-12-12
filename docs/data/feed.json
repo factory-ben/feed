@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999463196596506975",
+    "source": "twitter",
+    "author": "borker",
+    "content": "@b1rkh0ff @JoelDeTeves @FactoryAI Yes repoprompt does a lot of the lifting for you.",
+    "url": "https://x.com/borker/status/1999463196596506975",
+    "timestamp": "2025-12-12T12:55:48.000Z",
+    "metadata": {
+      "conversation_id": "1999463196596506975",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999462569426452870",
+    "source": "twitter",
+    "author": "erikjfritsch",
+    "content": "@FactoryAI could you look into official integration with Beads, Agent Mail, etc. as I had to move back to Claude Code for now as forced integration was spotty; Droid REALLY likes its Tasks over 3rd party tooling but, beads, bv, am is so good",
+    "url": "https://x.com/erikjfritsch/status/1999462569426452870",
+    "timestamp": "2025-12-12T12:53:19.000Z",
+    "metadata": {
+      "conversation_id": "1999462569426452870",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999459629097455798",
+    "source": "twitter",
+    "author": "erikjfritsch",
+    "content": "a note , I confirmed yesterday, that their are differences with BYOK:\n\nHey Erik,\n\nYes, there are differences, see summary below:\n•Quality & Testing: Factory-provided models (Anthropic and OpenAI via Factory's infrastructure) are fully tested and benchmarked for agentic coding workflows. Custom BYOK models cannot be guaranteed to work optimally out-of-the-box, as verification is ongoing.\n•Performance Optimization: Factory's managed inference includes optimized prompt caching with 4-8× cache ratios, dramatically extending your effective token budget. With BYOK, caching support varies—official Anthropic/OpenAI APIs attempt caching, but generic providers may not support it reliably.\n•Platform Coverage: Factory-provided models work across CLI, web, and mobile. BYOK models are CLI-only.",
+    "url": "https://x.com/erikjfritsch/status/1999459629097455798",
+    "timestamp": "2025-12-12T12:41:38.000Z",
+    "metadata": {
+      "conversation_id": "1999459629097455798",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999451297800720523",
     "source": "twitter",
     "author": "TSpencer260",
