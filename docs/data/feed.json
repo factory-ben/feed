@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999522002353389668",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Yeah, thats a spot on response you'd expect of the dedicated @FactoryAI team.\n\nThere's of course less testing of the BYOK and validation of models - that's expected.\n\nAlso, using the ChatGPT subscription for any OpenAI model requires using the OpenAI backend responses API, not the public main API, and it validates the entire system prompt.\n\nThis means any solution, be it CLIProxyAPI or opencode plugin or other solution offering to use ChatGPT Plus/Pro sub is having to send the **entire** system prompt matching codex cli, this will absolutely cause variability in how say gpt-5.2 might perform as Factory intends/benchmarks vs BYOK-Sub workaround. Though, in my experience, Droid still performs surprisingly well despite knowing an entirely different/unintended system prompt is being sent to the OpenAI models.",
+    "url": "https://x.com/benvargas/status/1999522002353389668",
+    "timestamp": "2025-12-12T16:49:29.000Z",
+    "metadata": {
+      "conversation_id": "1999522002353389668",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999521518762459346",
+    "source": "twitter",
+    "author": "BitcoinCyborg",
+    "content": "@JoelDeTeves @FactoryAI I love using AI Studio (I’m a vibe coder) - is Factory a good tool for someone like me?",
+    "url": "https://x.com/BitcoinCyborg/status/1999521518762459346",
+    "timestamp": "2025-12-12T16:47:34.000Z",
+    "metadata": {
+      "conversation_id": "1999521518762459346",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999519352500969685",
     "source": "twitter",
     "author": "vatro_vrbanic",
