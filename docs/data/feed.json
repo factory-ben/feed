@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1999603931211878703",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@ryoppippi @TSpencer260 @FactoryAI Ah, maybe there is a comment or something somewhere then that it picked up on… because I don’t have a ~/.config/codex dir at all",
+    "url": "https://x.com/benvargas/status/1999603931211878703",
+    "timestamp": "2025-12-12T22:15:02.000Z",
+    "metadata": {
+      "conversation_id": "1999603931211878703",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999603230305648988",
+    "source": "twitter",
+    "author": "ryoppippi",
+    "content": "@benvargas @TSpencer260 @FactoryAI haha funny. That’s my setup. I place it in .config/claude. \nAnthropic is so bad at CLI tools and Linux environments.",
+    "url": "https://x.com/ryoppippi/status/1999603230305648988",
+    "timestamp": "2025-12-12T22:12:15.000Z",
+    "metadata": {
+      "conversation_id": "1999603230305648988",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999602370460942762",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@matanSF @FactoryAI Amazing",
+    "url": "https://x.com/NathanLands/status/1999602370460942762",
+    "timestamp": "2025-12-12T22:08:50.000Z",
+    "metadata": {
+      "conversation_id": "1999602370460942762",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999602191884255719",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@matanSF @FactoryAI Waiting for the Codex-Max scores\n\nGreat job btw",
+    "url": "https://x.com/CloudTrader4/status/1999602191884255719",
+    "timestamp": "2025-12-12T22:08:08.000Z",
+    "metadata": {
+      "conversation_id": "1999602191884255719",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999599204197425381",
     "source": "twitter",
     "author": "AlexMillerCode",
