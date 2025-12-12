@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1999505643795829142",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "@gootecks @JoelDeTeves @FactoryAI I find the context history compression excellent, compared to Claude Code.",
+    "url": "https://x.com/_alissonryan/status/1999505643795829142",
+    "timestamp": "2025-12-12T15:44:29.000Z",
+    "metadata": {
+      "conversation_id": "1999505643795829142",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999504995432169824",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "The docs linked to by CLIProxyAPI github repo README are quite thorough imo, and also the docs/ dir on the repo has more detailed instruction for making it work with amp, it's easier with Factory's Droid CLI because they don't route through their own middleware proxy like Amp.\n\nI wrote this gist a few months back which might help for both factory and amp, just know the amp portion is a bit outdated as CLIProxyAPI upstream of my fork opted to PR the AMP support into the main project since that was written.\n\nhttps://t.co/r1rjfwhena",
+    "url": "https://x.com/benvargas/status/1999504995432169824",
+    "timestamp": "2025-12-12T15:41:54.000Z",
+    "metadata": {
+      "conversation_id": "1999504995432169824",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999504247683985864",
+    "source": "twitter",
+    "author": "claudeusmaximus",
+    "content": "@benvargas @FactoryAI Thanks!",
+    "url": "https://x.com/claudeusmaximus/status/1999504247683985864",
+    "timestamp": "2025-12-12T15:38:56.000Z",
+    "metadata": {
+      "conversation_id": "1999504247683985864",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999503791901802961",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@SEDIDEL @FactoryAI I'm not a lawyer, can't provide you legal advice. Also not a CPA, so won't be providing tax advice either.",
+    "url": "https://x.com/benvargas/status/1999503791901802961",
+    "timestamp": "2025-12-12T15:37:07.000Z",
+    "metadata": {
+      "conversation_id": "1999503791901802961",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999502996640530540",
     "source": "twitter",
     "author": "SEDIDEL",
