@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1999591280783819120",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@MysticEru @FactoryAI Yes you can run droids autonomously as a standalone executable you can also run them as part of your CI workflow\n\nIt supports glob as a tool call unsure if that’s what you mean \n\nhttps://t.co/inhIXP4Izs",
+    "url": "https://x.com/JoelDeTeves/status/1999591280783819120",
+    "timestamp": "2025-12-12T21:24:46.000Z",
+    "metadata": {
+      "conversation_id": "1999591280783819120",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999590973727240444",
+    "source": "twitter",
+    "author": "connortbot",
+    "content": "@matanSF @FactoryAI back like u never left",
+    "url": "https://x.com/connortbot/status/1999590973727240444",
+    "timestamp": "2025-12-12T21:23:33.000Z",
+    "metadata": {
+      "conversation_id": "1999590973727240444",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999590796366876738",
+    "source": "twitter",
+    "author": "TanukiLabsAI",
+    "content": "@alvinsng @FactoryAI Nice jobs ! 😉",
+    "url": "https://x.com/TanukiLabsAI/status/1999590796366876738",
+    "timestamp": "2025-12-12T21:22:51.000Z",
+    "metadata": {
+      "conversation_id": "1999590796366876738",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999590206085677258",
+    "source": "twitter",
+    "author": "MysticEru",
+    "content": "@JoelDeTeves @FactoryAI does droid have async subagents? what about glob based rules?",
+    "url": "https://x.com/MysticEru/status/1999590206085677258",
+    "timestamp": "2025-12-12T21:20:30.000Z",
+    "metadata": {
+      "conversation_id": "1999590206085677258",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999589138128077027",
     "source": "twitter",
     "author": "alvinsng",
