@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_1999693102332936695",
+    "source": "twitter",
+    "author": "ChuckBaggett",
+    "content": "@matanSF @FactoryAI https://t.co/4ReDsP1oZG",
+    "url": "https://x.com/ChuckBaggett/status/1999693102332936695",
+    "timestamp": "2025-12-13T04:09:22.000Z",
+    "metadata": {
+      "conversation_id": "1999693102332936695",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999691514872738140",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@matanSF @FactoryAI There were rumours of Droid being dead? Clearly spread by those who haven’t used it, or a skill issue!",
+    "url": "https://x.com/nkgoutham/status/1999691514872738140",
+    "timestamp": "2025-12-13T04:03:04.000Z",
+    "metadata": {
+      "conversation_id": "1999691514872738140",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1plc0m5",
+    "source": "reddit",
+    "author": "Infamous_Loquat_9062",
+    "content": "How to get plugins in droid CLI?\n\nAnyone know if there is a way to sync your Claude code plugins with droid CLI? I see droid CLI has /skills but don’t see any way to sync them from Claude code, or am I missing something? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1plc0m5/how_to_get_plugins_in_droid_cli/",
+    "timestamp": "2025-12-13T03:58:42.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1999689239097991648",
+    "source": "twitter",
+    "author": "dannyveigatx",
+    "content": "@TheEcomNomad @FactoryAI @augmentcode Yeah. I wanted to test grok 4.1 fast as the standalone coding agent. \n\nI added droid mcp to Claude then had the idea of full autonomous coding / research / debugging etc etc and did the Claude sdk with droid being called in the background",
+    "url": "https://x.com/dannyveigatx/status/1999689239097991648",
+    "timestamp": "2025-12-13T03:54:01.000Z",
+    "metadata": {
+      "conversation_id": "1999689239097991648",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999687086778257408",
     "source": "twitter",
     "author": "joshdbirdwell",
