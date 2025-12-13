@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999987663705899036",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@anderchuckinc @bentossell @Waymo @FactoryAI 🤣 might need at least 4 hours for that",
+    "url": "https://x.com/matanSF/status/1999987663705899036",
+    "timestamp": "2025-12-13T23:39:51.000Z",
+    "metadata": {
+      "conversation_id": "1999987663705899036",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999987500463653172",
+    "source": "twitter",
+    "author": "anderchuckinc",
+    "content": "@matanSF @bentossell @Waymo @FactoryAI You should build A faster way to get from San Francisco to San Jose",
+    "url": "https://x.com/anderchuckinc/status/1999987500463653172",
+    "timestamp": "2025-12-13T23:39:12.000Z",
+    "metadata": {
+      "conversation_id": "1999987500463653172",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999987359417586081",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@bheemreddy181 @Waymo @FactoryAI 👀 @bentossell",
+    "url": "https://x.com/matanSF/status/1999987359417586081",
+    "timestamp": "2025-12-13T23:38:39.000Z",
+    "metadata": {
+      "conversation_id": "1999987359417586081",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999987158786957381",
     "source": "twitter",
     "author": "bheemreddy181",
