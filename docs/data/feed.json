@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999835322591428875",
+    "source": "twitter",
+    "author": "joshdbirdwell",
+    "content": "@TheEcomNomad @FactoryAI @augmentcode I have been impressed by @AmpCode and an awesome price point is hooking @opencode to a GitHub copilot subscription. I will give augment code a go soon.",
+    "url": "https://x.com/joshdbirdwell/status/1999835322591428875",
+    "timestamp": "2025-12-13T13:34:30.000Z",
+    "metadata": {
+      "conversation_id": "1999835322591428875",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999833632043602179",
+    "source": "twitter",
+    "author": "NotTheSharpiest",
+    "content": "@FactoryAI Do you guys plan on adding native Sub-Agents/Droids, such as Explore, etc. ?",
+    "url": "https://x.com/NotTheSharpiest/status/1999833632043602179",
+    "timestamp": "2025-12-13T13:27:47.000Z",
+    "metadata": {
+      "conversation_id": "1999833632043602179",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999830119376986126",
     "source": "twitter",
     "author": "TheEcomNomad",
@@ -15960,6 +15990,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1p94a7m",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.27.4 Released - Interleaved thinking support and more\n\n## New features\n\n* **Interleaved thinking support** - Display multiple thinking blocks during streaming, including redacted thinking blocks with safety messages\n* **Show thinking setting** - Show AI thinking/reasoning on the main view, turn on/off in `/settings`\n* **Hooks always enabled** - The hooks feature is now permanently enabled and available via the `/hooks` command\n\n## Bug fixes\n\n* Fixed ESC/Q navigation in `/model` menus - pressing ESC or Q now properly navigates back to previous menu l",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p94a7m/factory_cli_v0274_released_interleaved_thinking/",
+    "timestamp": "2025-11-28T19:49:52.000Z",
+    "metadata": {
+      "score": 13,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1994490891885842480",
     "source": "twitter",
     "author": "ramnanimanan",
@@ -18046,6 +18089,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1p7yzks",
+    "source": "reddit",
+    "author": "PriorGeneral8166",
+    "content": "Alt V to paste images in droid CLI not working, used to work, not sure why. help.\n\nAlt V to paste images in droid CLI not working, used to work, not sure why. help.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p7yzks/alt_v_to_paste_images_in_droid_cli_not_working/",
+    "timestamp": "2025-11-27T10:30:16.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_1993990034404389048",
@@ -35328,6 +35384,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_164",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Discussion] Droid Exec - custom models supported?\n\ncan we have support for custom models in droid exec? even if it were just simple endpoint/key.",
+    "url": "https://github.com/Factory-AI/factory/discussions/164",
+    "timestamp": "2025-10-10T18:34:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 164
+    }
+  },
+  {
     "id": "github_discussion_151",
     "source": "github",
     "author": "snowarch",
@@ -35342,6 +35411,19 @@
     "category": "other"
   },
   {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    }
+  },
+  {
     "id": "github_discussion_108",
     "source": "github",
     "author": "factory-ben",
@@ -35354,6 +35436,19 @@
       "number": 108
     },
     "category": "mention"
+  },
+  {
+    "id": "github_discussion_108",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Release v1.3.220\n\n---\r\n\r\nThis release brings HTTP MCP server support, a `/compress` command to optimize your context usage and droid exec for CDE.\r\n\r\n---\r\n\r\n## HTTP MCP Server Support\r\n\r\nFactory now supports streamable HTTP-based Model Context Protocol (MCP) servers in addition to stdio-based servers. This enables you to connect to MCP servers running as web services, making it easier to integrate with cloud-hosted tools and services.\r\n\r\nWhen adding an MCP server, Factory automatically detects whether it's HTTP o",
+    "url": "https://github.com/Factory-AI/factory/discussions/108",
+    "timestamp": "2025-10-03T20:21:56Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 108
+    }
   },
   {
     "id": "github_discussion_99",
