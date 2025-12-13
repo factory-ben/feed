@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999897774683205924",
+    "source": "twitter",
+    "author": "aroussi",
+    "content": "@phuctm97 Try it with @FactoryAI",
+    "url": "https://x.com/aroussi/status/1999897774683205924",
+    "timestamp": "2025-12-13T17:42:40.000Z",
+    "metadata": {
+      "conversation_id": "1999897774683205924",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999897615991754816",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "hey @FactoryAI  users if you want a quick way to see and change all of your models for subagents you can use this TUI\n\n-no install needed and code below\nnpx droid-model-tuner\n\nhttps://t.co/1pNDXM2LTX - it also handles the BYOK models you might have added. \n\nEnjoy! https://t.co/9SZsvnnAqS",
+    "url": "https://x.com/jcurtis/status/1999897615991754816",
+    "timestamp": "2025-12-13T17:42:02.000Z",
+    "metadata": {
+      "conversation_id": "1999897615991754816",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999894874058002843",
     "source": "twitter",
     "author": "bradshannon",
