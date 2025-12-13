@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999643114860941589",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@renatoaraujoc @FactoryAI @augmentcode I like kilocode but direct through API can get pretty expensive too depending on the model. What models you using?",
+    "url": "https://x.com/TheEcomNomad/status/1999643114860941589",
+    "timestamp": "2025-12-13T00:50:44.000Z",
+    "metadata": {
+      "conversation_id": "1999643114860941589",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999634087124885708",
     "source": "twitter",
     "author": "shaped",
