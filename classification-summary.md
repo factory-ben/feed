@@ -1,13 +1,13 @@
 # Classification Summary
 
-**Date:** 2025-12-13 20:46 UTC
+**Date:** 2025-12-13 20:55 UTC
 
-**Items Classified:** 4
+**Items Classified:** 2
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| mention  | 1     | 25.0%      |
+| mention  | 1     | 50.0%      |
 | bug      | 0     | 0.0%       |
-| love     | 2     | 50.0%      |
-| question | 1     | 25.0%      |
+| love     | 0     | 0.0%       |
+| question | 1     | 50.0%      |
 | other    | 0     | 0.0%       |
