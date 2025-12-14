@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2000028560984293438",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@matanSF @Waymo @FactoryAI that must’ve been such a chill way to pass time, wonder what you’re cooking up next",
+    "url": "https://x.com/BillCrosby/status/2000028560984293438",
+    "timestamp": "2025-12-14T02:22:22.000Z",
+    "metadata": {
+      "conversation_id": "2000028560984293438",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000025337712037984",
+    "source": "twitter",
+    "author": "MysticEru",
+    "content": "@matanSF @bentossell @Waymo @FactoryAI Glob based project rules like Claude code or cursor has",
+    "url": "https://x.com/MysticEru/status/2000025337712037984",
+    "timestamp": "2025-12-14T02:09:33.000Z",
+    "metadata": {
+      "conversation_id": "2000025337712037984",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000019907732230159",
+    "source": "twitter",
+    "author": "askpascalandy",
+    "content": "@FactoryAI can I dm? Can’t login",
+    "url": "https://x.com/askpascalandy/status/2000019907732230159",
+    "timestamp": "2025-12-14T01:47:59.000Z",
+    "metadata": {
+      "conversation_id": "2000019907732230159",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000014407192162542",
     "source": "twitter",
     "author": "matanSF",
