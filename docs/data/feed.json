@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2000155262553067638",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Already available in CLIProxyAPI... I use subscriptions from all 3 (ChatGPT, Claude, Gemini AI Ultra), and thus Opus 4.5, GPT-5.2, and Gemini 3 Pro Preview successfully in Droid via BYOK/Proxy through CLIProxyAPI.\n\nJust configure your subscription logins (complete the OAuth workflows) in CLIProxyAPI for the subscriptions you have... define the custom models in droid... and then those models will be available and route through/use your subscription via CLIProxyAPI.",
+    "url": "https://x.com/benvargas/status/2000155262553067638",
+    "timestamp": "2025-12-14T10:45:50.000Z",
+    "metadata": {
+      "conversation_id": "2000155262553067638",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000153612681363510",
     "source": "twitter",
     "author": "gaurabhmathure",
