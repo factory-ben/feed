@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2000048115022254181",
+    "source": "twitter",
+    "author": "yoimnotkesku",
+    "content": "@olcan @matanSF @nbsharma @Waymo @FactoryAI it's on a waitlist with access provided on a rolling basis, some have it some dont",
+    "url": "https://x.com/yoimnotkesku/status/2000048115022254181",
+    "timestamp": "2025-12-14T03:40:04.000Z",
+    "metadata": {
+      "conversation_id": "2000048115022254181",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000042238911664449",
+    "source": "twitter",
+    "author": "olcan",
+    "content": "@matanSF @nbsharma @Waymo @FactoryAI i thought waymo used highways in bay area? has that not been fully rolled out yet?",
+    "url": "https://x.com/olcan/status/2000042238911664449",
+    "timestamp": "2025-12-14T03:16:43.000Z",
+    "metadata": {
+      "conversation_id": "2000042238911664449",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000028560984293438",
     "source": "twitter",
     "author": "BillCrosby",
