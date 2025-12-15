@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2000657890143875454",
+    "source": "twitter",
+    "author": "marcgregory_",
+    "content": "@FactoryAI  Droid hooks with @ExaAILabs feels like AGI when reviewing new features https://t.co/Vx0MxRhM23",
+    "url": "https://x.com/marcgregory_/status/2000657890143875454",
+    "timestamp": "2025-12-15T20:03:06.000Z",
+    "metadata": {
+      "conversation_id": "2000657890143875454",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000656807468130602",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@dynemetis @TheEcomNomad @FactoryAI @augmentcode Sorry that happened. When did this happen and was it the CLI or the VS Code extension?",
+    "url": "https://x.com/sqs/status/2000656807468130602",
+    "timestamp": "2025-12-15T19:58:47.000Z",
+    "metadata": {
+      "conversation_id": "2000656807468130602",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000649179358736550",
     "source": "twitter",
     "author": "Darbybailey",
