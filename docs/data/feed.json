@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2000669981596651543",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@dynemetis @TheEcomNomad @FactoryAI @augmentcode Amp doesn't have a version 0.9.1. Are you sure you were using Amp? Is it possible you were using Augment's Auggie CLI instead (https://t.co/0Qog7EkyrF)?\n\nAmp's version numbers look like this:\n$ amp --version\n0.0.1765814508-gbfa39d (released 2025-12-15T16:07:02.090Z, 4h ago)",
+    "url": "https://x.com/sqs/status/2000669981596651543",
+    "timestamp": "2025-12-15T20:51:08.000Z",
+    "metadata": {
+      "conversation_id": "2000669981596651543",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000664296569573505",
     "source": "twitter",
     "author": "dynemetis",
