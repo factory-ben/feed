@@ -1630,77 +1630,36 @@
         state.user = session.user;
         await startApp();
       } else {
-        // No session - show public feed without personal state sync
-        await startPublicApp();
+        // Redirect to login - archive features require authentication
+        window.location.href = './login.html';
       }
       
       // Listen for auth state changes
       supabase.auth.onAuthStateChange(async (event, session) => {
         if (event === 'SIGNED_IN' && session) {
           state.user = session.user;
-          // Migrate localStorage archived items to Supabase if any
+          // Clean up any old localStorage data
           await migrateLocalStorageToSupabase();
           await startApp();
         } else if (event === 'SIGNED_OUT') {
-          state.user = null;
-          state.supabaseReady = false;
-          updateAuthUI();
-          // Keep viewing the feed but use localStorage
-          loadLocalArchivedState();
-          render();
+          // Redirect to login on sign out
+          window.location.href = './login.html';
         }
       });
     }
     
-    // Start app in public mode (no login)
-    async function startPublicApp() {
-      updateAuthUI();
-      loadLocalArchivedState();
-      await fetchFeed();
-      if (feedIntervalId) clearInterval(feedIntervalId);
-      feedIntervalId = setInterval(fetchFeed, 60000);
-    }
-    
-    // Load archived state from localStorage for anonymous users
-    function loadLocalArchivedState() {
-      try {
-        const archived = JSON.parse(localStorage.getItem('archivedIds') || '[]');
-        state.archivedIds = new Set(archived);
-      } catch {
-        state.archivedIds = new Set();
-      }
-    }
-    
-    // Save archived state to localStorage for anonymous users
-    function saveLocalArchivedState() {
-      localStorage.setItem('archivedIds', JSON.stringify([...state.archivedIds]));
-    }
-    
-    // Migrate localStorage archived items to Supabase when user logs in
+    // Migrate localStorage archived items to Supabase when user logs in (cleanup old data)
     async function migrateLocalStorageToSupabase() {
-      if (!state.user) return;
-      
+      // Clean up any old localStorage archive data (no longer used)
+      // All archive state now lives in Supabase only
       try {
-        const localArchived = JSON.parse(localStorage.getItem('archivedIds') || '[]');
-        if (localArchived.length > 0) {
-          console.log('[Migration] Migrating', localArchived.length, 'archived items to Supabase');
-          const results = await Promise.all(
-            localArchived.map(id => updatePostState(id, { is_archived: true }))
-          );
-          
-          // Only clear localStorage if all items migrated successfully
-          const allSucceeded = results.every(r => r);
-          if (allSucceeded) {
-            localStorage.removeItem('archivedIds');
-          } else {
-            // Keep only failed items in localStorage for retry
-            const failedIds = localArchived.filter((id, i) => !results[i]);
-            localStorage.setItem('archivedIds', JSON.stringify(failedIds));
-            console.warn('[Migration] Some items failed, kept in localStorage:', failedIds.length);
-          }
+        const oldArchived = localStorage.getItem('archivedIds');
+        if (oldArchived) {
+          console.log('[Cleanup] Removing old localStorage archive data');
+          localStorage.removeItem('archivedIds');
         }
       } catch (e) {
-        console.error('[Migration] Error migrating localStorage to Supabase:', e);
+        console.error('[Cleanup] Error removing old localStorage:', e);
       }
     }
     
@@ -1747,20 +1706,30 @@
         
         if (error) {
           console.error('[Supabase] Error loading post states:', error);
+          showToast('Failed to load archive state', 'error');
+          // Don't clear existing state - keep whatever we have
           return;
         }
         
-        state.archivedIds.clear();
-        state.bookmarkedIds.clear();
+        // Build new state in temp sets (atomic update)
+        const newArchivedIds = new Set();
+        const newBookmarkedIds = new Set();
         
         data?.forEach(row => {
-          if (row.is_archived) state.archivedIds.add(row.post_id);
-          if (row.is_bookmarked) state.bookmarkedIds.add(row.post_id);
+          if (row.is_archived) newArchivedIds.add(row.post_id);
+          if (row.is_bookmarked) newBookmarkedIds.add(row.post_id);
         });
         
+        // Only update state if query succeeded
+        state.archivedIds = newArchivedIds;
+        state.bookmarkedIds = newBookmarkedIds;
         state.supabaseReady = true;
+        
+        console.log(`[Supabase] Loaded ${newArchivedIds.size} archived, ${newBookmarkedIds.size} bookmarked posts`);
       } catch (e) {
         console.error('[Supabase] Exception loading post states:', e);
+        showToast('Failed to load archive state', 'error');
+        // Don't clear existing state on exception
       }
     }
 
@@ -2024,7 +1993,15 @@
       
       updateAuthUI();
       
+      // Load archive state FIRST before fetching feed
       await loadPostStates();
+      
+      // Warn user if archive state failed to load
+      if (!state.supabaseReady) {
+        console.warn('[App] Failed to load archive state, continuing anyway');
+        showToast('Unable to load archive state. Posts may not display correctly.', 'warning');
+      }
+      
       await migrateLocalStorageArchives();
       await loadUserSettings();
       subscribeToPostStates();
@@ -2078,6 +2055,12 @@
 
     // --- Rendering ---
     function render() {
+      // Wait for archive state to load for logged-in users
+      if (state.user && !state.supabaseReady && state.items.length > 0) {
+        elements.feedList.innerHTML = '<div class="loading-state">Loading your archive state...</div>';
+        return;
+      }
+      
       const query = (state.searchQuery || '').trim().toLowerCase();
       const isSearchActive = query.length > 0;
 
@@ -2360,6 +2343,11 @@
         const count = state.selectedIds.size;
         if (count === 0) return;
         
+        if (!state.user) {
+          showToast('Sign in to archive posts', 'warning');
+          return;
+        }
+        
         const idsToArchive = [...state.selectedIds];
         
         // Optimistic update
@@ -2367,31 +2355,30 @@
         state.selectedIds.clear();
         render();
         
-        // If logged in, sync to Supabase; otherwise use localStorage
-        if (state.user) {
-          const results = await Promise.all(
-            idsToArchive.map(id => updatePostState(id, { is_archived: true }))
-          );
-          
-          const successCount = results.filter(r => r).length;
-          if (successCount === count) {
-            showToast(`Archived ${count} items`);
-          } else {
-            // Revert failed items
-            idsToArchive.forEach((id, i) => {
-              if (!results[i]) state.archivedIds.delete(id);
-            });
-            render();
-            showToast(`Archived ${successCount}/${count} items`, 'warning');
-          }
-        } else {
-          // Anonymous user - save to localStorage
-          saveLocalArchivedState();
+        // Sync to Supabase
+        const results = await Promise.all(
+          idsToArchive.map(id => updatePostState(id, { is_archived: true }))
+        );
+        
+        const successCount = results.filter(r => r).length;
+        if (successCount === count) {
           showToast(`Archived ${count} items`);
+        } else {
+          // Revert failed items
+          idsToArchive.forEach((id, i) => {
+            if (!results[i]) state.archivedIds.delete(id);
+          });
+          render();
+          showToast(`Archived ${successCount}/${count} items`, 'warning');
         }
     }
 
     async function toggleArchive(id) {
+      if (!state.user) {
+        showToast('Sign in to archive posts', 'warning');
+        return;
+      }
+      
       const wasArchived = state.archivedIds.has(id);
       
       // Optimistic update
@@ -2403,26 +2390,20 @@
       }
       render();
       
-      // If logged in, sync to Supabase; otherwise use localStorage
-      if (state.user) {
-        const success = await updatePostState(id, { is_archived: !wasArchived });
-        
-        if (success) {
-          showToast(wasArchived ? 'Post unarchived' : 'Post archived');
-        } else {
-          // Revert on failure
-          if (wasArchived) {
-            state.archivedIds.add(id);
-          } else {
-            state.archivedIds.delete(id);
-          }
-          render();
-          showToast('Failed to update - try again', 'error');
-        }
-      } else {
-        // Anonymous user - save to localStorage
-        saveLocalArchivedState();
+      // Sync to Supabase
+      const success = await updatePostState(id, { is_archived: !wasArchived });
+      
+      if (success) {
         showToast(wasArchived ? 'Post unarchived' : 'Post archived');
+      } else {
+        // Revert on failure
+        if (wasArchived) {
+          state.archivedIds.add(id);
+        } else {
+          state.archivedIds.delete(id);
+        }
+        render();
+        showToast('Failed to update - try again', 'error');
       }
     }
 
