@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "A token-gated social media feed aggregator that scrapes Twitter, Reddit, and GitHub. Runs on GitHub Pages with automated scraping via GitHub Actions.",
   "main": "src/index.js",
+  "bin": {
+    "feed": "./src/feed-cli.js"
+  },
   "scripts": {
     "start": "node src/index.js",
     "dev": "node src/index.js",
     "scrape": "node src/scraper-cli.js",
+    "feed": "node src/feed-cli.js",
     "build:tools": "node scripts/generate-tool-manifest.js",
     "tool:classify": "node docs/tools/tool-runner.js classify-feed --input docs/data/feed.json --output docs/data/feed.json",
     "tool:classify:dry": "node docs/tools/tool-runner.js classify-feed --input docs/data/feed.json --dry-run"
