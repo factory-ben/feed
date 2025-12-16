@@ -16282,6 +16282,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1pc29q7",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.28.0 Released - Show all sessions and more\n\n## New features\n\n* **Show all sessions** - View and manage all your sessions across directories\n* **Windowed slash command navigation** - Improved navigation in the slash command menu with windowed scrolling\n* **Improved thinking display** - Refactored thinking block rendering for better clarity\n* **Figma MCP server** - Added support for Figma MCP server integration\n\n## Bug fixes\n\n* Fixed detection of Cerebras-style context length exceeded errors\n* Fixed duplicate spec modes and double empty lin",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pc29q7/factory_cli_v0280_released_show_all_sessions_and/",
+    "timestamp": "2025-12-02T07:24:59.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1995755959717622147",
     "source": "twitter",
     "author": "RayaneRachid_",
@@ -16326,6 +16339,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1pc0wm3",
+    "source": "reddit",
+    "author": "Electronic_One_4133",
+    "content": "Flickering in CLI\n\nIs there any fixes for flickering?\n\n  \nI was working on some project about cybersecurity, it needs many documentation and pasted rather a lot of text inside of cli,\n\nthen it just start flickering. it will flicker when entering text, resize and moving cursor.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pc0wm3/flickering_in_cli/",
+    "timestamp": "2025-12-02T06:03:25.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 8,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_1995703545979699686",
