@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2000952906053505398",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@cr4shdxmmy @FactoryAI can you run /bug in your session and send me the id pls (its not sensitive)",
+    "url": "https://x.com/bentossell/status/2000952906053505398",
+    "timestamp": "2025-12-16T15:35:23.000Z",
+    "metadata": {
+      "conversation_id": "2000952906053505398",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000952662565793894",
+    "source": "twitter",
+    "author": "cr4shdxmmy",
+    "content": "@bentossell @FactoryAI appreciate it. im on native, 0.36.3 and its still happening",
+    "url": "https://x.com/cr4shdxmmy/status/2000952662565793894",
+    "timestamp": "2025-12-16T15:34:25.000Z",
+    "metadata": {
+      "conversation_id": "2000952662565793894",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000952179742663142",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Alberto8793 @FactoryAI the smarter of the options 😊 welcome!",
+    "url": "https://x.com/bentossell/status/2000952179742663142",
+    "timestamp": "2025-12-16T15:32:30.000Z",
+    "metadata": {
+      "conversation_id": "2000952179742663142",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000951738657071567",
     "source": "twitter",
     "author": "Alberto8793",
