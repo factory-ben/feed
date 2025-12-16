@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2001068634081517809",
+    "source": "twitter",
+    "author": "yunbin_bae",
+    "content": "@thesagardevkate @Zai_org is it better than @FactoryAI ?",
+    "url": "https://x.com/yunbin_bae/status/2001068634081517809",
+    "timestamp": "2025-12-16T23:15:15.000Z",
+    "metadata": {
+      "conversation_id": "2001068634081517809",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001068395140178102",
+    "source": "twitter",
+    "author": "pietAIdev",
+    "content": "@cursor_ai @claudeai @FactoryAI @OpenAI I believe that there are numerous improvements that can be made to all the AI coding tools.",
+    "url": "https://x.com/pietAIdev/status/2001068395140178102",
+    "timestamp": "2025-12-16T23:14:18.000Z",
+    "metadata": {
+      "conversation_id": "2001068395140178102",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001068000737128859",
+    "source": "twitter",
+    "author": "pietAIdev",
+    "content": "man what has this been a great year, spent a lot of money on @cursor_ai @claudeai (claude code) @FactoryAI and @OpenAI (gpt pro) but it's been so worth it. The quality of my AI saas improved so much it's crazy.\n\nWhat do i love the time we are living in",
+    "url": "https://x.com/pietAIdev/status/2001068000737128859",
+    "timestamp": "2025-12-16T23:12:44.000Z",
+    "metadata": {
+      "conversation_id": "2001068000737128859",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001057315236016134",
     "source": "twitter",
     "author": "flow_intent",
