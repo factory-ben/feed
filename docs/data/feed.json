@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2000720835527512461",
+    "source": "twitter",
+    "author": "EvanDeKim",
+    "content": "How far can LLMs go doing formal verification on mathematical smart contracts?\n\nTurns out it's quite a lot with just 1 hour of time and  &lt;$1 of Claude Code with @FactoryAI as agentic harness\n\nhttps://t.co/2C7BqdUDv9",
+    "url": "https://x.com/EvanDeKim/status/2000720835527512461",
+    "timestamp": "2025-12-16T00:13:13.000Z",
+    "metadata": {
+      "conversation_id": "2000720835527512461",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000705784888410535",
     "source": "twitter",
     "author": "dynemetis",
