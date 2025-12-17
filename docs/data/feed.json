@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_2001121882171388191",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "My app needs to constantly be updated and appended with new endpoints, and those endpoints also need to be reflected on the site. Sounds like a job a for #Droid. Basically, I want it to crawl both repos—is that possible? @matanSF @bentossell @FactoryAI If so, where can I learn?",
+    "url": "https://x.com/Alberto8793/status/2001121882171388191",
+    "timestamp": "2025-12-17T02:46:50.000Z",
+    "metadata": {
+      "conversation_id": "2001121882171388191",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_528",
+    "source": "github",
+    "author": "fjyihan",
+    "content": "[Issue] Browser automation skill\n\nHow to obtain files such as tart.js, nav.js, eval.js, screenshot.js, pick.js in the Browser automation skill",
+    "url": "https://github.com/Factory-AI/factory/issues/528",
+    "timestamp": "2025-12-17T02:34:23Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 528
+    }
+  },
+  {
+    "id": "twitter_2001116491136086476",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@FactoryAI @claudeai What are everyone's favorite #skills? So far, I'm only using mgrep—enlighten me, folks!",
+    "url": "https://x.com/Alberto8793/status/2001116491136086476",
+    "timestamp": "2025-12-17T02:25:25.000Z",
+    "metadata": {
+      "conversation_id": "2001116491136086476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001113828894105684",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@ReddyJaiden @FactoryAI Sorry you’re seeing this - will look into why Vercel thinks you’re a bot!",
+    "url": "https://x.com/EnoReyes/status/2001113828894105684",
+    "timestamp": "2025-12-17T02:14:50.000Z",
+    "metadata": {
+      "conversation_id": "2001113828894105684",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001110404232077595",
     "source": "twitter",
     "author": "MihailVarich",
