@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2001317141400739895",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2001314580480331892",
@@ -15508,7 +15510,8 @@
       "type": "issue",
       "labels": [],
       "number": 477
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1996242898019328165",
@@ -15677,7 +15680,8 @@
       "score": 3,
       "num_comments": 0,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1996174521624326620",
