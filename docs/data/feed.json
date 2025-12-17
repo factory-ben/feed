@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2001336939207627205",
+    "source": "twitter",
+    "author": "michabbb",
+    "content": "\"we do reply to support\" are you kidding me?\n\nYou don't! Multiple times! Even when talking with people directly via DM they stop talking - these are facts. And you cannot talk yourself out of that. I always have been polite but direct. So obviously there is a extrem large Disinterest  in helping customers, don't know your internal problems, people can only judge what they see and get (or don't get). \n\nAnyway, your company is unable to deliver support, point. \n\nIf others want to take the risk finding out them self, it's their problem. \n\nI'm done here. Thanks.",
+    "url": "https://x.com/michabbb/status/2001336939207627205",
+    "timestamp": "2025-12-17T17:01:24.000Z",
+    "metadata": {
+      "conversation_id": "2001336939207627205",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001334919642136703",
     "source": "twitter",
     "author": "NicerInPerson",
@@ -174,6 +189,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2001315293969186917",
+    "source": "twitter",
+    "author": "NicerInPerson",
+    "content": "@bentossell @Carlos_0x @FactoryAI @claudeai I started hooking up strudel to an agent with the idea of making a voice guided real time producer. Anyone else hacking on this?",
+    "url": "https://x.com/NicerInPerson/status/2001315293969186917",
+    "timestamp": "2025-12-17T15:35:23.000Z",
+    "metadata": {
+      "conversation_id": "2001315293969186917",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2001314580480331892",
@@ -15388,6 +15418,19 @@
       "number": 478
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_478",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Automatically open the last session\n\nI made this wrapper, which in essence just saves the latest session id in a `.droid` file. If such a file exists this file will be used unless the `-n|--new` flag is used. That way I do not manually have to search for the last session in the project.\n\nI would probably prefer this to be in the root of a git project, otherwise, just where droid is launched.\n\nI might have overdone it a bit in terms of splitting it up, but the idea I still like. So what I propose is a similar functionality builtin t",
+    "url": "https://github.com/Factory-AI/factory/issues/478",
+    "timestamp": "2025-12-03T18:47:19Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 478
+    }
   },
   {
     "id": "twitter_1996289787339354174",
