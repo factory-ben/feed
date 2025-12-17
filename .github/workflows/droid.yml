@@ -56,7 +56,33 @@ jobs:
 
       - name: Install Droid CLI
         run: |
-          curl -fsSL https://app.factory.ai/cli | sh
+          set -euo pipefail
+          
+          # Retry logic for SSL errors or network issues
+          MAX_RETRIES=3
+          RETRY_DELAY=5
+          
+          for i in $(seq 1 $MAX_RETRIES); do
+            echo "Attempt $i of $MAX_RETRIES: Installing Factory CLI..."
+            
+            if curl -fsSL --retry 3 --retry-delay 2 --retry-all-errors \
+                https://app.factory.ai/cli | sh; then
+              echo "✅ Factory CLI installed successfully"
+              break
+            else
+              EXIT_CODE=$?
+              echo "⚠️ Installation failed with exit code $EXIT_CODE"
+              
+              if [ $i -lt $MAX_RETRIES ]; then
+                echo "Retrying in ${RETRY_DELAY}s..."
+                sleep $RETRY_DELAY
+              else
+                echo "❌ Failed to install Factory CLI after $MAX_RETRIES attempts"
+                exit $EXIT_CODE
+              fi
+            fi
+          done
+          
           echo "$HOME/.local/bin" >> $GITHUB_PATH
 
       - name: Configure git

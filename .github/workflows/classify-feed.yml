@@ -36,11 +36,44 @@ jobs:
           set -euo pipefail
           [ -n "${FACTORY_API_KEY:-}" ] || { echo "❌ FACTORY_API_KEY is missing"; exit 1; }
 
+      - name: Check SSL connectivity
+        shell: bash
+        run: |
+          echo "Testing SSL connection to app.factory.ai..."
+          curl -v --connect-timeout 10 https://app.factory.ai 2>&1 | grep -E "(SSL|TLS|Connected|certificate)" || true
+          echo "---"
+          openssl s_client -connect app.factory.ai:443 -servername app.factory.ai < /dev/null 2>&1 | grep -E "(Verify return code|depth|CN)" || true
+
       - name: Install Factory CLI
         shell: bash
         run: |
           set -euo pipefail
-          curl -fsSL https://app.factory.ai/cli | sh
+          
+          # Retry logic for SSL errors or network issues
+          MAX_RETRIES=3
+          RETRY_DELAY=5
+          
+          for i in $(seq 1 $MAX_RETRIES); do
+            echo "Attempt $i of $MAX_RETRIES: Installing Factory CLI..."
+            
+            if curl -fsSL --retry 3 --retry-delay 2 --retry-all-errors \
+                https://app.factory.ai/cli | sh; then
+              echo "✅ Factory CLI installed successfully"
+              break
+            else
+              EXIT_CODE=$?
+              echo "⚠️ Installation failed with exit code $EXIT_CODE"
+              
+              if [ $i -lt $MAX_RETRIES ]; then
+                echo "Retrying in ${RETRY_DELAY}s..."
+                sleep $RETRY_DELAY
+              else
+                echo "❌ Failed to install Factory CLI after $MAX_RETRIES attempts"
+                exit $EXIT_CODE
+              fi
+            fi
+          done
+          
           echo "$HOME/.local/bin" >> "$GITHUB_PATH"
           "$HOME/.local/bin/droid" --version
 
