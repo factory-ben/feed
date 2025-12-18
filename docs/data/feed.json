@@ -15372,7 +15372,8 @@
       "type": "issue",
       "labels": [],
       "number": 483
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_482",

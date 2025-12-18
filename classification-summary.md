@@ -1,12 +1,11 @@
 # Classification Summary
 
-**Date:** 2025-12-18 16:34 UTC
+**Date:** 2025-12-18 16:52 UTC
 
-**Items classified:** 2
+**Items classified:** 1
 
 ## Category Breakdown
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| bug | 1 | 50% |
-| question | 1 | 50% |
+| bug | 1 | 100% |
