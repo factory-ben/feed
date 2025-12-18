@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2001456180196250093",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@catalinmpit Using claude sub with @FactoryAI Droid CLI, feels and behaves much better",
+    "url": "https://x.com/martin_ict_algo/status/2001456180196250093",
+    "timestamp": "2025-12-18T00:55:13.000Z",
+    "metadata": {
+      "conversation_id": "2001456180196250093",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001442220982063148",
     "source": "twitter",
     "author": "marovole",
