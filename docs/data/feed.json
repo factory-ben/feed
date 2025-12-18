@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1ppkgxm",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.37.0 Released\n\n## Bug fixes\n\n* Fixed API request handling for Codex models\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ppkgxm/factory_cli_v0370_released/",
+    "timestamp": "2025-12-18T07:02:46.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2001540715885588540",
     "source": "twitter",
     "author": "stevesprompt",
