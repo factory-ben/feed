@@ -15386,7 +15386,8 @@
       "type": "issue",
       "labels": [],
       "number": 482
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_481",
@@ -15413,7 +15414,8 @@
       "type": "issue",
       "labels": [],
       "number": 481
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1996619464574718308",
