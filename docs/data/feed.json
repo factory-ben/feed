@@ -15376,6 +15376,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_482",
+    "source": "github",
+    "author": "ben-vargas",
+    "content": "[Issue] [BUG] Number Pad Enter key still returns '4u' (regression from #200)\n\n## Description\n\nThe number pad Enter key is still being interpreted as `4u` instead of sending a proper Enter/Return keypress. This issue was previously reported and marked as fixed in #200, but the bug persists in v0.30.0.\n\n## Steps to Reproduce\n\n1. Launch `droid` CLI\n2. Type a prompt\n3. Press the **Number Pad Enter** key (not the main Enter key)\n4. Observe that `4u` is inserted into the input instead of submitting the command\n\n## Expected Behavior\n\nNumber pad Enter should function identically ",
+    "url": "https://github.com/Factory-AI/factory/issues/482",
+    "timestamp": "2025-12-04T16:47:38Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 482
+    }
+  },
+  {
     "id": "github_issue_481",
     "source": "github",
     "author": "ben-vargas",
@@ -15388,6 +15401,19 @@
       "number": 481
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_481",
+    "source": "github",
+    "author": "ben-vargas",
+    "content": "[Issue] feat: Add enabledTools/disabledTools configuration to mcp.json for per-tool filtering\n\n## Problem Statement\n\nWhen using MCP servers that expose many tools, there's currently no way to persistently filter which tools are loaded into context via configuration files. The only options are:\n\n1. **Disable the entire server** (`\"disabled\": true`) - loses access to all tools\n2. **Use CLI flags per invocation** (`--disabled-tools` / `--enabled-tools`) - not persistent, must be specified every time\n\nThis creates issues:\n- **Context bloat**: Unused tool definitions consume tokens unnecessari",
+    "url": "https://github.com/Factory-AI/factory/issues/481",
+    "timestamp": "2025-12-04T16:37:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 481
+    }
   },
   {
     "id": "twitter_1996619464574718308",
