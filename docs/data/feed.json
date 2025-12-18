@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2001686104429252850",
+    "source": "twitter",
+    "author": "BigardiGabriel",
+    "content": "@leoisadev @nico_jeannen @FactoryAI @conductor_build You also won't stay alive forever, just use while you can and after that check your paid options.\nI don't get the \"very low usage limits\", it's basically unlimited, been using it on Gemini 3 Pro since beginning and never got limited.",
+    "url": "https://x.com/BigardiGabriel/status/2001686104429252850",
+    "timestamp": "2025-12-18T16:08:51.000Z",
+    "metadata": {
+      "conversation_id": "2001686104429252850",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001683712514400386",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "I see a lot of posts complaining about Opus but it’s been working flawlessly for me on some very hard and critical long running tasks 🤷‍♂️\n\nOh maybe that’s because I’m using @FactoryAI and not claude code.",
+    "url": "https://x.com/anthonyronning/status/2001683712514400386",
+    "timestamp": "2025-12-18T15:59:21.000Z",
+    "metadata": {
+      "conversation_id": "2001683712514400386",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001682522519072804",
     "source": "twitter",
     "author": "isoniboy",
