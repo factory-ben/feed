@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2001616746026066048",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "Finding Gemini 3 Flash is priced so well that it’s a 0.2x multiplier in @FactoryAI is like Xmas coming early.",
+    "url": "https://x.com/nathanclark_/status/2001616746026066048",
+    "timestamp": "2025-12-18T11:33:15.000Z",
+    "metadata": {
+      "conversation_id": "2001616746026066048",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_537",
     "source": "github",
     "author": "EurFelux",
