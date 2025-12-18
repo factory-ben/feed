@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2001442220982063148",
+    "source": "twitter",
+    "author": "marovole",
+    "content": "@FactoryAI The 0.2x priced Gemini 3.0 Flash model is great, GLM 4.6 has no reason to exist anymore",
+    "url": "https://x.com/marovole/status/2001442220982063148",
+    "timestamp": "2025-12-17T23:59:45.000Z",
+    "metadata": {
+      "conversation_id": "2001442220982063148",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001429363787763752",
     "source": "twitter",
     "author": "AriesTheCoder",
