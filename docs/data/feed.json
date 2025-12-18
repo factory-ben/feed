@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2001775522041196904",
+    "source": "twitter",
+    "author": "Rafa_Schwinger",
+    "content": "@ChoochSkookum @beffjezos @FactoryAI The entire xai hiring process feels off",
+    "url": "https://x.com/Rafa_Schwinger/status/2001775522041196904",
+    "timestamp": "2025-12-18T22:04:10.000Z",
+    "metadata": {
+      "conversation_id": "2001775522041196904",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001774918510506286",
+    "source": "twitter",
+    "author": "ChoochSkookum",
+    "content": "@Rafa_Schwinger @beffjezos @FactoryAI cant too busy hiring infinity bindians 😄",
+    "url": "https://x.com/ChoochSkookum/status/2001774918510506286",
+    "timestamp": "2025-12-18T22:01:46.000Z",
+    "metadata": {
+      "conversation_id": "2001774918510506286",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001773931825414258",
+    "source": "twitter",
+    "author": "Rafa_Schwinger",
+    "content": "@beffjezos @FactoryAI Xai should hire physicists",
+    "url": "https://x.com/Rafa_Schwinger/status/2001773931825414258",
+    "timestamp": "2025-12-18T21:57:51.000Z",
+    "metadata": {
+      "conversation_id": "2001773931825414258",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001773778913890424",
     "source": "twitter",
     "author": "ReddyJaiden",
@@ -16,6 +61,66 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2001769542440358083",
+    "source": "twitter",
+    "author": "SalyersAi",
+    "content": "@beffjezos @FactoryAI @FactoryAI is unreal. The context management is far superior than claude code at the moment.",
+    "url": "https://x.com/SalyersAi/status/2001769542440358083",
+    "timestamp": "2025-12-18T21:40:24.000Z",
+    "metadata": {
+      "conversation_id": "2001769542440358083",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001768864758300969",
+    "source": "twitter",
+    "author": "r0b0t_sp1der",
+    "content": "@beffjezos @FactoryAI Their CLI works fine, it just has some formatting errors.",
+    "url": "https://x.com/r0b0t_sp1der/status/2001768864758300969",
+    "timestamp": "2025-12-18T21:37:43.000Z",
+    "metadata": {
+      "conversation_id": "2001768864758300969",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001768540513140858",
+    "source": "twitter",
+    "author": "C72Al",
+    "content": "@FactoryAI Droid is like a drug. I should be wrapping Christmas presents but here I am adding Perplexity Solar enrichment to the CRM at 21:35.\n\nIt is so good and fast, you can build, improve and build and improve and.....\n\nIf you are not doing this vibe people you are missing out.",
+    "url": "https://x.com/C72Al/status/2001768540513140858",
+    "timestamp": "2025-12-18T21:36:25.000Z",
+    "metadata": {
+      "conversation_id": "2001768540513140858",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001767390112071703",
+    "source": "twitter",
+    "author": "dpaluy",
+    "content": "@erd0xbc @RepoPrompt @FactoryAI What's your configuration?",
+    "url": "https://x.com/dpaluy/status/2001767390112071703",
+    "timestamp": "2025-12-18T21:31:51.000Z",
+    "metadata": {
+      "conversation_id": "2001767390112071703",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001766948762456516",
     "source": "twitter",
     "author": "SaqlainRazee",
@@ -30,6 +135,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2001766590413705581",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@dpaluy @RepoPrompt @FactoryAI I got it working for me. Just not sure how to avoid Droid timing out. Annoying so I only use Repo with Amp.and CC.",
+    "url": "https://x.com/erd0xbc/status/2001766590413705581",
+    "timestamp": "2025-12-18T21:28:40.000Z",
+    "metadata": {
+      "conversation_id": "2001766590413705581",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2001762564582285470",
