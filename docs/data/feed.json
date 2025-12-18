@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2001793090789769617",
+    "source": "twitter",
+    "author": "agent_wrap",
+    "content": "@dpaluy Hi David! Happy to help\n\nCould you make sure you have the latest updates for your RepoPrompt app and follow these instructions for \"Other MCP Clients\"?\nhttps://t.co/9oDabb3vAq\n\nLooks like the command should end with `repoprompt-mcp` not `repoprompt_cli`?\n\nMy DMs are open too, so feel free to ping me there!",
+    "url": "https://x.com/agent_wrap/status/2001793090789769617",
+    "timestamp": "2025-12-18T23:13:59.000Z",
+    "metadata": {
+      "conversation_id": "2001793090789769617",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001792015223447895",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@dpaluy @RepoPrompt @FactoryAI I asked droid for the cli settings. Away from my laptop a few days. Can try removing stdio part.",
+    "url": "https://x.com/erd0xbc/status/2001792015223447895",
+    "timestamp": "2025-12-18T23:09:42.000Z",
+    "metadata": {
+      "conversation_id": "2001792015223447895",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001788217998135583",
     "source": "twitter",
     "author": "andromeda74356",
