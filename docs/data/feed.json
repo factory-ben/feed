@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2001707434059141331",
+    "source": "twitter",
+    "author": "sudoingX",
+    "content": "@beffjezos @FactoryAI We've been asking for Grok CLI for months. The void doesn't respond.\nhttps://t.co/FVhWOC2oEL",
+    "url": "https://x.com/sudoingX/status/2001707434059141331",
+    "timestamp": "2025-12-18T17:33:36.000Z",
+    "metadata": {
+      "conversation_id": "2001707434059141331",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001705713769632041",
+    "source": "twitter",
+    "author": "ISniffElonsMusk",
+    "content": "@beffjezos @FactoryAI Even Google didn’t want that Droid fight, they dropped it when Lucas was the owner. \n\nI certainly wouldn’t want to be the guys challenging the Mouse. \n\n(I’m just rambling about the copyright for the word)",
+    "url": "https://x.com/ISniffElonsMusk/status/2001705713769632041",
+    "timestamp": "2025-12-18T17:26:46.000Z",
+    "metadata": {
+      "conversation_id": "2001705713769632041",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001704429935108432",
+    "source": "twitter",
+    "author": "beffjezos",
+    "content": "X AI should acquire @FactoryAI to catch up in the CLI Agent game",
+    "url": "https://x.com/beffjezos/status/2001704429935108432",
+    "timestamp": "2025-12-18T17:21:40.000Z",
+    "metadata": {
+      "conversation_id": "2001704429935108432",
+      "likes": 23,
+      "retweets": 0,
+      "replies": 5,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001694434300178499",
+    "source": "twitter",
+    "author": "marcgregory_",
+    "content": "@nathanclark_ @FactoryAI what’s your output quality been like? What are you using the flash model for I find it struggles to hold context",
+    "url": "https://x.com/marcgregory_/status/2001694434300178499",
+    "timestamp": "2025-12-18T16:41:57.000Z",
+    "metadata": {
+      "conversation_id": "2001694434300178499",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001691951557693551",
+    "source": "twitter",
+    "author": "dehengxu",
+    "content": "@matanSF @FactoryAI The key is why and how it does？",
+    "url": "https://x.com/dehengxu/status/2001691951557693551",
+    "timestamp": "2025-12-18T16:32:05.000Z",
+    "metadata": {
+      "conversation_id": "2001691951557693551",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001690577600155740",
+    "source": "twitter",
+    "author": "Krisz368Poka",
+    "content": "@anthonyronning @FactoryAI opus + good wrapper makes such a difference... most folks overlook the tooling part",
+    "url": "https://x.com/Krisz368Poka/status/2001690577600155740",
+    "timestamp": "2025-12-18T16:26:37.000Z",
+    "metadata": {
+      "conversation_id": "2001690577600155740",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001686104429252850",
     "source": "twitter",
     "author": "BigardiGabriel",
