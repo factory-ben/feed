@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2001987580632723670",
+    "source": "twitter",
+    "author": "hegroze12077559",
+    "content": "@FactoryAI Droid’s killing it in benchmarks, ngl.",
+    "url": "https://x.com/hegroze12077559/status/2001987580632723670",
+    "timestamp": "2025-12-19T12:06:49.000Z",
+    "metadata": {
+      "conversation_id": "2001987580632723670",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001985505869828563",
+    "source": "twitter",
+    "author": "noprocess",
+    "content": "@beffjezos @FactoryAI @xai @elonmusk",
+    "url": "https://x.com/noprocess/status/2001985505869828563",
+    "timestamp": "2025-12-19T11:58:34.000Z",
+    "metadata": {
+      "conversation_id": "2001985505869828563",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001982294794633222",
     "source": "twitter",
     "author": "Hylianpie",
