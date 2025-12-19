@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2002025957985792237",
+    "source": "twitter",
+    "author": "zeroXmusashi",
+    "content": "@beffjezos @FactoryAI great idea",
+    "url": "https://x.com/zeroXmusashi/status/2002025957985792237",
+    "timestamp": "2025-12-19T14:39:18.000Z",
+    "metadata": {
+      "conversation_id": "2002025957985792237",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002015441397424606",
     "source": "twitter",
     "author": "Enki_En_Ki",
@@ -238,6 +253,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2001968315984642083",
+    "source": "twitter",
+    "author": "upi_parma",
+    "content": "IT4LIA AI FACTORY - Opportunità per le imprese: Una delle prime AI Factory strategiche in Europa, con infrastrutture di supercalcolo (Leonardo, LISA, GAIA) e servizi dedicati per accelerare l'adozione dell'Intelligenza Artificiale https://t.co/z77hhtL5tP",
+    "url": "https://x.com/upi_parma/status/2001968315984642083",
+    "timestamp": "2025-12-19T10:50:15.000Z",
+    "metadata": {
+      "conversation_id": "2001968315984642083",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2001966897382990291",
