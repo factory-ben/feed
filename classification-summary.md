@@ -1,9 +1,9 @@
 # Classification Summary
 
-**Date:** 2025-12-19 17:58 UTC
+**Date:** 2025-12-19 19:01 UTC
 
 ## Results
 
-- **Total items classified:** 2
+- **Total items classified:** 1
 - **Category breakdown:**
-  - question: 2 (100%)
+  - mention: 1 (100%)
