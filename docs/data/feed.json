@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2001909585859498451",
+    "source": "twitter",
+    "author": "shivam_nerd",
+    "content": "@jamesvanderhaak @FactoryAI @RayFernando1337 Yep, should be seamless imports. Example for agents: https://t.co/xExTSR2rpf·-importing-claude-code-subagents. Feel free to DM me if you need any help",
+    "url": "https://x.com/shivam_nerd/status/2001909585859498451",
+    "timestamp": "2025-12-19T06:56:53.000Z",
+    "metadata": {
+      "conversation_id": "2001909585859498451",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001908372875211131",
+    "source": "twitter",
+    "author": "SaqlainRazee",
+    "content": "@ICTStudent2023 @droid @FactoryAI 11M token done\n9M token remains\nWill use sonnet or opus for spec then flash or gpt 5.2  for implementation",
+    "url": "https://x.com/SaqlainRazee/status/2001908372875211131",
+    "timestamp": "2025-12-19T06:52:04.000Z",
+    "metadata": {
+      "conversation_id": "2001908372875211131",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001907711680893052",
+    "source": "twitter",
+    "author": "DimitriosMitsos",
+    "content": "@FactoryAI We can get this score even higher, I have created 9k QA's for NextJS designed for agents, I can give you unlimited quota to test it, I think we can beat it\nhttps://t.co/vnPINm8UAn",
+    "url": "https://x.com/DimitriosMitsos/status/2001907711680893052",
+    "timestamp": "2025-12-19T06:49:26.000Z",
+    "metadata": {
+      "conversation_id": "2001907711680893052",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001907560409104648",
+    "source": "twitter",
+    "author": "justmy2cents111",
+    "content": "@beffjezos @FactoryAI That would be nice, but I don't think acquiring new companies/startups are in @elonmusk DNA.",
+    "url": "https://x.com/justmy2cents111/status/2001907560409104648",
+    "timestamp": "2025-12-19T06:48:50.000Z",
+    "metadata": {
+      "conversation_id": "2001907560409104648",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001902775685591424",
     "source": "twitter",
     "author": "itswillpalmer",
