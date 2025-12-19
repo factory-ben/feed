@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_2001824060725137620",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@MiniMax__AI Guys I need your help. \n\nI’m using MiniMax M2 on @droid @FactoryAI and the model is just amazing but I have few hooks that prevent the agent to cheat in my setup and MiniMax M2 keep avoiding it (agi here) what can I do to force it? I already force the Skill loading and much more but this hook that prevent the cheat is not really took in consideration. Any ideas ? I will make all team adopt M2 if we fix this :D",
+    "url": "https://x.com/AIFlow_ML/status/2001824060725137620",
+    "timestamp": "2025-12-19T01:17:02.000Z",
+    "metadata": {
+      "conversation_id": "2001824060725137620",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001822578223308863",
+    "source": "twitter",
+    "author": "mhmddraft",
+    "content": "@FactoryAI @RayFernando1337 Game changer!",
+    "url": "https://x.com/mhmddraft/status/2001822578223308863",
+    "timestamp": "2025-12-19T01:11:09.000Z",
+    "metadata": {
+      "conversation_id": "2001822578223308863",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001821969361309770",
+    "source": "twitter",
+    "author": "____smile___",
+    "content": "@beffjezos @FactoryAI X AI should acquire @zeddotdev to compete with Cursor and Google Antigravity.",
+    "url": "https://x.com/____smile___/status/2001821969361309770",
+    "timestamp": "2025-12-19T01:08:44.000Z",
+    "metadata": {
+      "conversation_id": "2001821969361309770",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001820636277280980",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@RepoPrompt —&gt; @FactoryAI \n\nWe need native integration here",
+    "url": "https://x.com/AIFlow_ML/status/2001820636277280980",
+    "timestamp": "2025-12-19T01:03:26.000Z",
+    "metadata": {
+      "conversation_id": "2001820636277280980",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001819692835704957",
+    "source": "twitter",
+    "author": "ragasagar",
+    "content": "@erd0xbc @9YNbrwl1LRwONbs @FactoryAI You can trigger via prompt using \"@ custom-droid-name do this \" \"/droid custom-droid-name do xyz\" or NLP and ask droid to use the custom droids for your task",
+    "url": "https://x.com/ragasagar/status/2001819692835704957",
+    "timestamp": "2025-12-19T00:59:41.000Z",
+    "metadata": {
+      "conversation_id": "2001819692835704957",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001818947046551997",
+    "source": "twitter",
+    "author": "jamesvanderhaak",
+    "content": "@FactoryAI @RayFernando1337 Any tips @FactoryAI ? Only played for a few minutes over a month ago",
+    "url": "https://x.com/jamesvanderhaak/status/2001818947046551997",
+    "timestamp": "2025-12-19T00:56:43.000Z",
+    "metadata": {
+      "conversation_id": "2001818947046551997",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001818364386422817",
+    "source": "twitter",
+    "author": "9YNbrwl1LRwONbs",
+    "content": "@FactoryAI @nathanclark_ Haha. Droid always surprises us.",
+    "url": "https://x.com/9YNbrwl1LRwONbs/status/2001818364386422817",
+    "timestamp": "2025-12-19T00:54:24.000Z",
+    "metadata": {
+      "conversation_id": "2001818364386422817",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001817873367601495",
+    "source": "twitter",
+    "author": "9YNbrwl1LRwONbs",
+    "content": "@ragasagar @FactoryAI Thank you for your reply. Is there any plan to open an out-of-the-box agent orchestration store similar to codebuff's collaborative approach?\n\nThe documentation and best practices provided by droid are very useful.😊",
+    "url": "https://x.com/9YNbrwl1LRwONbs/status/2001817873367601495",
+    "timestamp": "2025-12-19T00:52:27.000Z",
+    "metadata": {
+      "conversation_id": "2001817873367601495",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001817672380739670",
+    "source": "twitter",
+    "author": "jamesvanderhaak",
+    "content": "@FactoryAI @RayFernando1337 Might have to direct my Cursor payment into this this month",
+    "url": "https://x.com/jamesvanderhaak/status/2001817672380739670",
+    "timestamp": "2025-12-19T00:51:39.000Z",
+    "metadata": {
+      "conversation_id": "2001817672380739670",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001817580760076358",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@ragasagar @9YNbrwl1LRwONbs @FactoryAI Can you trigger via prompt or you need to run via droid exec directly?",
+    "url": "https://x.com/erd0xbc/status/2001817580760076358",
+    "timestamp": "2025-12-19T00:51:17.000Z",
+    "metadata": {
+      "conversation_id": "2001817580760076358",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001815426272235580",
     "source": "twitter",
     "author": "ragasagar",
@@ -15302,6 +15452,19 @@
       "number": 489
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_489",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Make the user inputs clearer\n\nGlancing through ther terminal is it not clear what the user inputs are\n\n\n<img width=\"1181\" height=\"377\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/23920437-d7fd-4d2c-bc29-0f46667e791e\" />\n\nunless you know you have to look for a near invisible `●` it is really hard to find\n\nHighlighting the line with another colored bacground, a border or just something would be much appreciated",
+    "url": "https://github.com/Factory-AI/factory/issues/489",
+    "timestamp": "2025-12-05T11:47:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 489
+    }
   },
   {
     "id": "twitter_1996905342522085523",
