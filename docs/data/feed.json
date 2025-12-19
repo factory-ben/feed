@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2001969772624515353",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@oliverbowman_ @FactoryAI Exactly! 👍🏻",
+    "url": "https://x.com/SvenMeyer/status/2001969772624515353",
+    "timestamp": "2025-12-19T10:56:03.000Z",
+    "metadata": {
+      "conversation_id": "2001969772624515353",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001969442629341377",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FactoryAI What model did Claude Code use ?",
+    "url": "https://x.com/SvenMeyer/status/2001969442629341377",
+    "timestamp": "2025-12-19T10:54:44.000Z",
+    "metadata": {
+      "conversation_id": "2001969442629341377",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001968675717632394",
+    "source": "twitter",
+    "author": "noelhatem",
+    "content": "@beffjezos @FactoryAI @elonmusk take a look here. this is pure Alpha.",
+    "url": "https://x.com/noelhatem/status/2001968675717632394",
+    "timestamp": "2025-12-19T10:51:41.000Z",
+    "metadata": {
+      "conversation_id": "2001968675717632394",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001966897382990291",
     "source": "twitter",
     "author": "OranAITech",
