@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2002190322818863264",
+    "source": "twitter",
+    "author": "cosmo_kappa",
+    "content": "@hwchase17 Can we also have tracing for @FactoryAI ? Pretty pls",
+    "url": "https://x.com/cosmo_kappa/status/2002190322818863264",
+    "timestamp": "2025-12-20T01:32:26.000Z",
+    "metadata": {
+      "conversation_id": "2002190322818863264",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002186074886738105",
+    "source": "twitter",
+    "author": "shao__meng",
+    "content": "评估 AI Agent 的上下文压缩策略\n\n在处理软件开发等需要连续性的任务时，单纯追求上下文高压缩率并不足够，更重要的是压缩后是否保留了 AI Agent 继续有效工作的关键信息。 @FactoryAI 提出的结构化总结方法，在实际任务表现上优于 OpenAI 和 Anthropic。\nhttps://t.co/ZsCDxoVO3Q\n\n主要问题\nAI Agent 在长时间运行时，会产生海量的对话历史（> 1M token），超出模型上下文窗口限制。简单压缩容易丢失关键细节，例如修改过的文件路径、错误信息或先前决策，导致 AI Agent 重复工作、产生幻觉或任务中断。文章强调，应优化“每任务 token 消耗”而非“每次压缩 token 减少”，以实现高效连续工作。\n\n评估方法创新\n传统指标（如 ROUGE 或 Embedding 相似度）仅衡量文本相似性，无法评估压缩后上下文是否支持实际任务延续。文章提出一种基于“探针”的评估框架：\n· 在压缩后，向 AI Agent 提问特定细节，测试其保留情况。\n· 探针分为四类：Recall、Artifact、Continuation 和 Decision。\n· 使用 GPT-5.2 作为 LLM 评判器，在六个维度打分（0-5 分）：准确性、上下文感知、工件追踪、完整性、连续性和指令遵循。\n\n三种压缩策略比较\n· Factory：采用“anchored iterative summarization”，维护一个结构化的持久总结，包括意图、文件修改、决策和下一步计划。新内容逐步合并，而非每次重新生成。\n· OpenAI：使用 `/responses/compact` 接口，压缩率最高（99.3%），但总结不透明，常丢弃文件路径等低熵内容。\n· Anthropic：生成详细结构化总结（包含分析、文件、任务等部分），但每次压缩都完整重新生成，可能导致总结漂移。\n\n示例与结果\n通过一个调试 401 错误的具体案例说明：Factory 压缩后能准确回忆错误细节和根因，而 OpenAI 和 Anthropic 丢失部分技术 specificity。\n\n在真实生产数据（36,611 条消息）上的大规模测试结果见下方图片。\n\nFactory 在准确性和上下文感知上领先。尽管 OpenAI 压缩率最高，但质量最低，可能因信息丢失导致额外重取成本。\n\n关键启示\n· 结构化优先于极端压缩：显式分节总结能更好保留关键信息。\n· 压缩率不是唯一指标：高压缩可能牺牲任务效率，总 token 消耗更重要。\n· 工件追踪是难点：所有方法在此维度得分较低，需额外索引机制。\n· 探针评估更可靠：比传统 NLP 指标更能反映真实可用性。",
+    "url": "https://x.com/shao__meng/status/2002186074886738105",
+    "timestamp": "2025-12-20T01:15:33.000Z",
+    "metadata": {
+      "conversation_id": "2002186074886738105",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002181457700102256",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@signalgaining @steipete @FactoryAI We are fixing this shortly!",
+    "url": "https://x.com/alvinsng/status/2002181457700102256",
+    "timestamp": "2025-12-20T00:57:12.000Z",
+    "metadata": {
+      "conversation_id": "2002181457700102256",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002179853504950368",
     "source": "twitter",
     "author": "francesca_lab",
@@ -15248,6 +15293,19 @@
       "number": 495
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_495",
+    "source": "github",
+    "author": "matdev83",
+    "content": "[Issue] Spec approval tool is triggering when actual task is finished\n\nBug Report ID: 01311a33-6e39-419d-9450-9fa3d63915e4\n\nI recently noticed that when Droid is close to completing a task (done without spec), it suddenly calls \"Propose specification\" tool, while it should actually summarize session and tell me what it done.\n\nIt happens on a regular basis. Not always, but I'd say ~80% of the time, always when the task is nearly done.\nIt's a bit odd and distorts the process.\n\nTested with Gemini 3 Pro and Opus 4.5 and it appears that this is agent's bug, not model-sp",
+    "url": "https://github.com/Factory-AI/factory/issues/495",
+    "timestamp": "2025-12-08T10:42:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 495
+    }
   },
   {
     "id": "twitter_1997975465341165884",
