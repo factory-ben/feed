@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002278639899930803",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@FactoryAI PS - @bentossell - you guys should now have a Droid handle on X :D",
+    "url": "https://x.com/nkgoutham/status/2002278639899930803",
+    "timestamp": "2025-12-20T07:23:22.000Z",
+    "metadata": {
+      "conversation_id": "2002278639899930803",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002278539215937684",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "The first thing I did, after seeing this post is this. \n\nSet up custom models in Droid (@FactoryAI ). I now have access to a bunch of open source models + additional Sonnet 4.5, Opus 4.5 and Gemini 3 Pro.\n\nThis is going to be fun now! \n\nWill share my experience shortly! https://t.co/hPqdWgyk20",
+    "url": "https://x.com/nkgoutham/status/2002278539215937684",
+    "timestamp": "2025-12-20T07:22:58.000Z",
+    "metadata": {
+      "conversation_id": "2002278539215937684",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002254766630711523",
     "source": "twitter",
     "author": "shreyas1009",
