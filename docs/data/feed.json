@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2002444631213289777",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "@svpino Inflow looks pretty neat, if only I could get this working with @FactoryAI",
+    "url": "https://x.com/captaink99/status/2002444631213289777",
+    "timestamp": "2025-12-20T18:22:58.000Z",
+    "metadata": {
+      "conversation_id": "2002444631213289777",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002439787719037110",
     "source": "twitter",
     "author": "0xDev00",
