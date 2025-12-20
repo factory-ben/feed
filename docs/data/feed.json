@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2002232720697798953",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@superzac @FactoryAI 👇",
+    "url": "https://x.com/nathanclark_/status/2002232720697798953",
+    "timestamp": "2025-12-20T04:20:54.000Z",
+    "metadata": {
+      "conversation_id": "2002232720697798953",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002232524169511075",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@superzac @FactoryAI Claude Code but every model and terrific harness.",
+    "url": "https://x.com/nathanclark_/status/2002232524169511075",
+    "timestamp": "2025-12-20T04:20:08.000Z",
+    "metadata": {
+      "conversation_id": "2002232524169511075",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002232235408113947",
+    "source": "twitter",
+    "author": "superzac",
+    "content": "@nathanclark_ @FactoryAI Ok so why do I need this one?",
+    "url": "https://x.com/superzac/status/2002232235408113947",
+    "timestamp": "2025-12-20T04:18:59.000Z",
+    "metadata": {
+      "conversation_id": "2002232235408113947",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002230117897249253",
     "source": "twitter",
     "author": "nathanclark_",
