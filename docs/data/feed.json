@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002799552462541190",
+    "source": "twitter",
+    "author": "trntvalentine",
+    "content": "Tracks with what I’ve found in my research for my tooling I’m building, aggressive compression basically destroys the information necessary for good code task performance. It requires code snippets, file references, import information, etc. value add is doing this programmatically without needing to burn up tokens",
+    "url": "https://x.com/trntvalentine/status/2002799552462541190",
+    "timestamp": "2025-12-21T17:53:18.000Z",
+    "metadata": {
+      "conversation_id": "2002799552462541190",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002798835903717514",
+    "source": "twitter",
+    "author": "ICTStudent2023",
+    "content": "@KwaiAICoder @ArtificialAnlys Sure, it looked like a very quick model and I was disappointed to see it not work properly in @FactoryAI Droid. Was genuinely interested to use it n will surely check it out sometime later.",
+    "url": "https://x.com/ICTStudent2023/status/2002798835903717514",
+    "timestamp": "2025-12-21T17:50:27.000Z",
+    "metadata": {
+      "conversation_id": "2002798835903717514",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002764446364737984",
     "source": "twitter",
     "author": "xkeshav",
