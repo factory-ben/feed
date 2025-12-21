@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002802546189217878",
+    "source": "twitter",
+    "author": "hyprbased",
+    "content": "@CloudTrader4 @FactoryAI open source please",
+    "url": "https://x.com/hyprbased/status/2002802546189217878",
+    "timestamp": "2025-12-21T18:05:11.000Z",
+    "metadata": {
+      "conversation_id": "2002802546189217878",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002802162016137716",
+    "source": "twitter",
+    "author": "MatthewEuc",
+    "content": "@FactoryAI hearing a lot of good news from factory, should I come back again, I really want to try the Opus with droid's way, how good is it?",
+    "url": "https://x.com/MatthewEuc/status/2002802162016137716",
+    "timestamp": "2025-12-21T18:03:40.000Z",
+    "metadata": {
+      "conversation_id": "2002802162016137716",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002799552462541190",
     "source": "twitter",
     "author": "trntvalentine",
@@ -15198,6 +15228,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1pi3xnq",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.33.0 Released\n\n## Bug fixes\n\n* Fixed autonomy mode not being properly set on tool confirmations\n* Improved @-tagged file truncation by character count to prevent context overflow\n* Updated Opus 4.5 pricing with dismissable notice\n* Restored Figma MCP server to the registry\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pi3xnq/factory_cli_v0330_released/",
+    "timestamp": "2025-12-09T10:18:19.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_1998329486115230161",
