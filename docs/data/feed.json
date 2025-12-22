@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2003121052386250753",
+    "source": "twitter",
+    "author": "nummanali",
+    "content": "For flexibility yes but it doesn't do a lot of prompt engineering be default \n\nClaude Code and Codex CLI IMO perform best for their respective models - Cursor has completely let me down\n\nI wanted to try Amp and Droid after all the hype, would rather have a well informed decision on where all our spend will go",
+    "url": "https://x.com/nummanali/status/2003121052386250753",
+    "timestamp": "2025-12-22T15:10:49.000Z",
+    "metadata": {
+      "conversation_id": "2003121052386250753",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003120618196406289",
+    "source": "twitter",
+    "author": "nummanali",
+    "content": "@farezv @FactoryAI @AmpCode Against this - can it easily be run in a sandbox and assume the roles that are defined per Skills\n\nhttps://t.co/yjPxwjoFFX",
+    "url": "https://x.com/nummanali/status/2003120618196406289",
+    "timestamp": "2025-12-22T15:09:06.000Z",
+    "metadata": {
+      "conversation_id": "2003120618196406289",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003120293574050232",
+    "source": "twitter",
+    "author": "nummanali",
+    "content": "@farezv @FactoryAI @AmpCode There are a few other options now too ie @opencode and PI Agent by @badlogicgames \n\nMy current view point is that claude code and codex cli are best for their respective models \n\nI get consistent outcomes through them and use them both",
+    "url": "https://x.com/nummanali/status/2003120293574050232",
+    "timestamp": "2025-12-22T15:07:48.000Z",
+    "metadata": {
+      "conversation_id": "2003120293574050232",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003120119451640035",
+    "source": "twitter",
+    "author": "levifig",
+    "content": "@nummanali @FactoryAI @AmpCode OpenCode seems a lot more up your alley considering you think Amp is a blackbox and want more control, no?",
+    "url": "https://x.com/levifig/status/2003120119451640035",
+    "timestamp": "2025-12-22T15:07:07.000Z",
+    "metadata": {
+      "conversation_id": "2003120119451640035",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003118088963936608",
     "source": "twitter",
     "author": "TSpencer260",
