@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2003169018031767764",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "Many such cases\n\n&gt; Where I used to spend most of my time in Cursor, I now mostly use Claude Code (@FactoryAI, @AmpCode)",
+    "url": "https://x.com/erd0xbc/status/2003169018031767764",
+    "timestamp": "2025-12-22T18:21:25.000Z",
+    "metadata": {
+      "conversation_id": "2003169018031767764",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003167633320087717",
+    "source": "twitter",
+    "author": "thdxr",
+    "content": "@AonSayyed @Zai_org @kilocode @FactoryAI already done",
+    "url": "https://x.com/thdxr/status/2003167633320087717",
+    "timestamp": "2025-12-22T18:15:55.000Z",
+    "metadata": {
+      "conversation_id": "2003167633320087717",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003166742227615746",
+    "source": "twitter",
+    "author": "erikjfritsch",
+    "content": "@nummanali @FactoryAI @AmpCode I use the model, maybe not enough, within some of the mentioned CLIs; just not using the Codex CLI as of late, but will give it another spin on your rec 💪",
+    "url": "https://x.com/erikjfritsch/status/2003166742227615746",
+    "timestamp": "2025-12-22T18:12:23.000Z",
+    "metadata": {
+      "conversation_id": "2003166742227615746",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003166248134381609",
+    "source": "twitter",
+    "author": "AonSayyed",
+    "content": "@Zai_org @kilocode @thdxr @FactoryAI \nPretty sure each one of you is going to integrate it into your products, please make sure your agent uses the interleaved thinking as the model needs before jumping on announcements",
+    "url": "https://x.com/AonSayyed/status/2003166248134381609",
+    "timestamp": "2025-12-22T18:10:25.000Z",
+    "metadata": {
+      "conversation_id": "2003166248134381609",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003159248533180819",
     "source": "twitter",
     "author": "MirAI_Newz",
