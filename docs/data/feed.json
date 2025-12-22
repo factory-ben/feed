@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2003172019186114788",
+    "source": "twitter",
+    "author": "WaywardTalent",
+    "content": "Im absolutely ripping through features today with @FactoryAI and Opus 4.5. Hopefully will launch tonight",
+    "url": "https://x.com/WaywardTalent/status/2003172019186114788",
+    "timestamp": "2025-12-22T18:33:21.000Z",
+    "metadata": {
+      "conversation_id": "2003172019186114788",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003171351687999883",
+    "source": "twitter",
+    "author": "SNARKAMOTO",
+    "content": "@CloudTrader4 @MiniMax__AI @FactoryAI It balls so damn hard in droid!",
+    "url": "https://x.com/SNARKAMOTO/status/2003171351687999883",
+    "timestamp": "2025-12-22T18:30:42.000Z",
+    "metadata": {
+      "conversation_id": "2003171351687999883",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003170636315902114",
+    "source": "twitter",
+    "author": "kuberdenis",
+    "content": "@Yampeleg @CloudTrader4 @MiniMax__AI @FactoryAI Or Atlas or Sentinel or Solaris or [something]Forge",
+    "url": "https://x.com/kuberdenis/status/2003170636315902114",
+    "timestamp": "2025-12-22T18:27:51.000Z",
+    "metadata": {
+      "conversation_id": "2003170636315902114",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003169018031767764",
     "source": "twitter",
     "author": "erd0xbc",
