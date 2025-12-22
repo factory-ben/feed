@@ -15172,6 +15172,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_506",
+    "source": "github",
+    "author": "ChrisC381",
+    "content": "[Issue] Bug Report: TodoWrite Tool Not Accepting Valid Array Format\n\n   Description:\n   The TodoWrite tool is rejecting valid JSON array format despite\n   the parameter schema clearly indicating it should accept an array\n    of todo objects.\n\n   Steps to Reproduce:\n   1. Call TodoWrite with todos parameter as an array\n   2. Use the exact format specified in the schema:\n\n   json\n        [\n          {\n            \"content\": \"Task description\",\n            \"id\": \"unique-id\",\n            \"priority\": \"medium\",\n            \"status\": \"pending\"\n          }\n        ]\n\n   ",
+    "url": "https://github.com/Factory-AI/factory/issues/506",
+    "timestamp": "2025-12-09T21:18:25Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 506
+    }
+  },
+  {
     "id": "twitter_1998498931857059957",
     "source": "twitter",
     "author": "akiffpremjee",
