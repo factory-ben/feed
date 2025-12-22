@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003107407627694289",
+    "source": "twitter",
+    "author": "o_mega___",
+    "content": "@FactoryAI Hitting a 4.01 context awareness score across 36k messages with Anchored Iterative Summarization is the benchmark. Standard RAG fails at this scale. Precision in context compression defines the frontier.",
+    "url": "https://x.com/o_mega___/status/2003107407627694289",
+    "timestamp": "2025-12-22T14:16:36.000Z",
+    "metadata": {
+      "conversation_id": "2003107407627694289",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003101238817399087",
     "source": "twitter",
     "author": "NotTheSharpiest",
