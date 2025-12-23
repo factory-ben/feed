@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003309953113850297",
+    "source": "twitter",
+    "author": "aiDotEngineer",
+    "content": "🆕Making Codebases Agent Ready\n\nhttps://t.co/qRcDxEoKaw\n\n@EnoReyes joins us for an epic threepeat to expain @FactoryAI's lessons on how to set up your codebases for success with coding agents. With better specs and better verification/validation, you can start to introduce -WAY- more complex autonomous coding workflows and be successful!",
+    "url": "https://x.com/aiDotEngineer/status/2003309953113850297",
+    "timestamp": "2025-12-23T03:41:27.000Z",
+    "metadata": {
+      "conversation_id": "2003309953113850297",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003304863653044354",
+    "source": "twitter",
+    "author": "OGJoshHsu",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition Claude Code?",
+    "url": "https://x.com/OGJoshHsu/status/2003304863653044354",
+    "timestamp": "2025-12-23T03:21:13.000Z",
+    "metadata": {
+      "conversation_id": "2003304863653044354",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003292610602074533",
     "source": "twitter",
     "author": "AonSayyed",
@@ -30,6 +60,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2003276007533584802",
+    "source": "twitter",
+    "author": "sshKodeyn",
+    "content": "@CloudTrader4 @Zai_org @FactoryAI Nice model flex, but where's the demo that doesn't hallucinate every fifth answer?",
+    "url": "https://x.com/sshKodeyn/status/2003276007533584802",
+    "timestamp": "2025-12-23T01:26:33.000Z",
+    "metadata": {
+      "conversation_id": "2003276007533584802",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2003262953416720882",
