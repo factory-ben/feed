@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2003520004202062302",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@AMCodingx Thanks, @MiniMax__AI coding plan with @FactoryAI droid",
+    "url": "https://x.com/CloudTrader4/status/2003520004202062302",
+    "timestamp": "2025-12-23T17:36:07.000Z",
+    "metadata": {
+      "conversation_id": "2003520004202062302",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003519716850303307",
+    "source": "twitter",
+    "author": "iamsahaj_xyz",
+    "content": "@nexxeln @FactoryAI only @matanSF is qualified to answer that question",
+    "url": "https://x.com/iamsahaj_xyz/status/2003519716850303307",
+    "timestamp": "2025-12-23T17:34:58.000Z",
+    "metadata": {
+      "conversation_id": "2003519716850303307",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003519512927432982",
+    "source": "twitter",
+    "author": "nexxeln",
+    "content": "@iamsahaj_xyz @FactoryAI is droid kinda like macos, whereas opencode is kinda like linux?",
+    "url": "https://x.com/nexxeln/status/2003519512927432982",
+    "timestamp": "2025-12-23T17:34:10.000Z",
+    "metadata": {
+      "conversation_id": "2003519512927432982",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003519445885681866",
+    "source": "twitter",
+    "author": "iamsahaj_xyz",
+    "content": "@FactoryAI forgot to mention:\n- view any diff range (sha123, feature..main etc.)\n- show changed hunks in header\n- mark as viewed goes to next file\n\nthings I want to add before release:\n- search (powered by fzf)\n- mark hunks/lines as viewed \n- staging viewed hunks\n- maybe lazygit plugin",
+    "url": "https://x.com/iamsahaj_xyz/status/2003519445885681866",
+    "timestamp": "2025-12-23T17:33:54.000Z",
+    "metadata": {
+      "conversation_id": "2003519445885681866",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003518333703094595",
     "source": "twitter",
     "author": "5aikat",
