@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003342222910198111",
+    "source": "twitter",
+    "author": "akkytech1",
+    "content": "When I try to use BYOK GLM4.7 on @FactoryAI, I keep getting a failure when calling the internal tool. It's probably trying to call an internal tool for CC, but this is different on Droid. This can be resolved by investigating   usage of internal tools in Skills.",
+    "url": "https://x.com/akkytech1/status/2003342222910198111",
+    "timestamp": "2025-12-23T05:49:40.000Z",
+    "metadata": {
+      "conversation_id": "2003342222910198111",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003338699359289690",
     "source": "twitter",
     "author": "NoBanksNearby",
