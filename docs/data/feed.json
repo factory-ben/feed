@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003592478839177248",
+    "source": "twitter",
+    "author": "tcoyze",
+    "content": "Droid CLI from @FactoryAI tweak to get custom models set as a default spec model:\n\n> Open ~/.factory/settings.json\n> set `$.sessionDefaultSettings.specModeModel` to the id of your custom model found in `$.customModels`\n\nExample:\n\n```\n  \"sessionDefaultSettings\": {\n    \"model\": \"custom:claude-sonnet-4-5-1\",\n    \"reasoningEffort\": \"none\",\n    \"autonomyMode\": \"spec\",\n    \"specModeModel\": \"custom:claude-opus-4-5-0\",\n    \"specModeReasoningEffort\": \"off\"\n  }\n```",
+    "url": "https://x.com/tcoyze/status/2003592478839177248",
+    "timestamp": "2025-12-23T22:24:06.000Z",
+    "metadata": {
+      "conversation_id": "2003592478839177248",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003591618809725338",
+    "source": "twitter",
+    "author": "FredipusRex",
+    "content": "@trq212 @KirkMarple @FactoryAI Oddly, one time last week I checked the model choice on a whim and sure enough it was Sonnet. I never *choose* Sonnet but Opus will sometimes spin up Sonnet subagents. \n\nI have no idea if it got “stuck” on Sonnet but that was the cause of my issues last week",
+    "url": "https://x.com/FredipusRex/status/2003591618809725338",
+    "timestamp": "2025-12-23T22:20:41.000Z",
+    "metadata": {
+      "conversation_id": "2003591618809725338",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003590499878437175",
     "source": "twitter",
     "author": "ivanlisz",
