@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003608190382960993",
+    "source": "twitter",
+    "author": "Rasalas8910",
+    "content": "@trq212 @KirkMarple @FactoryAI Certainly feels like you sometimes route to a much dumber model though. Are you A/B testing model versions?\n\n(It's like it gets stuck with that model, /new doesn't change it, reload does. The smarter model seems to stay with /new too - that does not feel good)",
+    "url": "https://x.com/Rasalas8910/status/2003608190382960993",
+    "timestamp": "2025-12-23T23:26:32.000Z",
+    "metadata": {
+      "conversation_id": "2003608190382960993",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003607345881120902",
+    "source": "twitter",
+    "author": "nummanali",
+    "content": "@ivanlisz @FactoryAI @AmpCode @dexhorthy Thank you, I will do, I’ve read it before but a refresher will be good \n\nI apply those ideas myself, will publish soon",
+    "url": "https://x.com/nummanali/status/2003607345881120902",
+    "timestamp": "2025-12-23T23:23:11.000Z",
+    "metadata": {
+      "conversation_id": "2003607345881120902",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003602507491344616",
     "source": "twitter",
     "author": "MattBushND",
