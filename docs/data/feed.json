@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003398639230525455",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "How to setup @Zai_org coding plan and use GLM-4.7 in @FactoryAI droid as custom model ⬇️\n\nFactory Droid uses BYOK (Bring Your Own Key) to connect with @Zai_org  GLM models.\n\n1- Open up ~/.factory/config.json\n2- For GLM Coding Plan subscribers:\n{\n  \"custom_models\": [\n    {\n      \"model_display_name\": \"GLM-4.7 [https://t.co/B963o17Hxq Coding Plan]\",\n      \"model\": \"glm-4.7\",\n      \"base_url\": \"https://t.co/t75zSqjy4Q\",\n      \"api_key\": \"YOUR_ZAI_API_KEY\",\n      \"provider\": \"generic-chat-completion-api\",\n      \"max_tokens\": 131072\n    }\n  ]\n}\n3- Launch Droid and use `/model` command to select GLM-4.7",
+    "url": "https://x.com/CloudTrader4/status/2003398639230525455",
+    "timestamp": "2025-12-23T09:33:51.000Z",
+    "metadata": {
+      "conversation_id": "2003398639230525455",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003385214144479721",
     "source": "twitter",
     "author": "Rex_Btc1",
