@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003883383928332554",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "Trying @Zai_org GLM 4.7 with @FactoryAI \nIs there a problem with tools calling?\nIt uses plan mode weirdly, says that it can’t use bash, can’t properly write to existing block in files. \n\nStill figuring out its capabilities and best fit in my setting.",
+    "url": "https://x.com/orange_boy/status/2003883383928332554",
+    "timestamp": "2025-12-24T17:40:03.000Z",
+    "metadata": {
+      "conversation_id": "2003883383928332554",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003873457600340241",
     "source": "twitter",
     "author": "TheEcomNomad",
