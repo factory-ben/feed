@@ -10,7 +10,8 @@
       "type": "issue",
       "labels": [],
       "number": 548
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_547",
@@ -23,7 +24,8 @@
       "type": "issue",
       "labels": [],
       "number": 547
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2003846581150499315",
