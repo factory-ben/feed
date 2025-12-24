@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1puk4bq",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.40.0 Released - Custom models from settings and more\n\n## New features\n\n* **Custom models from settings** - Load custom models directly from settings.json\n* **Parallel tool confirmations** - Single permission request for parallel tool calls instead of individual prompts\n* **Multi-option spec mode** - Spec mode can now present multiple implementation options for user selection\n* **Settings file watching** - Settings automatically reload when the settings file changes\n* **Token usage in exec mode** - Token usage is now displayed in exec streaming outp",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1puk4bq/factory_cli_v0400_released_custom_models_from/",
+    "timestamp": "2025-12-24T10:14:53.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2003743608231670240",
     "source": "twitter",
     "author": "nkgoutham",
