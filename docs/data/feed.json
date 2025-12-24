@@ -15074,6 +15074,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_518",
+    "source": "github",
+    "author": "ChronodeAi",
+    "content": "[Issue] .claude/agents import name mapping\n\nWhen importing .claude/agents directly thru factory cli thru /droids the agent \"name\" isn't mapping correctly.\n\nFor example claude agents may have spaces between their name such as \"Deep Analyzer\", but upon import the droid name remains \"Deep Analyzer\" instead of \"deep-analyzer\".",
+    "url": "https://github.com/Factory-AI/factory/issues/518",
+    "timestamp": "2025-12-12T14:16:33Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 518
+    }
+  },
+  {
     "id": "twitter_1999481504184041838",
     "source": "twitter",
     "author": "akatzzzzz",
