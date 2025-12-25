@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004122300636180537",
+    "source": "twitter",
+    "author": "amariokoro",
+    "content": "@FactoryAI hopefully we see minimax m2. as well",
+    "url": "https://x.com/amariokoro/status/2004122300636180537",
+    "timestamp": "2025-12-25T09:29:25.000Z",
+    "metadata": {
+      "conversation_id": "2004122300636180537",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004122184844038520",
+    "source": "twitter",
+    "author": "bqrkhn",
+    "content": "@TheEcomNomad @FactoryAI Why do you guys prefer factory for Claude max sub? Is it really that much better",
+    "url": "https://x.com/bqrkhn/status/2004122184844038520",
+    "timestamp": "2025-12-25T09:28:58.000Z",
+    "metadata": {
+      "conversation_id": "2004122184844038520",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1pv8p47",
     "source": "reddit",
     "author": "abdullahazad",
