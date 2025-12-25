@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2004076160163193282",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@justsisyphus @marovole @AmpCode @FactoryAI i can understand, keeping my eye on it though cz I liked it too, just cant waste my time and tokens, will def try again and test time to time, keep shipping 🙏",
+    "url": "https://x.com/moinulmoin/status/2004076160163193282",
+    "timestamp": "2025-12-25T06:26:05.000Z",
+    "metadata": {
+      "conversation_id": "2004076160163193282",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004075314415292905",
+    "source": "twitter",
+    "author": "justsisyphus",
+    "content": "mostly oc bug and our bug might be mixed\n\nit could be buggy at some point indeed, cuz it's born in just this month\n\nbtw basically our goal is to make agent written code indistinguishable from human written code\n\nours is keep evolving, and the feedbacks like yours is so valuable.\n\ni am releasing new version like 3 to 4 times a day\nrunning fast, not many people working with me, so might be buggy at some point\n\nbut i am pretty serious about this and my goal, so thank you btw",
+    "url": "https://x.com/justsisyphus/status/2004075314415292905",
+    "timestamp": "2025-12-25T06:22:43.000Z",
+    "metadata": {
+      "conversation_id": "2004075314415292905",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004074689401139403",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@justsisyphus @marovole @AmpCode @FactoryAI def try again mate, my issues was, it made experience slower and buggy like I was not sure is it stuck or working? most of the time, it seems stuck with subagents running and i have to cancel and ask,",
+    "url": "https://x.com/moinulmoin/status/2004074689401139403",
+    "timestamp": "2025-12-25T06:20:14.000Z",
+    "metadata": {
+      "conversation_id": "2004074689401139403",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004074079532548170",
+    "source": "twitter",
+    "author": "justsisyphus",
+    "content": "@moinulmoin @marovole @AmpCode @FactoryAI sorry for your experience but i fixed them",
+    "url": "https://x.com/justsisyphus/status/2004074079532548170",
+    "timestamp": "2025-12-25T06:17:49.000Z",
+    "metadata": {
+      "conversation_id": "2004074079532548170",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004071557443076379",
     "source": "twitter",
     "author": "nummanali",
