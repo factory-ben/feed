@@ -46686,6 +46686,19 @@
     "category": "bug"
   },
   {
+    "id": "github_discussion_418",
+    "source": "github",
+    "author": "WeYaTa-Dev",
+    "content": "[Discussion] Unable to authenticate Figma MCP\n\nI have run this command and the mcp's added successfully\r\n`droid mcp add figma https://mcp.figma.com/mcp --type http`\r\n\r\nBut when I tried to authenticate the mcp via /mcp command, it said:\r\n<img width=\"1209\" height=\"420\" alt=\"image\" src=\"https://github.com/user-attachments/assets/01774d30-442e-4361-b2ec-2cb67855f193\" />",
+    "url": "https://github.com/Factory-AI/factory/discussions/418",
+    "timestamp": "2025-11-22T09:31:10Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 418
+    }
+  },
+  {
     "id": "reddit_1p3olcg",
     "source": "reddit",
     "author": "bentossell",
