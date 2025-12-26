@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004357286987550918",
+    "source": "twitter",
+    "author": "Jowanza",
+    "content": "The UX of @FactoryAI is outstanding on the CLI. Having a rough time on the web version though.",
+    "url": "https://x.com/Jowanza/status/2004357286987550918",
+    "timestamp": "2025-12-26T01:03:11.000Z",
+    "metadata": {
+      "conversation_id": "2004357286987550918",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004352846175813765",
     "source": "twitter",
     "author": "flow_intent",
