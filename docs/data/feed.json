@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2004533784679682388",
+    "source": "twitter",
+    "author": "JohnDotOwl",
+    "content": "@melvynxdev Is that Droid by @FactoryAI  ?",
+    "url": "https://x.com/JohnDotOwl/status/2004533784679682388",
+    "timestamp": "2025-12-26T12:44:31.000Z",
+    "metadata": {
+      "conversation_id": "2004533784679682388",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004532089954476177",
+    "source": "twitter",
+    "author": "AnPod",
+    "content": "@FactoryAI After 0.40.1 upgrade getting extremly slow startup times with logerrors like error: RangeError: Out of memory at &lt;anonymous&gt; (../../packages/services/src/settings/FactorySettingsFolder.ts:432:6),\n  context: 'Unhandled promise rejection'",
+    "url": "https://x.com/AnPod/status/2004532089954476177",
+    "timestamp": "2025-12-26T12:37:47.000Z",
+    "metadata": {
+      "conversation_id": "2004532089954476177",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004531420559999415",
+    "source": "twitter",
+    "author": "AnPod",
+    "content": "@FactoryAI after upgrade of Droid CLI to 0.40 (.1) still getting extremly laggs &gt;1min startup time with this in console log:",
+    "url": "https://x.com/AnPod/status/2004531420559999415",
+    "timestamp": "2025-12-26T12:35:07.000Z",
+    "metadata": {
+      "conversation_id": "2004531420559999415",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004529801630269624",
+    "source": "twitter",
+    "author": "gentle_ax_ai",
+    "content": "@benvargas @FactoryAI Hey ben, i've been fooling with your setups and it works perfectly. \n\nThis means i can use opus free unlimited via cliproxy &amp; antigravity auth right?",
+    "url": "https://x.com/gentle_ax_ai/status/2004529801630269624",
+    "timestamp": "2025-12-26T12:28:41.000Z",
+    "metadata": {
+      "conversation_id": "2004529801630269624",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004520099659870314",
     "source": "twitter",
     "author": "arman_eker",
