@@ -15050,6 +15050,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_523",
+    "source": "github",
+    "author": "kaesi0",
+    "content": "[Issue] [Windows] Custom Slash Commands with Shebang (#!) fail to execute & lack of support for native scripts (.bat/.ps1)\n\nIs your feature request related to a problem? Please describe. I am trying to add custom local slash commands on Windows 11 to execute Node.js scripts directly (Zero-Token latency).\n\nAccording to the documentation, only *.md files or files starting with a Shebang (#!) are registered. However, this design is problematic on Windows:\n\nShebang Issue: Windows does not natively support Shebangs (#!/usr/bin/env node). While Droid registers these files successfully (recognizing the #! header), the execu",
+    "url": "https://github.com/Factory-AI/factory/issues/523",
+    "timestamp": "2025-12-13T08:32:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 523
+    }
+  },
+  {
     "id": "twitter_1999746099138236684",
     "source": "twitter",
     "author": "matanSF",
