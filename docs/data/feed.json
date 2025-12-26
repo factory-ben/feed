@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004681206471024997",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@alxfazio @allisonology @thdxr @syntrocode It's ok Alex, I still love you brother. I feel the same about @droid / @FactoryAI  - Enjoy the CC cestpit.\n\nI do use @opencode and @AmpCode all the same.\n\nI consulting firm so i have a bunch of projects on. All the time and I've trained diff teams to use tools for budget reasons.",
+    "url": "https://x.com/AriesTheCoder/status/2004681206471024997",
+    "timestamp": "2025-12-26T22:30:19.000Z",
+    "metadata": {
+      "conversation_id": "2004681206471024997",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004678104204357914",
     "source": "twitter",
     "author": "tkwoncpa",
@@ -51432,6 +51447,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_82",
+    "source": "github",
+    "author": "mweichert",
+    "content": "[Discussion] Web API?\n\nHi there! Is there a web API to create and manage sessions?",
+    "url": "https://github.com/Factory-AI/factory/discussions/82",
+    "timestamp": "2025-09-29T13:16:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 82
+    }
+  },
+  {
     "id": "github_discussion_72",
     "source": "github",
     "author": "rubendn",
@@ -51458,6 +51486,19 @@
       "number": 72
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_72",
+    "source": "github",
+    "author": "rubendn",
+    "content": "[Discussion] Droid selection in CLI?\n\nIs there a way to use one of the specialized Droids (Product, Tutorial, etc) via the CLI?  I don't see a way to select in the slash commands.\r\n\r\nAlso, is there a way on Windows to select a local workspace path besides ~\\?\r\n\r\nThanks!",
+    "url": "https://github.com/Factory-AI/factory/discussions/72",
+    "timestamp": "2025-09-29T05:17:49Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 72
+    }
   },
   {
     "id": "github_discussion_66",
@@ -51488,6 +51529,19 @@
     "category": "mention"
   },
   {
+    "id": "github_discussion_66",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] 2 new community builds: use claude/codex max subscriptions with droid\n\n- [Factory CLI with ChatGPT Codex / Claude subscription via CLIProxyAPI](https://gist.github.com/chandika/c4b64c5b8f5e29f6112021d46c159fdd) - Guide to run Factory CLI against Claude Code Max or ChatGPT Codex through CLIProxyAPI by [chandika](https://github.com/chandika)\r\n- [Factory CLI with Claude subscription via CLIProxyAPI](https://gist.github.com/ben-vargas/9f1a14ac5f78d10eba56be437b7c76e5) - Setup instructions for using Factory CLI with Claude Code Max through CLIProxyAPI by [ben-vargas](ht",
+    "url": "https://github.com/Factory-AI/factory/discussions/66",
+    "timestamp": "2025-09-27T19:15:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Show + tell",
+      "number": 66
+    }
+  },
+  {
     "id": "github_discussion_65",
     "source": "github",
     "author": "jimkyndemeyer",
@@ -51514,6 +51568,19 @@
       "number": 65
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_65",
+    "source": "github",
+    "author": "jimkyndemeyer",
+    "content": "[Discussion] BYOK with Anthropic models on Amazon Bedrock\n\nWould be great to have the option of using Amazon Bedrock for Anthropic models with BYOK.\r\n\r\nAnthropic has official SDKs for Bedrock, but the model env config is a bit different:\r\n- AWS region\r\n- Access key id\r\n- Secret access key",
+    "url": "https://github.com/Factory-AI/factory/discussions/65",
+    "timestamp": "2025-09-27T09:46:55Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 65
+    }
   },
   {
     "id": "github_discussion_59",
