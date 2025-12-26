@@ -1,13 +1,13 @@
 # Classification Summary
 
-**Date:** 2025-12-26 18:44 UTC
+**Date:** 2025-12-26 19:00 UTC
 
 ## Results
 
-- **Total items classified:** 1
+- **Total items classified:** 2
 
 ## Category Breakdown
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| question | 1 | 100% |
+| bug | 2 | 100% |
