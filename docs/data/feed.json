@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2004657692598829145",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2004653444565774744",
@@ -50791,7 +50793,7 @@
       "category": "Feature requests",
       "number": 309
     },
-    "category": "other"
+    "category": "question"
   },
   {
     "id": "github_discussion_309",
@@ -50818,7 +50820,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 309
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_240",
