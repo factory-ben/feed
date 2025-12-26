@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004658396365250971",
+    "source": "twitter",
+    "author": "chuksy0x01",
+    "content": "@samuelekpe @GoogleDeepMind @Trae_ai @FactoryAI @AnthropicAI @OpenAI Love this @samuelekpe! Have you ever gotten frustrated at one of your agents because it keeps going down the wrong direction? Try out https://t.co/EhbiyQJT7D - I built it to solve exactly that problem using weighted agent orchestration.",
+    "url": "https://x.com/chuksy0x01/status/2004658396365250971",
+    "timestamp": "2025-12-26T20:59:41.000Z",
+    "metadata": {
+      "conversation_id": "2004658396365250971",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004657692598829145",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@KotarCreative @FactoryAI Opencode provides a crapmaker for free. Literally can’t get worse than that.",
+    "url": "https://x.com/nest_elf/status/2004657692598829145",
+    "timestamp": "2025-12-26T20:56:53.000Z",
+    "metadata": {
+      "conversation_id": "2004657692598829145",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004653444565774744",
     "source": "twitter",
     "author": "KotarCreative",
@@ -50776,6 +50806,19 @@
       "number": 309
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_309",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] Droid CLI: configurable timeouts per mcp server\n\n**Motivation**: I use a 'Language Server Protocol' mcp for adding tools to query symbols and find_usage and such. But on large projects and during first-time use they can take quite some time before giving responses; causing timeouts in droid cli. If I could configure a larger timeout for this specific mcp server it could work better.",
+    "url": "https://github.com/Factory-AI/factory/discussions/309",
+    "timestamp": "2025-11-04T10:48:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 309
+    }
   },
   {
     "id": "github_discussion_240",
