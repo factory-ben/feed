@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004584496671432778",
+    "source": "twitter",
+    "author": "RussWonsley",
+    "content": "@nest_elf @FactoryAI I'm on the edge of trying droid. Everything I've read is positive.",
+    "url": "https://x.com/RussWonsley/status/2004584496671432778",
+    "timestamp": "2025-12-26T16:06:02.000Z",
+    "metadata": {
+      "conversation_id": "2004584496671432778",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004583947083378786",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@nest_elf @FactoryAI cheaper than opencode? joking right?",
+    "url": "https://x.com/moinulmoin/status/2004583947083378786",
+    "timestamp": "2025-12-26T16:03:51.000Z",
+    "metadata": {
+      "conversation_id": "2004583947083378786",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004579907133976691",
     "source": "twitter",
     "author": "SaqlainRazee",
