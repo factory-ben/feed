@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004673438468968665",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@banteg You should try @FactoryAI",
+    "url": "https://x.com/CloudTrader4/status/2004673438468968665",
+    "timestamp": "2025-12-26T21:59:27.000Z",
+    "metadata": {
+      "conversation_id": "2004673438468968665",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004672656206168391",
+    "source": "twitter",
+    "author": "samuelekpe",
+    "content": "@chuksy0x01 @GoogleDeepMind @Trae_ai @FactoryAI @AnthropicAI @OpenAI The pope model doesn’t have correctness and verifiability built in, so if it doesn’t have that- it won’t lead to full autonomy. I want to give work and come back to working solution fully tested without human supervision",
+    "url": "https://x.com/samuelekpe/status/2004672656206168391",
+    "timestamp": "2025-12-26T21:56:20.000Z",
+    "metadata": {
+      "conversation_id": "2004672656206168391",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004671711674085660",
     "source": "twitter",
     "author": "KotarCreative",
@@ -51116,6 +51146,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_164",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Discussion] Droid Exec - custom models supported?\n\ncan we have support for custom models in droid exec? even if it were just simple endpoint/key.",
+    "url": "https://github.com/Factory-AI/factory/discussions/164",
+    "timestamp": "2025-10-10T18:34:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 164
+    }
+  },
+  {
     "id": "github_discussion_151",
     "source": "github",
     "author": "snowarch",
@@ -51144,6 +51187,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    }
+  },
+  {
     "id": "github_discussion_108",
     "source": "github",
     "author": "factory-ben",
@@ -51170,6 +51226,19 @@
       "number": 108
     },
     "category": "mention"
+  },
+  {
+    "id": "github_discussion_108",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Release v1.3.220\n\n---\r\n\r\nThis release brings HTTP MCP server support, a `/compress` command to optimize your context usage and droid exec for CDE.\r\n\r\n---\r\n\r\n## HTTP MCP Server Support\r\n\r\nFactory now supports streamable HTTP-based Model Context Protocol (MCP) servers in addition to stdio-based servers. This enables you to connect to MCP servers running as web services, making it easier to integrate with cloud-hosted tools and services.\r\n\r\nWhen adding an MCP server, Factory automatically detects whether it's HTTP o",
+    "url": "https://github.com/Factory-AI/factory/discussions/108",
+    "timestamp": "2025-10-03T20:21:56Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 108
+    }
   },
   {
     "id": "github_discussion_99",
