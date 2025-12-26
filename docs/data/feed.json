@@ -50648,7 +50648,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 361
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_360",
