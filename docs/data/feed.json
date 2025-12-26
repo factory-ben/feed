@@ -50638,6 +50638,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_361",
+    "source": "github",
+    "author": "aaronschwartz",
+    "content": "[Discussion] Does using the CLI in BYOK mode send data to Factory.ai?\n\nIf we configure the cli to use our own model through BYOK, does any of our data get sent to Factory.ai servers before being submitted to the model for processing? e.g. is there any codebase indexing or embedding being created by Factory.ai in the cloud before prompting the BYOK third party providers?",
+    "url": "https://github.com/Factory-AI/factory/discussions/361",
+    "timestamp": "2025-11-14T21:17:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 361
+    }
+  },
+  {
     "id": "github_issue_360",
     "source": "github",
     "author": "hanlin-luo",
