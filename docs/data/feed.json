@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004760268279349633",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "Reading the @FactoryAI docs will easily show you how 10X coders are highly leveraging AI\n\nFeatures like skills, hooks, slash commands, and exec mode provide clear examples of how to apply AI to real-world work. These concepts are universal, whether you're using Cursor, Claude Code, or Codex\n\nDocs: https://t.co/8sjZPxXKub",
+    "url": "https://x.com/alvinsng/status/2004760268279349633",
+    "timestamp": "2025-12-27T03:44:29.000Z",
+    "metadata": {
+      "conversation_id": "2004760268279349633",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004758716097462593",
+    "source": "twitter",
+    "author": "Hamzaa_i",
+    "content": "@tradingnrvn @anshnanda @FactoryAI I’m not understanding what do you mean you struggle getting it to edit files I’m using the coding plan on the droid cli and it edits files no problem \n\nCan I see your config for droid should work perfectly fine if the setup is correct",
+    "url": "https://x.com/Hamzaa_i/status/2004758716097462593",
+    "timestamp": "2025-12-27T03:38:19.000Z",
+    "metadata": {
+      "conversation_id": "2004758716097462593",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004756868754030595",
     "source": "twitter",
     "author": "nickduncs",
