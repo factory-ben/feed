@@ -15036,6 +15036,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1plzye0",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.36.2 Released - GPT-5.2 model and more\n\n## New features\n\n* **GPT-5.2 model** - Added support for GPT-5.2 model\n* **MCP tool enable/disable** - Add ability to enable/disable individual MCP tools per server\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1plzye0/factory_cli_v0362_released_gpt52_model_and_more/",
+    "timestamp": "2025-12-14T00:04:06.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1999993558284353770",
     "source": "twitter",
     "author": "anderchuckinc",
