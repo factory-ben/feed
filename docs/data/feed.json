@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004950893880639986",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@arman_eker @FactoryAI Could you share details with our support team? DM @FactoryAI",
+    "url": "https://x.com/alvinsng/status/2004950893880639986",
+    "timestamp": "2025-12-27T16:21:57.000Z",
+    "metadata": {
+      "conversation_id": "2004950893880639986",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004950872774901993",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@captaink99 @alvinsng @FactoryAI Have you used spec mode? This is exactly that!",
+    "url": "https://x.com/EnoReyes/status/2004950872774901993",
+    "timestamp": "2025-12-27T16:21:52.000Z",
+    "metadata": {
+      "conversation_id": "2004950872774901993",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004947503465332958",
     "source": "twitter",
     "author": "alvinsng",
