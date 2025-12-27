@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004965354523775200",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@realdavidleen @FactoryAI @mitchellh This is comprehensive checklist of things to do for getting set up https://t.co/ejJzEl2c2Z\n\nThere is a tutorial of building an an app here https://t.co/uW3ZFSCw5z\n\n@bentossell is always looking for add more content like this!",
+    "url": "https://x.com/alvinsng/status/2004965354523775200",
+    "timestamp": "2025-12-27T17:19:25.000Z",
+    "metadata": {
+      "conversation_id": "2004965354523775200",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004962724602929527",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "Great callout! Adoption definitely varies, which is why some of our customers host internal seminars to bridge the gap. There’s a small initial investment in learning, but it pays off fast.\n\nTo help with that, we support shared .factory config files directly in the repo. It ensures the \"best setup\" is the default for everyone on the team from day one.",
+    "url": "https://x.com/alvinsng/status/2004962724602929527",
+    "timestamp": "2025-12-27T17:08:58.000Z",
+    "metadata": {
+      "conversation_id": "2004962724602929527",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004961667252437478",
     "source": "twitter",
     "author": "alvinsng",
