@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_554",
+    "source": "github",
+    "author": "lovingfish",
+    "content": "[Issue] [bug] cannot start /mcp\n\n<img width=\"993\" height=\"318\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d6e62016-ee7a-427a-9a8d-860e15f8029e\" />\ncan not link to mcp\n\nwhen I choose to add a new mcp manually \n\n<img width=\"995\" height=\"190\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c12af34f-7e8a-46aa-88c2-0b4f42ab9b47\" />\n\nit turns out \n\n<img width=\"853\" height=\"157\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bfe8a5c7-cb85-433d-9050-f29dd0025492\" />\n\nso weird",
+    "url": "https://github.com/Factory-AI/factory/issues/554",
+    "timestamp": "2025-12-28T09:19:57Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 554
+    }
+  },
+  {
+    "id": "twitter_2005204255653937308",
+    "source": "twitter",
+    "author": "code_bucks",
+    "content": "@CloudTrader4 @FactoryAI I feel the same. \nI also liked their context compression, it keeps all the things needed for next steps. \n\nPlus their documentation is really easy to follow.",
+    "url": "https://x.com/code_bucks/status/2005204255653937308",
+    "timestamp": "2025-12-28T09:08:44.000Z",
+    "metadata": {
+      "conversation_id": "2005204255653937308",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005201103089267165",
     "source": "twitter",
     "author": "kn_neeraj1",
