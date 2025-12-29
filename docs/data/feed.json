@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2005700442374996167",
+    "source": "twitter",
+    "author": "alphatozeta8148",
+    "content": "@opencode @FactoryAI @droid @Zai_org https://t.co/cmCHohgSQT",
+    "url": "https://x.com/alphatozeta8148/status/2005700442374996167",
+    "timestamp": "2025-12-29T18:00:24.000Z",
+    "metadata": {
+      "conversation_id": "2005700442374996167",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005700388314570842",
+    "source": "twitter",
+    "author": "alphatozeta8148",
+    "content": "GLM 4.7 in @opencode / @FactoryAI @droid feels like AGI. \nincredible model from @Zai_org 🤝 incredible serving from Baseten",
+    "url": "https://x.com/alphatozeta8148/status/2005700388314570842",
+    "timestamp": "2025-12-29T18:00:11.000Z",
+    "metadata": {
+      "conversation_id": "2005700388314570842",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005688039952064641",
     "source": "twitter",
     "author": "Jborgwing",
