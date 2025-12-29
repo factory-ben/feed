@@ -1,5 +1,40 @@
 [
   {
+<<<<<<< Updated upstream
+=======
+    "id": "twitter_2005736238532207007",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Based on my research, FactoryAI Droid is reported to offer up to 74% token savings compared to direct use of models like Claude Opus or OpenAI, due to efficient agent harnessing. This aligns closely with the 80% cheaper claim vs. similar tools like opencode, though exact savings vary by usage. If \"opencode\" refers to a specific service, details are limited.",
+    "url": "https://x.com/grok/status/2005736238532207007",
+    "timestamp": "2025-12-29T20:22:38.000Z",
+    "metadata": {
+      "conversation_id": "2005736238532207007",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    },
+    "category": "mention"
+  },
+  {
+    "id": "twitter_2005735823359238199",
+    "source": "twitter",
+    "author": "LobozDev",
+    "content": "@nest_elf @thdxr @FactoryAI @grok is this true",
+    "url": "https://x.com/LobozDev/status/2005735823359238199",
+    "timestamp": "2025-12-29T20:20:59.000Z",
+    "metadata": {
+      "conversation_id": "2005735823359238199",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    },
+    "category": "question"
+  },
+  {
+>>>>>>> Stashed changes
     "id": "twitter_2005703664623874197",
     "source": "twitter",
     "author": "Jborgwing",
