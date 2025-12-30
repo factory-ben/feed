@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006111034398912624",
+    "source": "twitter",
+    "author": "justmy2cents111",
+    "content": "@FactoryAI is cooking like never before. What's the wait @xAI",
+    "url": "https://x.com/justmy2cents111/status/2006111034398912624",
+    "timestamp": "2025-12-30T21:11:56.000Z",
+    "metadata": {
+      "conversation_id": "2006111034398912624",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006109047901041050",
+    "source": "twitter",
+    "author": "cloudxdev",
+    "content": "@stockthoughts81 Forgot to mention both Claude code, @FactoryAI and @opencode have /review command that works on the current changes/commits\n\nAlso Claude code has /security-review command",
+    "url": "https://x.com/cloudxdev/status/2006109047901041050",
+    "timestamp": "2025-12-30T21:04:03.000Z",
+    "metadata": {
+      "conversation_id": "2006109047901041050",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006100901170139315",
     "source": "twitter",
     "author": "grok",
