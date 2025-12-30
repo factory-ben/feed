@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2005802870248010071",
+    "source": "twitter",
+    "author": "mitsuhiko",
+    "content": "@badlogicgames @FactoryAI https://t.co/i9nrPkhiPG",
+    "url": "https://x.com/mitsuhiko/status/2005802870248010071",
+    "timestamp": "2025-12-30T00:47:24.000Z",
+    "metadata": {
+      "conversation_id": "2005802870248010071",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005802566534177127",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@mitsuhiko @FactoryAI There there https://t.co/aGGiZ5eoLb",
+    "url": "https://x.com/badlogicgames/status/2005802566534177127",
+    "timestamp": "2025-12-30T00:46:12.000Z",
+    "metadata": {
+      "conversation_id": "2005802566534177127",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005798821285298614",
+    "source": "twitter",
+    "author": "mitsuhiko",
+    "content": "@badlogicgames @FactoryAI Quick feedback: Active line needs a highlight (bg color or whatever), hard to see. I want to filter out the tool calls probably. I guess ^O does that?",
+    "url": "https://x.com/mitsuhiko/status/2005798821285298614",
+    "timestamp": "2025-12-30T00:31:19.000Z",
+    "metadata": {
+      "conversation_id": "2005798821285298614",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005797757756342776",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "Bonus point: you can set labels on entries in the tree via hooks as well. Might come in handy for your workflow. Have a single humongous session, each issue is a branch. At the end of the issue work, set the label automatically via a custom command defined a in hook. (Docs pending)",
+    "url": "https://x.com/badlogicgames/status/2005797757756342776",
+    "timestamp": "2025-12-30T00:27:06.000Z",
+    "metadata": {
+      "conversation_id": "2005797757756342776",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005797532585308207",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@mitsuhiko @FactoryAI Feel ya, fucks me up all the time as well. But let me show you the new shit. The UI can obv. be modified, but the basic principles hold. Love that we're doing video replies now. https://t.co/78gnP0h3PQ",
+    "url": "https://x.com/badlogicgames/status/2005797532585308207",
+    "timestamp": "2025-12-30T00:26:12.000Z",
+    "metadata": {
+      "conversation_id": "2005797532585308207",
+      "likes": 0,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005785531058434293",
     "source": "twitter",
     "author": "badlogicgames",
