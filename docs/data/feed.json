@@ -112,6 +112,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2005898953943048339",
+    "source": "twitter",
+    "author": "iamcienlim",
+    "content": "After testing for efficiency and overhead, my current TUI stack ranks as follows: \n\n1. @opencode  (best for simplicity),\n2. @droid \n3. @claudeai",
+    "url": "https://x.com/iamcienlim/status/2005898953943048339",
+    "timestamp": "2025-12-30T07:09:13.000Z",
+    "metadata": {
+      "conversation_id": "2005898953943048339",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005845963974283507",
     "source": "twitter",
     "author": "marc_krenn",
