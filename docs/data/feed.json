@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006040469407486312",
+    "source": "twitter",
+    "author": "BBleimschein",
+    "content": "@mitsuhiko @badlogicgames @FactoryAI You guys are killing me. Do you even sleep!? Awesome stuff.",
+    "url": "https://x.com/BBleimschein/status/2006040469407486312",
+    "timestamp": "2025-12-30T16:31:32.000Z",
+    "metadata": {
+      "conversation_id": "2006040469407486312",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006039817990062410",
+    "source": "twitter",
+    "author": "koutkiasv",
+    "content": "@melvynxdev The @FactoryAI approach looks pretty good - could create a custom command to simulate it in cc\n\nCompare this vs cc compact https://t.co/DY54FCbWax",
+    "url": "https://x.com/koutkiasv/status/2006039817990062410",
+    "timestamp": "2025-12-30T16:28:57.000Z",
+    "metadata": {
+      "conversation_id": "2006039817990062410",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_557",
     "source": "github",
     "author": "lifanh",
