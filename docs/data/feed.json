@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2005924567001235793",
+    "source": "twitter",
+    "author": "0xSero",
+    "content": "@badlogicgames @FactoryAI This sounds pretty good. Have you thought about context pruning? It would be interesting to just cut out specific parts of the conversations that are unproductive.",
+    "url": "https://x.com/0xSero/status/2005924567001235793",
+    "timestamp": "2025-12-30T08:50:59.000Z",
+    "metadata": {
+      "conversation_id": "2005924567001235793",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005923769475383432",
+    "source": "twitter",
+    "author": "marc_krenn",
+    "content": "@badlogicgames @tryingET @mitsuhiko @FactoryAI Ultra-widescreen master race reporting in!\n\n(jk, I'm 16:10 economy class, 16:9 only if I blow all of my Christmas money.)\n\nHm. Could be a toogle, though? Just like the collapsible tool calls I regrettably somehow missed at 4am.",
+    "url": "https://x.com/marc_krenn/status/2005923769475383432",
+    "timestamp": "2025-12-30T08:47:49.000Z",
+    "metadata": {
+      "conversation_id": "2005923769475383432",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_2005919665659208023",
     "source": "twitter",
     "author": "marc_krenn",
