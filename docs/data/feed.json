@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006486809925267718",
+    "source": "twitter",
+    "author": "dudunato",
+    "content": "after 1 month using @droid, my verdict is that droid is much better than cloud for one single reason: context management.",
+    "url": "https://x.com/dudunato/status/2006486809925267718",
+    "timestamp": "2025-12-31T22:05:08.000Z",
+    "metadata": {
+      "conversation_id": "2006486809925267718",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006484636009116009",
+    "source": "twitter",
+    "author": "xanxur",
+    "content": "@iamcienlim @Zai_org @opencode @droid Can a non-coder vibe a graphically simple game with either of these yet?",
+    "url": "https://x.com/xanxur/status/2006484636009116009",
+    "timestamp": "2025-12-31T21:56:30.000Z",
+    "metadata": {
+      "conversation_id": "2006484636009116009",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006483068060839983",
     "source": "twitter",
     "author": "cloudxdev",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2006478232888230234",
+    "source": "twitter",
+    "author": "DeaNHtiD99",
+    "content": "@benvargas @droid Nice! Hope we get bedrock support soon",
+    "url": "https://x.com/DeaNHtiD99/status/2006478232888230234",
+    "timestamp": "2025-12-31T21:31:03.000Z",
+    "metadata": {
+      "conversation_id": "2006478232888230234",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006475449308950837",
