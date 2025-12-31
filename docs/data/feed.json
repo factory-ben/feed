@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2006191362803392860",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "@FactoryAI Hell yeah...  6.6B tokens! 🤯 https://t.co/XMnR6s9cuG",
+    "url": "https://x.com/KirkMarple/status/2006191362803392860",
+    "timestamp": "2025-12-31T02:31:08.000Z",
+    "metadata": {
+      "conversation_id": "2006191362803392860",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006188860397719793",
+    "source": "twitter",
+    "author": "Ra1kshit",
+    "content": "not bad for 3 months eh? @FactoryAI \n\nShifted to free antigravity in december :( https://t.co/iCqnM282tG",
+    "url": "https://x.com/Ra1kshit/status/2006188860397719793",
+    "timestamp": "2025-12-31T02:21:12.000Z",
+    "metadata": {
+      "conversation_id": "2006188860397719793",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006183556347756951",
+    "source": "twitter",
+    "author": "munoncode",
+    "content": "@FactoryAI droid https://t.co/enhdv9advg",
+    "url": "https://x.com/munoncode/status/2006183556347756951",
+    "timestamp": "2025-12-31T02:00:07.000Z",
+    "metadata": {
+      "conversation_id": "2006183556347756951",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_558",
     "source": "github",
     "author": "mfursov",
@@ -12,6 +57,21 @@
       "number": 558
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2006173619584721060",
+    "source": "twitter",
+    "author": "marovole",
+    "content": "@FactoryAI @GroqInc Do you mean we'll have Opus 4.5 with 3x speed?",
+    "url": "https://x.com/marovole/status/2006173619584721060",
+    "timestamp": "2025-12-31T01:20:38.000Z",
+    "metadata": {
+      "conversation_id": "2006173619584721060",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006171625641893993",
