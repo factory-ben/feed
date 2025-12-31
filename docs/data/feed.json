@@ -32,6 +32,231 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2006432325886947810",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@beffjezos Honestly we have so many great models for coding now\n\nGemini 3 Pro slaps\n\nGPT 5.2 is insanely good at complexity and troubleshooting\n\nOpus 4.5 is a beast for adding features\n\nI use all in @FactoryAI Droid",
+    "url": "https://x.com/JoelDeTeves/status/2006432325886947810",
+    "timestamp": "2025-12-31T18:28:38.000Z",
+    "metadata": {
+      "conversation_id": "2006432325886947810",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006431708564861439",
+    "source": "twitter",
+    "author": "NoBanksNearby",
+    "content": "@FactoryAI @aiDotEngineer @EnoReyes spot on about 'tight verification loops to succeed'. the real trick is what *kind* of signals those codebases need to emit for agents, beyond traditional test results. most don't have them yet. 5-10x return is legend status. https://t.co/4mjPX9JtkE",
+    "url": "https://x.com/NoBanksNearby/status/2006431708564861439",
+    "timestamp": "2025-12-31T18:26:11.000Z",
+    "metadata": {
+      "conversation_id": "2006431708564861439",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006431106761994653",
+    "source": "twitter",
+    "author": "stableAPY",
+    "content": "@cloudxdev @FactoryAI How is droid compare to open code? Haven't tried yet",
+    "url": "https://x.com/stableAPY/status/2006431106761994653",
+    "timestamp": "2025-12-31T18:23:48.000Z",
+    "metadata": {
+      "conversation_id": "2006431106761994653",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006430688849899736",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@ain3sh @FactoryAI 🫡",
+    "url": "https://x.com/matanSF/status/2006430688849899736",
+    "timestamp": "2025-12-31T18:22:08.000Z",
+    "metadata": {
+      "conversation_id": "2006430688849899736",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006429738806440178",
+    "source": "twitter",
+    "author": "ain3sh",
+    "content": "@matanSF The best tool for engineers that use agents. Anti-slop @FactoryAI 🥹🫰🏽",
+    "url": "https://x.com/ain3sh/status/2006429738806440178",
+    "timestamp": "2025-12-31T18:18:22.000Z",
+    "metadata": {
+      "conversation_id": "2006429738806440178",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006428933139431606",
+    "source": "twitter",
+    "author": "metinferatii",
+    "content": "@imranye @HappyGezim @FactoryAI I think it's just closer to Composer tbh not doing smth spectacular for me",
+    "url": "https://x.com/metinferatii/status/2006428933139431606",
+    "timestamp": "2025-12-31T18:15:09.000Z",
+    "metadata": {
+      "conversation_id": "2006428933139431606",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006414670341513655",
+    "source": "twitter",
+    "author": "kahdrew",
+    "content": "Shipping to close out 2025! If you haven't yet, try @FactoryAI Droids today!",
+    "url": "https://x.com/kahdrew/status/2006414670341513655",
+    "timestamp": "2025-12-31T17:18:29.000Z",
+    "metadata": {
+      "conversation_id": "2006414670341513655",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006413795556733123",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "@bentossell @FactoryAI It’s crazy since it was “only” 24M input tokens and like 6.5B cached input.",
+    "url": "https://x.com/KirkMarple/status/2006413795556733123",
+    "timestamp": "2025-12-31T17:15:00.000Z",
+    "metadata": {
+      "conversation_id": "2006413795556733123",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006411992408486378",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@pascallammers_ @FactoryAI 🔥🔥🔥🔥",
+    "url": "https://x.com/bentossell/status/2006411992408486378",
+    "timestamp": "2025-12-31T17:07:50.000Z",
+    "metadata": {
+      "conversation_id": "2006411992408486378",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006410985720995907",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@KirkMarple @FactoryAI jesus!!",
+    "url": "https://x.com/bentossell/status/2006410985720995907",
+    "timestamp": "2025-12-31T17:03:50.000Z",
+    "metadata": {
+      "conversation_id": "2006410985720995907",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006408174903914843",
+    "source": "twitter",
+    "author": "ThatImagin4361",
+    "content": "@FactoryAI how’d “we” / @Alberto8793 do? We used a lot of Gemini Flash to make things “flashy”!",
+    "url": "https://x.com/ThatImagin4361/status/2006408174903914843",
+    "timestamp": "2025-12-31T16:52:40.000Z",
+    "metadata": {
+      "conversation_id": "2006408174903914843",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006406137864753412",
+    "source": "twitter",
+    "author": "StressarN",
+    "content": "@FactoryAI For me it only counted from 24th of December 🥲",
+    "url": "https://x.com/StressarN/status/2006406137864753412",
+    "timestamp": "2025-12-31T16:44:35.000Z",
+    "metadata": {
+      "conversation_id": "2006406137864753412",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006404217888715132",
+    "source": "twitter",
+    "author": "dctmfoo",
+    "content": "Thank you @FactoryAI for an amazing year! October 11th was unforgettable, 36+ hours without sleep, fully immersed in Droid. Worth it. https://t.co/HfDkvPbOVu",
+    "url": "https://x.com/dctmfoo/status/2006404217888715132",
+    "timestamp": "2025-12-31T16:36:57.000Z",
+    "metadata": {
+      "conversation_id": "2006404217888715132",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006403538792935493",
+    "source": "twitter",
+    "author": "0xTheWay",
+    "content": "Launching an army of @FactoryAI Droids to work in parallel has been a game changer lately. Beautiful really. 🤖",
+    "url": "https://x.com/0xTheWay/status/2006403538792935493",
+    "timestamp": "2025-12-31T16:34:15.000Z",
+    "metadata": {
+      "conversation_id": "2006403538792935493",
+      "likes": 10,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006402400769437888",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "Started 2025 knowing nothing about code.  \nEnded it with shipped products and 1 billion tokens on Factory.  \nShoutout @FactoryAI for making the impossible feel easy.  \nHere’s my Wrapped https://t.co/9YKHBi5Mpn",
+    "url": "https://x.com/NilkhanVaibhav/status/2006402400769437888",
+    "timestamp": "2025-12-31T16:29:44.000Z",
+    "metadata": {
+      "conversation_id": "2006402400769437888",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1q0h25x",
     "source": "reddit",
     "author": "bentossell",
