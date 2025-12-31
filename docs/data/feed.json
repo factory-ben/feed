@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2006489570351919434",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "A Factory @droid tip... gpt-5.2-codex model might not be available through Factory (yet), but if you use your ChatGPT subscription through BYOK+CLIProxyAPI you can add it in droid via the openai backend api dedicated to codex subscriptions. https://t.co/dTMuJGQtjV",
+    "url": "https://x.com/benvargas/status/2006489570351919434",
+    "timestamp": "2025-12-31T22:16:07.000Z",
+    "metadata": {
+      "conversation_id": "2006489570351919434",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006486809925267718",
     "source": "twitter",
     "author": "dudunato",
