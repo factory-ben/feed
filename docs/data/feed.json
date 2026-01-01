@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2006845720490545373",
+    "source": "twitter",
+    "author": "YakutKhon",
+    "content": "@pipelineabuser @FactoryAI Now imagine that everyone can do the same thing in 1 hour, who would want to pay you? Where is your moat now?",
+    "url": "https://x.com/YakutKhon/status/2006845720490545373",
+    "timestamp": "2026-01-01T21:51:19.000Z",
+    "metadata": {
+      "conversation_id": "2006845720490545373",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006842319253942478",
     "source": "twitter",
     "author": "TWHCTO",
@@ -4472,6 +4487,19 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_538",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Sane newline, please!\n\nthe whole thing about having to do `\\+ENTER` is awkward. Gemini has natural newline with `SHIFT+ENTER` as any other chat-like interface. So be even better the option to choose if `ENTER` as newline per default would be amazing as I would rather have to actively send the message by pressing `SHIFT+ENTER` than accidentally pollute the chat by having to press cancel all the time 🥲 ",
+    "url": "https://github.com/Factory-AI/factory/issues/538",
+    "timestamp": "2025-12-19T06:58:23Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 538
+    }
   },
   {
     "id": "reddit_1ppkr8f",
