@@ -352,6 +352,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2006822424822821247",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@protobluf @droid This is the way. :)",
+    "url": "https://x.com/benvargas/status/2006822424822821247",
+    "timestamp": "2026-01-01T20:18:45.000Z",
+    "metadata": {
+      "conversation_id": "2006822424822821247",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006822088380920000",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "I have https://t.co/tMnov15D1K installed/active on most of my harnesses, https://t.co/Wrnsrek70t is in the mcp configs but mostly disabled or commented out unless I explicitly need it.\n\nWhen I'm building something and there's an open source reference repo, I'll often clone it with a bare git worktree. For example I have vercel's `ai` repo cloned locally, and then if I'm building something related to AI SDK, like one of my community providers for claude agent sdk or codex cli, I'll tell the model the location of the `ai` codebase implementing AI SDK and let it use it to fully understand the capabilities, types, etc - I find having the repo actually cloned and fully accessible typically works a lot better than using MCPs to explore dependency codebases.",
+    "url": "https://x.com/benvargas/status/2006822088380920000",
+    "timestamp": "2026-01-01T20:17:25.000Z",
+    "metadata": {
+      "conversation_id": "2006822088380920000",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006821928972202347",
     "source": "twitter",
     "author": "luismmolina",
