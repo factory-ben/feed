@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2006668077518434479",
+    "source": "twitter",
+    "author": "GauravBhogale",
+    "content": "Shipping velocity @FactoryAI is scary good! If we’re going to move from simple chat to complex agentic execution, we need to handle parallel tool calls with a single prompt like this.",
+    "url": "https://x.com/GauravBhogale/status/2006668077518434479",
+    "timestamp": "2026-01-01T10:05:26.000Z",
+    "metadata": {
+      "conversation_id": "2006668077518434479",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006660581189890357",
     "source": "twitter",
     "author": "huvinesh99",
@@ -14,6 +29,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2006636920743600144",
+    "source": "twitter",
+    "author": "XenZeeCodes",
+    "content": "@cloudxdev @pydantic @FactoryAI Why FactoryAI? why not FASTMCP?",
+    "url": "https://x.com/XenZeeCodes/status/2006636920743600144",
+    "timestamp": "2026-01-01T08:01:38.000Z",
+    "metadata": {
+      "conversation_id": "2006636920743600144",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006628136142921808",
