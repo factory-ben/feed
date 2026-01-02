@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_2007016898920329267",
+    "source": "twitter",
+    "author": "mitsuhiko",
+    "content": "@badlogicgames @droid @AmpCode Both for this and the qna feature I feel like it woudl be nice if pi had a \"give me a fast model for this model i'm on\" function. This is a haiku problem IMO",
+    "url": "https://x.com/mitsuhiko/status/2007016898920329267",
+    "timestamp": "2026-01-02T09:11:31.000Z",
+    "metadata": {
+      "conversation_id": "2007016898920329267",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1q1tzko",
+    "source": "reddit",
+    "author": "OGDusky",
+    "content": "Using Factory with AWS Bedrock BYOK?\n\nThe docs mention using AWS Bedrock as a cloud provider in the BYOK section but doesn't mention how to set this up e.g. with config.json, anyone know how its possible to set this up?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q1tzko/using_factory_with_aws_bedrock_byok/",
+    "timestamp": "2026-01-02T09:09:04.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2007016188124213541",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@sqs @droid @AmpCode Absolutely nothing! This was just an example how to use pi's extension endpoints to pretend you can do the quality stuff Amp and Droid do under the hood :)",
+    "url": "https://x.com/badlogicgames/status/2007016188124213541",
+    "timestamp": "2026-01-02T09:08:42.000Z",
+    "metadata": {
+      "conversation_id": "2007016188124213541",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007015137342005320",
+    "source": "twitter",
+    "author": "krascsi",
+    "content": "@iamcienlim @FactoryAI @Zai_org @opencode @droid Have you tried Claude Code with GLM models? How does it compare to droid?",
+    "url": "https://x.com/krascsi/status/2007015137342005320",
+    "timestamp": "2026-01-02T09:04:31.000Z",
+    "metadata": {
+      "conversation_id": "2007015137342005320",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007010380078555581",
     "source": "twitter",
     "author": "tinscape",
