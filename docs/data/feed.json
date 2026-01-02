@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2006983087062921534",
+    "source": "twitter",
+    "author": "sudurairaj",
+    "content": "@iamcienlim @Zai_org @opencode @droid @FactoryAI Posting here incase someone looks for it\nremoved ~/.factory/config.json and ~/.factory/settings.json\n\nuninstalled droid and reinstalled.\n\nNow it's Minimax and GLM 4.7 working",
+    "url": "https://x.com/sudurairaj/status/2006983087062921534",
+    "timestamp": "2026-01-02T06:57:10.000Z",
+    "metadata": {
+      "conversation_id": "2006983087062921534",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006983007576764717",
+    "source": "twitter",
+    "author": "jonanon18",
+    "content": "@pipelineabuser @FactoryAI Bs",
+    "url": "https://x.com/jonanon18/status/2006983007576764717",
+    "timestamp": "2026-01-02T06:56:51.000Z",
+    "metadata": {
+      "conversation_id": "2006983007576764717",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006981120509018332",
+    "source": "twitter",
+    "author": "TangryXMTP",
+    "content": "@pipelineabuser @FactoryAI Non-technical founders are about to have their moment. AI just leveled the playing field",
+    "url": "https://x.com/TangryXMTP/status/2006981120509018332",
+    "timestamp": "2026-01-02T06:49:21.000Z",
+    "metadata": {
+      "conversation_id": "2006981120509018332",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006973036914946444",
     "source": "twitter",
     "author": "Jacobthefoundr",
