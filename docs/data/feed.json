@@ -7302,6 +7302,19 @@
     "category": "mention"
   },
   {
+    "id": "github_issue_501",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Issue] Bug Report: FetchUrl Tool Over-Escaping Markdown Characters\n\nBug Report: FetchUrl Tool Over-Escaping Markdown Characters\n\nSummary\n\nFetchUrl's HTML-to-markdown converter is aggressively\n\nescaping special characters, corrupting markdown source\n\nfiles.\n\n──────────────────────────────────────────\n\nProblem #1: Periods in Numbered Headings\n\nExpected:\n\nmarkdown\n\n### 1. Extract, don't port\n\n### 2. Design for conversational entry\n\n### 3. Treat ChatGPT as \"home\"\n\nActual:\n\nmarkdown\n\n### 1\\. Extract, don't port\n\n### 2\\. Design for conversational entry\n\n### 3\\. Treat ",
+    "url": "https://github.com/Factory-AI/factory/issues/501",
+    "timestamp": "2025-12-09T14:58:58Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 501
+    }
+  },
+  {
     "id": "reddit_1pi3xnq",
     "source": "reddit",
     "author": "bentossell",
