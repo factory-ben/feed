@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2006973036914946444",
+    "source": "twitter",
+    "author": "Jacobthefoundr",
+    "content": "@pipelineabuser @FactoryAI Now its just time to market it.",
+    "url": "https://x.com/Jacobthefoundr/status/2006973036914946444",
+    "timestamp": "2026-01-02T06:17:14.000Z",
+    "metadata": {
+      "conversation_id": "2006973036914946444",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006960845407006933",
+    "source": "twitter",
+    "author": "loporium",
+    "content": "@pipelineabuser @FactoryAI Literally no one cares. It wasn’t even difficult to make a website in the first place. The hard part is selling and distribution. You just made another shitty app no one will use",
+    "url": "https://x.com/loporium/status/2006960845407006933",
+    "timestamp": "2026-01-02T05:28:47.000Z",
+    "metadata": {
+      "conversation_id": "2006960845407006933",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006959235943588250",
+    "source": "twitter",
+    "author": "no_job_guy",
+    "content": "@pipelineabuser @FactoryAI Post the code then LARPer",
+    "url": "https://x.com/no_job_guy/status/2006959235943588250",
+    "timestamp": "2026-01-02T05:22:24.000Z",
+    "metadata": {
+      "conversation_id": "2006959235943588250",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006958050314432781",
+    "source": "twitter",
+    "author": "worksofbitcoin",
+    "content": "@pipelineabuser @FactoryAI More blue and purple AI slop 😂😂",
+    "url": "https://x.com/worksofbitcoin/status/2006958050314432781",
+    "timestamp": "2026-01-02T05:17:41.000Z",
+    "metadata": {
+      "conversation_id": "2006958050314432781",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006954873666023903",
     "source": "twitter",
     "author": "sudurairaj",
@@ -46,6 +106,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2006952797066113276",
+    "source": "twitter",
+    "author": "MrJettip",
+    "content": "@pipelineabuser @FactoryAI You went hard 👀",
+    "url": "https://x.com/MrJettip/status/2006952797066113276",
+    "timestamp": "2026-01-02T04:56:48.000Z",
+    "metadata": {
+      "conversation_id": "2006952797066113276",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006952596385443952",
