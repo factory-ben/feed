@@ -62,6 +62,66 @@
     "category": "question"
   },
   {
+    "id": "twitter_2007014362771505298",
+    "source": "twitter",
+    "author": "krascsi",
+    "content": "@cloudxdev @Zai_org @FactoryAI How does Droid compare to CC with GLM-4.7? OpenCode wasn't as good for me as CC but only heard amazing things of Droid and you can have your own key (OpenCode and CC too but yeah you are probably familiar) so it could slap as it could be better scaffolding?",
+    "url": "https://x.com/krascsi/status/2007014362771505298",
+    "timestamp": "2026-01-02T09:01:27.000Z",
+    "metadata": {
+      "conversation_id": "2007014362771505298",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007013438032331042",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@cloudxdev @Zai_org @FactoryAI CloudAI-X: Successfully built a customized Hyperliquid whale tracker with backend skills demonstrated.",
+    "url": "https://x.com/codewithimanshu/status/2007013438032331042",
+    "timestamp": "2026-01-02T08:57:46.000Z",
+    "metadata": {
+      "conversation_id": "2007013438032331042",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007012326906658989",
+    "source": "twitter",
+    "author": "gurtej__gill_",
+    "content": "@pipelineabuser @FactoryAI The hard parts start at auth, data integrity, edge cases, observability, security, billing, and ops—none of which vibe coding solves yet.",
+    "url": "https://x.com/gurtej__gill_/status/2007012326906658989",
+    "timestamp": "2026-01-02T08:53:21.000Z",
+    "metadata": {
+      "conversation_id": "2007012326906658989",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007011470048182310",
+    "source": "twitter",
+    "author": "YukoNikumo",
+    "content": "@pipelineabuser @FactoryAI Self AI -ish \n\nFlesh out the design then you good to go",
+    "url": "https://x.com/YukoNikumo/status/2007011470048182310",
+    "timestamp": "2026-01-02T08:49:57.000Z",
+    "metadata": {
+      "conversation_id": "2007011470048182310",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007010380078555581",
     "source": "twitter",
     "author": "tinscape",
@@ -76,6 +136,36 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2007008142610378759",
+    "source": "twitter",
+    "author": "enpits",
+    "content": "@pipelineabuser @FactoryAI Then sell it ?!\n\nAre you \"coding\" just to show off on X ?\nWhy aren't you out there collecting the millions, billions of dollars from your ground breaking tech ?\n\nOr maybe when you tell companies you want to sell them a software solution but you can't code, eyebrows are rising...?",
+    "url": "https://x.com/enpits/status/2007008142610378759",
+    "timestamp": "2026-01-02T08:36:44.000Z",
+    "metadata": {
+      "conversation_id": "2007008142610378759",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007005169507258402",
+    "source": "twitter",
+    "author": "Zenul_Abidin",
+    "content": "@pipelineabuser @FactoryAI Wow this is serious now",
+    "url": "https://x.com/Zenul_Abidin/status/2007005169507258402",
+    "timestamp": "2026-01-02T08:24:55.000Z",
+    "metadata": {
+      "conversation_id": "2007005169507258402",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2007002507294421299",
@@ -5976,6 +6066,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "github_issue_495",
+    "source": "github",
+    "author": "matdev83",
+    "content": "[Issue] Spec approval tool is triggering when actual task is finished\n\nBug Report ID: 01311a33-6e39-419d-9450-9fa3d63915e4\n\nI recently noticed that when Droid is close to completing a task (done without spec), it suddenly calls \"Propose specification\" tool, while it should actually summarize session and tell me what it done.\n\nIt happens on a regular basis. Not always, but I'd say ~80% of the time, always when the task is nearly done.\nIt's a bit odd and distorts the process.\n\nTested with Gemini 3 Pro and Opus 4.5 and it appears that this is agent's bug, not model-sp",
+    "url": "https://github.com/Factory-AI/factory/issues/495",
+    "timestamp": "2025-12-08T10:42:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 495
+    }
   },
   {
     "id": "github_issue_493",
