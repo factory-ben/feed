@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007155693686833472",
+    "source": "twitter",
+    "author": "robertohluna",
+    "content": "@pipelineabuser @FactoryAI This shi looks vibe coded",
+    "url": "https://x.com/robertohluna/status/2007155693686833472",
+    "timestamp": "2026-01-02T18:23:03.000Z",
+    "metadata": {
+      "conversation_id": "2007155693686833472",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007149304734171334",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "GLM 4.7 @Zai_org  just one-shotted a bunch of fixes and I used it on Droid @FactoryAI \nThe speed and quality at that speed is absolutely astonishing 🤯",
+    "url": "https://x.com/karthikr3ddy/status/2007149304734171334",
+    "timestamp": "2026-01-02T17:57:39.000Z",
+    "metadata": {
+      "conversation_id": "2007149304734171334",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007146171958174153",
     "source": "twitter",
     "author": "badlogicgames",
@@ -16,6 +46,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2007145962415026666",
+    "source": "twitter",
+    "author": "TrvthGuy",
+    "content": "@pipelineabuser @FactoryAI You are changing my mind on AI singlehandedly btw",
+    "url": "https://x.com/TrvthGuy/status/2007145962415026666",
+    "timestamp": "2026-01-02T17:44:23.000Z",
+    "metadata": {
+      "conversation_id": "2007145962415026666",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007143424882028793",
     "source": "twitter",
     "author": "nkgoutham",
@@ -30,6 +75,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2007139142631890967",
+    "source": "twitter",
+    "author": "bchewyme",
+    "content": "day 3/365 of using @cursor_ai primarily for the rest of this year! (i've decided to consider using other tools too, like @claudeai code or @OpenAI codex\n\nreally want to give @FactoryAI @AmpCode a try! https://t.co/1xpszsXunj",
+    "url": "https://x.com/bchewyme/status/2007139142631890967",
+    "timestamp": "2026-01-02T17:17:17.000Z",
+    "metadata": {
+      "conversation_id": "2007139142631890967",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2007138076091658468",
@@ -62,6 +122,66 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2007131591190220864",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 2: Update 2\n\nDove into @factoryai this morning — already a game-changer.\n\nUsed it to spec out UI polish and local storage: smoother preview canvas, drag-and-drop flow, \"\n\nOne tight spec → clean code changes I wouldn't have written as fast manually. The UI feels less \"prototype\", more \"grab-and-go golf buddy\" now. \n\nLocal storage keeps it MVP — no cloud complexity yet.\n\nStill learning spec-writing precision, but the speedup is real.\n\nFlip side: Noticed Claude OCR glitches on edgier shots (glare, tight crops, \"OK\" gimmes). Time to debug the prompt... or test if another droid (Grok?) can step up.\n\nSmall wins stacking. More later.",
+    "url": "https://x.com/iamkevchan/status/2007131591190220864",
+    "timestamp": "2026-01-02T16:47:16.000Z",
+    "metadata": {
+      "conversation_id": "2007131591190220864",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007131342778355768",
+    "source": "twitter",
+    "author": "ZarekXBT",
+    "content": "@tomosman @bentossell @FactoryAI CLI skills are the real edge",
+    "url": "https://x.com/ZarekXBT/status/2007131342778355768",
+    "timestamp": "2026-01-02T16:46:17.000Z",
+    "metadata": {
+      "conversation_id": "2007131342778355768",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007130300778701167",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "In honour of this nuclear post from @bentossell (which you should read if you haven't already).\n\nThis weekend we @FactoryAI max.\n\nWorking in the Terminal with a CLI is without doubt going to become more commonplace so it's a good time to invest some attention!",
+    "url": "https://x.com/tomosman/status/2007130300778701167",
+    "timestamp": "2026-01-02T16:42:09.000Z",
+    "metadata": {
+      "conversation_id": "2007130300778701167",
+      "likes": 5,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007128901974397199",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@tomosman @FactoryAI 🔥🔥",
+    "url": "https://x.com/bentossell/status/2007128901974397199",
+    "timestamp": "2026-01-02T16:36:35.000Z",
+    "metadata": {
+      "conversation_id": "2007128901974397199",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2007115532990898488",
