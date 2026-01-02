@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2007146171958174153",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@mitsuhiko @droid @AmpCode We can add a default summarization model in the settings.json, as well as in the TUI settings. Simple enough.",
+    "url": "https://x.com/badlogicgames/status/2007146171958174153",
+    "timestamp": "2026-01-02T17:45:13.000Z",
+    "metadata": {
+      "conversation_id": "2007146171958174153",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007143424882028793",
     "source": "twitter",
     "author": "nkgoutham",
