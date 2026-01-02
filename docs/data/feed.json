@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2007190898577420434",
+    "source": "twitter",
+    "author": "nadzi_mouad",
+    "content": "@bchewyme @cursor_ai @claudeai @OpenAI @FactoryAI @AmpCode Looks cool 😎",
+    "url": "https://x.com/nadzi_mouad/status/2007190898577420434",
+    "timestamp": "2026-01-02T20:42:56.000Z",
+    "metadata": {
+      "conversation_id": "2007190898577420434",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007178626891153536",
     "source": "twitter",
     "author": "Francesco_Oddo",
