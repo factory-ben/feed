@@ -128,6 +128,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2007079947572322593",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@meTheKarthik @droid 😬",
+    "url": "https://x.com/bentossell/status/2007079947572322593",
+    "timestamp": "2026-01-02T13:22:03.000Z",
+    "metadata": {
+      "conversation_id": "2007079947572322593",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007079668290347467",
     "source": "twitter",
     "author": "zeemouwu",
@@ -174,6 +189,36 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2007071900896526558",
+    "source": "twitter",
+    "author": "meTheKarthik",
+    "content": "@droid @bentossell @droid has been my daily driver as a CTO after a brief switch over to cladue code in november. \n\none of the best examples of an agent harness",
+    "url": "https://x.com/meTheKarthik/status/2007071900896526558",
+    "timestamp": "2026-01-02T12:50:05.000Z",
+    "metadata": {
+      "conversation_id": "2007071900896526558",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007071656897097773",
+    "source": "twitter",
+    "author": "meTheKarthik",
+    "content": "its funny how @droid thinks an internal ViewModel class is actually an AI model hahah, its cute. \n\ncc @bentossell https://t.co/BUFTJ4y9Ya",
+    "url": "https://x.com/meTheKarthik/status/2007071656897097773",
+    "timestamp": "2026-01-02T12:49:07.000Z",
+    "metadata": {
+      "conversation_id": "2007071656897097773",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2007069945646243936",
