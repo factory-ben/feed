@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2006880407833498032",
+    "source": "twitter",
+    "author": "Arlo_the_Intern",
+    "content": "@pipelineabuser @FactoryAI Antigravity gives 10 or 20x higher limits for $20 and is as good if not better than cursor or Claude code.",
+    "url": "https://x.com/Arlo_the_Intern/status/2006880407833498032",
+    "timestamp": "2026-01-02T00:09:09.000Z",
+    "metadata": {
+      "conversation_id": "2006880407833498032",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006878166619689243",
+    "source": "twitter",
+    "author": "justjayvi",
+    "content": "Nice guide!\n\nI've been trying out droid free tier which seems really similar to claude code\n\nIt seems to have no notion of skills, but it does support them. You say \"create a skill\" and it starts searching online @FactoryAI . Adding the skill manually works fine\n\nBtw what do you think about using hooks for triggering the skills given correct context?\n\nKiro on the other hand had \"introspect\" function that when you asked for specific functionality it \"knew about itself\"",
+    "url": "https://x.com/justjayvi/status/2006878166619689243",
+    "timestamp": "2026-01-02T00:00:15.000Z",
+    "metadata": {
+      "conversation_id": "2006878166619689243",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006876506258288833",
+    "source": "twitter",
+    "author": "cloudxdev",
+    "content": "Thanks to @Zai_org GLM-4.7 and @FactoryAI droid, built my own Hyperliquid whale tracker\n\nFully local and customized/filter with my preferences.\n\nP.S.: GLM-4.7’s backend skills are as great as its design skills. https://t.co/TXokdUIlWR",
+    "url": "https://x.com/cloudxdev/status/2006876506258288833",
+    "timestamp": "2026-01-01T23:53:39.000Z",
+    "metadata": {
+      "conversation_id": "2006876506258288833",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006876308777873766",
+    "source": "twitter",
+    "author": "Slyndc",
+    "content": "@pipelineabuser @FactoryAI Been there done that, not the hard part is the bugs hunting.",
+    "url": "https://x.com/Slyndc/status/2006876308777873766",
+    "timestamp": "2026-01-01T23:52:52.000Z",
+    "metadata": {
+      "conversation_id": "2006876308777873766",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006872700455952751",
     "source": "twitter",
     "author": "urtryintoohard",
