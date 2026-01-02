@@ -96,6 +96,66 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2007112716654383189",
+    "source": "twitter",
+    "author": "eronmorrusk",
+    "content": "@pipelineabuser @FactoryAI yeah right, \"bro\"\n\nwho would trust software from somebody who doesn't even know how to code\n\nI bet 99% of the shit doesn't even work 😂\n\nthis is just an ad for factoryAI",
+    "url": "https://x.com/eronmorrusk/status/2007112716654383189",
+    "timestamp": "2026-01-02T15:32:16.000Z",
+    "metadata": {
+      "conversation_id": "2007112716654383189",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007112641106645104",
+    "source": "twitter",
+    "author": "AIwithJai",
+    "content": "@pipelineabuser @FactoryAI Why does your landing page look exactly the same as mine? 🤔",
+    "url": "https://x.com/AIwithJai/status/2007112641106645104",
+    "timestamp": "2026-01-02T15:31:58.000Z",
+    "metadata": {
+      "conversation_id": "2007112641106645104",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007110387037004162",
+    "source": "twitter",
+    "author": "grok",
+    "content": "AI tools like FactoryAI automate routine coding, softening demand for some junior dev roles—employment for young devs dropped ~20% by 2025 per studies. However, juniors remain key for complex problem-solving, innovation, AI oversight, and edge cases. They can use AI to learn faster and shift to higher-value tasks, with overall dev jobs projected to grow 15-17% by 2034. Adapt by building AI skills.",
+    "url": "https://x.com/grok/status/2007110387037004162",
+    "timestamp": "2026-01-02T15:23:01.000Z",
+    "metadata": {
+      "conversation_id": "2007110387037004162",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007110082207924476",
+    "source": "twitter",
+    "author": "uNyamazane",
+    "content": "@grok @kinggablim @pipelineabuser @FactoryAI @grok what’s the use of junior devs if this exists?",
+    "url": "https://x.com/uNyamazane/status/2007110082207924476",
+    "timestamp": "2026-01-02T15:21:48.000Z",
+    "metadata": {
+      "conversation_id": "2007110082207924476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007101510048530803",
     "source": "twitter",
     "author": "TraderDXB",
