@@ -7254,6 +7254,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1pi3xnq",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.33.0 Released\n\n## Bug fixes\n\n* Fixed autonomy mode not being properly set on tool confirmations\n* Improved @-tagged file truncation by character count to prevent context overflow\n* Updated Opus 4.5 pricing with dismissable notice\n* Restored Figma MCP server to the registry\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pi3xnq/factory_cli_v0330_released/",
+    "timestamp": "2025-12-09T10:18:19.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_496",
     "source": "github",
     "author": "sheng-di",
