@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007085603272413635",
+    "source": "twitter",
+    "author": "iamcienlim",
+    "content": "@sudurairaj @Zai_org @opencode @droid @FactoryAI glad to hear that 👍",
+    "url": "https://x.com/iamcienlim/status/2007085603272413635",
+    "timestamp": "2026-01-02T13:44:32.000Z",
+    "metadata": {
+      "conversation_id": "2007085603272413635",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007085414642069849",
+    "source": "twitter",
+    "author": "iamcienlim",
+    "content": "@krascsi @FactoryAI @Zai_org @opencode @droid not quite yet cause I have it for claude subscription, lazy to configure haha",
+    "url": "https://x.com/iamcienlim/status/2007085414642069849",
+    "timestamp": "2026-01-02T13:43:47.000Z",
+    "metadata": {
+      "conversation_id": "2007085414642069849",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007084130237108460",
     "source": "twitter",
     "author": "bradvangelder",
