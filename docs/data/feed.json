@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2007333308812947825",
+    "source": "twitter",
+    "author": "EmbeddedNature",
+    "content": "Me testing local models on @opencode and @FactoryAI in parallel on my M4 Mac. \n\nWhat a time to be alive https://t.co/82f4D7uWWL",
+    "url": "https://x.com/EmbeddedNature/status/2007333308812947825",
+    "timestamp": "2026-01-03T06:08:49.000Z",
+    "metadata": {
+      "conversation_id": "2007333308812947825",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007329613551378841",
+    "source": "twitter",
+    "author": "pgbouncer",
+    "content": "@FactoryAI guys when can we get an iOS native app or at least a really mobile-optimised site? Slack integration working so-so, would love a native Factory set-up for working on the road ❤️",
+    "url": "https://x.com/pgbouncer/status/2007329613551378841",
+    "timestamp": "2026-01-03T05:54:08.000Z",
+    "metadata": {
+      "conversation_id": "2007329613551378841",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007328736157573434",
+    "source": "twitter",
+    "author": "EmbeddedNature",
+    "content": "@FactoryAI \"logoAnimation\": \"off\", turns back on in setting.json if I attempt to set 2 customModels. \n\nI don't know why, but the entire setting.json file gets reset",
+    "url": "https://x.com/EmbeddedNature/status/2007328736157573434",
+    "timestamp": "2026-01-03T05:50:39.000Z",
+    "metadata": {
+      "conversation_id": "2007328736157573434",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007305657796702371",
     "source": "twitter",
     "author": "Jowanza",
