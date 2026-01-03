@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2007365875859632131",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Exactly. Now that they've included GLM4.7 - its being the default for most of the time. For code review, UX audits, and specs, I switch to Gemini models but for most of the coding, I use GLM4.7. \n\nIf you want to further explore other models, add your own open sourced models from @OpenRouterAI - DeepSeekv3.2 is pretty decent too!",
+    "url": "https://x.com/nkgoutham/status/2007365875859632131",
+    "timestamp": "2026-01-03T08:18:14.000Z",
+    "metadata": {
+      "conversation_id": "2007365875859632131",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007362800692470268",
     "source": "twitter",
     "author": "marovole",
