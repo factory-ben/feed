@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2007418028062060657",
+    "source": "twitter",
+    "author": "MirAI_Newz",
+    "content": "Why there is no Plan Mode (GPT5-1 xHigh max ultra) + Exec with Opus 4.5 in @FactoryAI? And if there is, how to get it?",
+    "url": "https://x.com/MirAI_Newz/status/2007418028062060657",
+    "timestamp": "2026-01-03T11:45:28.000Z",
+    "metadata": {
+      "conversation_id": "2007418028062060657",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007412363385856061",
     "source": "twitter",
     "author": "bradvangelder",
@@ -7730,6 +7745,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "github_issue_506",
+    "source": "github",
+    "author": "ChrisC381",
+    "content": "[Issue] Bug Report: TodoWrite Tool Not Accepting Valid Array Format\n\n   Description:\n   The TodoWrite tool is rejecting valid JSON array format despite\n   the parameter schema clearly indicating it should accept an array\n    of todo objects.\n\n   Steps to Reproduce:\n   1. Call TodoWrite with todos parameter as an array\n   2. Use the exact format specified in the schema:\n\n   json\n        [\n          {\n            \"content\": \"Task description\",\n            \"id\": \"unique-id\",\n            \"priority\": \"medium\",\n            \"status\": \"pending\"\n          }\n        ]\n\n   ",
+    "url": "https://github.com/Factory-AI/factory/issues/506",
+    "timestamp": "2025-12-09T21:18:25Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 506
+    }
   },
   {
     "id": "github_issue_501",
