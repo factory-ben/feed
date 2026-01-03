@@ -7982,6 +7982,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1pfdnxv",
+    "source": "reddit",
+    "author": "Cyron_Wiz",
+    "content": "TUI issues?\n\nhttps://preview.redd.it/ryl3awxdsh5g1.png?width=2481&amp;format=png&amp;auto=webp&amp;s=41c1fa50f20e21885cf2e6ced8a6ac014f12df68\n\nTried on standard terminal and ghostty, width is never full, it's full only on settings ui. TODOs are never pinned even if enabled on settings",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pfdnxv/tui_issues/",
+    "timestamp": "2025-12-06T02:14:11.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1pe0wqy",
     "source": "reddit",
     "author": "EggNo4904",
