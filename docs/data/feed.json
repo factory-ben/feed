@@ -16,6 +16,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2007457940635021748",
+    "source": "twitter",
+    "author": "skillissuesf",
+    "content": "@bradvangelder @FactoryAI @intervalsicu Love the velocity. Keep shipping.",
+    "url": "https://x.com/skillissuesf/status/2007457940635021748",
+    "timestamp": "2026-01-03T14:24:04.000Z",
+    "metadata": {
+      "conversation_id": "2007457940635021748",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007457672606421012",
+    "source": "twitter",
+    "author": "HeySukhwinder",
+    "content": "@bradvangelder @FactoryAI @intervalsicu Love the speed and the focus on personalization!",
+    "url": "https://x.com/HeySukhwinder/status/2007457672606421012",
+    "timestamp": "2026-01-03T14:23:00.000Z",
+    "metadata": {
+      "conversation_id": "2007457672606421012",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007447801194549709",
     "source": "twitter",
     "author": "bencera_",
@@ -44,6 +74,36 @@
       "number": 561
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2007442161051283769",
+    "source": "twitter",
+    "author": "ZarekXBT",
+    "content": "@tomosman @ManusAI @Replit @FactoryAI Tools change, hype stays same",
+    "url": "https://x.com/ZarekXBT/status/2007442161051283769",
+    "timestamp": "2026-01-03T13:21:22.000Z",
+    "metadata": {
+      "conversation_id": "2007442161051283769",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007435501339353442",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "Posts like this always get a ton of likes but you can actually replace everything here with either @ManusAI or @Replit.\n\nOr if you're slightly more technical then Claude Code or @FactoryAI.",
+    "url": "https://x.com/tomosman/status/2007435501339353442",
+    "timestamp": "2026-01-03T12:54:54.000Z",
+    "metadata": {
+      "conversation_id": "2007435501339353442",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2007426259186332138",
