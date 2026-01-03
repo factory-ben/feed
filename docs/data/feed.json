@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2007474570631229576",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Your project feedback is probably scattered across messages, mental notes, and half-remembered conversations.\n\nMine used to be the same until I built a simple system with @droid  that seems to work quite good.\n\nThe workflow is straightforward: I maintain a https://t.co/1Kf9Jhu1gH file in my project root. While testing or using the product, I feed Droid my observations and ask it to document them in that file. Each entry captures three things: where the issue showed up, what's currently happening, and what should happen instead. No solutions yet, just clarity on the problem.\n\nOnce I have enough documented feedback, I tag the file and ask Droid to create an implementation plan. I review it, refine if needed, and then let Droid execute.\n\nSince I found myself repeating this loop across projects, I created a custom droid specifically for this. It maintains the https://t.co/1Kf9Jhu1gH structure, asks clarifying questions when my input is vague, and generates implementation plans without me having to prompt the same workflow every time.\n\nThe system prompt is in the screenshot. It shows how the droid handles location context, current issues, and desired outcomes without making assumptions or jumping to solutions prematurely.\n\nFor anyone building with @FactoryAI  or similar orchestration tools, this structure has saved me a lot of time in managing scattered context switching. Instead of losing track of what needs fixing, everything lives in one file that feeds directly into the next build cycle.\n\nAnyone else using a similar feedback loop with their AI tools?",
+    "url": "https://x.com/nkgoutham/status/2007474570631229576",
+    "timestamp": "2026-01-03T15:30:09.000Z",
+    "metadata": {
+      "conversation_id": "2007474570631229576",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007470436162908408",
     "source": "twitter",
     "author": "bencera_",
