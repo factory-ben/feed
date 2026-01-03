@@ -8146,6 +8146,19 @@
     "category": "mention"
   },
   {
+    "id": "github_discussion_509",
+    "source": "github",
+    "author": "MikDal002",
+    "content": "[Discussion] How to continue chat after droid crash\n\nHello :) \r\n\r\nSometimes droid crashes unexpectedly. Is there any way to recover to that session? \r\n\r\nExample exception\r\n\r\n```\r\nBun v1.3.3 (274e01c7) Windows x64\r\nWindows v.win11_dt\r\nCPU: sse42 avx avx2\r\nArgs: \"C:\\Users\\DQ845LT\\bin\\droid.exe\" \"--resume\"\r\nFeatures: Bun.stderr(2) Bun.stdin(2) Bun.stdout(2) fetch(6) http_server(2) jsc spawn(25) standalone_executable\r\nBuiltins: \"bun:main\" \"node:assert\" \"node:async_hooks\" \"node:buffer\" \"node:child_process\" \"node:constants\" \"node:crypto\" \"node:events\" \"",
+    "url": "https://github.com/Factory-AI/factory/discussions/509",
+    "timestamp": "2025-12-10T16:12:43Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 509
+    }
+  },
+  {
     "id": "github_issue_507",
     "source": "github",
     "author": "whb07",
