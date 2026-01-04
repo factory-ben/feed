@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2007921309582553135",
+    "source": "twitter",
+    "author": "AbyssusErigo",
+    "content": "@JasonKutasi @pipelineabuser @AlexWeichart @FactoryAI Antigravity is better from what I've heard from my team",
+    "url": "https://x.com/AbyssusErigo/status/2007921309582553135",
+    "timestamp": "2026-01-04T21:05:20.000Z",
+    "metadata": {
+      "conversation_id": "2007921309582553135",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007917728917770292",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@lexfridman I personally use droid from @FactoryAI",
+    "url": "https://x.com/matanSF/status/2007917728917770292",
+    "timestamp": "2026-01-04T20:51:06.000Z",
+    "metadata": {
+      "conversation_id": "2007917728917770292",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007914235339428057",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "Droid by @FactoryAI added hooks a few months ago. Finally took some time to update my custom @elevenlabsio voice notifier program to work for both droid and claude code.\n\nThanks guys! It's no chainsmokers boop but I find it much more useful when running many droids at once\n\n🔊 on https://t.co/GUOULOxPpw",
+    "url": "https://x.com/anthonyronning/status/2007914235339428057",
+    "timestamp": "2026-01-04T20:37:13.000Z",
+    "metadata": {
+      "conversation_id": "2007914235339428057",
+      "likes": 9,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007913782308487509",
+    "source": "twitter",
+    "author": "frumza",
+    "content": "@koomen @ethanjlim Check out droid by @FactoryAI",
+    "url": "https://x.com/frumza/status/2007913782308487509",
+    "timestamp": "2026-01-04T20:35:25.000Z",
+    "metadata": {
+      "conversation_id": "2007913782308487509",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007912953065144828",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 4: Update 1\n\nGrok now officially on code review / QA duty.\n\nStarted routing everything through a tighter loop: brain dump → Grok organizes → @factoryai builds → Grok reviews for bugs, style, edge cases → commit.\n\nScreenshot from this morning says it all: Grok convo open on the right, WIP app on the left. Both of us immediately spotted the broken thumbnail preview — classic edge case where a weird crop threw the canvas resize off.\n\nThrew it back to the loop: quick spec to FactoryAI → Grok caught an off-by-one → fixed in ~2 minutes. Smooth.\n\nAlso cleaned up the add/export flow, cut a couple unnecessary steps, and added CSV loading so I can now import old “Training Session” data, not just full rounds.\n\nTool’s quietly becoming the golf journal I actually want. \n\nThis evening I'll start building out an actual backlog.\n\nFor now - Sim Time. ⛳",
+    "url": "https://x.com/iamkevchan/status/2007912953065144828",
+    "timestamp": "2026-01-04T20:32:07.000Z",
+    "metadata": {
+      "conversation_id": "2007912953065144828",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007912684663251359",
+    "source": "twitter",
+    "author": "candymachineatr",
+    "content": "@pipelineabuser @vrilegion @FactoryAI solid.... bug testing phase is underrated. better to catch em now than after launch",
+    "url": "https://x.com/candymachineatr/status/2007912684663251359",
+    "timestamp": "2026-01-04T20:31:03.000Z",
+    "metadata": {
+      "conversation_id": "2007912684663251359",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007898450420191703",
+    "source": "twitter",
+    "author": "JasonKutasi",
+    "content": "@pipelineabuser @AlexWeichart @FactoryAI Not sure why I’d choose @FactoryAI over cursor with Claude code. \n\nJust when down the rabbit hole comparing the two, and I’m still not sure tbh.",
+    "url": "https://x.com/JasonKutasi/status/2007898450420191703",
+    "timestamp": "2026-01-04T19:34:30.000Z",
+    "metadata": {
+      "conversation_id": "2007898450420191703",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007874863705346457",
+    "source": "twitter",
+    "author": "zerobuildz",
+    "content": "@EnoReyes @FactoryAI \n\nCan you make a $100 plan?",
+    "url": "https://x.com/zerobuildz/status/2007874863705346457",
+    "timestamp": "2026-01-04T18:00:46.000Z",
+    "metadata": {
+      "conversation_id": "2007874863705346457",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007853630163210430",
     "source": "twitter",
     "author": "geo_anima",
