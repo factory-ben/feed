@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007734078704103514",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "Try it yourself. If I’m not mistaken, signing up used to give ~10–20M free tokens (not sure if that’s still active).\n\nCursor is great if you live inside an IDE  personally, I’m not a big fan.\n\nIf you prefer a CLI-first workflow, Claude Code is hard to beat. The usage limits reset every ~5 hours, so a direct Anthropic subscription gives solid value for money.\n\nFactory’s CLI, though, is excellent and almost on par with Claude Code. The real edge: flexibility. You can mix cheaper models (GLM-4.7, Claude Haiku, Gemini 3 Flash) with high-end ones (Opus 4.5, GPT-5.2, Gemini 3 Pro) depending on the task.\n\nPlus, their auto-compact context compression is one of the best — it frees up context window without losing continuity.",
+    "url": "https://x.com/karthikr3ddy/status/2007734078704103514",
+    "timestamp": "2026-01-04T08:41:20.000Z",
+    "metadata": {
+      "conversation_id": "2007734078704103514",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007732120295498066",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "@Viswana34226652 @FactoryAI Not at the moment.",
+    "url": "https://x.com/karthikr3ddy/status/2007732120295498066",
+    "timestamp": "2026-01-04T08:33:33.000Z",
+    "metadata": {
+      "conversation_id": "2007732120295498066",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007703182206742744",
     "source": "twitter",
     "author": "Viswana34226652",
