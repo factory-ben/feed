@@ -8724,6 +8724,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1ptoqm4",
+    "source": "reddit",
+    "author": "Queasy_Asparagus69",
+    "content": "GLM 4.7 on coding plan\n\ni upgraded from GLM 4.6 to 4.7 by editing the json but under 4.7 some tool calling for editing and writing are disabled. I’m on Fedora 43 if tha matter. not sure if I should point finger at GLM, or Droid :p",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ptoqm4/glm_47_on_coding_plan/",
+    "timestamp": "2025-12-23T08:21:55.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1ptbvg9",
     "source": "reddit",
     "author": "bentossell",
