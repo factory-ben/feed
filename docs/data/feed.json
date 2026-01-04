@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007825718726856824",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@vagabond_vaga_ @lechriss17 Cursor works for people who want to look at the code all the time. Use @droid instead if you can use a terminal. If you can't, use Replit/lovable/... instead.",
+    "url": "https://x.com/JohnThilen/status/2007825718726856824",
+    "timestamp": "2026-01-04T14:45:29.000Z",
+    "metadata": {
+      "conversation_id": "2007825718726856824",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007824392840159665",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@syzygyhack I've had this issue with Claude, then found @droid. I recommend you give it a try as it sounds like this will solve your problem almost instantly.\n\n@droid gives you a budget of tokens depending on your plan and doesn't have usage limits. you can buy more tokens as you need.",
+    "url": "https://x.com/AriesTheCoder/status/2007824392840159665",
+    "timestamp": "2026-01-04T14:40:13.000Z",
+    "metadata": {
+      "conversation_id": "2007824392840159665",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007822056554176515",
     "source": "twitter",
     "author": "yikesawjeez",
