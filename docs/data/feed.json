@@ -8918,6 +8918,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1pfpibo",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.32.0 Released\n\n## Bug fixes\n\n* Press ESC to close the expanded tool result view\n* Press ESC to close the expanded tool result view\n* Improved input box cursor up/down movement with wrapped lines\n* Fixed Windows pasting issues\n* Fixed `npm run format` conflict with legacy Windows format command in denylist\n* Fixed auth issues with Microsoft MCP servers\n* `/readiness` command is now enabled by default\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pfpibo/factory_cli_v0320_released/",
+    "timestamp": "2025-12-06T13:37:43.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1pfdnxv",
     "source": "reddit",
     "author": "Cyron_Wiz",
