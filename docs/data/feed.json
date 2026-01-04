@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2007606866403336470",
+    "source": "twitter",
+    "author": "acabelt",
+    "content": "@EnoReyes @FactoryAI @droid Just to give you an update as well. The real issue is fixed, no invoice due or anything. Yet... the interface still shows it and the account is blocked. In case you want to dig deeper, Caroline has debug details at hand.",
+    "url": "https://x.com/acabelt/status/2007606866403336470",
+    "timestamp": "2026-01-04T00:15:51.000Z",
+    "metadata": {
+      "conversation_id": "2007606866403336470",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007593840052711715",
     "source": "twitter",
     "author": "openwadev",
