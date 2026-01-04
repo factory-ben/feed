@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2007952391748943881",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@jcurtis @FactoryAI 🔥🔥",
+    "url": "https://x.com/bentossell/status/2007952391748943881",
+    "timestamp": "2026-01-04T23:08:50.000Z",
+    "metadata": {
+      "conversation_id": "2007952391748943881",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_2007951782996299894",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "The @FactoryAI 2025 wrap from @bentossell is pretty cool.\n\nHere are the receipts. CC afterwards but the factory one is cooler and bit more insightful! https://t.co/cKUiWR9tCN",
+    "url": "https://x.com/jcurtis/status/2007951782996299894",
+    "timestamp": "2026-01-04T23:06:25.000Z",
+    "metadata": {
+      "conversation_id": "2007951782996299894",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007946559292571705",
+    "source": "twitter",
+    "author": "JasonKutasi",
+    "content": "@AbyssusErigo @pipelineabuser @AlexWeichart @FactoryAI Played with that for a while but preferred cursor. Bunch of my friends prefer antigravity but kind of feel likes it’s six of one half dozen of another.",
+    "url": "https://x.com/JasonKutasi/status/2007946559292571705",
+    "timestamp": "2026-01-04T22:45:40.000Z",
+    "metadata": {
+      "conversation_id": "2007946559292571705",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007921309582553135",
     "source": "twitter",
     "author": "AbyssusErigo",
