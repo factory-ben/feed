@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2007643121723818387",
+    "source": "twitter",
+    "author": "hyper_friday",
+    "content": "@nkgoutham @droid Better than opus 4.5?",
+    "url": "https://x.com/hyper_friday/status/2007643121723818387",
+    "timestamp": "2026-01-04T02:39:55.000Z",
+    "metadata": {
+      "conversation_id": "2007643121723818387",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007637754063290868",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@tkwoncpa @droid Agree - even a $100 plan would work, to begin with! The other alternative rn is to add your own models. I use @OpenRouterAI so i can use a bunch of open sourced models",
+    "url": "https://x.com/nkgoutham/status/2007637754063290868",
+    "timestamp": "2026-01-04T02:18:35.000Z",
+    "metadata": {
+      "conversation_id": "2007637754063290868",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007637542037078224",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@ethaniel86 @droid Groid core uses the GLM4.7 model. GLM4.7 model is developed by Z-ai. They also have their own coding agent",
+    "url": "https://x.com/nkgoutham/status/2007637542037078224",
+    "timestamp": "2026-01-04T02:17:44.000Z",
+    "metadata": {
+      "conversation_id": "2007637542037078224",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007634740422299663",
+    "source": "twitter",
+    "author": "raylmbek",
+    "content": "@MohMaya97 @ccdotdev @opencode @justsisyphus @droid Just DMed you the invite!",
+    "url": "https://x.com/raylmbek/status/2007634740422299663",
+    "timestamp": "2026-01-04T02:06:36.000Z",
+    "metadata": {
+      "conversation_id": "2007634740422299663",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007632412361273728",
+    "source": "twitter",
+    "author": "MohMaya97",
+    "content": "@raylmbek @ccdotdev @opencode @justsisyphus @droid Sure. Can you do tomorrow (Sunday)? I am in Central Time zone. Lemme know what time works for you (except 1-3 P Central)",
+    "url": "https://x.com/MohMaya97/status/2007632412361273728",
+    "timestamp": "2026-01-04T01:57:21.000Z",
+    "metadata": {
+      "conversation_id": "2007632412361273728",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007632215287746748",
+    "source": "twitter",
+    "author": "MohMaya97",
+    "content": "@raylmbek @ccdotdev @opencode @justsisyphus @droid Same reason why I am off @cursor_ai or @conductor_build now too. Both brilliant tools. Just not for me. Same for @ccdotdev.\nI just discovered this about myself but TUI is my sweet spot. GUIs add cognitive overload for me.",
+    "url": "https://x.com/MohMaya97/status/2007632215287746748",
+    "timestamp": "2026-01-04T01:56:34.000Z",
+    "metadata": {
+      "conversation_id": "2007632215287746748",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007631240946761882",
+    "source": "twitter",
+    "author": "raylmbek",
+    "content": "@MohMaya97 @ccdotdev @opencode @justsisyphus @droid Would you be able to hop on a call sometime this week to discuss how we may be of help? We have shipped a couple of new versions in the past week, would love for you to try!",
+    "url": "https://x.com/raylmbek/status/2007631240946761882",
+    "timestamp": "2026-01-04T01:52:42.000Z",
+    "metadata": {
+      "conversation_id": "2007631240946761882",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007630879359905893",
+    "source": "twitter",
+    "author": "MohMaya97",
+    "content": "@raylmbek @ccdotdev with (@opencode + @justsisyphus with Claude Max20x) or @droid (depending on how slash-and-burn vs maintenance I wanna be). Those are my only two drivers now. And they have all the agents baked in and do a pretty good job of what I want to do and see in my org’s codebase.",
+    "url": "https://x.com/MohMaya97/status/2007630879359905893",
+    "timestamp": "2026-01-04T01:51:16.000Z",
+    "metadata": {
+      "conversation_id": "2007630879359905893",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007606866403336470",
     "source": "twitter",
     "author": "acabelt",
