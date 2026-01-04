@@ -8528,6 +8528,19 @@
     "category": "mention"
   },
   {
+    "id": "github_issue_514",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Error: todos must be an array\n\nplease fix todowrite error",
+    "url": "https://github.com/Factory-AI/factory/issues/514",
+    "timestamp": "2025-12-11T12:46:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 514
+    }
+  },
+  {
     "id": "github_discussion_509",
     "source": "github",
     "author": "MikDal002",
