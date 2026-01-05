@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008218211502948687",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@beffjezos @matanSF @canvardar @droid Droid with GPT-5.2 (X-High) is AGI for developers",
+    "url": "https://x.com/geo_anima/status/2008218211502948687",
+    "timestamp": "2026-01-05T16:45:07.000Z",
+    "metadata": {
+      "conversation_id": "2008218211502948687",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_563",
     "source": "github",
     "author": "juanmapf",
