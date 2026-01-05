@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008065072481055152",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "I've been running a few experiments with CLI tools for the past few weeks - Claude Code, Gemini CLI, Codex, and @droid - and I'm finding myself reaching for them more than Cursor or Bolt.\n\nThat's pushed me to rethink my subscription stack for this year.\n\nHere's where I'm stuck:\n\nOption A: \n$100 Claude \n$20 on Droid (using GLM4.7 for most tasks) \n$20-$30 in OpenRouter credits\n\nOption B: \n$20 on Droid \n$60-80 in OpenRouter credits. \n$20 Cursor\n$20 Claude\nI find myself using GLM4.7 (droid core) for 80% of the time and switching to Sonnet/Opus/Gemini/Codex only when it fails.\n\nI'm not going with $200 on Claude because I can't drop Droid - their harness is too smooth, and it just works. If they offered a $100 plan, this would be easy. But they don't (for now!).\n\nThe other concern with the Claude sub is how fast it burns through tokens. That makes me cautious about relying on it as my primary setup.\n\nI'm leaning toward Option B, mostly because I love the harness Droid has built. But before I commit, I'd like to hear from anyone who's used both Claude Code and Droid regularly.\n\nWhat pros and cons have you noticed - especially if you're working on complex projects?",
+    "url": "https://x.com/nkgoutham/status/2008065072481055152",
+    "timestamp": "2026-01-05T06:36:35.000Z",
+    "metadata": {
+      "conversation_id": "2008065072481055152",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008050011007770863",
     "source": "twitter",
     "author": "iamkevchan",
