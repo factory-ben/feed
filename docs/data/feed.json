@@ -16,6 +16,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2008609166672490687",
+    "source": "twitter",
+    "author": "PovilasKorop",
+    "content": "@ramichabchoub I listened to a podcast just today where @FactoryAI founder predicted that a lot of software will release new versions like this. \n\nClean new version is now easier sometimes with LLM than dragging along all the legacy.",
+    "url": "https://x.com/PovilasKorop/status/2008609166672490687",
+    "timestamp": "2026-01-06T18:38:38.000Z",
+    "metadata": {
+      "conversation_id": "2008609166672490687",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008605495431774385",
+    "source": "twitter",
+    "author": "Alfred__info",
+    "content": "@FactoryAI @aiDotEngineer @EnoReyes HTTP Status Error 400 Organization has already been granted extra trial token .... This is my first time trying Factory, and there's no way I'm going any further. It's probably a scam app.",
+    "url": "https://x.com/Alfred__info/status/2008605495431774385",
+    "timestamp": "2026-01-06T18:24:02.000Z",
+    "metadata": {
+      "conversation_id": "2008605495431774385",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008598714206806454",
     "source": "twitter",
     "author": "iamkevchan",
