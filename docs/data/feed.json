@@ -160,6 +160,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2008295652661358680",
+    "source": "twitter",
+    "author": "belowcube",
+    "content": "@MarcTerns @steipete one cli that i used was @droid and honestly i was able to have extremely long-running sessions and never noticed any degration in code quality. I'm currently running my Codex subscription with Droid by using https://t.co/oneeewdQnD",
+    "url": "https://x.com/belowcube/status/2008295652661358680",
+    "timestamp": "2026-01-05T21:52:50.000Z",
+    "metadata": {
+      "conversation_id": "2008295652661358680",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008291397116346450",
     "source": "twitter",
     "author": "GiusMarci",
@@ -174,6 +189,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2008287553997410612",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@matanSF @itetnaa @droid Same tbqfwyatm",
+    "url": "https://x.com/JoelDeTeves/status/2008287553997410612",
+    "timestamp": "2026-01-05T21:20:39.000Z",
+    "metadata": {
+      "conversation_id": "2008287553997410612",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008281681938300967",
