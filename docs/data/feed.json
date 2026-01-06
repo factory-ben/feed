@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2008374802063454317",
+    "source": "twitter",
+    "author": "damien_r_h",
+    "content": "Just upgraded to the @FactoryAI Max plan. Feels good to have all those Opus 4.5 credits.",
+    "url": "https://x.com/damien_r_h/status/2008374802063454317",
+    "timestamp": "2026-01-06T03:07:21.000Z",
+    "metadata": {
+      "conversation_id": "2008374802063454317",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008363195497639984",
+    "source": "twitter",
+    "author": "ImranDeveloper",
+    "content": "Lekin factory bhi toh token bahut jyada consume karta h \n\nAnd regarding augment code Actually bhai unhe business par bhi dhyaan dena tha. And they didn't decrease quality.\n\nCurrently dekha jaye toh 1 lakh tokens main ek din me hi kharch kar leta hu jab use karne baith'ta hu so ab ise complex task k liye hi use karta hu. \n\nWaki GitHub copilot ka 39 dollar wala plan sahi kaam kar raha h.",
+    "url": "https://x.com/ImranDeveloper/status/2008363195497639984",
+    "timestamp": "2026-01-06T02:21:14.000Z",
+    "metadata": {
+      "conversation_id": "2008363195497639984",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008362310872514986",
+    "source": "twitter",
+    "author": "lohigowda_in",
+    "content": "@ImranDeveloper @claudeai @adocomplete @trq212 @augmentcode I used Augment Code a long time ago—it’s excellent for handling context. After the pricing structure changed, I moved to @FactoryAI 😁\nHow are you using Augment Code? How does it compare to Claude and similar coding subscriptions in terms of value?",
+    "url": "https://x.com/lohigowda_in/status/2008362310872514986",
+    "timestamp": "2026-01-06T02:17:43.000Z",
+    "metadata": {
+      "conversation_id": "2008362310872514986",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008361320052060273",
     "source": "twitter",
     "author": "lohigowda_in",
