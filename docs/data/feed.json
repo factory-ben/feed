@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2008537336871878904",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_discussion_565",
@@ -40,7 +42,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 565
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2008532216364888525",
