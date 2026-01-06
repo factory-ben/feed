@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2008583526523056590",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@gmickel @droid @RepoPrompt For sure, thank you!  It’s great work!",
+    "url": "https://x.com/GitMaxd/status/2008583526523056590",
+    "timestamp": "2026-01-06T16:56:45.000Z",
+    "metadata": {
+      "conversation_id": "2008583526523056590",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008583400945516647",
+    "source": "twitter",
+    "author": "gmickel",
+    "content": "@GitMaxd @droid @RepoPrompt Awesome, thanks",
+    "url": "https://x.com/gmickel/status/2008583400945516647",
+    "timestamp": "2026-01-06T16:56:15.000Z",
+    "metadata": {
+      "conversation_id": "2008583400945516647",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008583254857969820",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@gmickel @droid @RepoPrompt It’s been a few days since I’ve updated but you can take a look here\n\nhttps://t.co/yQDvSLfzuW",
+    "url": "https://x.com/GitMaxd/status/2008583254857969820",
+    "timestamp": "2026-01-06T16:55:40.000Z",
+    "metadata": {
+      "conversation_id": "2008583254857969820",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008582404664160383",
+    "source": "twitter",
+    "author": "gmickel",
+    "content": "@GitMaxd @droid @RepoPrompt Carmack is the best :) and yep I'll hit u up here.\n\nDid u publish the droid version, would also be interested.",
+    "url": "https://x.com/gmickel/status/2008582404664160383",
+    "timestamp": "2026-01-06T16:52:17.000Z",
+    "metadata": {
+      "conversation_id": "2008582404664160383",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008581766198726923",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@gmickel Very interested to see - I’ve rewritten Flow (for Claude) into FlowFactory for @droid and it’s outstanding.\n\nAs a long time user of @RepoPrompt  I really appreciate the rp_cli integration and use plan/review/work/review opus 5.2 with HPT 5.2 Carmack\n\nHMU - happy to help test",
+    "url": "https://x.com/GitMaxd/status/2008581766198726923",
+    "timestamp": "2026-01-06T16:49:45.000Z",
+    "metadata": {
+      "conversation_id": "2008581766198726923",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008578446948225151",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@haithehuman Lemme know if you give it a try!  \n\nI have a better @Droid Mode version I hope to Open Source Repo today 🤖\n\nhttps://t.co/Gc8LLteMX0",
+    "url": "https://x.com/GitMaxd/status/2008578446948225151",
+    "timestamp": "2026-01-06T16:36:33.000Z",
+    "metadata": {
+      "conversation_id": "2008578446948225151",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008571991167799343",
     "source": "twitter",
     "author": "samfitz",
