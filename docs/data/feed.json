@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2008571991167799343",
+    "source": "twitter",
+    "author": "samfitz",
+    "content": "@BillCrosby @FactoryAI Yes most things worked out of the box, including custom subagents. Let me know what you build if you end up giving it a try 🤖",
+    "url": "https://x.com/samfitz/status/2008571991167799343",
+    "timestamp": "2026-01-06T16:10:54.000Z",
+    "metadata": {
+      "conversation_id": "2008571991167799343",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008570941530685730",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@StijnSmits @anshnanda @FactoryAI Droid is the superior harness",
+    "url": "https://x.com/geo_anima/status/2008570941530685730",
+    "timestamp": "2026-01-06T16:06:44.000Z",
+    "metadata": {
+      "conversation_id": "2008570941530685730",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008570506446774455",
     "source": "twitter",
     "author": "nkgoutham",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2008570041152008665",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "@FactoryAI Day 6: Update 1\n\nClaude cooked — results are in.\n\nA lot cleaner and more consistent. Not quite there yet, but I'm impressed with the changes just from prompting Grok to channel Steve Jobs. https://t.co/umOTOvQ6k0",
+    "url": "https://x.com/iamkevchan/status/2008570041152008665",
+    "timestamp": "2026-01-06T16:03:09.000Z",
+    "metadata": {
+      "conversation_id": "2008570041152008665",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008559757481963644",
