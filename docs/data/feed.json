@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2008339137741644185",
+    "source": "twitter",
+    "author": "KingBootoshi",
+    "content": "@PWenzhen76938 @FactoryAI well there are infinite combos you can use\n\nthis space is so new u can't just stay solid u must be fluid\n\nclaude code is just a step in my CLI\n\nif factory is as good as everyone says then it would replace claude code for me is my assumption",
+    "url": "https://x.com/KingBootoshi/status/2008339137741644185",
+    "timestamp": "2026-01-06T00:45:38.000Z",
+    "metadata": {
+      "conversation_id": "2008339137741644185",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008335322879316284",
+    "source": "twitter",
+    "author": "PWenzhen76938",
+    "content": "@KingBootoshi @FactoryAI ‘my agentic workflows are top tier already’. bro, this is the ‘skill issue’ u were talking about the other day. if u can't see the difference, maybe there isn't one for your use case",
+    "url": "https://x.com/PWenzhen76938/status/2008335322879316284",
+    "timestamp": "2026-01-06T00:30:28.000Z",
+    "metadata": {
+      "conversation_id": "2008335322879316284",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008334535881056693",
+    "source": "twitter",
+    "author": "luckriver",
+    "content": "Hi @FactoryAI , I can’t login to my account but the subscription renews automatically. Can you help to cancel the subscription or just let me login?",
+    "url": "https://x.com/luckriver/status/2008334535881056693",
+    "timestamp": "2026-01-06T00:27:21.000Z",
+    "metadata": {
+      "conversation_id": "2008334535881056693",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008333818483118320",
+    "source": "twitter",
+    "author": "remiaxyz",
+    "content": "@KingBootoshi @FactoryAI droid agents are next level",
+    "url": "https://x.com/remiaxyz/status/2008333818483118320",
+    "timestamp": "2026-01-06T00:24:30.000Z",
+    "metadata": {
+      "conversation_id": "2008333818483118320",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008332712105701679",
+    "source": "twitter",
+    "author": "KingBootoshi",
+    "content": "i GENUINELY want to know the difference between using Claude Code CLI and @FactoryAI \n\ni am genuinely interested in using it but I don't see the difference in switching\n\ncan someone please explain the advantages Droid has, my agentic workflows are top tier already \n\nam v curious",
+    "url": "https://x.com/KingBootoshi/status/2008332712105701679",
+    "timestamp": "2026-01-06T00:20:06.000Z",
+    "metadata": {
+      "conversation_id": "2008332712105701679",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008328419637932499",
+    "source": "twitter",
+    "author": "samfitz",
+    "content": "@irl_danB @FactoryAI @EnoReyes may be able to chime in. \n\nRight now we are working on allowing this to specify any model we support, for now it will either inherit the model from the existing session, or use a hardcoded on in our subagent config. But that's on our side.",
+    "url": "https://x.com/samfitz/status/2008328419637932499",
+    "timestamp": "2026-01-06T00:03:02.000Z",
+    "metadata": {
+      "conversation_id": "2008328419637932499",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008327259027857724",
+    "source": "twitter",
+    "author": "irl_danB",
+    "content": "@samfitz @FactoryAI this is awesome, nice work!\n\nanything I could do to improve the setup/installation for you or 100x its capabilities somehow?",
+    "url": "https://x.com/irl_danB/status/2008327259027857724",
+    "timestamp": "2026-01-05T23:58:26.000Z",
+    "metadata": {
+      "conversation_id": "2008327259027857724",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008326467059363895",
+    "source": "twitter",
+    "author": "samfitz",
+    "content": "Got OpenProse working in @FactoryAI Droid with just a few steps!\n\nSetup:\n1. Clone https://t.co/J5IT03dMgN\n2. Copy skills/open-prose/ and commands/ into .factory/ (project or global scope)\n3. Create custom droids (examples):\n  •  required: general-purpose droid → inherit model\n  •  research droid → opus 4.5\n  •  summary droid → haiku 4.5\n  •  code-review droid → GPT-5.2\n  • test-writer droid → GLM-4.7\n4. Restart Droid\n\nNow .prose programs spawn custom droids as subagents. Agent names map to droid configs, falling back to general-purpose. Built a custom workflow with 6 parallel research agents → full report in minutes.",
+    "url": "https://x.com/samfitz/status/2008326467059363895",
+    "timestamp": "2026-01-05T23:55:17.000Z",
+    "metadata": {
+      "conversation_id": "2008326467059363895",
+      "likes": 6,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_2008316511849771041",
     "source": "twitter",
     "author": "lohigowda_in",
