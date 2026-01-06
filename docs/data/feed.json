@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008392698546336231",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@adocomplete @bcherny This is needlessly complicated. @droid permissions (on level Medium) block things that are not reversible (git push, rm of stuff not in git). It requires no config, and it is easier to understand than \"blocks dangerous stuff\".",
+    "url": "https://x.com/JohnThilen/status/2008392698546336231",
+    "timestamp": "2026-01-06T04:18:28.000Z",
+    "metadata": {
+      "conversation_id": "2008392698546336231",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008390804323307635",
     "source": "twitter",
     "author": "iamkevchan",
@@ -46,6 +61,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2008386020857758013",
+    "source": "twitter",
+    "author": "munoncode",
+    "content": "Built my own personal mobile app using @droid to talk to droid to work in my VM. \n\nReplacing the scrolling addiction with the droid addiction :) https://t.co/ruQRCPnJHK",
+    "url": "https://x.com/munoncode/status/2008386020857758013",
+    "timestamp": "2026-01-06T03:51:56.000Z",
+    "metadata": {
+      "conversation_id": "2008386020857758013",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008377901498892547",
+    "source": "twitter",
+    "author": "MohMaya97",
+    "content": "@nikunj @GeminiApp But there’s no good harness to test it on reliably. I use @droid for it for now. But the model feels nerfed over the past few days - so bad, made me cancel my Gemini Ultra plan. Gemini CLI sucks. Antigravity Sucks. Opencode does not have a proper integration into Gemini. 🥲",
+    "url": "https://x.com/MohMaya97/status/2008377901498892547",
+    "timestamp": "2026-01-06T03:19:40.000Z",
+    "metadata": {
+      "conversation_id": "2008377901498892547",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008374802063454317",
@@ -10268,6 +10313,19 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1puk4bq",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.40.0 Released - Custom models from settings and more\n\n## New features\n\n* **Custom models from settings** - Load custom models directly from settings.json\n* **Parallel tool confirmations** - Single permission request for parallel tool calls instead of individual prompts\n* **Multi-option spec mode** - Spec mode can now present multiple implementation options for user selection\n* **Settings file watching** - Settings automatically reload when the settings file changes\n* **Token usage in exec mode** - Token usage is now displayed in exec streaming outp",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1puk4bq/factory_cli_v0400_released_custom_models_from/",
+    "timestamp": "2025-12-24T10:14:53.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_issue_544",
