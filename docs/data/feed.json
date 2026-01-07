@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2008883217009717512",
+    "source": "twitter",
+    "author": "Slyndc",
+    "content": "They hype is over for @FactoryAI ?",
+    "url": "https://x.com/Slyndc/status/2008883217009717512",
+    "timestamp": "2026-01-07T12:47:36.000Z",
+    "metadata": {
+      "conversation_id": "2008883217009717512",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008882494872174762",
+    "source": "twitter",
+    "author": "yimengong",
+    "content": "@matanSF @ThePrimeagen @RaghavKoch19380 @FactoryAI @ThePrimeagen throw in some haskell",
+    "url": "https://x.com/yimengong/status/2008882494872174762",
+    "timestamp": "2026-01-07T12:44:44.000Z",
+    "metadata": {
+      "conversation_id": "2008882494872174762",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1q6e540",
     "source": "reddit",
     "author": "bentossell",
