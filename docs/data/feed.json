@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2009030218644586948",
+    "source": "twitter",
+    "author": "TechGringo",
+    "content": "@FactoryAI This is gold. The fact that agents default to documentation and API refs shows they think like we do, just without the procrastination lol. The learning/debugging split is fascinating too.",
+    "url": "https://x.com/TechGringo/status/2009030218644586948",
+    "timestamp": "2026-01-07T22:31:44.000Z",
+    "metadata": {
+      "conversation_id": "2009030218644586948",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009029694503502151",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@ntaylormullen @LyalinDotCom @geminicli @FactoryAI @AmpCode In short, we should be able to get Sonnet 4.5 like agentic tasks and coding performance. Nonetheless, I'm looking forward to the new updates. https://t.co/UGzTsjPjtq",
+    "url": "https://x.com/erd0xbc/status/2009029694503502151",
+    "timestamp": "2026-01-07T22:29:39.000Z",
+    "metadata": {
+      "conversation_id": "2009029694503502151",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009029200485769219",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@ntaylormullen @LyalinDotCom @geminicli @FactoryAI @AmpCode Best use cases so far have been to delegate searching working to @geminicli via Claude Opus 4.5. Or to have Opus 4.5 build ad-hoc scripts to called G3 Flash, Pro, or Nano Pro depending on the use case. Multi-modal video, audio, etc is world class.",
+    "url": "https://x.com/erd0xbc/status/2009029200485769219",
+    "timestamp": "2026-01-07T22:27:42.000Z",
+    "metadata": {
+      "conversation_id": "2009029200485769219",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009028414880030849",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@ntaylormullen @LyalinDotCom @geminicli Still feels like it fumbles around. Love the raw speed and intelligence but gets tripped up in agent coding tasks. Tried recently in @FactoryAI and @AmpCode.",
+    "url": "https://x.com/erd0xbc/status/2009028414880030849",
+    "timestamp": "2026-01-07T22:24:34.000Z",
+    "metadata": {
+      "conversation_id": "2009028414880030849",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009022937198997969",
     "source": "twitter",
     "author": "BillCrosby",
