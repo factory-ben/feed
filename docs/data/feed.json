@@ -32,6 +32,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2008907607189442616",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Can someone help me find resources where I can read up about how @OpenRouterAI models (like minimax, glm, deepseek etc.) do caching, while working with CLI tools like @droid ?\n\nDroid attempts token caching for other models (outside of droid sub) but for openrouter, it apparently depends on the model.",
+    "url": "https://x.com/nkgoutham/status/2008907607189442616",
+    "timestamp": "2026-01-07T14:24:31.000Z",
+    "metadata": {
+      "conversation_id": "2008907607189442616",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008906097776562212",
     "source": "twitter",
     "author": "bentossell",
@@ -110,6 +125,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2008895762030100611",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@GeoffreyHuntley @AmpCode @sqs we'll give you the tokens you need @droid",
+    "url": "https://x.com/bentossell/status/2008895762030100611",
+    "timestamp": "2026-01-07T13:37:27.000Z",
+    "metadata": {
+      "conversation_id": "2008895762030100611",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008895607386321266",
@@ -232,6 +262,21 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2008876553506263378",
+    "source": "twitter",
+    "author": "iannuttall",
+    "content": "@jessems @droid coding agent which is a very, very good harness\n\nit's like claude code level features but you can use gemini/gpt-5 etc",
+    "url": "https://x.com/iannuttall/status/2008876553506263378",
+    "timestamp": "2026-01-07T12:21:08.000Z",
+    "metadata": {
+      "conversation_id": "2008876553506263378",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008849735474696534",
