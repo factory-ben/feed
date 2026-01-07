@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2008898632628502872",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@fire @WindsorNguyen @FactoryAI did you try provider: \"anthropic\" ?",
+    "url": "https://x.com/bentossell/status/2008898632628502872",
+    "timestamp": "2026-01-07T13:48:52.000Z",
+    "metadata": {
+      "conversation_id": "2008898632628502872",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008898443419300258",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @WindsorNguyen @FactoryAI I have tried various model identifiers that do work when hitting their api directly but have as of yet been unable to get droid to do anything but the image. I'm also not clear at this stage how to get log/debug info from the harness anymore (which is why I've included a bug ID)",
+    "url": "https://x.com/fire/status/2008898443419300258",
+    "timestamp": "2026-01-07T13:48:07.000Z",
+    "metadata": {
+      "conversation_id": "2008898443419300258",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008896706453135495",
     "source": "twitter",
     "author": "fire",
