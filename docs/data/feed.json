@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2008816170577895530",
+    "source": "twitter",
+    "author": "bimajatmiko_",
+    "content": "@indrazulfi @Zai_org @charmcli @FactoryAI Btw dulu ada juga claude code cli, tapi model pakai GLM di zai, kurang tau saat ini masih bisa atau engga 🙏",
+    "url": "https://x.com/bimajatmiko_/status/2008816170577895530",
+    "timestamp": "2026-01-07T08:21:11.000Z",
+    "metadata": {
+      "conversation_id": "2008816170577895530",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008815886359269563",
+    "source": "twitter",
+    "author": "bimajatmiko_",
+    "content": "@indrazulfi Saya considering switch ke GLM 4.6 punya Z AI @Zai_org , utk cli saat ini pakai charm @charmcli dan mau coba cli droid @FactoryAI \n\nMau tanya juga kalau ttg context management, abah gimana handle-nya? Matur nuwun",
+    "url": "https://x.com/bimajatmiko_/status/2008815886359269563",
+    "timestamp": "2026-01-07T08:20:03.000Z",
+    "metadata": {
+      "conversation_id": "2008815886359269563",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008807054530822395",
     "source": "twitter",
     "author": "prasanth_jsdev",
