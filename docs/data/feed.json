@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008903567017402846",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @WindsorNguyen @FactoryAI trying to treat it as an anthropic provider results in an actual error message as a response at least, but that's kind of expected(?) since this is only a /chat/completions endpoint atm\n--\n\nis there a way to inspect how droid is making requests to see what it's doing differently? https://t.co/Nz4AcnMq8M",
+    "url": "https://x.com/fire/status/2008903567017402846",
+    "timestamp": "2026-01-07T14:08:28.000Z",
+    "metadata": {
+      "conversation_id": "2008903567017402846",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008898632628502872",
     "source": "twitter",
     "author": "bentossell",
@@ -11980,6 +11995,19 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_552",
+    "source": "github",
+    "author": "KilimcininKorOglu",
+    "content": "[Issue] append a text to system prompt\n\n\n\nWe can add text to Claude Code's system prompt using the `--append-system-prompt \"some text\"` command.\n\nIs there a similar command in Droid-CLI?\n",
+    "url": "https://github.com/Factory-AI/factory/issues/552",
+    "timestamp": "2025-12-26T07:23:27Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 552
+    }
   },
   {
     "id": "github_issue_551",
