@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2008938677494296969",
+    "source": "twitter",
+    "author": "TokenMuncher",
+    "content": "@FactoryAI insane memory leaks running droid in ghostty just hit 12GB after 4 prompts",
+    "url": "https://x.com/TokenMuncher/status/2008938677494296969",
+    "timestamp": "2026-01-07T16:27:59.000Z",
+    "metadata": {
+      "conversation_id": "2008938677494296969",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008936924107665703",
+    "source": "twitter",
+    "author": "connorpaton",
+    "content": "@francescoswiss @Francesco_Oddo @tembo @FactoryAI @antigravity @francescoswiss ping me ill give you some credits for testing this weekend!",
+    "url": "https://x.com/connorpaton/status/2008936924107665703",
+    "timestamp": "2026-01-07T16:21:01.000Z",
+    "metadata": {
+      "conversation_id": "2008936924107665703",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008933090329317637",
     "source": "twitter",
     "author": "dreamworks2050",
