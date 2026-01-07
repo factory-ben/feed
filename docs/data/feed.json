@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_2008741524109160839",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 6: Update 3\n\nCaptured that old-school peer review feeling today.\n\nThe big thing: This whole multi-LLM setup isn't just about catching bugs or double-checking — it's recreating those solid dev habits from back in the day.\n\nIt's basically like sitting with a senior dev — one model throws something together, the other tears it apart without any ego getting in the way.\n\nTakes me back to 2004, junior me getting my code shredded line by line. \n\nShoutout to those guys who drilled it into me — you never know when those lessons circle back.",
+    "url": "https://x.com/iamkevchan/status/2008741524109160839",
+    "timestamp": "2026-01-07T03:24:34.000Z",
+    "metadata": {
+      "conversation_id": "2008741524109160839",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_566",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] mcp error\n\nconnect success, tools zero",
+    "url": "https://github.com/Factory-AI/factory/issues/566",
+    "timestamp": "2026-01-07T03:20:49Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 566
+    }
+  },
+  {
     "id": "twitter_2008718841673834503",
     "source": "twitter",
     "author": "davidtsolheim",
