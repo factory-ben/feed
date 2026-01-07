@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009015093384917347",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "Was it intentional to reset @FactoryAI Droid back to “Auto (Off)” when you close the CLI?\n\nKind of annoying to have to change it back every time, but wasn’t sure if it was intentional for security or something. \n\ncc: @bentossell",
+    "url": "https://x.com/KirkMarple/status/2009015093384917347",
+    "timestamp": "2026-01-07T21:31:38.000Z",
+    "metadata": {
+      "conversation_id": "2009015093384917347",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009010366618194319",
     "source": "twitter",
     "author": "creatine_cycle",
