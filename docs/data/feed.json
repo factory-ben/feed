@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008708248942375327",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "Built a new website! \n\nI have a long list of changes, fixes, improvements (especially to the copy) and additions - but if it's perfect when you ship, you waited too long.\n\n80% of it done with @droid (in https://t.co/NWAWnUbNzY) with a mix of models but primarily Opus. \n\nThe other 20% in @cursor_ai - often just to make inline text edits. \n\n30 days ago I had never in earnest used: \n\n- The command line\n- Any agents\n- shadcn/ui\n- Github\n- Netlify",
+    "url": "https://x.com/nathanclark_/status/2008708248942375327",
+    "timestamp": "2026-01-07T01:12:21.000Z",
+    "metadata": {
+      "conversation_id": "2008708248942375327",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008682029995721137",
     "source": "twitter",
     "author": "gmickel",
