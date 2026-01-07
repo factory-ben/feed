@@ -1,5 +1,61 @@
 [
   {
+    "id": "github_issue_569",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Returning to a previous session in a new directory mounts the droid in the old directory\n\nBug Report ID: 479abeb0-c755-4b9d-a0f5-55156d006149\n\nMy situation:\n 1. I was on my main branch in `Documents/myproject/` using droid-cli, exiting and saving the session-id\n 2. I create a new git worktree next to it on another branch `Documents/myproject_feature_branch/` \n 3. I go to the `Documents/myproject_feature_branch/` and enter droid cli restoring the session using the session-id\n 4. In bash mode I do \n    ```\n     ⏳ Executing command...                                                     ",
+    "url": "https://github.com/Factory-AI/factory/issues/569",
+    "timestamp": "2026-01-07T13:20:01Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 569
+    }
+  },
+  {
+    "id": "twitter_2008887333110812941",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @WindsorNguyen @FactoryAI this is general chat completions",
+    "url": "https://x.com/fire/status/2008887333110812941",
+    "timestamp": "2026-01-07T13:03:58.000Z",
+    "metadata": {
+      "conversation_id": "2008887333110812941",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1q6erpe",
+    "source": "reddit",
+    "author": "und3rc0d3",
+    "content": "Bad experience.\n\nI asked Factory to do a relatively simple task: modify a component so it renders inside a modal.\n\nI first used Opus Medium; it set up most of the structure correctly, but it completely forgot to migrate half of the existing features. They were just ignored.\n\nThen I explicitly asked it to carefully search for everything that was missing and fix it. At that point it burned \\~500k tokens just trying (and failing) to fix a very basic MapboxGL issue (a simple resize() when opening the modal).\n\nAfter ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q6erpe/bad_experience/",
+    "timestamp": "2026-01-07T13:01:53.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2008886622331482612",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@fire @WindsorNguyen @FactoryAI maybe because we only support openai/anthropic/general-chat-completions ?",
+    "url": "https://x.com/bentossell/status/2008886622331482612",
+    "timestamp": "2026-01-07T13:01:08.000Z",
+    "metadata": {
+      "conversation_id": "2008886622331482612",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008883217009717512",
     "source": "twitter",
     "author": "Slyndc",
