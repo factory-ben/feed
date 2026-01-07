@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2008928327159996663",
+    "source": "twitter",
+    "author": "Kyler_Lorin",
+    "content": "@TheGreatAxios @matanSF @FactoryAI @ThePrimeagen @RaghavKoch19380 Have you tried it with the provided models?",
+    "url": "https://x.com/Kyler_Lorin/status/2008928327159996663",
+    "timestamp": "2026-01-07T15:46:51.000Z",
+    "metadata": {
+      "conversation_id": "2008928327159996663",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008927561896563081",
+    "source": "twitter",
+    "author": "Francesco_Oddo",
+    "content": "@tembo @francescoswiss @FactoryAI @antigravity 💜",
+    "url": "https://x.com/Francesco_Oddo/status/2008927561896563081",
+    "timestamp": "2026-01-07T15:43:49.000Z",
+    "metadata": {
+      "conversation_id": "2008927561896563081",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008927502027161789",
+    "source": "twitter",
+    "author": "tembo",
+    "content": "@Francesco_Oddo @francescoswiss @FactoryAI @antigravity Thanks for the mention Francesco!",
+    "url": "https://x.com/tembo/status/2008927502027161789",
+    "timestamp": "2026-01-07T15:43:35.000Z",
+    "metadata": {
+      "conversation_id": "2008927502027161789",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008920754411180209",
     "source": "twitter",
     "author": "captaink99",
