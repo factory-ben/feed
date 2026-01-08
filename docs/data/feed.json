@@ -80,6 +80,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009085513769378261",
+    "source": "twitter",
+    "author": "anandanamnesis",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI I think we’ll quickly see the evolution to this trend.\n\nHey maybe even PM’s, SWE’s, and Designers will merge into one…",
+    "url": "https://x.com/anandanamnesis/status/2009085513769378261",
+    "timestamp": "2026-01-08T02:11:28.000Z",
+    "metadata": {
+      "conversation_id": "2009085513769378261",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009085245380075605",
     "source": "twitter",
     "author": "elliotarledge",
@@ -112,6 +127,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009081089047056614",
+    "source": "twitter",
+    "author": "SerCeMan",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI My point is that the \"barrier\" isn't defined so much by the language, but by the constraints and specifics of the environment the code is executed in. \n\nAI can help greatly with syntax (and not just the syntax), but it was never the syntax that was the barrier.",
+    "url": "https://x.com/SerCeMan/status/2009081089047056614",
+    "timestamp": "2026-01-08T01:53:53.000Z",
+    "metadata": {
+      "conversation_id": "2009081089047056614",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009080931601273088",
     "source": "twitter",
     "author": "chevyphillip",
@@ -126,6 +156,36 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2009077209710121418",
+    "source": "twitter",
+    "author": "AmdakaPa",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI \"- Simplified React: A robust component library and the React Compiler mean no useMemo or useCallback. Plus, useEffect is banned.\"\n\nXDD\nWtf xD Hahahaha",
+    "url": "https://x.com/AmdakaPa/status/2009077209710121418",
+    "timestamp": "2026-01-08T01:38:28.000Z",
+    "metadata": {
+      "conversation_id": "2009077209710121418",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009076626928357793",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI that line really hits different coming from someone inside the grind. reminds me how messy startup hiring can get sometimes.",
+    "url": "https://x.com/BillCrosby/status/2009076626928357793",
+    "timestamp": "2026-01-08T01:36:09.000Z",
+    "metadata": {
+      "conversation_id": "2009076626928357793",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009075457132757281",
@@ -13450,5 +13510,44 @@
       "number": 384
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_374",
+    "source": "github",
+    "author": "vibl",
+    "content": "[Discussion] 20M tokens promised, 1M tokens received...\n\nThe website https://factorycli.com/ promises free 20M tokens. After clicking on the link and signing up, I only received 1M tokens . ",
+    "url": "https://github.com/Factory-AI/factory/discussions/374",
+    "timestamp": "2025-11-17T00:05:46Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "General",
+      "number": 374
+    }
+  },
+  {
+    "id": "github_discussion_361",
+    "source": "github",
+    "author": "aaronschwartz",
+    "content": "[Discussion] Does using the CLI in BYOK mode send data to Factory.ai?\n\nIf we configure the cli to use our own model through BYOK, does any of our data get sent to Factory.ai servers before being submitted to the model for processing? e.g. is there any codebase indexing or embedding being created by Factory.ai in the cloud before prompting the BYOK third party providers?",
+    "url": "https://github.com/Factory-AI/factory/discussions/361",
+    "timestamp": "2025-11-14T21:17:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 361
+    }
+  },
+  {
+    "id": "github_discussion_309",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] Droid CLI: configurable timeouts per mcp server\n\n**Motivation**: I use a 'Language Server Protocol' mcp for adding tools to query symbols and find_usage and such. But on large projects and during first-time use they can take quite some time before giving responses; causing timeouts in droid cli. If I could configure a larger timeout for this specific mcp server it could work better.",
+    "url": "https://github.com/Factory-AI/factory/discussions/309",
+    "timestamp": "2025-11-04T10:48:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 309
+    }
   }
 ]
