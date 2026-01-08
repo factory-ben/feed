@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2009153788029112580",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 7: Update 2\n\nFinally got a basic Ralph Wiggum loop running tonight. \n\nWay simpler than some of the setups blowing up on X right now.\n\nDidn't throw it at new features — just aimed it at some existing code to see if it could tighten things up. Results were... tepid at best.\n\nOnly ran 10 iterations, but damn, I already see how people burn through tokens like crazy 😅\n\nTo me, it's basically test-driven development on steroids.\n\nMore experiments/thoughts tomorrow.",
+    "url": "https://x.com/iamkevchan/status/2009153788029112580",
+    "timestamp": "2026-01-08T06:42:45.000Z",
+    "metadata": {
+      "conversation_id": "2009153788029112580",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009152448808820904",
+    "source": "twitter",
+    "author": "backyardleaf",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI useEffects are so damn brittle in large code bases with a lot of pivots and agents love to over engineer them.",
+    "url": "https://x.com/backyardleaf/status/2009152448808820904",
+    "timestamp": "2026-01-08T06:37:26.000Z",
+    "metadata": {
+      "conversation_id": "2009152448808820904",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009149628751728977",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@AmdakaPa @GergelyOrosz @FactoryAI I know it sounds crazy, even the engineers at @FactoryAI were skeptical at first, but lo and behold, our team loves the new frontend tech stack. I plan to blog about the 'no-useEffect' approach soon!",
+    "url": "https://x.com/alvinsng/status/2009149628751728977",
+    "timestamp": "2026-01-08T06:26:14.000Z",
+    "metadata": {
+      "conversation_id": "2009149628751728977",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009148496595800341",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@itsvedha @GergelyOrosz @FactoryAI Good callout! I want to write more deeply about simple frontends when I get the chance, so stay tuned.\n\nI'm starting a post about why you should avoid useEffect, which will be a good starter.",
+    "url": "https://x.com/alvinsng/status/2009148496595800341",
+    "timestamp": "2026-01-08T06:21:44.000Z",
+    "metadata": {
+      "conversation_id": "2009148496595800341",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009146497171063158",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@anandanamnesis @GergelyOrosz @FactoryAI Technically, that is exactly what co-founders do at the start. The real question is: How much longer can startups remain lean in this new era? \n\nWe are approaching a future of $100M ARR, and eventually, billion-dollar companies, powered by a single solo developer.",
+    "url": "https://x.com/alvinsng/status/2009146497171063158",
+    "timestamp": "2026-01-08T06:13:47.000Z",
+    "metadata": {
+      "conversation_id": "2009146497171063158",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009145590643569151",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@pitachoi @GergelyOrosz @FactoryAI Agree!",
+    "url": "https://x.com/alvinsng/status/2009145590643569151",
+    "timestamp": "2026-01-08T06:10:11.000Z",
+    "metadata": {
+      "conversation_id": "2009145590643569151",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009145480509366686",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "I'm actually planning on writing a blog post about this soon! But for now, the short answer is:\n\n- 9/10 times, the user does not actually need useEffect; they simply do not understand React deeply. This problem is exacerbated when AI agents write code, as they tend to use useEffect \"just to be safe.\"\n- The code becomes brittle as more engineers develop on top of it.\n- All sorts of race conditions or infinite loop bugs occur, subtle issues that are notoriously hard to debug.\n\nOur solution is:\n\n- No useEffect at all: Use derived state, useQuery or event handlers instead.\n- Use useMountEffect: A \"useEffect\" that runs only once with an empty dependency array.\n- The React key prop: Force a re-mount by changing key values.",
+    "url": "https://x.com/alvinsng/status/2009145480509366686",
+    "timestamp": "2026-01-08T06:09:45.000Z",
+    "metadata": {
+      "conversation_id": "2009145480509366686",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009141761776792038",
     "source": "twitter",
     "author": "nkgoutham",
