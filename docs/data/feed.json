@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009188070214496487",
+    "source": "twitter",
+    "author": "SynthesisLedger",
+    "content": "@EnoReyes @Lolaasfi @FactoryAI\n\nYeah, exactly — we sidestep OOM entirely by not using embedding indexes or cosine sim at all.\n\nSubtask classification/routing happens deterministically via Horpestad-verified atomics from the on-chain registry (currently 38 audited modules in the Genesis Codex). No learned vectors needed — just direct decomposition into composable logic gates + Multi-Model Consensus (MMC) across forensic silos for validation.  You can batch arbitrary chains locally or on-chain with the SDK (synl run stacks them lightweight). Keeps memory footprint tiny even on massive inputs.\n\nWhat index size did you end up with for the 780k queries?",
+    "url": "https://x.com/SynthesisLedger/status/2009188070214496487",
+    "timestamp": "2026-01-08T08:58:59.000Z",
+    "metadata": {
+      "conversation_id": "2009188070214496487",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009165511092019471",
     "source": "twitter",
     "author": "matanSF",
