@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009075457132757281",
+    "source": "twitter",
+    "author": "pitachoi",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI Codebases designed for agent collaboration will outpace ones that aren't, regardless of team structure.",
+    "url": "https://x.com/pitachoi/status/2009075457132757281",
+    "timestamp": "2026-01-08T01:31:30.000Z",
+    "metadata": {
+      "conversation_id": "2009075457132757281",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009074756423962966",
+    "source": "twitter",
+    "author": "_sundardas_",
+    "content": "is it true that @FactoryAI 's infinite context enginer gives better results than claude code?",
+    "url": "https://x.com/_sundardas_/status/2009074756423962966",
+    "timestamp": "2026-01-08T01:28:43.000Z",
+    "metadata": {
+      "conversation_id": "2009074756423962966",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009055164322468188",
     "source": "twitter",
     "author": "kylezantos",
