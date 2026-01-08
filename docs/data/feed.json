@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009348333488500771",
+    "source": "twitter",
+    "author": "cmgriffing",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI useEffect is banned?\n\nDoes that just mean no direct usage, but allowed in custom hooks, or no useEffect ever?",
+    "url": "https://x.com/cmgriffing/status/2009348333488500771",
+    "timestamp": "2026-01-08T19:35:49.000Z",
+    "metadata": {
+      "conversation_id": "2009348333488500771",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009344500544491810",
+    "source": "twitter",
+    "author": "TechFollowrazzi",
+    "content": "🚨 @OfficialLoganK followed @cmricksen\n\nCaroline Ricksen is building @factoryai, a software development agent already catching our attention. https://t.co/3Q9XyKLGXx",
+    "url": "https://x.com/TechFollowrazzi/status/2009344500544491810",
+    "timestamp": "2026-01-08T19:20:35.000Z",
+    "metadata": {
+      "conversation_id": "2009344500544491810",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009329198310244791",
     "source": "twitter",
     "author": "kylezantos",
