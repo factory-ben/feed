@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009141761776792038",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "A few issues I'd love @droid to look into:\n- while using Gemini models via OpenRouter, Droid often shows an additional \"Gemini\" response masquerading as a \"user input\" or user prompt. This could be because of the reasoning tokens being streamed but it took me by surprise when I saw this.\n- sometimes, responses don't \"continue\". I have to manually prompt \"continue\" for it to move ahead. This typically happens on GLM4.7 model\n- Droid hallucinates into thinking that it does NOT have access to Supabase even though MCP is configured, and it had done some tasks in a previous chat. \n\nAlso - a general observation - I could be horribly wrong - but the frontend design skill implementation is quite better inside Claude Code than Droid. This is the one of those cases where I see CC doing better than Droid - for the same skill and the same input.",
+    "url": "https://x.com/nkgoutham/status/2009141761776792038",
+    "timestamp": "2026-01-08T05:54:58.000Z",
+    "metadata": {
+      "conversation_id": "2009141761776792038",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009140958701777230",
+    "source": "twitter",
+    "author": "elliotarledge",
+    "content": "@xingyu_liao @droid cool",
+    "url": "https://x.com/elliotarledge/status/2009140958701777230",
+    "timestamp": "2026-01-08T05:51:47.000Z",
+    "metadata": {
+      "conversation_id": "2009140958701777230",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009133404009451982",
     "source": "twitter",
     "author": "fire",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2009129836691026387",
+    "source": "twitter",
+    "author": "xingyu_liao",
+    "content": "@elliotarledge @droid Yes, I'm recently always using GPT 5.2 xhigh to plan and debug, and using opus-4.5 to write code. They coordinated very well together.",
+    "url": "https://x.com/xingyu_liao/status/2009129836691026387",
+    "timestamp": "2026-01-08T05:07:35.000Z",
+    "metadata": {
+      "conversation_id": "2009129836691026387",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009121149226262814",
