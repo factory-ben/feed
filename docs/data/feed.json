@@ -1,5 +1,46 @@
 [
   {
+    "id": "reddit_1q7aica",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.44.0 Released - `/statusline` command and more\n\n## New features\n\n* **`/statusline` command** - Configure custom status line, can import PS1 from shell config\n* **Bulk MCP tool management** - Manage multiple MCP tools at once via ToolsOverviewView\n* **Auto-include Skill tool** - Custom droids (subagents) now automatically include the Skill tool\n\n## Bug fixes\n\n* **Session resume system info** - Session resume now shows correct/up-to-date system info and local date\n* **Model display alignment** - Fixed model display alignment in UI\n* **MCP proje",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q7aica/factory_cli_v0440_released_statusline_command_and/",
+    "timestamp": "2026-01-08T12:27:52.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2009238926817677752",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "Here is my @convex .md skills I created and use with @claudeai and @droid \n\nFeel free to provide any feedback to improve it.\nhttps://t.co/gyYDWYrVZ9",
+    "url": "https://x.com/rezaul_arif/status/2009238926817677752",
+    "timestamp": "2026-01-08T12:21:04.000Z",
+    "metadata": {
+      "conversation_id": "2009238926817677752",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_570",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] started getting a lot of conneciton issues all of a sudden?\n\nI see this so much all of a sudden, sometimes rendering the chat completely unusable!\n\n```\n>  Error: The socket connection was closed unexpectedly. For more information, pass `verbose: true` in the second argument to fetch()\n\n   This might be a network issue. Please check:\n   1. Your internet connection\n   2. Any firewall or proxy settings\n```\n\nI do have net, other chats are running.\n\nBug Report ID: 3bc71ce5-e421-4ed3-90ec-758906d4348c",
+    "url": "https://github.com/Factory-AI/factory/issues/570",
+    "timestamp": "2026-01-08T12:13:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 570
+    }
+  },
+  {
     "id": "twitter_2009195399546806448",
     "source": "twitter",
     "author": "tinkerersanky",
