@@ -16,6 +16,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009117877291635134",
+    "source": "twitter",
+    "author": "mrinalsingh0s",
+    "content": "When life gives you unlimited access to @FactoryAI, run as many parallel agents you can and get that resources pumping https://t.co/Gnq3FKMRZ7",
+    "url": "https://x.com/mrinalsingh0s/status/2009117877291635134",
+    "timestamp": "2026-01-08T04:20:04.000Z",
+    "metadata": {
+      "conversation_id": "2009117877291635134",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009115071436534135",
     "source": "twitter",
     "author": "fire",
@@ -13792,5 +13807,31 @@
       "number": 92
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_82",
+    "source": "github",
+    "author": "mweichert",
+    "content": "[Discussion] Web API?\n\nHi there! Is there a web API to create and manage sessions?",
+    "url": "https://github.com/Factory-AI/factory/discussions/82",
+    "timestamp": "2025-09-29T13:16:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 82
+    }
+  },
+  {
+    "id": "github_discussion_72",
+    "source": "github",
+    "author": "rubendn",
+    "content": "[Discussion] Droid selection in CLI?\n\nIs there a way to use one of the specialized Droids (Product, Tutorial, etc) via the CLI?  I don't see a way to select in the slash commands.\r\n\r\nAlso, is there a way on Windows to select a local workspace path besides ~\\?\r\n\r\nThanks!",
+    "url": "https://github.com/Factory-AI/factory/discussions/72",
+    "timestamp": "2025-09-29T05:17:49Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 72
+    }
   }
 ]
