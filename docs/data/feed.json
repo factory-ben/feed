@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2009088988355895472",
+    "source": "twitter",
+    "author": "AonSayyed",
+    "content": "@steipete @mhyAfter2022 @SkylerMiao7 @ssh_sharma135 @Zai_org @droid great to hear that",
+    "url": "https://x.com/AonSayyed/status/2009088988355895472",
+    "timestamp": "2026-01-08T02:25:16.000Z",
+    "metadata": {
+      "conversation_id": "2009088988355895472",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009088750060753340",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@AonSayyed @mhyAfter2022 @SkylerMiao7 @ssh_sharma135 @Zai_org @droid I'll get to this this week!",
+    "url": "https://x.com/steipete/status/2009088750060753340",
+    "timestamp": "2026-01-08T02:24:19.000Z",
+    "metadata": {
+      "conversation_id": "2009088750060753340",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009088407176380603",
+    "source": "twitter",
+    "author": "AonSayyed",
+    "content": "@mhyAfter2022 @SkylerMiao7 @steipete @ssh_sharma135 @Zai_org @droid Hey guys so the PR is here \n\nhttps://t.co/pM3PMvFaTZ https://t.co/P4pN2jqjyv",
+    "url": "https://x.com/AonSayyed/status/2009088407176380603",
+    "timestamp": "2026-01-08T02:22:57.000Z",
+    "metadata": {
+      "conversation_id": "2009088407176380603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009086717882716245",
+    "source": "twitter",
+    "author": "elliotarledge",
+    "content": "@xingyu_liao @droid have you tried it yet?",
+    "url": "https://x.com/elliotarledge/status/2009086717882716245",
+    "timestamp": "2026-01-08T02:16:15.000Z",
+    "metadata": {
+      "conversation_id": "2009086717882716245",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009085893441933734",
+    "source": "twitter",
+    "author": "xingyu_liao",
+    "content": "@elliotarledge @droid coding is not just writing code. It's also about debugging ,planning or other things.\n\nI think that a claude model is the best model for executing and writing code, but it's not the best one for planning and debugging.",
+    "url": "https://x.com/xingyu_liao/status/2009085893441933734",
+    "timestamp": "2026-01-08T02:12:58.000Z",
+    "metadata": {
+      "conversation_id": "2009085893441933734",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009085245380075605",
+    "source": "twitter",
+    "author": "elliotarledge",
+    "content": "@xingyu_liao @droid thats exactly why claude code is winning. its the best for claude. and claude is the best coding model.",
+    "url": "https://x.com/elliotarledge/status/2009085245380075605",
+    "timestamp": "2026-01-08T02:10:24.000Z",
+    "metadata": {
+      "conversation_id": "2009085245380075605",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009084550815830475",
+    "source": "twitter",
+    "author": "xingyu_liao",
+    "content": "@elliotarledge I have different opinions. I think that @droid (as a third party) can leverage different models' capabilities. If you use Claude Code, it can only use the Claude model but no GPT.",
+    "url": "https://x.com/xingyu_liao/status/2009084550815830475",
+    "timestamp": "2026-01-08T02:07:38.000Z",
+    "metadata": {
+      "conversation_id": "2009084550815830475",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009080931601273088",
+    "source": "twitter",
+    "author": "chevyphillip",
+    "content": "@bcherny So do we still need @droid @FactoryAI what’s the difference now?",
+    "url": "https://x.com/chevyphillip/status/2009080931601273088",
+    "timestamp": "2026-01-08T01:53:15.000Z",
+    "metadata": {
+      "conversation_id": "2009080931601273088",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009075457132757281",
     "source": "twitter",
     "author": "pitachoi",
