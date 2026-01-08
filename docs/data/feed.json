@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2009055164322468188",
+    "source": "twitter",
+    "author": "kylezantos",
+    "content": "@jamesm @jakubkrehel @jh3yy @emilkowalski @willking @PixelJanitor @kieranklaassen @danshipper @every @cursor_ai @FactoryAI @bcherny Thank you James! High praise from a craftsperson of your ilk.\n\nI am fully converted to box shadows over borders. It's so perfectly understated when needed, but still flexible. \n\nAlready told my global CLAUDE(.)md to always err towards that technique unless told otherwise 😁",
+    "url": "https://x.com/kylezantos/status/2009055164322468188",
+    "timestamp": "2026-01-08T00:10:52.000Z",
+    "metadata": {
+      "conversation_id": "2009055164322468188",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009053447275122796",
+    "source": "twitter",
+    "author": "jamesm",
+    "content": "@kylezantos @jakubkrehel @jh3yy @emilkowalski @willking @PixelJanitor @kieranklaassen @danshipper @every @cursor_ai @FactoryAI @bcherny Really enjoyed this episode, Kyle! \n\nThank you for the shoutout. It makes me happy to know that we've converted another person to using box-shadows rather than solid borders! 😂",
+    "url": "https://x.com/jamesm/status/2009053447275122796",
+    "timestamp": "2026-01-08T00:04:02.000Z",
+    "metadata": {
+      "conversation_id": "2009053447275122796",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009053418590236749",
+    "source": "twitter",
+    "author": "alltoosynthetic",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI why is useEffect banned",
+    "url": "https://x.com/alltoosynthetic/status/2009053418590236749",
+    "timestamp": "2026-01-08T00:03:56.000Z",
+    "metadata": {
+      "conversation_id": "2009053418590236749",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009050945540509713",
+    "source": "twitter",
+    "author": "kylezantos",
+    "content": "Shoutout and truly 🙏 to the folks below for their work &amp; inspiration that are discussed in this episode:\n\n@jakubkrehel \n@jh3yy \n@jamesm \n@emilkowalski \n@willking \n@PixelJanitor \n@kieranklaassen / @danshipper / @every \n@cursor_ai \n@FactoryAI \n@bcherny",
+    "url": "https://x.com/kylezantos/status/2009050945540509713",
+    "timestamp": "2026-01-07T23:54:06.000Z",
+    "metadata": {
+      "conversation_id": "2009050945540509713",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009047425705799741",
     "source": "twitter",
     "author": "rezaul_arif",
