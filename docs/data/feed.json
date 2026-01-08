@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2009165511092019471",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@jadenitripp @FactoryAI 🔜",
+    "url": "https://x.com/matanSF/status/2009165511092019471",
+    "timestamp": "2026-01-08T07:29:20.000Z",
+    "metadata": {
+      "conversation_id": "2009165511092019471",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009163931072483824",
+    "source": "twitter",
+    "author": "jadenitripp",
+    "content": "@matanSF can I configure skills on the desktop app for @FactoryAI?",
+    "url": "https://x.com/jadenitripp/status/2009163931072483824",
+    "timestamp": "2026-01-08T07:23:04.000Z",
+    "metadata": {
+      "conversation_id": "2009163931072483824",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009162775541551603",
+    "source": "twitter",
+    "author": "ArjunSlices",
+    "content": "@FactoryAI AI analyzing its own coding searches? This is how tools evolve. The self-built classification pipeline and embeddings show real iterative potential.",
+    "url": "https://x.com/ArjunSlices/status/2009162775541551603",
+    "timestamp": "2026-01-08T07:18:28.000Z",
+    "metadata": {
+      "conversation_id": "2009162775541551603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009156908578689422",
     "source": "twitter",
     "author": "yashaswinsharma",
