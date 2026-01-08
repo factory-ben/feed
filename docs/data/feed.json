@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009133404009451982",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @WindsorNguyen @FactoryAI @dedaluslabs @opencode so now I have it working in both harnesses, but ultimately it seems like @dedaluslabs has an issue with how it handles/reports certain errors https://t.co/d0H7mAI8ov",
+    "url": "https://x.com/fire/status/2009133404009451982",
+    "timestamp": "2026-01-08T05:21:46.000Z",
+    "metadata": {
+      "conversation_id": "2009133404009451982",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009121149226262814",
     "source": "twitter",
     "author": "JohnThilen",
