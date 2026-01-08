@@ -12916,7 +12916,8 @@
       "type": "issue",
       "labels": [],
       "number": 523
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_518",
