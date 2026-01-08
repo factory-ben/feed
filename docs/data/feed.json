@@ -13556,5 +13556,57 @@
       "number": 309
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_240",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Mini Changelog\n\n<img width=\"686\" height=\"397\" alt=\"Screenshot 2025-10-22 at 14 58 16\" src=\"https://github.com/user-attachments/assets/0288d87c-55b1-44b4-91cb-33d745fc052b\" />\r\n",
+    "url": "https://github.com/Factory-AI/factory/discussions/240",
+    "timestamp": "2025-10-23T09:45:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 240
+    }
+  },
+  {
+    "id": "github_discussion_225",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] Change Log\n\nCan we have more updated change logs somewhere if possible. \r\n\r\nSuccessfully updated to version 0.21.5 Just saw this ",
+    "url": "https://github.com/Factory-AI/factory/discussions/225",
+    "timestamp": "2025-10-21T09:52:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 225
+    }
+  },
+  {
+    "id": "github_discussion_223",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] [Discussion] Droid Exec Headless Streaming with output format (JSON)\n\nDroid Exec (Headless)\r\nIt make sense to use --output-format json if you're running a headless droid exec as that's the best way to programmatically manage the headless droid. The issue for me is i can't see the process and potentially stop it without --output-format debug and i can't run both output format. \r\n\r\nShould we consider having a different parameter for \"streaming\" , it's not so much for debugging but more to manage the task itself. ",
+    "url": "https://github.com/Factory-AI/factory/discussions/223",
+    "timestamp": "2025-10-21T02:46:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 223
+    }
+  },
+  {
+    "id": "github_discussion_214",
+    "source": "github",
+    "author": "0xStuart",
+    "content": "[Discussion] JetBrains Plugin\n\nThe documentation says there is a JetBrains Plugin in the marketplace, but I can't find it.",
+    "url": "https://github.com/Factory-AI/factory/discussions/214",
+    "timestamp": "2025-10-19T19:55:35Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 214
+    }
   }
 ]
