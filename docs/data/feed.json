@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2009325732372337033",
+    "source": "twitter",
+    "author": "vikramships",
+    "content": "@FactoryAI deeper look at query logs would help optimize search",
+    "url": "https://x.com/vikramships/status/2009325732372337033",
+    "timestamp": "2026-01-08T18:06:00.000Z",
+    "metadata": {
+      "conversation_id": "2009325732372337033",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009323779542139078",
+    "source": "twitter",
+    "author": "kylezantos",
+    "content": "@jakubkrehel @jh3yy @jamesm @emilkowalski @willking @PixelJanitor @kieranklaassen @danshipper @every @cursor_ai @FactoryAI @bcherny And thank you for your contributions to the community, sir. 🙏",
+    "url": "https://x.com/kylezantos/status/2009323779542139078",
+    "timestamp": "2026-01-08T17:58:15.000Z",
+    "metadata": {
+      "conversation_id": "2009323779542139078",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009321069279367644",
+    "source": "twitter",
+    "author": "jakubkrehel",
+    "content": "@kylezantos @jh3yy @jamesm @emilkowalski @willking @PixelJanitor @kieranklaassen @danshipper @every @cursor_ai @FactoryAI @bcherny Thanks for the shoutout Kyle, great episode! :)",
+    "url": "https://x.com/jakubkrehel/status/2009321069279367644",
+    "timestamp": "2026-01-08T17:47:28.000Z",
+    "metadata": {
+      "conversation_id": "2009321069279367644",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009317315272421664",
+    "source": "twitter",
+    "author": "palepu10100",
+    "content": "@FactoryAI This is the ultimate “meta” moment!  It’s like watching a chef critique their own cooking while preparing a Michelin-star meal. What did the AI find most surprising about its own queries?",
+    "url": "https://x.com/palepu10100/status/2009317315272421664",
+    "timestamp": "2026-01-08T17:32:33.000Z",
+    "metadata": {
+      "conversation_id": "2009317315272421664",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009308912923668933",
     "source": "twitter",
     "author": "tomosman",
