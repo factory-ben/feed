@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009394069114638620",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "Agent-native development means Droid auto-attempts every ticket created. The one-shot rate lately has been insane.\n\nTrying something new: mention @droid on X with feature requests / bugs and we feed it to droid\n\n(with filters, so plz dont try to prompt inject our linear)",
+    "url": "https://x.com/matanSF/status/2009394069114638620",
+    "timestamp": "2026-01-08T22:37:33.000Z",
+    "metadata": {
+      "conversation_id": "2009394069114638620",
+      "likes": 13,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_2009392962719932587",
     "source": "twitter",
     "author": "TechFollowrazzi",
