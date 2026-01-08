@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2009268438812733669",
+    "source": "twitter",
+    "author": "sandriaasv",
+    "content": "@cloudxdev @OpenRouterAI @FactoryAI @Zai_org is this possible to use on the droid cloud machine?",
+    "url": "https://x.com/sandriaasv/status/2009268438812733669",
+    "timestamp": "2026-01-08T14:18:20.000Z",
+    "metadata": {
+      "conversation_id": "2009268438812733669",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009267894912176531",
+    "source": "twitter",
+    "author": "blueemi99",
+    "content": "@tinkerersanky @0xSero @FactoryAI 25M opus tokens for 50 usd",
+    "url": "https://x.com/blueemi99/status/2009267894912176531",
+    "timestamp": "2026-01-08T14:16:11.000Z",
+    "metadata": {
+      "conversation_id": "2009267894912176531",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009259121233547759",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "Honestly if @FactoryAI let you switch models whenever like shift+tab to switch modes, it would be way more powerful",
+    "url": "https://x.com/MitchBernstein/status/2009259121233547759",
+    "timestamp": "2026-01-08T13:41:19.000Z",
+    "metadata": {
+      "conversation_id": "2009259121233547759",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009255555286589733",
+    "source": "twitter",
+    "author": "verioussmith",
+    "content": "@elonmusk @elonmusk , @xai should buy @FactoryAI  Droid.",
+    "url": "https://x.com/verioussmith/status/2009255555286589733",
+    "timestamp": "2026-01-08T13:27:09.000Z",
+    "metadata": {
+      "conversation_id": "2009255555286589733",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1q7aica",
     "source": "reddit",
     "author": "bentossell",
