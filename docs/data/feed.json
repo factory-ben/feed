@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009597763458412805",
+    "source": "twitter",
+    "author": "50valve",
+    "content": "@alvinsng @FactoryAI It burns through 1M tokens for 1 task.",
+    "url": "https://x.com/50valve/status/2009597763458412805",
+    "timestamp": "2026-01-09T12:06:57.000Z",
+    "metadata": {
+      "conversation_id": "2009597763458412805",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009597520712974781",
+    "source": "twitter",
+    "author": "50valve",
+    "content": "@alvinsng @FactoryAI $20 for 10M tokens, nope.",
+    "url": "https://x.com/50valve/status/2009597520712974781",
+    "timestamp": "2026-01-09T12:06:00.000Z",
+    "metadata": {
+      "conversation_id": "2009597520712974781",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009589673220600139",
     "source": "twitter",
     "author": "brendenvonhouse",
