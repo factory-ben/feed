@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009579995765903515",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@albrorithm @alvinsng @FactoryAI similar for me now. not exactly priced out, just usage patterns fit in between.",
+    "url": "https://x.com/nathanclark_/status/2009579995765903515",
+    "timestamp": "2026-01-09T10:56:21.000Z",
+    "metadata": {
+      "conversation_id": "2009579995765903515",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009570807245132103",
     "source": "twitter",
     "author": "laup30",
@@ -15582,6 +15597,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1plzye0",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.36.2 Released - GPT-5.2 model and more\n\n## New features\n\n* **GPT-5.2 model** - Added support for GPT-5.2 model\n* **MCP tool enable/disable** - Add ability to enable/disable individual MCP tools per server\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1plzye0/factory_cli_v0362_released_gpt52_model_and_more/",
+    "timestamp": "2025-12-14T00:04:06.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_issue_523",
