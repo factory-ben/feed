@@ -64,6 +64,21 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2009755557066953192",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "Video of me, business as usual on @droid https://t.co/rVqmE8OTGZ",
+    "url": "https://x.com/nathanclark_/status/2009755557066953192",
+    "timestamp": "2026-01-09T22:33:58.000Z",
+    "metadata": {
+      "conversation_id": "2009755557066953192",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009755086378152238",
     "source": "twitter",
     "author": "anthonyronning",
@@ -78,6 +93,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2009754798997024855",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@dhh For me that tool is @droid",
+    "url": "https://x.com/JoelDeTeves/status/2009754798997024855",
+    "timestamp": "2026-01-09T22:30:58.000Z",
+    "metadata": {
+      "conversation_id": "2009754798997024855",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009754103589810617",
@@ -144,6 +174,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009746315547140572",
+    "source": "twitter",
+    "author": "meTheKarthik",
+    "content": "@matanSF @droid done! dmed you! thanks",
+    "url": "https://x.com/meTheKarthik/status/2009746315547140572",
+    "timestamp": "2026-01-09T21:57:15.000Z",
+    "metadata": {
+      "conversation_id": "2009746315547140572",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009745783973638552",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@meTheKarthik @droid yes!",
+    "url": "https://x.com/matanSF/status/2009745783973638552",
+    "timestamp": "2026-01-09T21:55:08.000Z",
+    "metadata": {
+      "conversation_id": "2009745783973638552",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009745731184189633",
     "source": "twitter",
     "author": "matanSF",
@@ -190,6 +250,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2009745142001864946",
+    "source": "twitter",
+    "author": "meTheKarthik",
+    "content": "@matanSF damn! i made a decent guess but used the wrong email @droid  @matanSF can i DM you guys my actual droid email? thanks!",
+    "url": "https://x.com/meTheKarthik/status/2009745142001864946",
+    "timestamp": "2026-01-09T21:52:35.000Z",
+    "metadata": {
+      "conversation_id": "2009745142001864946",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009742150926578170",
