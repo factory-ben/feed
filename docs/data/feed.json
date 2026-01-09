@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009730865396432917",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@benvargas @droid @thdxr i am with you, same thoughts here",
+    "url": "https://x.com/moinulmoin/status/2009730865396432917",
+    "timestamp": "2026-01-09T20:55:51.000Z",
+    "metadata": {
+      "conversation_id": "2009730865396432917",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009729152887279633",
     "source": "twitter",
     "author": "mjtechguy",
@@ -16,6 +31,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009728699487158595",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@droid @thdxr Love Droid, very good harness, but I don’t like to be locked down.",
+    "url": "https://x.com/benvargas/status/2009728699487158595",
+    "timestamp": "2026-01-09T20:47:15.000Z",
+    "metadata": {
+      "conversation_id": "2009728699487158595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009728366287495623",
     "source": "twitter",
     "author": "mjtechguy",
@@ -30,6 +60,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2009728294774813092",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Love you too Droid, i just can’t get past the 200M limit for $200… I think I’d prefer rolling 5h or weekly quota.\n\nI don’t know, it’s probably me, not you. 😘\n\nI might change my mind though if I could use your endpoints with any harness, that’s what Zen Black offers that you don’t.",
+    "url": "https://x.com/benvargas/status/2009728294774813092",
+    "timestamp": "2026-01-09T20:45:39.000Z",
+    "metadata": {
+      "conversation_id": "2009728294774813092",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009727774475309438",
@@ -96,6 +141,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009724576909971861",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@connorado @droid Every now and then I like to handpick the model for a specific task otherwise very much a amp fan",
+    "url": "https://x.com/erd0xbc/status/2009724576909971861",
+    "timestamp": "2026-01-09T20:30:52.000Z",
+    "metadata": {
+      "conversation_id": "2009724576909971861",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009722571889967172",
     "source": "twitter",
     "author": "StressarN",
@@ -126,6 +186,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2009720727554187370",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@dhh @droid with BYOK 🙌",
+    "url": "https://x.com/geo_anima/status/2009720727554187370",
+    "timestamp": "2026-01-09T20:15:34.000Z",
+    "metadata": {
+      "conversation_id": "2009720727554187370",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009719607565893728",
