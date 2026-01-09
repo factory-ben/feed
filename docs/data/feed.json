@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2009771384545915377",
+    "source": "twitter",
+    "author": "RayFernando1337",
+    "content": "@FactoryAI $42.69",
+    "url": "https://x.com/RayFernando1337/status/2009771384545915377",
+    "timestamp": "2026-01-09T23:36:52.000Z",
+    "metadata": {
+      "conversation_id": "2009771384545915377",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009770882470912466",
+    "source": "twitter",
+    "author": "samfitz",
+    "content": "@laup30 @EnoReyes @FactoryAI Unfortunately It's not available through OpenAI's API yet, we will support it as soon as it is",
+    "url": "https://x.com/samfitz/status/2009770882470912466",
+    "timestamp": "2026-01-09T23:34:52.000Z",
+    "metadata": {
+      "conversation_id": "2009770882470912466",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009768357936222622",
+    "source": "twitter",
+    "author": "jadenitripp",
+    "content": "Show me a benchmark where @opencode is better than @FactoryAI.",
+    "url": "https://x.com/jadenitripp/status/2009768357936222622",
+    "timestamp": "2026-01-09T23:24:50.000Z",
+    "metadata": {
+      "conversation_id": "2009768357936222622",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009765614638796874",
+    "source": "twitter",
+    "author": "WindsorNguyen",
+    "content": "@vynero_ @fire @bentossell @FactoryAI @dedaluslabs @opencode @vynero_ Try out Wingman!\n\nhttps://t.co/PFtL0zncLg",
+    "url": "https://x.com/WindsorNguyen/status/2009765614638796874",
+    "timestamp": "2026-01-09T23:13:56.000Z",
+    "metadata": {
+      "conversation_id": "2009765614638796874",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009763097179759103",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "@GergelyOrosz Personally, the best CLI is @FactoryAI . Multi model, super easy to use, and transitions great from Claude Code. Also love that team\n\nBest for GUI is @cursor_ai and they have a stacked team too! And are OG for great paradigms for non-technical folks",
+    "url": "https://x.com/MitchBernstein/status/2009763097179759103",
+    "timestamp": "2026-01-09T23:03:56.000Z",
+    "metadata": {
+      "conversation_id": "2009763097179759103",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009762381312995631",
+    "source": "twitter",
+    "author": "akkytech1",
+    "content": "@FactoryAI でMaxプランの割引プロモーションが実施中！\n割引価格をあてるゲームのような感じで、ユーザーの提示価格が内緒の割引価格以上だと提示価格に、内緒の割引価格以下つまり安すぎる価格をユーザーが提示すると割引はうけられません。\n\nおもしろい企画！",
+    "url": "https://x.com/akkytech1/status/2009762381312995631",
+    "timestamp": "2026-01-09T23:01:05.000Z",
+    "metadata": {
+      "conversation_id": "2009762381312995631",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009761193179918458",
+    "source": "twitter",
+    "author": "GoodFarmingAdam",
+    "content": "@FactoryAI $2",
+    "url": "https://x.com/GoodFarmingAdam/status/2009761193179918458",
+    "timestamp": "2026-01-09T22:56:22.000Z",
+    "metadata": {
+      "conversation_id": "2009761193179918458",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009760118309560404",
+    "source": "twitter",
+    "author": "irl_danB",
+    "content": "@anthonyronning @FactoryAI this is a very interesting perspective, not on my radar. thank you",
+    "url": "https://x.com/irl_danB/status/2009760118309560404",
+    "timestamp": "2026-01-09T22:52:06.000Z",
+    "metadata": {
+      "conversation_id": "2009760118309560404",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009757862625505455",
     "source": "twitter",
     "author": "chevyphillip",
