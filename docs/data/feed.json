@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2009611275777769476",
+    "source": "twitter",
+    "author": "bitdoze",
+    "content": "@claudeai @FactoryAI https://t.co/gMjvlspbGC",
+    "url": "https://x.com/bitdoze/status/2009611275777769476",
+    "timestamp": "2026-01-09T13:00:39.000Z",
+    "metadata": {
+      "conversation_id": "2009611275777769476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009611156764099038",
+    "source": "twitter",
+    "author": "bitdoze",
+    "content": "I gave @claudeai  the prompt, it gave me an hour of silence and a broken website. \n\n@FactoryAI  Droid did it in 11 minutes with zero errors. The choice is pretty clear. \n\nVideo in first comment.",
+    "url": "https://x.com/bitdoze/status/2009611156764099038",
+    "timestamp": "2026-01-09T13:00:11.000Z",
+    "metadata": {
+      "conversation_id": "2009611156764099038",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009608282449805585",
+    "source": "twitter",
+    "author": "bythewayimchris",
+    "content": "@alvinsng @steipete @FactoryAI Burns too many tokens. To expensive",
+    "url": "https://x.com/bythewayimchris/status/2009608282449805585",
+    "timestamp": "2026-01-09T12:48:45.000Z",
+    "metadata": {
+      "conversation_id": "2009608282449805585",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009597763458412805",
     "source": "twitter",
     "author": "50valve",
