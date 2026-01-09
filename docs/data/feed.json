@@ -16,6 +16,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009477641989181771",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@matanSF @droid @droid introduce a $100 plan and add MinimaxM2.1 as one of the models",
+    "url": "https://x.com/nkgoutham/status/2009477641989181771",
+    "timestamp": "2026-01-09T04:09:38.000Z",
+    "metadata": {
+      "conversation_id": "2009477641989181771",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009477440180244669",
     "source": "twitter",
     "author": "nkgoutham",
@@ -78,6 +93,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2009472241785061613",
+    "source": "twitter",
+    "author": "LoomisLoud",
+    "content": "@matanSF @droid @droid Please add bitbucket integration :D",
+    "url": "https://x.com/LoomisLoud/status/2009472241785061613",
+    "timestamp": "2026-01-09T03:48:11.000Z",
+    "metadata": {
+      "conversation_id": "2009472241785061613",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009468265123487982",
