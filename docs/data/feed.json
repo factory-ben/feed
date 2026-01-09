@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2009476575167959300",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2009476169993998565",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2009474055074984300",
@@ -57,7 +60,8 @@
       "retweets": 0,
       "replies": 2,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2009468265123487982",
