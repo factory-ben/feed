@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_574",
+    "source": "github",
+    "author": "agamble-quora",
+    "content": "[Issue] Support Gemini thought_signature from extra_content in tool calls (generic-chat-completion-api)\n\nThis request is to support thinking Gemini models (e.g. Gemini-3-Pro) using tools over chat completions endpoint and `generic-chat-completion-api` provider.\n\n`thought_signature` is required for tool calls: https://ai.google.dev/gemini-api/docs/thought-signatures#openai\n\ne.g:\n```\n{\n      \"role\": \"model\",\n        \"tool_calls\": [\n          {\n            \"extra_content\": {\n              \"google\": {\n                \"thought_signature\": \"<Signature A>\"\n              }\n            },\n            \"funct",
+    "url": "https://github.com/Factory-AI/factory/issues/574",
+    "timestamp": "2026-01-09T16:58:45Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 574
+    }
+  },
+  {
     "id": "twitter_2009670370068947359",
     "source": "twitter",
     "author": "erd0xbc",
