@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2009451224110957004",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@brendenvonhouse @droid @matanSF Yes we need remote coding from iOS! Or fix the website responsive mode :&gt;",
+    "url": "https://x.com/JoelDeTeves/status/2009451224110957004",
+    "timestamp": "2026-01-09T02:24:40.000Z",
+    "metadata": {
+      "conversation_id": "2009451224110957004",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009449158332280848",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@matanSF @droid Bug: GLM-4.7 (droid core) stops midway. Users have to prompt “continue” a couple times for droid to force glm,s output",
+    "url": "https://x.com/nkgoutham/status/2009449158332280848",
+    "timestamp": "2026-01-09T02:16:27.000Z",
+    "metadata": {
+      "conversation_id": "2009449158332280848",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009448927259775454",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@matanSF @droid Use “@“ to call a sub-agent",
+    "url": "https://x.com/nkgoutham/status/2009448927259775454",
+    "timestamp": "2026-01-09T02:15:32.000Z",
+    "metadata": {
+      "conversation_id": "2009448927259775454",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009448114449731993",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": ".@droid implement a experimental setting that allows you to adopt Amp's approach to skills.\n\nhttps://t.co/v7gpeRnv6Y\n\nSuccess criteria is compatibility with existing skills .claude/skills/ and ~/.claude/skills/",
+    "url": "https://x.com/erd0xbc/status/2009448114449731993",
+    "timestamp": "2026-01-09T02:12:18.000Z",
+    "metadata": {
+      "conversation_id": "2009448114449731993",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009445635985133914",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "wen @droid app @matanSF??",
+    "url": "https://x.com/brendenvonhouse/status/2009445635985133914",
+    "timestamp": "2026-01-09T02:02:27.000Z",
+    "metadata": {
+      "conversation_id": "2009445635985133914",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009434344314818604",
+    "source": "twitter",
+    "author": "henrytdowling",
+    "content": "@matanSF @droid curious, what are you using to verify if the oneshot was successful?",
+    "url": "https://x.com/henrytdowling/status/2009434344314818604",
+    "timestamp": "2026-01-09T01:17:35.000Z",
+    "metadata": {
+      "conversation_id": "2009434344314818604",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009433152339759196",
     "source": "twitter",
     "author": "crazyox",
@@ -14,6 +104,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2009432674713440441",
+    "source": "twitter",
+    "author": "Kyler_Lorin",
+    "content": "I'm having so much fun with @GeminiApp 3 flash and @droid. Anybody else using this as their daily driver?",
+    "url": "https://x.com/Kyler_Lorin/status/2009432674713440441",
+    "timestamp": "2026-01-09T01:10:57.000Z",
+    "metadata": {
+      "conversation_id": "2009432674713440441",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009422891268592039",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": ".@droid\n\nPlease implement BYOK plan/execute mode.\n\nThe success criteria should be having two bring your own key models,l configured, one for research and planning in spec mode and the other for build mode.",
+    "url": "https://x.com/erd0xbc/status/2009422891268592039",
+    "timestamp": "2026-01-09T00:32:05.000Z",
+    "metadata": {
+      "conversation_id": "2009422891268592039",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009419745918112195",
