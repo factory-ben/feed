@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2009514584336683395",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@steipete @FactoryAI @clawdbot Yup! Happy to clarify",
+    "url": "https://x.com/alvinsng/status/2009514584336683395",
+    "timestamp": "2026-01-09T06:36:26.000Z",
+    "metadata": {
+      "conversation_id": "2009514584336683395",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009513433889427851",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@alvinsng @FactoryAI @clawdbot It can direct factory tho",
+    "url": "https://x.com/steipete/status/2009513433889427851",
+    "timestamp": "2026-01-09T06:31:52.000Z",
+    "metadata": {
+      "conversation_id": "2009513433889427851",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009513383704264709",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@alvinsng @FactoryAI Yeah @clawdbot is not a coding agent.",
+    "url": "https://x.com/steipete/status/2009513383704264709",
+    "timestamp": "2026-01-09T06:31:40.000Z",
+    "metadata": {
+      "conversation_id": "2009513383704264709",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009512534462882054",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "I have contributed, but it's not my project. I don't want that ownership. 😅\n\nYeah, it will get fixed, and @FactoryAI @droid actually never broke using it, their tools weren't caught up in the tool naming fiasco.\n\nIn the meantime try out pi, @badlogicgames is a great engineer and it is a lightweight excellent CLI.",
+    "url": "https://x.com/benvargas/status/2009512534462882054",
+    "timestamp": "2026-01-09T06:28:17.000Z",
+    "metadata": {
+      "conversation_id": "2009512534462882054",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009512460878008652",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "@FactoryAI Day 8: Update 1\n\nLate-night grind — snuck in a couple features before bed.\n\nThey'll need tweaks tomorrow, but hey, just wanted to keep chipping away... \n\nI'll take 'em as bogeys 😅 https://t.co/CMktq3oVi1",
+    "url": "https://x.com/iamkevchan/status/2009512460878008652",
+    "timestamp": "2026-01-09T06:28:00.000Z",
+    "metadata": {
+      "conversation_id": "2009512460878008652",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009510958088196143",
     "source": "twitter",
     "author": "alvinsng",
