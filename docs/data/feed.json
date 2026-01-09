@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2009498623097360713",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@steipete @FactoryAI You can use Factory API keys to run droid exec (our headless agent), and we’ve seen some great apps built this way! However, we don't support using these keys for proxy LLM calls.",
+    "url": "https://x.com/alvinsng/status/2009498623097360713",
+    "timestamp": "2026-01-09T05:33:01.000Z",
+    "metadata": {
+      "conversation_id": "2009498623097360713",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009496981157367848",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@alvinsng @FactoryAI is that accessible via API?",
+    "url": "https://x.com/steipete/status/2009496981157367848",
+    "timestamp": "2026-01-09T05:26:29.000Z",
+    "metadata": {
+      "conversation_id": "2009496981157367848",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009496878296318276",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@steipete Now's the time to try @FactoryAI Droids!",
+    "url": "https://x.com/alvinsng/status/2009496878296318276",
+    "timestamp": "2026-01-09T05:26:05.000Z",
+    "metadata": {
+      "conversation_id": "2009496878296318276",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009496850928423238",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@theo Now's the time to try @FactoryAI Droids!",
+    "url": "https://x.com/alvinsng/status/2009496850928423238",
+    "timestamp": "2026-01-09T05:25:58.000Z",
+    "metadata": {
+      "conversation_id": "2009496850928423238",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009496727942988154",
+    "source": "twitter",
+    "author": "albrorithm",
+    "content": "@anthonyronning @FactoryAI $100 plan would make me a customer",
+    "url": "https://x.com/albrorithm/status/2009496727942988154",
+    "timestamp": "2026-01-09T05:25:29.000Z",
+    "metadata": {
+      "conversation_id": "2009496727942988154",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009495890437001237",
     "source": "twitter",
     "author": "laup30",
