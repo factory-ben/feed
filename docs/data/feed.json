@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2009565254179766587",
+    "source": "twitter",
+    "author": "GoodFarmingAdam",
+    "content": "@alvinsng @FactoryAI I wish droid was good but I find it really weird to use. I can't really get it to work.\n\nIts very very particular about how it ingests and handles work, super rigid, I hardly knew what it wanted from me.\n\nBut I'm pretty left of field so 🤷",
+    "url": "https://x.com/GoodFarmingAdam/status/2009565254179766587",
+    "timestamp": "2026-01-09T09:57:47.000Z",
+    "metadata": {
+      "conversation_id": "2009565254179766587",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009563080360169484",
+    "source": "twitter",
+    "author": "JadeAI_",
+    "content": "Unified model access is becoming essential for serious AI development. Being able to switch between Anthropic, OpenAI, and others without managing multiple subscriptions reduces friction significantly.\n\nThe benchmark numbers are compelling too - good to see actual performance data backing up the claims. Multi-model strategies are definitely the way forward for production systems.",
+    "url": "https://x.com/JadeAI_/status/2009563080360169484",
+    "timestamp": "2026-01-09T09:49:08.000Z",
+    "metadata": {
+      "conversation_id": "2009563080360169484",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009559683020005479",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "@gdb Just wish it was an included model in @FactoryAI 😢. Wish list @matanSF @bentossell @EnoReyes",
+    "url": "https://x.com/laup30/status/2009559683020005479",
+    "timestamp": "2026-01-09T09:35:38.000Z",
+    "metadata": {
+      "conversation_id": "2009559683020005479",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009553859283407213",
     "source": "twitter",
     "author": "robipop22",
