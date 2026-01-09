@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009553859283407213",
+    "source": "twitter",
+    "author": "robipop22",
+    "content": "@steipete @alvinsng @FactoryAI @clawdbot it can spawn opencode instances and give them tasks https://t.co/emQBjCkN27",
+    "url": "https://x.com/robipop22/status/2009553859283407213",
+    "timestamp": "2026-01-09T09:12:30.000Z",
+    "metadata": {
+      "conversation_id": "2009553859283407213",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009551542848737700",
+    "source": "twitter",
+    "author": "albrorithm",
+    "content": "@alvinsng @FactoryAI I'd like to try Factory, but nothing between $20 and $200 subs prices me out",
+    "url": "https://x.com/albrorithm/status/2009551542848737700",
+    "timestamp": "2026-01-09T09:03:18.000Z",
+    "metadata": {
+      "conversation_id": "2009551542848737700",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009537122982842799",
     "source": "twitter",
     "author": "sudurairaj",
