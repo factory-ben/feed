@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2009503402066366647",
+    "source": "twitter",
+    "author": "rightmreow",
+    "content": "@steipete @alvinsng @FactoryAI can we get some people on this @steipete",
+    "url": "https://x.com/rightmreow/status/2009503402066366647",
+    "timestamp": "2026-01-09T05:52:00.000Z",
+    "metadata": {
+      "conversation_id": "2009503402066366647",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009503052634706423",
+    "source": "twitter",
+    "author": "rightmreow",
+    "content": "@steipete @alvinsng @FactoryAI a clawd also needs a cute pet mouse named alexander https://t.co/E1HAHIdSb5",
+    "url": "https://x.com/rightmreow/status/2009503052634706423",
+    "timestamp": "2026-01-09T05:50:37.000Z",
+    "metadata": {
+      "conversation_id": "2009503052634706423",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009502978768818395",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "Happily cruising with my @FactoryAI @droid harness while this thing with @opencode and @AnthropicAI is filled with drama and gaining some velocity.\n\nBet they underestimated how over opencode is with devs.\n\nSorry if you used my guide, didn't know it was going to turn out this way. https://t.co/euOgY9zbr5",
+    "url": "https://x.com/AriesTheCoder/status/2009502978768818395",
+    "timestamp": "2026-01-09T05:50:19.000Z",
+    "metadata": {
+      "conversation_id": "2009502978768818395",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009502580578414815",
+    "source": "twitter",
+    "author": "shamimai1",
+    "content": "@FactoryAI Great one",
+    "url": "https://x.com/shamimai1/status/2009502580578414815",
+    "timestamp": "2026-01-09T05:48:44.000Z",
+    "metadata": {
+      "conversation_id": "2009502580578414815",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009502549163037002",
+    "source": "twitter",
+    "author": "shamimai1",
+    "content": "@matanSF @FactoryAI Great share",
+    "url": "https://x.com/shamimai1/status/2009502549163037002",
+    "timestamp": "2026-01-09T05:48:37.000Z",
+    "metadata": {
+      "conversation_id": "2009502549163037002",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009502250654474505",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@alvinsng @FactoryAI Though this can be hacked. 👁️🦞👁️",
+    "url": "https://x.com/steipete/status/2009502250654474505",
+    "timestamp": "2026-01-09T05:47:25.000Z",
+    "metadata": {
+      "conversation_id": "2009502250654474505",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009502123357347914",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@alvinsng @FactoryAI A clawd needs his clawd2clawd phone and subagents",
+    "url": "https://x.com/steipete/status/2009502123357347914",
+    "timestamp": "2026-01-09T05:46:55.000Z",
+    "metadata": {
+      "conversation_id": "2009502123357347914",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009502021347627433",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@alvinsng @FactoryAI can’t define custom tools there then",
+    "url": "https://x.com/steipete/status/2009502021347627433",
+    "timestamp": "2026-01-09T05:46:31.000Z",
+    "metadata": {
+      "conversation_id": "2009502021347627433",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009498623097360713",
     "source": "twitter",
     "author": "alvinsng",
