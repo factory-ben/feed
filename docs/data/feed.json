@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2009739672285557029",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "@FactoryAI $133,7",
+    "url": "https://x.com/tomosman/status/2009739672285557029",
+    "timestamp": "2026-01-09T21:30:51.000Z",
+    "metadata": {
+      "conversation_id": "2009739672285557029",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009738038700540030",
+    "source": "twitter",
+    "author": "saleeek8",
+    "content": "@FactoryAI 149.99",
+    "url": "https://x.com/saleeek8/status/2009738038700540030",
+    "timestamp": "2026-01-09T21:24:22.000Z",
+    "metadata": {
+      "conversation_id": "2009738038700540030",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009737406094713209",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "@FactoryAI 160",
+    "url": "https://x.com/nathanpareo/status/2009737406094713209",
+    "timestamp": "2026-01-09T21:21:51.000Z",
+    "metadata": {
+      "conversation_id": "2009737406094713209",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009737195868000403",
+    "source": "twitter",
+    "author": "alex98075wa",
+    "content": "@FactoryAI 100",
+    "url": "https://x.com/alex98075wa/status/2009737195868000403",
+    "timestamp": "2026-01-09T21:21:01.000Z",
+    "metadata": {
+      "conversation_id": "2009737195868000403",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009734318621634826",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@greg_plumbly @FactoryAI OpenAI hasn't released GPT-5.2-Codex to the public yet, but it’ll likely be soon since they announced it a while back.",
+    "url": "https://x.com/alvinsng/status/2009734318621634826",
+    "timestamp": "2026-01-09T21:09:35.000Z",
+    "metadata": {
+      "conversation_id": "2009734318621634826",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009733124599525433",
     "source": "twitter",
     "author": "mjtechguy",
