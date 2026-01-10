@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2010102236571967823",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 10: Update 1\n\nDiving into Linear integration for better backlog structure.\n\nBack to process improvements — chats are great for brainstorming, but as a process guy, I want something more structured for ideas and backlog.\n\nSo I'm testing Linear + Factory AI: Create an issue in Linear → assign to Factory → it spins up a Droid to execute via Kanban/UI flow.\n\nFeels more intuitive than dumping everything into Grok chats — no more scrolling forever to find old specs.",
+    "url": "https://x.com/iamkevchan/status/2010102236571967823",
+    "timestamp": "2026-01-10T21:31:33.000Z",
+    "metadata": {
+      "conversation_id": "2010102236571967823",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010100653935460416",
+    "source": "twitter",
+    "author": "bigwigzee",
+    "content": "@FactoryAI Let's see how it goes, filled it out hours ago but haven't heard anything back yet. But really excited",
+    "url": "https://x.com/bigwigzee/status/2010100653935460416",
+    "timestamp": "2026-01-10T21:25:16.000Z",
+    "metadata": {
+      "conversation_id": "2010100653935460416",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010098617470611735",
     "source": "twitter",
     "author": "Bogorad",
