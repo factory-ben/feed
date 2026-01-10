@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_575",
+    "source": "github",
+    "author": "rdmgt1",
+    "content": "[Issue] Why droid memory consumption or memory usage is too high in Linux Pop OS, Ubuntu or deb ?\n\n## Why droid memory consumption or memory usage is too high in Linux Pop OS, Ubuntu or deb ?\nthe memory usage is up to 290 MB per droid \n\n<img width=\"712\" height=\"247\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/75063b57-fb02-4694-8066-5fa27c51d95c\" />\n\n\n\n### What is the solution get lower memory usage ? like in windows just below 80 MB ? for peak things just under 110 MB memory usage ?",
+    "url": "https://github.com/Factory-AI/factory/issues/575",
+    "timestamp": "2026-01-10T06:53:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 575
+    }
+  },
+  {
     "id": "twitter_2009873909022372209",
     "source": "twitter",
     "author": "moinulmoin",
