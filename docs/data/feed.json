@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009982163111039379",
+    "source": "twitter",
+    "author": "jonokingwill",
+    "content": "@FactoryAI $36",
+    "url": "https://x.com/jonokingwill/status/2009982163111039379",
+    "timestamp": "2026-01-10T13:34:26.000Z",
+    "metadata": {
+      "conversation_id": "2009982163111039379",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009979545777238204",
+    "source": "twitter",
+    "author": "alexdoda",
+    "content": "@jadenitripp @opencode @FactoryAI Show me a benchmark that matters at all (none do).",
+    "url": "https://x.com/alexdoda/status/2009979545777238204",
+    "timestamp": "2026-01-10T13:24:01.000Z",
+    "metadata": {
+      "conversation_id": "2009979545777238204",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009978065309577446",
     "source": "twitter",
     "author": "buru_guo",
@@ -14,6 +44,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2009976970357129484",
+    "source": "twitter",
+    "author": "tropictakes",
+    "content": "@FactoryAI 105",
+    "url": "https://x.com/tropictakes/status/2009976970357129484",
+    "timestamp": "2026-01-10T13:13:47.000Z",
+    "metadata": {
+      "conversation_id": "2009976970357129484",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009974851562619110",
+    "source": "twitter",
+    "author": "xkonjin",
+    "content": "@parcadei Great work.  Testing today with @FactoryAI and a hybrid Ralph loop",
+    "url": "https://x.com/xkonjin/status/2009974851562619110",
+    "timestamp": "2026-01-10T13:05:22.000Z",
+    "metadata": {
+      "conversation_id": "2009974851562619110",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009973567073726478",
