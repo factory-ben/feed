@@ -1,7 +1,5 @@
 {
   "ids": [
-    "twitter_2006428933139431606",
-    "twitter_2006414670341513655",
     "twitter_2006413795556733123",
     "twitter_2006411992408486378",
     "twitter_2006410985720995907",
@@ -999,7 +997,9 @@
     "reddit_1q0h25x",
     "twitter_2009868149982671217",
     "twitter_2009873909022372209",
-    "github_issue_575"
+    "github_issue_575",
+    "reddit_1powtfm",
+    "reddit_1potbcv"
   ],
   "conversations": []
 }

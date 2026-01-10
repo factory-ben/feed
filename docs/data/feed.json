@@ -17542,6 +17542,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1powtfm",
+    "source": "reddit",
+    "author": "One_Wishbone9360",
+    "content": "How to join to factory? Iam getting BotId script from vercel\n\nThumbnail: self\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1powtfm/how_to_join_to_factory_iam_getting_botid_script/",
+    "timestamp": "2025-12-17T13:42:14.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1potbcv",
     "source": "reddit",
     "author": "melihmucuk",
@@ -17554,6 +17567,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1potbcv",
+    "source": "reddit",
+    "author": "melihmucuk",
+    "content": "I built a simple tool to prevent Claude from accidentally deleting your home directory\n\nImages:\n\thttps://external-preview.redd.it/d8xYzju2ZXZmOUIduln4y0UfGb4Bksc3kYVxHZMtEUQ.png?auto=webp&amp;s=cc62e79fe6df4e7c55f3c7df3224e8f67196b56b\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1potbcv/i_built_a_simple_tool_to_prevent_claude_from/",
+    "timestamp": "2025-12-17T10:33:14.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "reddit_1plzye0",
