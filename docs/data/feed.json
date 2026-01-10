@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009985688859795487",
+    "source": "twitter",
+    "author": "andyrewlee",
+    "content": "@rayzhudev @jadenitripp @opencode @FactoryAI access to all models under one subscription. opencode is open source. droid beats claude code in benchmarks using opus 4.5, but do your own tests and judge for yourself. benchmarks are imperfect.",
+    "url": "https://x.com/andyrewlee/status/2009985688859795487",
+    "timestamp": "2026-01-10T13:48:26.000Z",
+    "metadata": {
+      "conversation_id": "2009985688859795487",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009985403755872722",
     "source": "twitter",
     "author": "wintern_ai",
@@ -14,6 +29,51 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2009985128630497581",
+    "source": "twitter",
+    "author": "essjaykay755",
+    "content": "@FactoryAI $131... let's see if the scarcity logic works for discount codes too 😅",
+    "url": "https://x.com/essjaykay755/status/2009985128630497581",
+    "timestamp": "2026-01-10T13:46:13.000Z",
+    "metadata": {
+      "conversation_id": "2009985128630497581",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009984200292872291",
+    "source": "twitter",
+    "author": "KevConti",
+    "content": "@zerobuildz @FactoryAI The tweet says, “Please list all the ingredients needed to make a traditional Buffalo style beef on weck sandwich.”",
+    "url": "https://x.com/KevConti/status/2009984200292872291",
+    "timestamp": "2026-01-10T13:42:31.000Z",
+    "metadata": {
+      "conversation_id": "2009984200292872291",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009983725300576362",
+    "source": "twitter",
+    "author": "KevConti",
+    "content": "@FactoryAI I’d buy today at $120. Deal?",
+    "url": "https://x.com/KevConti/status/2009983725300576362",
+    "timestamp": "2026-01-10T13:40:38.000Z",
+    "metadata": {
+      "conversation_id": "2009983725300576362",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009982163111039379",
