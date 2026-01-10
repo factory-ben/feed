@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009973567073726478",
+    "source": "twitter",
+    "author": "arthur_hyper88",
+    "content": "@sporadica @FactoryAI this is not poke ser 🌴",
+    "url": "https://x.com/arthur_hyper88/status/2009973567073726478",
+    "timestamp": "2026-01-10T13:00:16.000Z",
+    "metadata": {
+      "conversation_id": "2009973567073726478",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009967778107904184",
+    "source": "twitter",
+    "author": "rayzhudev",
+    "content": "@jadenitripp @opencode @FactoryAI can someone explain to me why people use opencode/factoryai over native claude code? what are you missing that you feel the need to use a different platform",
+    "url": "https://x.com/rayzhudev/status/2009967778107904184",
+    "timestamp": "2026-01-10T12:37:16.000Z",
+    "metadata": {
+      "conversation_id": "2009967778107904184",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_577",
     "source": "github",
     "author": "jakob1379",
@@ -28,6 +58,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2009964676134965664",
+    "source": "twitter",
+    "author": "ruchernchong",
+    "content": "@udaysy @matanSF @FactoryAI I also want to know.",
+    "url": "https://x.com/ruchernchong/status/2009964676134965664",
+    "timestamp": "2026-01-10T12:24:56.000Z",
+    "metadata": {
+      "conversation_id": "2009964676134965664",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009952714948784299",
