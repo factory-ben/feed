@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2010465173379915902",
+    "source": "twitter",
+    "author": "actae0n",
+    "content": "@FactoryAI Do you support togglable (tab) reasoning levels for BYOK models? The docs seem to indicate reasoning level might not even be configurable out of the box",
+    "url": "https://x.com/actae0n/status/2010465173379915902",
+    "timestamp": "2026-01-11T21:33:44.000Z",
+    "metadata": {
+      "conversation_id": "2010465173379915902",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010464844005433493",
+    "source": "twitter",
+    "author": "DataDeLaurier",
+    "content": "@JsonBasedman @FactoryAI the branching thing happend to me too and fucked up so much stuff",
+    "url": "https://x.com/DataDeLaurier/status/2010464844005433493",
+    "timestamp": "2026-01-11T21:32:26.000Z",
+    "metadata": {
+      "conversation_id": "2010464844005433493",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010462877501763697",
     "source": "twitter",
     "author": "DataDeLaurier",
