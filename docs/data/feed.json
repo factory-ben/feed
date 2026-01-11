@@ -1,5 +1,33 @@
 [
   {
+    "id": "reddit_1q9jyyh",
+    "source": "reddit",
+    "author": "Church_Greater_Being",
+    "content": "Version 0.46 High Autonomy Bug\n\nIs anyone else running into a bug on this version:\n\npermissions for relatively trivial commands are constantly requested?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q9jyyh/version_046_high_autonomy_bug/",
+    "timestamp": "2026-01-11T00:01:49.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2010134868987109791",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@vynero_ @bentossell @WindsorNguyen @FactoryAI @dedaluslabs @opencode yeah honestly I kind of gave up; tool calling seems inconsistently broken, and between that, the random 504's, and the poor handling of error states ( with empty content, no error ), I'm spending more time trying to debug usage of the provider than actually building anything https://t.co/oWmujMEANd",
+    "url": "https://x.com/fire/status/2010134868987109791",
+    "timestamp": "2026-01-10T23:41:13.000Z",
+    "metadata": {
+      "conversation_id": "2010134868987109791",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010132694286676355",
     "source": "twitter",
     "author": "Keshavatearth",
@@ -14,6 +42,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2010132165044957523",
+    "source": "twitter",
+    "author": "SEDIDEL",
+    "content": "@FactoryAI @realZachi007 @matanSF https://t.co/agLAfPGc4G",
+    "url": "https://x.com/SEDIDEL/status/2010132165044957523",
+    "timestamp": "2026-01-10T23:30:29.000Z",
+    "metadata": {
+      "conversation_id": "2010132165044957523",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2010120104793780385",
