@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2010220979583131726",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "https://t.co/mnNkZZbaZS got me interested, but it was the ability to understand and fix code that got me hooked. My best guess is that they use subagents to perform specific tasks (e.g. review), whereas CC mainly uses them to preserve the context window. The UX (e.g. auto approve), docs and compaction are also better. Both are excellent at tool use, regexp and escaping quotes.",
+    "url": "https://x.com/JohnThilen/status/2010220979583131726",
+    "timestamp": "2026-01-11T05:23:24.000Z",
+    "metadata": {
+      "conversation_id": "2010220979583131726",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010204364401676612",
     "source": "twitter",
     "author": "technavi_tooru",
