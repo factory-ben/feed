@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2010342113209377184",
+    "source": "twitter",
+    "author": "arthty",
+    "content": "thinking of trying the @FactoryAI harness with my own anthropic key. how’s it",
+    "url": "https://x.com/arthty/status/2010342113209377184",
+    "timestamp": "2026-01-11T13:24:44.000Z",
+    "metadata": {
+      "conversation_id": "2010342113209377184",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010341403465818390",
+    "source": "twitter",
+    "author": "GiusMarci",
+    "content": "🔧 Full CLI Compatibility\n\n  Claude Code through DroidFlow isn't a hack — it works seamlessly:\n\n  → Respects your CLI's tool calls\n  → Read, Write, Edit, Execute — all mapped\n  → Streaming responses, no lag\n  → CLI stays in control\n\n  Tested extensively with @FactoryAI Droid. It just works.",
+    "url": "https://x.com/GiusMarci/status/2010341403465818390",
+    "timestamp": "2026-01-11T13:21:55.000Z",
+    "metadata": {
+      "conversation_id": "2010341403465818390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010341394397704573",
+    "source": "twitter",
+    "author": "GiusMarci",
+    "content": "🤯 2000+ MODELS & CLAUDE CODE ON ANY CLI?\n\nI've seen many posts about Anthropic/Claude Code blocks for third-party CLIs. In the meantime, you can still use the Agents SDK on any CLIs like @FactoryAI and @opencode.\n\nIn the video, I used something I recently built: DroidFlow, which allows you to route 2000+ models (including your Claude Code subscription), create plans and tasks per workspace (with a DB integrated directly into your workspace), plus memory for do's/don'ts, system prompt injections, and more.\n\nGet your lifetime license key here: https://t.co/isrorgn26X (use code \"DROIDFLOW\" for 100% off - only 100 available)\n\nDownload the extension: https://t.co/XRUMoUsYUk\n\nCheck more features below:",
+    "url": "https://x.com/GiusMarci/status/2010341394397704573",
+    "timestamp": "2026-01-11T13:21:53.000Z",
+    "metadata": {
+      "conversation_id": "2010341394397704573",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010319912687051256",
     "source": "twitter",
     "author": "Gradius30",
