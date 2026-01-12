@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2010815543100506422",
+    "source": "twitter",
+    "author": "neekdyako",
+    "content": "@FactoryAI @droid today Droid logged me out and I cant log in. I'm not getting any codes to my phone. Can ya'll help me fix https://t.co/tmZXNqZ1Sn",
+    "url": "https://x.com/neekdyako/status/2010815543100506422",
+    "timestamp": "2026-01-12T20:45:59.000Z",
+    "metadata": {
+      "conversation_id": "2010815543100506422",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010810659630456926",
     "source": "twitter",
     "author": "AlecMey25715067",
@@ -110,6 +125,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2010777869337969144",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "Running within @droid using BYOK.  So I can’t use /feedback\n\nBut I literally just saw this with Opus 4.5 on a brand new session. \n\nWas working on having it process Linear issues into changelog, and it ignored the URL I provided. Had to prompt it to actually go fetch it. (It even had replied “Let me quickly check your existing changelog format…” and then didn’t call the fetch tool.)\n\nThen it took longer and longer to respond to each prompt, and finally got an error the upstream API is overloaded.",
+    "url": "https://x.com/KirkMarple/status/2010777869337969144",
+    "timestamp": "2026-01-12T18:16:17.000Z",
+    "metadata": {
+      "conversation_id": "2010777869337969144",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "reddit_1qb2eqg",
