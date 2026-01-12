@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2010650096183267358",
+    "source": "twitter",
+    "author": "dreamworks2050",
+    "content": "@rudrank @FactoryAI BYOK",
+    "url": "https://x.com/dreamworks2050/status/2010650096183267358",
+    "timestamp": "2026-01-12T09:48:33.000Z",
+    "metadata": {
+      "conversation_id": "2010650096183267358",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010649508028592317",
+    "source": "twitter",
+    "author": "rudrank",
+    "content": "@dreamworks2050 @FactoryAI It is great; used it before. The cost is difficult to work around with, relative to how generous CC is",
+    "url": "https://x.com/rudrank/status/2010649508028592317",
+    "timestamp": "2026-01-12T09:46:13.000Z",
+    "metadata": {
+      "conversation_id": "2010649508028592317",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010647913236730093",
+    "source": "twitter",
+    "author": "dreamworks2050",
+    "content": "@rudrank When you’re ready to get serious, upgrade to @FactoryAI droid.",
+    "url": "https://x.com/dreamworks2050/status/2010647913236730093",
+    "timestamp": "2026-01-12T09:39:53.000Z",
+    "metadata": {
+      "conversation_id": "2010647913236730093",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010647315602903478",
+    "source": "twitter",
+    "author": "dreamworks2050",
+    "content": "@Pssmamm @intheworldofai You clearly haven’t tried @FactoryAI droid.",
+    "url": "https://x.com/dreamworks2050/status/2010647315602903478",
+    "timestamp": "2026-01-12T09:37:30.000Z",
+    "metadata": {
+      "conversation_id": "2010647315602903478",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010630294043541965",
     "source": "twitter",
     "author": "Avaronnan",
