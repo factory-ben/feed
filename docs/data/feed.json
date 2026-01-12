@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_580",
+    "source": "github",
+    "author": "fanorama",
+    "content": "[Issue] [BUG] Arrow keys and Escape not working in Kitty/Ghostty terminals (CSI u keyboard protocol issue)\n\nWhen using Factory Droid CLI in Kitty terminal, arrow keys and Escape key don't work\n   properly. Instead of functioning normally:\n\n   •  Arrow keys output: 9A, 9B, 9C, 9D\n   •  Escape key outputs: 9u\n\n   Environment:\n   •  OS: Arch Linux (linux 6.17.9-arch1-1)\n   •  Terminal: Kitty (also affects Ghostty)\n   •  Factory CLI version: [your version]\n\n   Expected behavior:\n   Arrow keys should navigate and Escape should cancel/exit as expected.\n\n   Actual behavior:\n   Keys output raw CSI u escape se",
+    "url": "https://github.com/Factory-AI/factory/issues/580",
+    "timestamp": "2026-01-11T23:56:58Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 580
+    }
+  },
+  {
     "id": "twitter_2010500055116263700",
     "source": "twitter",
     "author": "nisargjain108",
