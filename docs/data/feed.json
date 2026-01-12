@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1qatsme",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.46.0 Released - `/create-skill` command and more\n\n## New features\n\n* **`/create-skill` command** - Create custom skills directly from the CLI with guided flow\n* **Skills in exec mode** - Skill tool now enabled when running `droid exec`\n* **`/rename` command** - Rename sessions with a new slash command, plus auto-generated session names based on conversation content\n\n## Bug fixes\n\n* **Background process output** - Output from background processes now properly piped to droid\n* **Cloud sync settings** - Fixed settings cloud sync with droid status ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qatsme/factory_cli_v0460_released_createskill_command/",
+    "timestamp": "2026-01-12T12:38:21.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2010669410525360537",
     "source": "twitter",
     "author": "0xthc_",
