@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011154917986353518",
+    "source": "twitter",
+    "author": "RThermo56",
+    "content": "@FactoryAI Uh oh...\n\nhttps://t.co/67sPe59s6Y",
+    "url": "https://x.com/RThermo56/status/2011154917986353518",
+    "timestamp": "2026-01-13T19:14:32.000Z",
+    "metadata": {
+      "conversation_id": "2011154917986353518",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011154541845365246",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 13: Update 1\n\nQuick take on Linear + Factory integration after a couple days of testing.\n\nOverall impression: mixed bag. Simple tasks? Worked smoothly — create issue → assign to Factory → droid executes, done.\n\nComplex task? Failed pretty hard. No easy way to kill the bad session or remove it from history, so it just sat there poisoning the well. Logged a bug — looks like a popular request in their Discord, so hopefully addressed soon.\n\nStill think this kind of flow (issues/requests → direct AI agent delegation) will become standard. Worth experimenting with. For now, sticking with Linear anyway — it's clean, free at my usage level, and honestly a pretty decent app.",
+    "url": "https://x.com/iamkevchan/status/2011154541845365246",
+    "timestamp": "2026-01-13T19:13:02.000Z",
+    "metadata": {
+      "conversation_id": "2011154541845365246",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011142290535035021",
     "source": "twitter",
     "author": "aroussi",
