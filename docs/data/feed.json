@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2011185669859917879",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@EnoReyes @nest_elf @FactoryAI 👀",
+    "url": "https://x.com/NathanLands/status/2011185669859917879",
+    "timestamp": "2026-01-13T21:16:44.000Z",
+    "metadata": {
+      "conversation_id": "2011185669859917879",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011184470821650588",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "Back after a ~6 week break. So far behind. First thing I noticed is that @FactoryAI Droid no longer prints the spec on screen, you have to ask. Maybe user error but weird 🤷‍♂️",
+    "url": "https://x.com/launchaddict/status/2011184470821650588",
+    "timestamp": "2026-01-13T21:11:58.000Z",
+    "metadata": {
+      "conversation_id": "2011184470821650588",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011183770494517681",
+    "source": "twitter",
+    "author": "idanzei",
+    "content": "@aroussi @FactoryAI well that's quite a lot fr",
+    "url": "https://x.com/idanzei/status/2011183770494517681",
+    "timestamp": "2026-01-13T21:09:11.000Z",
+    "metadata": {
+      "conversation_id": "2011183770494517681",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011180666193580089",
+    "source": "twitter",
+    "author": "0xKrop",
+    "content": "@aroussi @FactoryAI That is literally me.",
+    "url": "https://x.com/0xKrop/status/2011180666193580089",
+    "timestamp": "2026-01-13T20:56:51.000Z",
+    "metadata": {
+      "conversation_id": "2011180666193580089",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011179261982335062",
+    "source": "twitter",
+    "author": "xkonjin",
+    "content": "@EnoReyes @levelsio @FactoryAI I absolutely love factory ai great work",
+    "url": "https://x.com/xkonjin/status/2011179261982335062",
+    "timestamp": "2026-01-13T20:51:16.000Z",
+    "metadata": {
+      "conversation_id": "2011179261982335062",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011179126149775420",
     "source": "twitter",
     "author": "xkonjin",
