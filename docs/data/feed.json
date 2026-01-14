@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2011434322931351735",
+    "source": "twitter",
+    "author": "RahulVerma989",
+    "content": "@iannuttall @FactoryAI Nice optimization for AI agents, makes total sense given GitHub's dominance in their workflows",
+    "url": "https://x.com/RahulVerma989/status/2011434322931351735",
+    "timestamp": "2026-01-14T13:44:47.000Z",
+    "metadata": {
+      "conversation_id": "2011434322931351735",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011429708894961786",
+    "source": "twitter",
+    "author": "mikenguyen_me",
+    "content": "Seems like even Claude cannot fix itself. It's been more than 4hrs straight since their outage... What's happening? \n\nCan you guys try to run Opus 4.5 in Droid by @FactoryAI to debug instead? It's significantly better than Opus 4.5 in CC tbh...",
+    "url": "https://x.com/mikenguyen_me/status/2011429708894961786",
+    "timestamp": "2026-01-14T13:26:27.000Z",
+    "metadata": {
+      "conversation_id": "2011429708894961786",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011426932337029599",
+    "source": "twitter",
+    "author": "amvitor_cmd",
+    "content": "@iannuttall @FactoryAI The fact that you are giving LLMs a semantic repo overview,  NL search ? I mean you just solved a painful bottleneck in agent tooling",
+    "url": "https://x.com/amvitor_cmd/status/2011426932337029599",
+    "timestamp": "2026-01-14T13:15:25.000Z",
+    "metadata": {
+      "conversation_id": "2011426932337029599",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011426054318248017",
+    "source": "twitter",
+    "author": "amvitor_cmd",
+    "content": "@iannuttall @FactoryAI Awesomely built ✅",
+    "url": "https://x.com/amvitor_cmd/status/2011426054318248017",
+    "timestamp": "2026-01-14T13:11:56.000Z",
+    "metadata": {
+      "conversation_id": "2011426054318248017",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011415077925310908",
     "source": "twitter",
     "author": "iannuttall",
