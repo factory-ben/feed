@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011442981795238362",
+    "source": "twitter",
+    "author": "BrandGrowthOS",
+    "content": "@iannuttall @FactoryAI This is one of those “boring” infra fixes that unlocks a lot.\nIf agents are already fetching GitHub first, giving them clean markdown (plus predictable structure) turns a messy retrieval step into something deterministic. Big multiplier.",
+    "url": "https://x.com/BrandGrowthOS/status/2011442981795238362",
+    "timestamp": "2026-01-14T14:19:12.000Z",
+    "metadata": {
+      "conversation_id": "2011442981795238362",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011438600806977789",
     "source": "twitter",
     "author": "heyyamith",
