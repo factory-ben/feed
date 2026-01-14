@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011356616172683580",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@blackboxai Nice interface, however - @droid and @opencode already do this. how is this different?",
+    "url": "https://x.com/AriesTheCoder/status/2011356616172683580",
+    "timestamp": "2026-01-14T08:36:01.000Z",
+    "metadata": {
+      "conversation_id": "2011356616172683580",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011356106790944813",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "Haha - bro, I ACTUALLY wrote a multi-page response  before I caught myself lol - don't know what came over me. 😅\n\nAnyway to put in a vacuum, my point about @droid  is specifically about how it handles the issue of models being dumber (and forgetful) the longer you use it - there is a particular way they do it which you may already I've removed the detail.\n\nI don't think clever compaction tricks and handoff juggling IS the silver bullet, but it certainly solves that one problem in particular. I can tell you is that this is no longer a problem for me when I use droid.\n\nWhat I REALLY want is a harness with a similar level fix that solve's @openai's performance problems in their models though. I am pining for the day that this beast of a model is unleashed.",
+    "url": "https://x.com/AriesTheCoder/status/2011356106790944813",
+    "timestamp": "2026-01-14T08:33:59.000Z",
+    "metadata": {
+      "conversation_id": "2011356106790944813",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011348246233563605",
     "source": "twitter",
     "author": "AGI_Tiramisu",
@@ -16,6 +46,36 @@
     "category": "question"
   },
   {
+    "id": "twitter_2011345466534085074",
+    "source": "twitter",
+    "author": "robinebers",
+    "content": "it will definitely not solve the problem because the context is still filling up until their own compression comes into place. So it's actually like an up and down and up and down how the model will behave in the process that Droid uses \n\nIt is very interesting but I don't think it's the silver bullet\n\nand with gpt-5.2, you just don't need it anymore",
+    "url": "https://x.com/robinebers/status/2011345466534085074",
+    "timestamp": "2026-01-14T07:51:42.000Z",
+    "metadata": {
+      "conversation_id": "2011345466534085074",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011344607842615596",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@robinebers I'm a GPT fan, but to be fair it's harness related. \n\nI've used Opus on @droid and it solves that problem that you've mentioned in particular. \n\nSpecifically, the part where the model gets dumber the longer you use it. That problem is harness specific.\n\nGPT5.2's problem is speed.",
+    "url": "https://x.com/AriesTheCoder/status/2011344607842615596",
+    "timestamp": "2026-01-14T07:48:18.000Z",
+    "metadata": {
+      "conversation_id": "2011344607842615596",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011343964448964720",
     "source": "twitter",
     "author": "adam_x_mentis",
@@ -30,6 +90,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011340963994878144",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "It's ... actually evolved! Thanks for the follow-up by the way. this means that the algo is working differently now and I'm not just being kicked in the corner and ignored anymore.\n\nAll this article actually gave me an idea and after doing a throwaway reply to you, I decided to make it an article instead. \n\nI've got one drafted; will publish it sometime in the next few days - would love if you could have a read of it when it comes out and let me know if it was helpful.",
+    "url": "https://x.com/AriesTheCoder/status/2011340963994878144",
+    "timestamp": "2026-01-14T07:33:49.000Z",
+    "metadata": {
+      "conversation_id": "2011340963994878144",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011318779721273363",
+    "source": "twitter",
+    "author": "ryanlkimmel",
+    "content": "@AriesTheCoder @droid @zeddotdev @GeminiApp This isn’t a ‘tool stack’ anymore, it’s an operating theater. The next unlock is giving all these agents a shared source of truth so you stop being the message bus.\n\nHow’s this coming along?",
+    "url": "https://x.com/ryanlkimmel/status/2011318779721273363",
+    "timestamp": "2026-01-14T06:05:40.000Z",
+    "metadata": {
+      "conversation_id": "2011318779721273363",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011304010859634984",
