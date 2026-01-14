@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011475426208604587",
+    "source": "twitter",
+    "author": "jkaartinen",
+    "content": "@tris_does_stuff @thsottiaux @steipete @kmdrfx @FactoryAI The flickering is not caused by claude code, but rather the terminal program you're using. If you switch to using a better optimized terminal, it should significantly improve the situation.",
+    "url": "https://x.com/jkaartinen/status/2011475426208604587",
+    "timestamp": "2026-01-14T16:28:07.000Z",
+    "metadata": {
+      "conversation_id": "2011475426208604587",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011473126387786021",
+    "source": "twitter",
+    "author": "John_Capobianco",
+    "content": "@iannuttall would you mind snapping in my GAIT MCP? \n\nIt's Git for Ralph more or less \n\nEach turn gets a commit ID; Ralph can revert state if it poisons context; you can even instruct Ralph to make and use branches to explore ideas and approaches and merge back the best branches \n\nFull audit trail - its wild \n\nWould love your interest and feedback \n\nhttps://t.co/kD0WElnnyy",
+    "url": "https://x.com/John_Capobianco/status/2011473126387786021",
+    "timestamp": "2026-01-14T16:18:59.000Z",
+    "metadata": {
+      "conversation_id": "2011473126387786021",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011464048127201743",
     "source": "twitter",
     "author": "SynthesisLedger",
