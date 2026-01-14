@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011391456334770480",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@tris_does_stuff @thsottiaux @kmdrfx @FactoryAI @clawdbot coxed could not :)\n\nThat stuff is really hard\n\nthanks!",
+    "url": "https://x.com/steipete/status/2011391456334770480",
+    "timestamp": "2026-01-14T10:54:27.000Z",
+    "metadata": {
+      "conversation_id": "2011391456334770480",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011388995742433339",
+    "source": "twitter",
+    "author": "techMosavvy",
+    "content": "@trq212 @levelsio I prefer the way @FactoryAI handles it.\n\nThey have 3 levels of autonomy (\"modes\") and it's easy to switch between them based on the current task. https://t.co/F5y9hWxABY",
+    "url": "https://x.com/techMosavvy/status/2011388995742433339",
+    "timestamp": "2026-01-14T10:44:41.000Z",
+    "metadata": {
+      "conversation_id": "2011388995742433339",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011373456844288460",
     "source": "twitter",
     "author": "laup30",
