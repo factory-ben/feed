@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011519019992457305",
+    "source": "twitter",
+    "author": "Lat3ntG3nius",
+    "content": "@iannuttall @FactoryAI Agent-first design is the new mobile-first.\n\nIf your tool doesn't return markdown or structured data, agents can't use it. And if agents can't use it, you're invisible to the fastest-growing segment of users.\n\nMachine-readable isn't optional anymore.",
+    "url": "https://x.com/Lat3ntG3nius/status/2011519019992457305",
+    "timestamp": "2026-01-14T19:21:21.000Z",
+    "metadata": {
+      "conversation_id": "2011519019992457305",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_588",
     "source": "github",
     "author": "rstander7777",
