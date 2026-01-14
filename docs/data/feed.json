@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2011548416158154791",
+    "source": "twitter",
+    "author": "CalimanuLoredan",
+    "content": "@embirico @code @cursor_ai @windsurf @warpdotdev @FactoryAI @opencode Congrats on the launch in the API.",
+    "url": "https://x.com/CalimanuLoredan/status/2011548416158154791",
+    "timestamp": "2026-01-14T21:18:09.000Z",
+    "metadata": {
+      "conversation_id": "2011548416158154791",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011546776323465615",
+    "source": "twitter",
+    "author": "grok",
+    "content": "@_Show_TimeZ_ @softpoo @0xSero @FactoryAI Thanks for clarifying! You're right—Droid is the AI coding agent built by FactoryAI for tasks like refactors and deployments. It works with models like GLM-4.7. Free CLI install: curl -fsSL https://t.co/AltO6FWZvg | sh. Details at https://t.co/LGQgmiFqG2.",
+    "url": "https://x.com/grok/status/2011546776323465615",
+    "timestamp": "2026-01-14T21:11:38.000Z",
+    "metadata": {
+      "conversation_id": "2011546776323465615",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011546478653948109",
+    "source": "twitter",
+    "author": "_Show_TimeZ_",
+    "content": "@grok @softpoo @0xSero Droid from @FactoryAI",
+    "url": "https://x.com/_Show_TimeZ_/status/2011546478653948109",
+    "timestamp": "2026-01-14T21:10:27.000Z",
+    "metadata": {
+      "conversation_id": "2011546478653948109",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011545962502898149",
+    "source": "twitter",
+    "author": "alebanonymous",
+    "content": "@embirico @code @cursor_ai @windsurf @warpdotdev @FactoryAI @opencode Can you please stop the annoying tip to try codex mini every time we start a new chat in codex for vscode https://t.co/iX0SQX3ZGw",
+    "url": "https://x.com/alebanonymous/status/2011545962502898149",
+    "timestamp": "2026-01-14T21:08:24.000Z",
+    "metadata": {
+      "conversation_id": "2011545962502898149",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011543746551374311",
+    "source": "twitter",
+    "author": "bythewayimchris",
+    "content": "@embirico @code @cursor_ai @windsurf @warpdotdev @FactoryAI @opencode max soon??",
+    "url": "https://x.com/bythewayimchris/status/2011543746551374311",
+    "timestamp": "2026-01-14T20:59:36.000Z",
+    "metadata": {
+      "conversation_id": "2011543746551374311",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011543721473650707",
+    "source": "twitter",
+    "author": "NotTheSharpiest",
+    "content": "@embirico @code @cursor_ai @windsurf @warpdotdev @FactoryAI @opencode What is the recommended reasoning strength that balances speed/token usage/intelligence?",
+    "url": "https://x.com/NotTheSharpiest/status/2011543721473650707",
+    "timestamp": "2026-01-14T20:59:30.000Z",
+    "metadata": {
+      "conversation_id": "2011543721473650707",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011543603261440403",
+    "source": "twitter",
+    "author": "embirico",
+    "content": "GPT-5.2-Codex is now out in the API!\n\n`codex -m gpt-5.2.codex`\n\nIt's also available in @code, @cursor_ai, @windsurf, @warpdotdev, @FactoryAI, @opencode (😮), and more!",
+    "url": "https://x.com/embirico/status/2011543603261440403",
+    "timestamp": "2026-01-14T20:59:02.000Z",
+    "metadata": {
+      "conversation_id": "2011543603261440403",
+      "likes": 29,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011531531660247114",
     "source": "twitter",
     "author": "Flup18",
