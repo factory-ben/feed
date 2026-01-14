@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011274469957124258",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "Vote 💣\n\nDo you think GLM 4.7 should be free for @Droid users?",
+    "url": "https://x.com/GitMaxd/status/2011274469957124258",
+    "timestamp": "2026-01-14T03:09:35.000Z",
+    "metadata": {
+      "conversation_id": "2011274469957124258",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011274101944705366",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "One subtle I'd love for @droid to have is this - when it asks for permissions to run a bash command, a short note on what it is for, makes it a LOT useful, for non-technical users. https://t.co/hQ1bjC8Svn",
+    "url": "https://x.com/nkgoutham/status/2011274101944705366",
+    "timestamp": "2026-01-14T03:08:08.000Z",
+    "metadata": {
+      "conversation_id": "2011274101944705366",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011261425608741051",
     "source": "twitter",
     "author": "GitMaxd",
@@ -30,6 +60,51 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2011258448168829381",
+    "source": "twitter",
+    "author": "Codydearkland",
+    "content": "@matanSF @droid @zeeg https://t.co/Zgo0PIBLBE",
+    "url": "https://x.com/Codydearkland/status/2011258448168829381",
+    "timestamp": "2026-01-14T02:05:56.000Z",
+    "metadata": {
+      "conversation_id": "2011258448168829381",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011254957274710269",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@Codydearkland Idk who gets more cred here @droid or @zeeg",
+    "url": "https://x.com/matanSF/status/2011254957274710269",
+    "timestamp": "2026-01-14T01:52:03.000Z",
+    "metadata": {
+      "conversation_id": "2011254957274710269",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011251302563758429",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "It really takes a while to get a feel for a coding model. \n\nSpent the last two days using GPT-5.2 as a daily driver in @droid\n\nCompared to Opus 4.5, it’s not as chatty and has a much “crisper” personality.  I never watched the show much but I keep thinking of Sheldon from Big Bang Theory. \n\nOne thing I like is GPT-5.2 will actually tell me I’m wrong, or when it disagrees.  Anthropic models rarely do that. \n\nBut the one thing missing is, it doesn’t talk enough about what it’s going to do. It’s unnerving that it just starts making tool calls and gives you no guidance that it understood you, or what it’s starting to work on.\n\nI tend to use Droid as a coding partner, and am chatty with it, Opus works great in that role. \n\nI need to figure out how to split the work better between the two, like having the spec model as Opus and worker model as 5.2.  Or even it would be great if Opus could orchestrate and call subagents using 5.2.  \n\nStill a lot to learn here.",
+    "url": "https://x.com/KirkMarple/status/2011251302563758429",
+    "timestamp": "2026-01-14T01:37:32.000Z",
+    "metadata": {
+      "conversation_id": "2011251302563758429",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011248170597302314",
