@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011559056864051482",
+    "source": "twitter",
+    "author": "5cottFive",
+    "content": "@embirico @code @cursor_ai @windsurf @warpdotdev @FactoryAI @opencode Nice work!\n\nNext up, can we get a meaningful graph here? \n\nLike, why are the bars different sizes when they all say 100%?\n\nWhat is the size of the bar reflecting? What's the underlying data?\n\nWould be nice to have something that ties in with cost. Thx! https://t.co/zckFK1QYaU",
+    "url": "https://x.com/5cottFive/status/2011559056864051482",
+    "timestamp": "2026-01-14T22:00:26.000Z",
+    "metadata": {
+      "conversation_id": "2011559056864051482",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011554996513599908",
     "source": "twitter",
     "author": "alvinsng",
