@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011798616478794237",
+    "source": "twitter",
+    "author": "PR3SIDENT",
+    "content": "@theplgeek @FactoryAI @droid @bentossell Yes, I did, but I’m gonna try it again today with fresh eyes. Basically it felt like I was stuck in that context window, even after developing a properly formatted PRD. (which my original wasn’t.)\n\nI’ll try again and report back in a little while!",
+    "url": "https://x.com/PR3SIDENT/status/2011798616478794237",
+    "timestamp": "2026-01-15T13:52:22.000Z",
+    "metadata": {
+      "conversation_id": "2011798616478794237",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011797613343863272",
+    "source": "twitter",
+    "author": "theplgeek",
+    "content": "@PR3SIDENT @FactoryAI @droid @bentossell did you try just using the convert flow?\n\nhttps://t.co/DI5Q2bPCKl",
+    "url": "https://x.com/theplgeek/status/2011797613343863272",
+    "timestamp": "2026-01-15T13:48:23.000Z",
+    "metadata": {
+      "conversation_id": "2011797613343863272",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011793307874062364",
     "source": "twitter",
     "author": "BillCrosby",
