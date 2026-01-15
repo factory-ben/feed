@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011618556853531085",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "You guys didn’t happen to change the default thinking tokens for BYOK models in @droid, did you? \ncc: @matanSF @EnoReyes \n\nI’ve been using Opus 4.5 for weeks with my own key, and today it is just god-awful. \n\nSince there’s no setting in Droid to set the thinking level with custom models, I was curious if any defaults changed. \n\nIt keeps admitting it’s being lazy, and just won’t do any of its own research on the code. (Even with fresh sessions.)\n\nHad to change to GPT-5.2-Codex to actually get anything done.",
+    "url": "https://x.com/KirkMarple/status/2011618556853531085",
+    "timestamp": "2026-01-15T01:56:52.000Z",
+    "metadata": {
+      "conversation_id": "2011618556853531085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011586025999778025",
     "source": "twitter",
     "author": "senor_rose",
