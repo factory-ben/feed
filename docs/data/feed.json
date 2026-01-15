@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011697133221789853",
+    "source": "twitter",
+    "author": "theplgeek",
+    "content": "@wahmahchi @FactoryAI @droid @bentossell Not at all. I haven’t been going crazy getting it to build massive things unattended. I tend to keep the work contained, general 10 interaction max. \nAlso ralph-tui has a built in mechanism for fallback to alternate provider",
+    "url": "https://x.com/theplgeek/status/2011697133221789853",
+    "timestamp": "2026-01-15T07:09:06.000Z",
+    "metadata": {
+      "conversation_id": "2011697133221789853",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011693168933351808",
     "source": "twitter",
     "author": "wahmahchi",
@@ -15480,6 +15495,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1q2o7pm",
+    "source": "reddit",
+    "author": "Sure-Marsupial-8694",
+    "content": "How can i config droid to ues grok-cofe-fast-1\n\nHow can i config droid to ues grok-cofe-fast-1？",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q2o7pm/how_can_i_config_droid_to_ues_grokcofefast1/",
+    "timestamp": "2026-01-03T07:16:27.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2007341206800589195",
