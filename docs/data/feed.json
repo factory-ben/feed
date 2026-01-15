@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011937657094394059",
+    "source": "twitter",
+    "author": "23andreo23",
+    "content": "@iannuttall @FactoryAI this is the exact friction point nobody talks about. devs build docs for humans, forget agents eventually have to parse them. by the time you realize it, your whole workflow is broken.",
+    "url": "https://x.com/23andreo23/status/2011937657094394059",
+    "timestamp": "2026-01-15T23:04:52.000Z",
+    "metadata": {
+      "conversation_id": "2011937657094394059",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011937323483828674",
+    "source": "twitter",
+    "author": "87xysr",
+    "content": "@codewithantonio @FactoryAI @opencode are both so much better than Claude Code.",
+    "url": "https://x.com/87xysr/status/2011937323483828674",
+    "timestamp": "2026-01-15T23:03:32.000Z",
+    "metadata": {
+      "conversation_id": "2011937323483828674",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011934438632902685",
     "source": "twitter",
     "author": "theplgeek",
