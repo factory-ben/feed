@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2011776779610980543",
+    "source": "twitter",
+    "author": "PopVerseYT",
+    "content": "@theplgeek @FactoryAI @droid Awesome to see the shift enter i suggested is implemented, something small, but that makes me feel part of it :D",
+    "url": "https://x.com/PopVerseYT/status/2011776779610980543",
+    "timestamp": "2026-01-15T12:25:35.000Z",
+    "metadata": {
+      "conversation_id": "2011776779610980543",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011776536853328255",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@theplgeek @FactoryAI @droid downloading",
+    "url": "https://x.com/bentossell/status/2011776536853328255",
+    "timestamp": "2026-01-15T12:24:38.000Z",
+    "metadata": {
+      "conversation_id": "2011776536853328255",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011775721996451999",
+    "source": "twitter",
+    "author": "theplgeek",
+    "content": "@FactoryAI @droid @bentossell",
+    "url": "https://x.com/theplgeek/status/2011775721996451999",
+    "timestamp": "2026-01-15T12:21:23.000Z",
+    "metadata": {
+      "conversation_id": "2011775721996451999",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011775158508536187",
+    "source": "twitter",
+    "author": "_0xSnowEth",
+    "content": "@theplgeek @FactoryAI @droid THIS IS WHY NOTIFICATIONS ARE ON BABY🔥",
+    "url": "https://x.com/_0xSnowEth/status/2011775158508536187",
+    "timestamp": "2026-01-15T12:19:09.000Z",
+    "metadata": {
+      "conversation_id": "2011775158508536187",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011775046071828761",
+    "source": "twitter",
+    "author": "theplgeek",
+    "content": "ralph-tui 0.1.7 is live\n\n- feat: New agent plugin for @FactoryAI @droid \n- fix: Shift-Enter bug in create-prd chat input (community PR)\n- fix: incorrect reason command when closing beads\n- fix: various docs fixes",
+    "url": "https://x.com/theplgeek/status/2011775046071828761",
+    "timestamp": "2026-01-15T12:18:42.000Z",
+    "metadata": {
+      "conversation_id": "2011775046071828761",
+      "likes": 5,
+      "retweets": 2,
+      "replies": 3,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011770654983668225",
     "source": "twitter",
     "author": "AriesTheCoder",
