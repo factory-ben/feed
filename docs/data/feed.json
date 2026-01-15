@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2011760001644445792",
+    "source": "twitter",
+    "author": "DanielWhit21874",
+    "content": "@iannuttall @FactoryAI How do you find 5.2 codex so far ?",
+    "url": "https://x.com/DanielWhit21874/status/2011760001644445792",
+    "timestamp": "2026-01-15T11:18:55.000Z",
+    "metadata": {
+      "conversation_id": "2011760001644445792",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011758893810995295",
+    "source": "twitter",
+    "author": "niceMiewMiew",
+    "content": "已经从 Cloud Code 迁移到 Factory 的 Droid 了！\n因为它用普普通通的 GPT 5.2，解决了我用 CodeX 和 Cloud Code 的顶级模型都没有解决得了的任务。\n但是用手机打开网页好像有缩放问题，不知道是 iOS 26 的 bug 还是什么原因。\n另外，@FactoryAI ，we or I do need ios app which could vibe coding rather than on web",
+    "url": "https://x.com/niceMiewMiew/status/2011758893810995295",
+    "timestamp": "2026-01-15T11:14:31.000Z",
+    "metadata": {
+      "conversation_id": "2011758893810995295",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011751872429015518",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@alvinsng @FactoryAI That’s quite interesting approach!",
+    "url": "https://x.com/shreyas1009/status/2011751872429015518",
+    "timestamp": "2026-01-15T10:46:37.000Z",
+    "metadata": {
+      "conversation_id": "2011751872429015518",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011751570116067469",
     "source": "twitter",
     "author": "HarryStuck77",
@@ -14,6 +59,66 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011749547123634552",
+    "source": "twitter",
+    "author": "Timur_Yessenov",
+    "content": "@iannuttall @FactoryAI rewrites that used to be 3-week sprints are now afternoon sessions.\n\nthe (AGAIN) hits different when you know it's 4 hours instead of 4 weeks. i've stopped dreading tech debt because fixing it is actually fast now.",
+    "url": "https://x.com/Timur_Yessenov/status/2011749547123634552",
+    "timestamp": "2026-01-15T10:37:23.000Z",
+    "metadata": {
+      "conversation_id": "2011749547123634552",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011749052644540619",
+    "source": "twitter",
+    "author": "Apostroph3s",
+    "content": "@bradvangelder @FactoryAI Thks for the share!\nWhen you say \"into my workflow\", do you mean via hooks or something that automate call to these skills?",
+    "url": "https://x.com/Apostroph3s/status/2011749052644540619",
+    "timestamp": "2026-01-15T10:35:25.000Z",
+    "metadata": {
+      "conversation_id": "2011749052644540619",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011743739396714782",
+    "source": "twitter",
+    "author": "alessandro_snv",
+    "content": "@FactoryAI Hi! I can't find GPT-5.2-Codex in my Droid model selector (I only see up to GPT-5.2 0.7x). I'm based in Italy — is this a geographic limitation or a gradual rollout? https://t.co/TVhkGrReWt",
+    "url": "https://x.com/alessandro_snv/status/2011743739396714782",
+    "timestamp": "2026-01-15T10:14:18.000Z",
+    "metadata": {
+      "conversation_id": "2011743739396714782",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011743391806341128",
+    "source": "twitter",
+    "author": "DanielWhit21874",
+    "content": "@FactoryAI One of the best CLI tools out there",
+    "url": "https://x.com/DanielWhit21874/status/2011743391806341128",
+    "timestamp": "2026-01-15T10:12:55.000Z",
+    "metadata": {
+      "conversation_id": "2011743391806341128",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011740316320313657",
@@ -32,6 +137,51 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2011739637048623366",
+    "source": "twitter",
+    "author": "leonardodias",
+    "content": "@iannuttall @FactoryAI It's because I'm really happy with it. Now you can send instructions in the queue while it's running. So cool! And specially when I saw your post about Droid, it runs fine with Droid now. Support improved.",
+    "url": "https://x.com/leonardodias/status/2011739637048623366",
+    "timestamp": "2026-01-15T09:58:00.000Z",
+    "metadata": {
+      "conversation_id": "2011739637048623366",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011739120650133914",
+    "source": "twitter",
+    "author": "mesky_",
+    "content": "@iannuttall @FactoryAI can you byok for droid?",
+    "url": "https://x.com/mesky_/status/2011739120650133914",
+    "timestamp": "2026-01-15T09:55:57.000Z",
+    "metadata": {
+      "conversation_id": "2011739120650133914",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011738141682778281",
+    "source": "twitter",
+    "author": "iannuttall",
+    "content": "@leonardodias @FactoryAI dude I think your project is cool but you have replied to promote it on so many posts rather than engaging and letting people naturally find you/it",
+    "url": "https://x.com/iannuttall/status/2011738141682778281",
+    "timestamp": "2026-01-15T09:52:03.000Z",
+    "metadata": {
+      "conversation_id": "2011738141682778281",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_591",
     "source": "github",
     "author": "Cupnfish",
@@ -44,6 +194,21 @@
       "number": 591
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2011733975426121985",
+    "source": "twitter",
+    "author": "leonardodias",
+    "content": "@iannuttall @FactoryAI Try doing that big spec with Relentless. It just works! https://t.co/1qTWt5BwyX",
+    "url": "https://x.com/leonardodias/status/2011733975426121985",
+    "timestamp": "2026-01-15T09:35:30.000Z",
+    "metadata": {
+      "conversation_id": "2011733975426121985",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011731308658172219",
@@ -60,6 +225,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011730055471464474",
+    "source": "twitter",
+    "author": "marovole",
+    "content": "@pvncher I recommend Droid @FactoryAI . They offer team subscriptions, with each seat costing an extra $5, and there are tiers of $20, $200, and $2000. It also supports switching between Opus/GPT/Gemini/GLM",
+    "url": "https://x.com/marovole/status/2011730055471464474",
+    "timestamp": "2026-01-15T09:19:56.000Z",
+    "metadata": {
+      "conversation_id": "2011730055471464474",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011729190522061168",
+    "source": "twitter",
+    "author": "iannuttall",
+    "content": "today i will mostly be running 5.2 codex high in @FactoryAI droids\n\ntime to rewrite playbooks.⁠com from scratch (AGAIN) 😭 https://t.co/2UAISIZsuT",
+    "url": "https://x.com/iannuttall/status/2011729190522061168",
+    "timestamp": "2026-01-15T09:16:29.000Z",
+    "metadata": {
+      "conversation_id": "2011729190522061168",
+      "likes": 24,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011715248064287165",
@@ -126,6 +321,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2011700483313058228",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "Nothing like putting yourself to work @FactoryAI all night &lt;3\n\nHad a couple of pit stops in this agentic session, but was  for clarifying questions. #Cookin https://t.co/vMI9vn9LY3",
+    "url": "https://x.com/Alberto8793/status/2011700483313058228",
+    "timestamp": "2026-01-15T07:22:25.000Z",
+    "metadata": {
+      "conversation_id": "2011700483313058228",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011698811706699899",
     "source": "twitter",
     "author": "wahmahchi",
@@ -140,6 +350,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2011698456780505385",
+    "source": "twitter",
+    "author": "DevBredda",
+    "content": "@FactoryAI Can I use my chatgpt subscription on this?",
+    "url": "https://x.com/DevBredda/status/2011698456780505385",
+    "timestamp": "2026-01-15T07:14:22.000Z",
+    "metadata": {
+      "conversation_id": "2011698456780505385",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011697133221789853",
@@ -188,6 +413,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011680081140466122",
+    "source": "twitter",
+    "author": "therealsatwik",
+    "content": "@chrisbarber maybe @11x_official and @FactoryAI",
+    "url": "https://x.com/therealsatwik/status/2011680081140466122",
+    "timestamp": "2026-01-15T06:01:21.000Z",
+    "metadata": {
+      "conversation_id": "2011680081140466122",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011669283735290312",
