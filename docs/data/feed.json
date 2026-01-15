@@ -14974,6 +14974,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_561",
+    "source": "github",
+    "author": "divivoma",
+    "content": "[Issue] droid download issue on Ubuntu 22.04.5\n\nhi all, \nI was trying to install droid on my Ubuntu x64 laptop but got this error:\n\n```\nxxx:/tmp$ curl -fsSL https://app.factory.ai/cli | sh\nDownloading Factory CLI v0.41.0 for linux-x64\ncurl: (23) client returned ERROR on write of 8192 bytes\nDownload failed\n```\nxdg-utils are ok. \n\nI am based in Germany, is it a location issue? or what else?\n",
+    "url": "https://github.com/Factory-AI/factory/issues/561",
+    "timestamp": "2026-01-03T13:33:22Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 561
+    }
+  },
+  {
     "id": "twitter_2007442161051283769",
     "source": "twitter",
     "author": "ZarekXBT",
