@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011854839349678130",
+    "source": "twitter",
+    "author": "mjtechguy",
+    "content": "@theplgeek @FactoryAI @droid Can it connect to remote linux machines as well? So i can manage locally and multiple remotes from a single pane?",
+    "url": "https://x.com/mjtechguy/status/2011854839349678130",
+    "timestamp": "2026-01-15T17:35:46.000Z",
+    "metadata": {
+      "conversation_id": "2011854839349678130",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_594",
     "source": "github",
     "author": "umairimtiaz9",
@@ -62,6 +77,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2011847813714637124",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "Oh and by the way: I never wrote any swift in my entire life. \n\nEvery single line was written by @OpenAI Codex in the best orchestration layer of all: @FactoryAI Droid. \n\nIt took 4 hours (naps included).",
+    "url": "https://x.com/realZachi007/status/2011847813714637124",
+    "timestamp": "2026-01-15T17:07:51.000Z",
+    "metadata": {
+      "conversation_id": "2011847813714637124",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011847666003554458",
     "source": "twitter",
     "author": "GitMaxd",
@@ -78,6 +108,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2011842543944634860",
+    "source": "twitter",
+    "author": "juniorro16",
+    "content": "@iannuttall @FactoryAI Are you using API os just your regular plan?",
+    "url": "https://x.com/juniorro16/status/2011842543944634860",
+    "timestamp": "2026-01-15T16:46:55.000Z",
+    "metadata": {
+      "conversation_id": "2011842543944634860",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011841240963125335",
     "source": "twitter",
     "author": "bentossell",
@@ -92,6 +137,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011840879175303251",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "Oh yeah, of course... there's love there.  \n...\n... \n\nbut still man, aren't you like \" yoooo... I knew this before... wrote a blog... cool images... and graphs... ... and, and a blog... \" 😅\n\n(just playing man - random sht posting while droid clones my base 50 entity convex schema)",
+    "url": "https://x.com/AriesTheCoder/status/2011840879175303251",
+    "timestamp": "2026-01-15T16:40:18.000Z",
+    "metadata": {
+      "conversation_id": "2011840879175303251",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011840825513120086",
@@ -126,6 +186,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2011838599214305705",
+    "source": "twitter",
+    "author": "Abanoub_Ashraf_",
+    "content": "@iannuttall @FactoryAI what good factory plan that last for a whole month i wanna try it",
+    "url": "https://x.com/Abanoub_Ashraf_/status/2011838599214305705",
+    "timestamp": "2026-01-15T16:31:14.000Z",
+    "metadata": {
+      "conversation_id": "2011838599214305705",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011837646671425718",
     "source": "twitter",
     "author": "pedronauck",
@@ -140,6 +215,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011837163084615874",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@AriesTheCoder @FactoryAI Thanks! We don't feel bad at all and we actually love using Vercel. \n\nIt's also a great opportunity to mention our work",
+    "url": "https://x.com/alvinsng/status/2011837163084615874",
+    "timestamp": "2026-01-15T16:25:32.000Z",
+    "metadata": {
+      "conversation_id": "2011837163084615874",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011837129798619493",
@@ -158,6 +248,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2011836045739106425",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@edspire2 @FactoryAI You can add a hook or https://t.co/57pIKc4ZSn mention to fix lint errors until they pass. Lint errors will continue to fail until they are all fixed",
+    "url": "https://x.com/alvinsng/status/2011836045739106425",
+    "timestamp": "2026-01-15T16:21:06.000Z",
+    "metadata": {
+      "conversation_id": "2011836045739106425",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011835882433572994",
     "source": "twitter",
     "author": "itetnaa",
@@ -172,6 +277,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2011833032991187058",
+    "source": "twitter",
+    "author": "mikehostetler",
+    "content": "@th3mus1cman @AmpCode @FactoryAI a little - I see a lot of good things but wasn't the tool for me",
+    "url": "https://x.com/mikehostetler/status/2011833032991187058",
+    "timestamp": "2026-01-15T16:09:07.000Z",
+    "metadata": {
+      "conversation_id": "2011833032991187058",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "reddit_1qdn3k3",
