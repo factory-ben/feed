@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2011943871081492508",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2011942211106091100",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2011937657094394059",
@@ -15155,7 +15158,8 @@
       "type": "issue",
       "labels": [],
       "number": 563
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2008215154660679829",
