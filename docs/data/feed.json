@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011698811706699899",
+    "source": "twitter",
+    "author": "wahmahchi",
+    "content": "building something similar with an electron wrapper and a bunch of other wishlist stuff I want for spec writing but having a lot of api issues and redlining \n\nkudos though been playing around with yours to do a sentiment analyzer and I really like the Q & A feature on the spec \n\nDo get some weird highlighting stuff ( on osx sequoia )",
+    "url": "https://x.com/wahmahchi/status/2011698811706699899",
+    "timestamp": "2026-01-15T07:15:46.000Z",
+    "metadata": {
+      "conversation_id": "2011698811706699899",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011697133221789853",
     "source": "twitter",
     "author": "theplgeek",
