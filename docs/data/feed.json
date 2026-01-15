@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011910597831520571",
+    "source": "twitter",
+    "author": "meeeseeek",
+    "content": "@FactoryAI Hey @droid currently can't read mcp tools in a session is this a known bug?",
+    "url": "https://x.com/meeeseeek/status/2011910597831520571",
+    "timestamp": "2026-01-15T21:17:20.000Z",
+    "metadata": {
+      "conversation_id": "2011910597831520571",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011909250088378469",
+    "source": "twitter",
+    "author": "WesleyP91308",
+    "content": "@theplgeek @FactoryAI @droid and here I am just running open code in Konsole with MiniMax like a cave man...",
+    "url": "https://x.com/WesleyP91308/status/2011909250088378469",
+    "timestamp": "2026-01-15T21:11:59.000Z",
+    "metadata": {
+      "conversation_id": "2011909250088378469",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011897414987497567",
     "source": "twitter",
     "author": "BillCrosby",
