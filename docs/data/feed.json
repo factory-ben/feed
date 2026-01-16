@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012024857471697239",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@iannuttall @FactoryAI As a Codex and Droid user, how do you decide when to use which?",
+    "url": "https://x.com/Alberto8793/status/2012024857471697239",
+    "timestamp": "2026-01-16T04:51:22.000Z",
+    "metadata": {
+      "conversation_id": "2012024857471697239",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012017098118299778",
     "source": "twitter",
     "author": "ty_udy",
@@ -30,6 +45,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2012016531002048848",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "I use Opus for planning—it matches how my brain works. I think things through there, then hand the plan to Codex to execute. That separation works for me: plan → execution → iteration. #NotRalph \n\nI’m building https://t.co/vEcJ14tgp5 + https://t.co/c8E2Fi3H9f (incl. a pretty badass pro video editor).",
+    "url": "https://x.com/Alberto8793/status/2012016531002048848",
+    "timestamp": "2026-01-16T04:18:17.000Z",
+    "metadata": {
+      "conversation_id": "2012016531002048848",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2012010764274720982",
