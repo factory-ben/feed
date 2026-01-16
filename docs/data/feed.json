@@ -16,6 +16,36 @@
     "category": "love"
   },
   {
+    "id": "twitter_2012177203836924036",
+    "source": "twitter",
+    "author": "towrywang",
+    "content": "@d2ac__ @droid @AmpCode @opencode droid sucks",
+    "url": "https://x.com/towrywang/status/2012177203836924036",
+    "timestamp": "2026-01-16T14:56:44.000Z",
+    "metadata": {
+      "conversation_id": "2012177203836924036",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012168107897262502",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@d2ac__ @droid @AmpCode @opencode what makes droid best, better than amp?",
+    "url": "https://x.com/sqs/status/2012168107897262502",
+    "timestamp": "2026-01-16T14:20:35.000Z",
+    "metadata": {
+      "conversation_id": "2012168107897262502",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_604",
     "source": "github",
     "author": "a112121788",
