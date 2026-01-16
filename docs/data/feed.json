@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2011952855410672040",
+    "source": "twitter",
+    "author": "mjtechguy",
+    "content": "@paraddox @theplgeek @FactoryAI @droid I mostly build enterprise level web apps. Tons of containers, lots of ports, and the go tests alone sometimes be the bring the machine to its knees. Easier to pay for a few cloud nodes for a few days instead of having to sell a kidney for some Mac studios at home",
+    "url": "https://x.com/mjtechguy/status/2011952855410672040",
+    "timestamp": "2026-01-16T00:05:15.000Z",
+    "metadata": {
+      "conversation_id": "2011952855410672040",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011952051018662311",
+    "source": "twitter",
+    "author": "paraddox",
+    "content": "@theplgeek @mjtechguy @FactoryAI @droid Having this would be awesome for people building other stuff besides webapps.",
+    "url": "https://x.com/paraddox/status/2011952051018662311",
+    "timestamp": "2026-01-16T00:02:03.000Z",
+    "metadata": {
+      "conversation_id": "2011952051018662311",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011951549342253549",
+    "source": "twitter",
+    "author": "MongoDB",
+    "content": "Lean teams. Real tradeoffs. Long-term thinking.\n\nToday at MongoDB.local SF, founders from @FactoryAI, @Tiny_Fish, and @WorkOS  took the stage to chat about building the future of AI startups. https://t.co/lWNYAd6XbB",
+    "url": "https://x.com/MongoDB/status/2011951549342253549",
+    "timestamp": "2026-01-16T00:00:04.000Z",
+    "metadata": {
+      "conversation_id": "2011951549342253549",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011951014379671921",
+    "source": "twitter",
+    "author": "theplgeek",
+    "content": "@mjtechguy @FactoryAI @droid Always be ralphing 🤘",
+    "url": "https://x.com/theplgeek/status/2011951014379671921",
+    "timestamp": "2026-01-15T23:57:56.000Z",
+    "metadata": {
+      "conversation_id": "2011951014379671921",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011950272940048584",
+    "source": "twitter",
+    "author": "mjtechguy",
+    "content": "@theplgeek @FactoryAI @droid FWIW, I cloned Ralph-TUI and Ralph is currently trying to implement it. The prompt was trash tho. I was in a rush. I don’t expect much when I get back to my machine 🤣🤷",
+    "url": "https://x.com/mjtechguy/status/2011950272940048584",
+    "timestamp": "2026-01-15T23:54:59.000Z",
+    "metadata": {
+      "conversation_id": "2011950272940048584",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011948249037332880",
     "source": "twitter",
     "author": "theplgeek",
