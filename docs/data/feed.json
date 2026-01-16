@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012177341523411096",
+    "source": "twitter",
+    "author": "JBabaTalks",
+    "content": "@iannuttall @FactoryAI We went from tech debt to no debt way fast.",
+    "url": "https://x.com/JBabaTalks/status/2012177341523411096",
+    "timestamp": "2026-01-16T14:57:17.000Z",
+    "metadata": {
+      "conversation_id": "2012177341523411096",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_604",
     "source": "github",
     "author": "a112121788",
