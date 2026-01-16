@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2012237309987725548",
+    "source": "twitter",
+    "author": "d2ac__",
+    "content": "@YuriKushch @sqs @droid @AmpCode @opencode CC's out of the box experience is the worst, they don't really care about their TUI experience. Harness wise,\n\nOMO in opencode\nCodex xhigh in Droid\nAmp\n\nthey are all just better in executing what I need",
+    "url": "https://x.com/d2ac__/status/2012237309987725548",
+    "timestamp": "2026-01-16T18:55:34.000Z",
+    "metadata": {
+      "conversation_id": "2012237309987725548",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012236395860091347",
+    "source": "twitter",
+    "author": "d2ac__",
+    "content": "I had a project that I used almost every TUI out there.\n\nCursor, Amp, Opencode, Droid\nMy first instinct was to go to amp and just finish the job. But I think its the problem of the model. \nHere is the problem, Opus just don't get things done. The task is simple but require a deep research and following prompts\n\nAmp has a smaller token limit meaning the moment the research is done I almost certainly has to use handoff, and lose the context of the files it just searched.\nThis is not a problem of amp, its the model.\n\nOn the other droid has 5.2 codex that just gets things done. while it takes 30 minutes\n\nIm more willing to spend time learning the code the agent wrote if it works, I can't iterate on opus at a speed where its correct and I am learning.",
+    "url": "https://x.com/d2ac__/status/2012236395860091347",
+    "timestamp": "2026-01-16T18:51:56.000Z",
+    "metadata": {
+      "conversation_id": "2012236395860091347",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012229736760795280",
     "source": "twitter",
     "author": "anilkishan",
