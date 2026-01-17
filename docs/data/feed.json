@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012534033645961526",
+    "source": "twitter",
+    "author": "m0nle0z",
+    "content": "@FactoryAI @zeddotdev hehe https://t.co/yPxXQjHLEJ",
+    "url": "https://x.com/m0nle0z/status/2012534033645961526",
+    "timestamp": "2026-01-17T14:34:39.000Z",
+    "metadata": {
+      "conversation_id": "2012534033645961526",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012513514926289300",
     "source": "twitter",
     "author": "mnfng255077",
@@ -15120,6 +15135,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1q6e540",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.43.0 Released\n\n## Bug fixes\n\n* **Terminal panel display** - Fixed terminal being cut off when plan panel is shown\n* **Chat input width** - Chat input now extends to full terminal width\n* **Spec mode transitions** - `droid exec --use-spec` correctly exits spec mode after `ExitSpecMode`\n* **Default session settings** - Session defaults properly loaded from settings.json on each new session\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q6e540/factory_cli_v0430_released/",
+    "timestamp": "2026-01-07T12:31:21.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2008876553506263378",
