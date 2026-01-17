@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2012413616214216845",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 16: Update 1\n\nMore UI cleanups tonight:\n\nAdded % variance to the KPI cards (finally showing how much I'm improving... or not 😅)\n\nBuilt out post-upload editing so I can fix OCR slips without re-uploading.\n\nAlso had one of my best sim rounds in a while — 75 today! Felt good.\n\nSmall wins are stacking up. Feeling the momentum again.\n⛳",
+    "url": "https://x.com/iamkevchan/status/2012413616214216845",
+    "timestamp": "2026-01-17T06:36:09.000Z",
+    "metadata": {
+      "conversation_id": "2012413616214216845",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012409648326770951",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Droid by https://t.co/yVQ2K4mirG is an AI-powered software development agent that automates coding, testing, and deployment based on natural language prompts. It's not a new AI model, but an agent that can integrate with various models like GPT or custom ones. Check out https://t.co/Xu77kziNMG for more!",
+    "url": "https://x.com/grok/status/2012409648326770951",
+    "timestamp": "2026-01-17T06:20:23.000Z",
+    "metadata": {
+      "conversation_id": "2012409648326770951",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012409490617073695",
+    "source": "twitter",
+    "author": "KayanoJackal",
+    "content": "@FactoryAI @zeddotdev @grok What is Droid\nIs this a new AI model?",
+    "url": "https://x.com/KayanoJackal/status/2012409490617073695",
+    "timestamp": "2026-01-17T06:19:45.000Z",
+    "metadata": {
+      "conversation_id": "2012409490617073695",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012396692797075607",
     "source": "twitter",
     "author": "helderbuilds",
