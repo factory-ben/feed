@@ -1,5 +1,48 @@
 [
   {
+    "id": "github_issue_609",
+    "source": "github",
+    "author": "qiviut",
+    "content": "[Issue] Settings reset after droid update\n\nI had configured a number of things in `~/.factory/settings.json` (byok, disabling cloud sync, etc). After the update to version 0.53, I noticed that settings.json had been overwritten, and all my settings were removed.\n\nI only noticed it when I started droid after an update and it started responding with a different model than I'm used to. I did not get any notification about this.",
+    "url": "https://github.com/Factory-AI/factory/issues/609",
+    "timestamp": "2026-01-17T17:14:14Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 609
+    }
+  },
+  {
+    "id": "twitter_2012574049529192686",
+    "source": "twitter",
+    "author": "gootecks",
+    "content": "@fluffypony @tirzahitonan @burkov Have you tried droid by @FactoryAI ?\n\nI was really impressed with how long it was able to go without running out of context when I tried it. \n\nKeep seeing good things about amp but I’ve yet to try it but now I will!",
+    "url": "https://x.com/gootecks/status/2012574049529192686",
+    "timestamp": "2026-01-17T17:13:39.000Z",
+    "metadata": {
+      "conversation_id": "2012574049529192686",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012570006274388474",
+    "source": "twitter",
+    "author": "Traves_Theberge",
+    "content": "@opencode @FactoryAI @roocode",
+    "url": "https://x.com/Traves_Theberge/status/2012570006274388474",
+    "timestamp": "2026-01-17T16:57:35.000Z",
+    "metadata": {
+      "conversation_id": "2012570006274388474",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012535509625508248",
     "source": "twitter",
     "author": "moinulmoin",
