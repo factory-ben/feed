@@ -16,6 +16,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2012485505959551069",
+    "source": "twitter",
+    "author": "FaisalFailed",
+    "content": "@FactoryAI @zeddotdev I keep getting this error mid working. idk why, it doesnt show a lot of info https://t.co/DyJhR2vOhJ",
+    "url": "https://x.com/FaisalFailed/status/2012485505959551069",
+    "timestamp": "2026-01-17T11:21:49.000Z",
+    "metadata": {
+      "conversation_id": "2012485505959551069",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012472798086590520",
     "source": "twitter",
     "author": "ragnsan_",
