@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_610",
+    "source": "github",
+    "author": "li01223123",
+    "content": "[Issue] Error: $ is not an Object. (evaluating '\"object\"in $')\n\nError: $ is not an Object. (evaluating '\"object\" in $')\nThis issue occurs intermittently while using GPT5.2 XHIGH. and can`t continue to do \ndroid version:0.53 \nwindows 11\n<img width=\"891\" height=\"259\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a76c4b90-0023-4172-81f8-88c90d199497\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/610",
+    "timestamp": "2026-01-18T14:49:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 610
+    }
+  },
+  {
     "id": "twitter_2012887563258802450",
     "source": "twitter",
     "author": "DSlotvinskyi",
