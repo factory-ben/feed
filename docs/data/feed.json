@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012787745392087332",
+    "source": "twitter",
+    "author": "troymartig",
+    "content": "@Jason @OpenAI @xai @Gemini @claudeai JCal just wait till your teams start using @FactoryAI @droid",
+    "url": "https://x.com/troymartig/status/2012787745392087332",
+    "timestamp": "2026-01-18T07:22:48.000Z",
+    "metadata": {
+      "conversation_id": "2012787745392087332",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012764949236322609",
     "source": "twitter",
     "author": "grok",
