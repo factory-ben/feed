@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_2012974202974843198",
+    "source": "twitter",
+    "author": "pharo7700",
+    "content": "@FactoryAI @Rasmic @droid when we get to use chatgpt sub with Droid !",
+    "url": "https://x.com/pharo7700/status/2012974202974843198",
+    "timestamp": "2026-01-18T19:43:43.000Z",
+    "metadata": {
+      "conversation_id": "2012974202974843198",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1qgi3fe",
+    "source": "reddit",
+    "author": "Open-Philosopher4431",
+    "content": "How to connect gemini 3 flash API key to Droid?\n\nHow to connect gemini 3 flash API key to Droid? \n\nI tried to add it in custom model, but always get error 400 no body. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qgi3fe/how_to_connect_gemini_3_flash_api_key_to_droid/",
+    "timestamp": "2026-01-18T19:37:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2012949929220812911",
     "source": "twitter",
     "author": "BEAST_OFFICIIAL",
