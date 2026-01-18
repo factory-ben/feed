@@ -29428,7 +29428,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 164
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_151",
@@ -29455,7 +29456,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 151
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1o16e9t",
