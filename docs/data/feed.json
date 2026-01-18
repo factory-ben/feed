@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2012945755816792529",
+    "source": "twitter",
+    "author": "CavalliniPosada",
+    "content": "It is me or @AnthropicAI claude code is getting way better at planning? I normally use @FactoryAI droid with custom droid btw with gpt 5.2 high but the last 2 days claude seems to be more concise and detects important details more often",
+    "url": "https://x.com/CavalliniPosada/status/2012945755816792529",
+    "timestamp": "2026-01-18T17:50:41.000Z",
+    "metadata": {
+      "conversation_id": "2012945755816792529",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012942572109340858",
+    "source": "twitter",
+    "author": "llmcodes",
+    "content": "Created this cool mascot for @FactoryAI using @mascotai_app \n\n@EnoReyes I hope you like it ☺️ https://t.co/8fu4ErVSa8",
+    "url": "https://x.com/llmcodes/status/2012942572109340858",
+    "timestamp": "2026-01-18T17:38:02.000Z",
+    "metadata": {
+      "conversation_id": "2012942572109340858",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012936111471939720",
     "source": "twitter",
     "author": "Rasmic",
@@ -29156,6 +29186,19 @@
       "number": 223
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_223",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] [Discussion] Droid Exec Headless Streaming with output format (JSON)\n\nDroid Exec (Headless)\r\nIt make sense to use --output-format json if you're running a headless droid exec as that's the best way to programmatically manage the headless droid. The issue for me is i can't see the process and potentially stop it without --output-format debug and i can't run both output format. \r\n\r\nShould we consider having a different parameter for \"streaming\" , it's not so much for debugging but more to manage the task itself. ",
+    "url": "https://github.com/Factory-AI/factory/discussions/223",
+    "timestamp": "2025-10-21T02:46:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 223
+    }
   },
   {
     "id": "reddit_1oazqru",
