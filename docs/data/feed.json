@@ -29488,6 +29488,19 @@
     "category": "mention"
   },
   {
+    "id": "github_discussion_108",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Release v1.3.220\n\n---\r\n\r\nThis release brings HTTP MCP server support, a `/compress` command to optimize your context usage and droid exec for CDE.\r\n\r\n---\r\n\r\n## HTTP MCP Server Support\r\n\r\nFactory now supports streamable HTTP-based Model Context Protocol (MCP) servers in addition to stdio-based servers. This enables you to connect to MCP servers running as web services, making it easier to integrate with cloud-hosted tools and services.\r\n\r\nWhen adding an MCP server, Factory automatically detects whether it's HTTP o",
+    "url": "https://github.com/Factory-AI/factory/discussions/108",
+    "timestamp": "2025-10-03T20:21:56Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 108
+    }
+  },
+  {
     "id": "github_discussion_99",
     "source": "github",
     "author": "Evan-Kim2028",
