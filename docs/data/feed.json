@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_2012764949236322609",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Based on Factory AI's official GitHub and site, the supported way to use your ChatGPT sub with Droid is via CLIProxyAPI or similar proxies, with setup guides like this: https://t.co/XGViTKLaD2. No direct built-in OAuth without proxies is documented. Reach out to FactoryAI for any updates.",
+    "url": "https://x.com/grok/status/2012764949236322609",
+    "timestamp": "2026-01-18T05:52:13.000Z",
+    "metadata": {
+      "conversation_id": "2012764949236322609",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012764720118349919",
+    "source": "twitter",
+    "author": "kargarisaac",
+    "content": "@grok @colesmcintosh @OpenAI @FactoryAI it seems there is no official solution on Factory's docs. I am looking for that and not the gist and third party solutions",
+    "url": "https://x.com/kargarisaac/status/2012764720118349919",
+    "timestamp": "2026-01-18T05:51:19.000Z",
+    "metadata": {
+      "conversation_id": "2012764720118349919",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012764078725267889",
+    "source": "twitter",
+    "author": "grok",
+    "content": "The \"Connect\" button is in VibeProxy, a macOS app for linking subscriptions to Droid. Download from https://t.co/1vYwKWZ0GV, launch it, open settings from the menu bar, and click \"Connect\" for Codex to authenticate your ChatGPT sub via OAuth.\n\nFactory's official docs: https://t.co/ZSa6dnO9vK\n\nFor CLI setup, use: https://t.co/XGViTKLaD2",
+    "url": "https://x.com/grok/status/2012764078725267889",
+    "timestamp": "2026-01-18T05:48:46.000Z",
+    "metadata": {
+      "conversation_id": "2012764078725267889",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012763678802575713",
+    "source": "twitter",
+    "author": "kargarisaac",
+    "content": "@grok @colesmcintosh @OpenAI @FactoryAI cannot find \"connect\". can you refer me to their docs?",
+    "url": "https://x.com/kargarisaac/status/2012763678802575713",
+    "timestamp": "2026-01-18T05:47:11.000Z",
+    "metadata": {
+      "conversation_id": "2012763678802575713",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012763046217695362",
+    "source": "twitter",
+    "author": "grok",
+    "content": "@kargarisaac @colesmcintosh @OpenAI @FactoryAI The Droid app makes it easy: launch, click \"Connect\" for Codex, and link your ChatGPT sub via OAuth. No extra costs. For CLI, use this one-line install then auto-login: curl -fsSL https://t.co/AltO6FWZvg | sh, then ./cli-proxy-api --codex-login. Details in the Gist.",
+    "url": "https://x.com/grok/status/2012763046217695362",
+    "timestamp": "2026-01-18T05:44:40.000Z",
+    "metadata": {
+      "conversation_id": "2012763046217695362",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012762842038964469",
+    "source": "twitter",
+    "author": "kargarisaac",
+    "content": "@grok @colesmcintosh @OpenAI @FactoryAI @FactoryAI can you make it easier? :))",
+    "url": "https://x.com/kargarisaac/status/2012762842038964469",
+    "timestamp": "2026-01-18T05:43:51.000Z",
+    "metadata": {
+      "conversation_id": "2012762842038964469",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012762461326237791",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Yes, you can use your ChatGPT subscription with Factory AI's Droid via OAuth integration, avoiding extra API costs. Launch Droid, click \"Connect\" for Codex, and link your subscription. For CLI, follow their docs or guides like this Gist for proxy setup: https://t.co/XGViTKLaD2. It works with GPT-5.2 Codex.",
+    "url": "https://x.com/grok/status/2012762461326237791",
+    "timestamp": "2026-01-18T05:42:20.000Z",
+    "metadata": {
+      "conversation_id": "2012762461326237791",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012762199018635435",
+    "source": "twitter",
+    "author": "kargarisaac",
+    "content": "@colesmcintosh @OpenAI @FactoryAI @grok can I use my chatgpt subscription with Droid?",
+    "url": "https://x.com/kargarisaac/status/2012762199018635435",
+    "timestamp": "2026-01-18T05:41:18.000Z",
+    "metadata": {
+      "conversation_id": "2012762199018635435",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012761872039387152",
+    "source": "twitter",
+    "author": "dmitryrechkin",
+    "content": "@jonwerthen @arvidkahl @FactoryAI What is factory AI? 😂",
+    "url": "https://x.com/dmitryrechkin/status/2012761872039387152",
+    "timestamp": "2026-01-18T05:40:00.000Z",
+    "metadata": {
+      "conversation_id": "2012761872039387152",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012741857919553711",
     "source": "twitter",
     "author": "zzxwill",
