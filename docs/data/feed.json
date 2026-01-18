@@ -29102,6 +29102,19 @@
     "category": "mention"
   },
   {
+    "id": "github_discussion_240",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Mini Changelog\n\n<img width=\"686\" height=\"397\" alt=\"Screenshot 2025-10-22 at 14 58 16\" src=\"https://github.com/user-attachments/assets/0288d87c-55b1-44b4-91cb-33d745fc052b\" />\r\n",
+    "url": "https://github.com/Factory-AI/factory/discussions/240",
+    "timestamp": "2025-10-23T09:45:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 240
+    }
+  },
+  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
