@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012934224131526999",
+    "source": "twitter",
+    "author": "gasatrya",
+    "content": "Ok so the best way to use Droid @FactoryAI is to stick with one model, for plan and implementation in a long single session, right? https://t.co/l51Edft3kJ",
+    "url": "https://x.com/gasatrya/status/2012934224131526999",
+    "timestamp": "2026-01-18T17:04:52.000Z",
+    "metadata": {
+      "conversation_id": "2012934224131526999",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012928107825566192",
     "source": "twitter",
     "author": "desugar_64",
@@ -28970,6 +28985,19 @@
     "category": "bug"
   },
   {
+    "id": "github_discussion_374",
+    "source": "github",
+    "author": "vibl",
+    "content": "[Discussion] 20M tokens promised, 1M tokens received...\n\nThe website https://factorycli.com/ promises free 20M tokens. After clicking on the link and signing up, I only received 1M tokens . ",
+    "url": "https://github.com/Factory-AI/factory/discussions/374",
+    "timestamp": "2025-11-17T00:05:46Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "General",
+      "number": 374
+    }
+  },
+  {
     "id": "github_discussion_361",
     "source": "github",
     "author": "aaronschwartz",
@@ -28982,6 +29010,19 @@
       "number": 361
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_361",
+    "source": "github",
+    "author": "aaronschwartz",
+    "content": "[Discussion] Does using the CLI in BYOK mode send data to Factory.ai?\n\nIf we configure the cli to use our own model through BYOK, does any of our data get sent to Factory.ai servers before being submitted to the model for processing? e.g. is there any codebase indexing or embedding being created by Factory.ai in the cloud before prompting the BYOK third party providers?",
+    "url": "https://github.com/Factory-AI/factory/discussions/361",
+    "timestamp": "2025-11-14T21:17:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 361
+    }
   },
   {
     "id": "github_discussion_309",
