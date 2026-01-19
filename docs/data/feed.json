@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2013072683538194613",
+    "source": "twitter",
+    "author": "kr0der",
+    "content": "@realZachi007 @FactoryAI not sure but different tools and system prompt is probably one of the main reasons",
+    "url": "https://x.com/kr0der/status/2013072683538194613",
+    "timestamp": "2026-01-19T02:15:03.000Z",
+    "metadata": {
+      "conversation_id": "2013072683538194613",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013070360355213595",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@kr0der @FactoryAI genuinely curious why though. the codex cli systemprompt or the whole repo doesn’t indicate that there’s a requirement set for “ultrathinking”.\n\nso it should take the same time if it’s truly the same model",
+    "url": "https://x.com/realZachi007/status/2013070360355213595",
+    "timestamp": "2026-01-19T02:05:49.000Z",
+    "metadata": {
+      "conversation_id": "2013070360355213595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013069031306055977",
+    "source": "twitter",
+    "author": "kr0der",
+    "content": "@realZachi007 @FactoryAI it's similar in all non-codex CLI harnesses, it just runs for longer in the actual codex CLI",
+    "url": "https://x.com/kr0der/status/2013069031306055977",
+    "timestamp": "2026-01-19T02:00:32.000Z",
+    "metadata": {
+      "conversation_id": "2013069031306055977",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013067514582888685",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@matanSF @FactoryAI breaking the sound barrier at this point, can’t stop shipping",
+    "url": "https://x.com/realZachi007/status/2013067514582888685",
+    "timestamp": "2026-01-19T01:54:31.000Z",
+    "metadata": {
+      "conversation_id": "2013067514582888685",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013066182786691150",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@realZachi007 @FactoryAI the droids r zoomin",
+    "url": "https://x.com/matanSF/status/2013066182786691150",
+    "timestamp": "2026-01-19T01:49:13.000Z",
+    "metadata": {
+      "conversation_id": "2013066182786691150",
+      "likes": 10,
+      "retweets": 2,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013064533594583428",
+    "source": "twitter",
+    "author": "justBill",
+    "content": "@Codydearkland @FactoryAI @droid GLM is so good for the cost",
+    "url": "https://x.com/justBill/status/2013064533594583428",
+    "timestamp": "2026-01-19T01:42:40.000Z",
+    "metadata": {
+      "conversation_id": "2013064533594583428",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013063309910475096",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "I don’t get why Codex 5.2 xhigh takes like 3 minutes in @FactoryAI, but the same prompt takes 25 minutes in the Codex CLI. \n\nWhat’s going on?",
+    "url": "https://x.com/realZachi007/status/2013063309910475096",
+    "timestamp": "2026-01-19T01:37:48.000Z",
+    "metadata": {
+      "conversation_id": "2013063309910475096",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013061159193342207",
     "source": "twitter",
     "author": "nathanclark_",
