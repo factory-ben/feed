@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2013385885534875664",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "@EnoReyes @realZachi007 @opencode @FactoryAI Oauth authentication for openai, Gemini and copilot",
+    "url": "https://x.com/_BrianKimball/status/2013385885534875664",
+    "timestamp": "2026-01-19T22:59:36.000Z",
+    "metadata": {
+      "conversation_id": "2013385885534875664",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013383270411477070",
+    "source": "twitter",
+    "author": "charlietlamb",
+    "content": "@waynesutton @opencode @claudeai @cursor_ai @FactoryAI 100%, can see a lot of devs getting a lot of value from this",
+    "url": "https://x.com/charlietlamb/status/2013383270411477070",
+    "timestamp": "2026-01-19T22:49:13.000Z",
+    "metadata": {
+      "conversation_id": "2013383270411477070",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013382989980311874",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@realZachi007 @opencode @FactoryAI We're quite customizable - lmk if there's any hacks you love in opencode that you can't get in Droid!",
+    "url": "https://x.com/EnoReyes/status/2013382989980311874",
+    "timestamp": "2026-01-19T22:48:06.000Z",
+    "metadata": {
+      "conversation_id": "2013382989980311874",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013382539390370221",
     "source": "twitter",
     "author": "divinprnc",
