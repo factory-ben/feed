@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_611",
+    "source": "github",
+    "author": "mikez93",
+    "content": "[Issue] [BUG] BYOK custom models with `gpt-5.2*` names route to Fireworks instead of configured OpenAI provider\n\n### Summary\n\nCustom models with names matching `gpt-5.2*` pattern ignore `provider: \"openai\"` and `baseUrl: \"https://api.openai.com/v1\"` settings, routing to Fireworks instead. This prevents using BYOK (Bring Your Own Key) with GPT-5.2 models.\n\n### Factory Version\n\n0.53.0\n\n### Steps to Reproduce\n\n1. Add a custom model to `~/.factory/settings.json`:\n```json\n{\n  \"customModels\": [\n    {\n      \"model\": \"gpt-5.2\",\n      \"id\": \"custom:GPT-52-Test\",\n      \"baseUrl\": \"https://api.openai.com/v1\",\n      \"",
+    "url": "https://github.com/Factory-AI/factory/issues/611",
+    "timestamp": "2026-01-19T18:12:37Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 611
+    }
+  },
+  {
     "id": "reddit_1qhb8aq",
     "source": "reddit",
     "author": "Foreign-Theme-8405",
