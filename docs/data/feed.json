@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2013043435880821183",
+    "source": "twitter",
+    "author": "EdwadSouth",
+    "content": "Really enjoyed this talk.\nI have been using @FactoryAI for long time now and love it.\nSimilar concept with ability to swap out LLM easy.\nI will take a look today and do some comparisons testing to see if fits my needs better.\nLove the fact you show us latest options we would never find on our own…",
+    "url": "https://x.com/EdwadSouth/status/2013043435880821183",
+    "timestamp": "2026-01-19T00:18:50.000Z",
+    "metadata": {
+      "conversation_id": "2013043435880821183",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013040163501355285",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@paraddox You can do this natively with @FactoryAI - we support an explicit “plan” vs “execute” model and support GLM and Opus natively",
+    "url": "https://x.com/EnoReyes/status/2013040163501355285",
+    "timestamp": "2026-01-19T00:05:50.000Z",
+    "metadata": {
+      "conversation_id": "2013040163501355285",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013038394142822891",
+    "source": "twitter",
+    "author": "Codydearkland",
+    "content": "@matanSF @FactoryAI @droid It absolutely whoops the clause code web experience imo. Excited to see more!",
+    "url": "https://x.com/Codydearkland/status/2013038394142822891",
+    "timestamp": "2026-01-18T23:58:48.000Z",
+    "metadata": {
+      "conversation_id": "2013038394142822891",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013035722068959494",
     "source": "twitter",
     "author": "matanSF",
