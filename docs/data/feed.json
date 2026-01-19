@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2013326780308877775",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "Hey @matanSF @EnoReyes @steipete ....\n\nWhen are we getting @droid in @clawdbot 👀\n\n(please don't reply telling me it's already there)",
+    "url": "https://x.com/tomosman/status/2013326780308877775",
+    "timestamp": "2026-01-19T19:04:44.000Z",
+    "metadata": {
+      "conversation_id": "2013326780308877775",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013322602190614724",
     "source": "twitter",
     "author": "nathanpareo",
@@ -58,6 +73,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2013302758913286537",
+    "source": "twitter",
+    "author": "Keshavatearth",
+    "content": "using vanilla claude code, and I miss @droid's permissions ux.",
+    "url": "https://x.com/Keshavatearth/status/2013302758913286537",
+    "timestamp": "2026-01-19T17:29:17.000Z",
+    "metadata": {
+      "conversation_id": "2013302758913286537",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2013293661732098436",
