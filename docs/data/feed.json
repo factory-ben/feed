@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2013087927463542869",
+    "source": "twitter",
+    "author": "divinprnc",
+    "content": "@matanSF @justBill @FactoryAI yeah this is true one thing that is left is an sdk as well",
+    "url": "https://x.com/divinprnc/status/2013087927463542869",
+    "timestamp": "2026-01-19T03:15:37.000Z",
+    "metadata": {
+      "conversation_id": "2013087927463542869",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013086902488879371",
+    "source": "twitter",
+    "author": "quorralyne",
+    "content": "@Codydearkland @FactoryAI @droid \"Truly not bad\" is a Rotten Tomatoes level review.",
+    "url": "https://x.com/quorralyne/status/2013086902488879371",
+    "timestamp": "2026-01-19T03:11:33.000Z",
+    "metadata": {
+      "conversation_id": "2013086902488879371",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013084646020456773",
+    "source": "twitter",
+    "author": "zyr0luck",
+    "content": "@DevCityQuant @theplgeek @FactoryAI @droid @finnbags Create community",
+    "url": "https://x.com/zyr0luck/status/2013084646020456773",
+    "timestamp": "2026-01-19T03:02:35.000Z",
+    "metadata": {
+      "conversation_id": "2013084646020456773",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013083181403017518",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@justBill @FactoryAI 🔥",
+    "url": "https://x.com/matanSF/status/2013083181403017518",
+    "timestamp": "2026-01-19T02:56:46.000Z",
+    "metadata": {
+      "conversation_id": "2013083181403017518",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013083009587536358",
+    "source": "twitter",
+    "author": "Kyler_Lorin",
+    "content": "@realZachi007 @FactoryAI I also have noticed this. I don't know what kind of magic the Droid team has going on but its awesome.",
+    "url": "https://x.com/Kyler_Lorin/status/2013083009587536358",
+    "timestamp": "2026-01-19T02:56:05.000Z",
+    "metadata": {
+      "conversation_id": "2013083009587536358",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013081682107117598",
+    "source": "twitter",
+    "author": "justBill",
+    "content": "I wish every tool I used copied the User experience that @FactoryAI gives.\n\nIt’s so responsive, user friendly. Makes working with it very fun ngl",
+    "url": "https://x.com/justBill/status/2013081682107117598",
+    "timestamp": "2026-01-19T02:50:48.000Z",
+    "metadata": {
+      "conversation_id": "2013081682107117598",
+      "likes": 9,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013081269165261166",
+    "source": "twitter",
+    "author": "justBill",
+    "content": "@50valve @FactoryAI It’s super clean. I’m a massive fan right now",
+    "url": "https://x.com/justBill/status/2013081269165261166",
+    "timestamp": "2026-01-19T02:49:10.000Z",
+    "metadata": {
+      "conversation_id": "2013081269165261166",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013072683538194613",
     "source": "twitter",
     "author": "kr0der",
