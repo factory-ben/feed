@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2013267401237021161",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 19: : Morning update before real life kicks in\n\nBroke the training/range data into club groups — driver (low spin focus), wedges (high spin focus), etc. \n\nDifferent clubs have different outcome patterns, so this feels like the right way to start visualizing.\n\nProbably should make it customizable down the road, but rolling with what fits my goals for now.\n\nAny suggestions on grouping or what you'd want to see? \n\nDrop ideas below!",
+    "url": "https://x.com/iamkevchan/status/2013267401237021161",
+    "timestamp": "2026-01-19T15:08:47.000Z",
+    "metadata": {
+      "conversation_id": "2013267401237021161",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013266078974242873",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "At a hackathon I watched Claude Code reset my friend’s working local changes because it was running out of context and trying to manage git state, then compacted and lost all changes or knowledge of what it did.\n\nI got them to immediately switch to @FactoryAI after that.",
+    "url": "https://x.com/anthonyronning/status/2013266078974242873",
+    "timestamp": "2026-01-19T15:03:32.000Z",
+    "metadata": {
+      "conversation_id": "2013266078974242873",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013256788897091668",
     "source": "twitter",
     "author": "YelaHankaa",
