@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2013398865030901972",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "Been an Opus loyalist for 1.5 years, but started using GPT-5.2 as a critique layer for Opus's plans. The results surprised me.\n5.2 is significantly better at zooming out - finding holes in the plan, catching edge cases Opus misses, anticipating bugs before they exist. It thinks about the full picture in a way Opus doesn't.\nOnly downside: painfully slow as an implementation model at High/Extra High thinking.",
+    "url": "https://x.com/nathanpareo/status/2013398865030901972",
+    "timestamp": "2026-01-19T23:51:11.000Z",
+    "metadata": {
+      "conversation_id": "2013398865030901972",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013397261804265518",
     "source": "twitter",
     "author": "_BrianKimball",
