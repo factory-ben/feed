@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2013646288433172787",
+    "source": "twitter",
+    "author": "maxprokopp",
+    "content": "@Mr_CryptoYT @claudeai @FactoryAI in the internal terminal yes. Forking &amp; branching on the list",
+    "url": "https://x.com/maxprokopp/status/2013646288433172787",
+    "timestamp": "2026-01-20T16:14:21.000Z",
+    "metadata": {
+      "conversation_id": "2013646288433172787",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013641346767094099",
+    "source": "twitter",
+    "author": "Mr_CryptoYT",
+    "content": "@maxprokopp @claudeai @FactoryAI Works with opencode?",
+    "url": "https://x.com/Mr_CryptoYT/status/2013641346767094099",
+    "timestamp": "2026-01-20T15:54:43.000Z",
+    "metadata": {
+      "conversation_id": "2013641346767094099",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013629061055009050",
     "source": "twitter",
     "author": "maxprokopp",
