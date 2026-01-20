@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2013562737272508792",
+    "source": "twitter",
+    "author": "anas0ra",
+    "content": "Premier abonnement payant sur https://t.co/9PbFLYsBxO 6 mois après le lancement. Je partais du principe qu'un SaaS c'était compliqué à marketer et c'est vraiment le cas. Un projet que je n'aurait pas fait  sans aide de l'IA : @cursor_ai et @FactoryAI merci",
+    "url": "https://x.com/anas0ra/status/2013562737272508792",
+    "timestamp": "2026-01-20T10:42:21.000Z",
+    "metadata": {
+      "conversation_id": "2013562737272508792",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013554593888903345",
+    "source": "twitter",
+    "author": "ivibecode",
+    "content": "It's the same in cursor. it's 10x as fast but the outputs aren't as good.  \n\nIf you read it's thinking in codex it spends most of the extra time thinking/ internal planning. Often plans to do something, then remembers x was said in https://t.co/nh1RGtuZvI or $skills and then realigns itself, going through multiple iteration loops. Doesn't write code until it's satisfied.",
+    "url": "https://x.com/ivibecode/status/2013554593888903345",
+    "timestamp": "2026-01-20T10:09:59.000Z",
+    "metadata": {
+      "conversation_id": "2013554593888903345",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013549864420835730",
     "source": "twitter",
     "author": "YaacovCorcos",
