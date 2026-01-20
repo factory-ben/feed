@@ -48,6 +48,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2013403210828964316",
+    "source": "twitter",
+    "author": "1Bexly",
+    "content": "@droid 👨‍💻👨‍💻",
+    "url": "https://x.com/1Bexly/status/2013403210828964316",
+    "timestamp": "2026-01-20T00:08:27.000Z",
+    "metadata": {
+      "conversation_id": "2013403210828964316",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013401589617434914",
+    "source": "twitter",
+    "author": "yemyat91",
+    "content": "@droid droid cli doesn't boot up if there's a `bunfig.toml` in a project.",
+    "url": "https://x.com/yemyat91/status/2013401589617434914",
+    "timestamp": "2026-01-20T00:02:00.000Z",
+    "metadata": {
+      "conversation_id": "2013401589617434914",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013399826608623859",
     "source": "twitter",
     "author": "nathanpareo",
