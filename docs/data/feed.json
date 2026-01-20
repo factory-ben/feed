@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_2013678361319457057",
+    "source": "twitter",
+    "author": "CdeBurner",
+    "content": "@jcurtis @FactoryAI ok, you have a pro or max sub? or did you buy tocken credits",
+    "url": "https://x.com/CdeBurner/status/2013678361319457057",
+    "timestamp": "2026-01-20T18:21:48.000Z",
+    "metadata": {
+      "conversation_id": "2013678361319457057",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013676729479410150",
+    "source": "twitter",
+    "author": "liran_yo",
+    "content": "@FactoryAI Droid's web search analysis is cool. Quercle secures that data flow. Beta tester? https://t.co/IOWGRO7JgY",
+    "url": "https://x.com/liran_yo/status/2013676729479410150",
+    "timestamp": "2026-01-20T18:15:19.000Z",
+    "metadata": {
+      "conversation_id": "2013676729479410150",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013674097872433527",
+    "source": "twitter",
+    "author": "maxprokopp",
+    "content": "@inaplight @claudeai @FactoryAI @emdashsh @rabanspiegel @arnestrickmann M&amp;A deal?",
+    "url": "https://x.com/maxprokopp/status/2013674097872433527",
+    "timestamp": "2026-01-20T18:04:51.000Z",
+    "metadata": {
+      "conversation_id": "2013674097872433527",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013673993300254785",
+    "source": "twitter",
+    "author": "emdashsh",
+    "content": "@inaplight @maxprokopp @claudeai @FactoryAI Split/multi terminal view is coming this week!",
+    "url": "https://x.com/emdashsh/status/2013673993300254785",
+    "timestamp": "2026-01-20T18:04:26.000Z",
+    "metadata": {
+      "conversation_id": "2013673993300254785",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013673103994560798",
+    "source": "twitter",
+    "author": "Dallenpyrah",
+    "content": "One idea, allow us to pay you a flat fee $20? a month to use droid with any provider we like, I know you’re not incentivized to open droid up to be used with codex oauth, gemini oauth, but opening it up for us to be able to use those subs with droid would be great\n\na flat rate is free money, no optimizing inference to get that $20 a month, just making sure you consistently have the best harness",
+    "url": "https://x.com/Dallenpyrah/status/2013673103994560798",
+    "timestamp": "2026-01-20T18:00:54.000Z",
+    "metadata": {
+      "conversation_id": "2013673103994560798",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013672638971773037",
+    "source": "twitter",
+    "author": "inaplight",
+    "content": "@maxprokopp @claudeai @FactoryAI would love to see this in @emdashsh",
+    "url": "https://x.com/inaplight/status/2013672638971773037",
+    "timestamp": "2026-01-20T17:59:04.000Z",
+    "metadata": {
+      "conversation_id": "2013672638971773037",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013671366260834606",
+    "source": "twitter",
+    "author": "palepu10100",
+    "content": "@maxprokopp @claudeai @FactoryAI that's awesome, congrats on the 100 stars! open source projects like this are such a game changer. excited to see where this goes and how it evolves.",
+    "url": "https://x.com/palepu10100/status/2013671366260834606",
+    "timestamp": "2026-01-20T17:54:00.000Z",
+    "metadata": {
+      "conversation_id": "2013671366260834606",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013669908391788740",
+    "source": "twitter",
+    "author": "Mr_CryptoYT",
+    "content": "@maxprokopp @claudeai @FactoryAI Good luck mate",
+    "url": "https://x.com/Mr_CryptoYT/status/2013669908391788740",
+    "timestamp": "2026-01-20T17:48:12.000Z",
+    "metadata": {
+      "conversation_id": "2013669908391788740",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013669468832985501",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@CdeBurner @FactoryAI Personally, I use the Droid credits first, then the others. To be honest, most of my token volume is in the new territory, so I’m sure I haven’t found the “magic” flow yet.",
+    "url": "https://x.com/jcurtis/status/2013669468832985501",
+    "timestamp": "2026-01-20T17:46:28.000Z",
+    "metadata": {
+      "conversation_id": "2013669468832985501",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013667154361499901",
+    "source": "twitter",
+    "author": "frumza",
+    "content": "@askOkara I have a @FactoryAI droid that does this for me",
+    "url": "https://x.com/frumza/status/2013667154361499901",
+    "timestamp": "2026-01-20T17:37:16.000Z",
+    "metadata": {
+      "conversation_id": "2013667154361499901",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013661560695132349",
     "source": "twitter",
     "author": "maxprokopp",
