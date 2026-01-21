@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2014103075837927822",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "@alvinsng @FactoryAI Killing it!",
+    "url": "https://x.com/tomosman/status/2014103075837927822",
+    "timestamp": "2026-01-21T22:29:28.000Z",
+    "metadata": {
+      "conversation_id": "2014103075837927822",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014102985819754753",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@codewithimanshu @FactoryAI We're always asking ourselves how we can ship 2x more next year",
+    "url": "https://x.com/alvinsng/status/2014102985819754753",
+    "timestamp": "2026-01-21T22:29:06.000Z",
+    "metadata": {
+      "conversation_id": "2014102985819754753",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014102888792949036",
+    "source": "twitter",
+    "author": "TechGringo",
+    "content": "@launchaddict @alvinsng @FactoryAI @bentossell Doesn't really matter if you start with a junior or senior. The AI does the heavy lifting on code generation and testing. It's more about having people who can prompt well and iterate. Agency and curiosity beat seniority when you're shipping with agents.",
+    "url": "https://x.com/TechGringo/status/2014102888792949036",
+    "timestamp": "2026-01-21T22:28:43.000Z",
+    "metadata": {
+      "conversation_id": "2014102888792949036",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014102828222910702",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@tomosman @FactoryAI Yup! So much to love right now",
+    "url": "https://x.com/alvinsng/status/2014102828222910702",
+    "timestamp": "2026-01-21T22:28:29.000Z",
+    "metadata": {
+      "conversation_id": "2014102828222910702",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014102471053025760",
+    "source": "twitter",
+    "author": "every",
+    "content": "“I don’t read the code. I read the agent output religiously.”\n\nThat's @bentossell, who proved it by selling Makerpad to @Zapier without coding.\n\nNow in DevRel at @FactoryAI, tomorrow he's helping non-tech builders ship software fast—sharing his own tools, sessions, and systems.\n\nDon't miss it: https://t.co/gvAW2UsbHW",
+    "url": "https://x.com/every/status/2014102471053025760",
+    "timestamp": "2026-01-21T22:27:03.000Z",
+    "metadata": {
+      "conversation_id": "2014102471053025760",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014102448374153253",
+    "source": "twitter",
+    "author": "TechGringo",
+    "content": "@alvinsng @FactoryAI Week-long projects shipping in days is the velocity inflection point. The compounding effects of AI agents removing the edit-compile-debug loop are insane. This is what shipping at AI speed looks like.",
+    "url": "https://x.com/TechGringo/status/2014102448374153253",
+    "timestamp": "2026-01-21T22:26:58.000Z",
+    "metadata": {
+      "conversation_id": "2014102448374153253",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014102064746373190",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@alvinsng @FactoryAI @alvinsng, the speed of these autonomous agents is truly remarkable for software engineering productivity, isn't it?",
+    "url": "https://x.com/codewithimanshu/status/2014102064746373190",
+    "timestamp": "2026-01-21T22:25:27.000Z",
+    "metadata": {
+      "conversation_id": "2014102064746373190",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014098710125232482",
+    "source": "twitter",
+    "author": "NoJinx283766",
+    "content": "@alvinsng @FactoryAI 👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻",
+    "url": "https://x.com/NoJinx283766/status/2014098710125232482",
+    "timestamp": "2026-01-21T22:12:07.000Z",
+    "metadata": {
+      "conversation_id": "2014098710125232482",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014098467149304106",
     "source": "twitter",
     "author": "Aero96193997",
