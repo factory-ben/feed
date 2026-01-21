@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2014092801374560762",
+    "source": "twitter",
+    "author": "butforreal14765",
+    "content": "@alvinsng @FactoryAI Bro tell your agent to fix your website on iPhone safari. \nLiterally the second time commenting this. Your claims seem so fake when I can’t even open your link from twitter in built browser or safari on iPhone https://t.co/z93BIDSaHz",
+    "url": "https://x.com/butforreal14765/status/2014092801374560762",
+    "timestamp": "2026-01-21T21:48:38.000Z",
+    "metadata": {
+      "conversation_id": "2014092801374560762",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014091858700312700",
+    "source": "twitter",
+    "author": "redlewel",
+    "content": "@alvinsng @FactoryAI everything on this app is shill plug plug shill hype buy my slop",
+    "url": "https://x.com/redlewel/status/2014091858700312700",
+    "timestamp": "2026-01-21T21:44:53.000Z",
+    "metadata": {
+      "conversation_id": "2014091858700312700",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014089899922608527",
+    "source": "twitter",
+    "author": "mark_maatos",
+    "content": "@alvinsng @FactoryAI 2-3 changes are rookie numbers. We push more than 10 per engineer. Being the prompting and checking the result the bottleneck",
+    "url": "https://x.com/mark_maatos/status/2014089899922608527",
+    "timestamp": "2026-01-21T21:37:06.000Z",
+    "metadata": {
+      "conversation_id": "2014089899922608527",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014087928536842528",
+    "source": "twitter",
+    "author": "3_5_8_13_21_34",
+    "content": "@alvinsng @FactoryAI hype post, not based in reality for any serious enterprise level project",
+    "url": "https://x.com/3_5_8_13_21_34/status/2014087928536842528",
+    "timestamp": "2026-01-21T21:29:16.000Z",
+    "metadata": {
+      "conversation_id": "2014087928536842528",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014087813323501849",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@fdotinc @FactoryAI",
+    "url": "https://x.com/moinulmoin/status/2014087813323501849",
+    "timestamp": "2026-01-21T21:28:49.000Z",
+    "metadata": {
+      "conversation_id": "2014087813323501849",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014087521521619108",
     "source": "twitter",
     "author": "AriesTheCoder",
@@ -14,6 +89,51 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2014087430442213442",
+    "source": "twitter",
+    "author": "albrorithm",
+    "content": "@FactoryAI And Droid will improve readiness?",
+    "url": "https://x.com/albrorithm/status/2014087430442213442",
+    "timestamp": "2026-01-21T21:27:18.000Z",
+    "metadata": {
+      "conversation_id": "2014087430442213442",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014087246568116370",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "TODAY: Locking in with @FactoryAI!\n\nLooking into orchestration and building workflows. I've got a brownfield project with some specs.\n\nEventually this project ends up becoming my test basin and real-world benchmark for future experiments. 👇 https://t.co/lbWzAHraMW",
+    "url": "https://x.com/AriesTheCoder/status/2014087246568116370",
+    "timestamp": "2026-01-21T21:26:34.000Z",
+    "metadata": {
+      "conversation_id": "2014087246568116370",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014084771442278550",
+    "source": "twitter",
+    "author": "etka_01",
+    "content": "@alvinsng @FactoryAI This is the way",
+    "url": "https://x.com/etka_01/status/2014084771442278550",
+    "timestamp": "2026-01-21T21:16:44.000Z",
+    "metadata": {
+      "conversation_id": "2014084771442278550",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2014082873591046176",
