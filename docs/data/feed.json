@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2014082873591046176",
+    "source": "twitter",
+    "author": "WilcoKr",
+    "content": "@FactoryAI okay, many rudimentary checks combined do give a nice overview. Not sure I agree with all of them though",
+    "url": "https://x.com/WilcoKr/status/2014082873591046176",
+    "timestamp": "2026-01-21T21:09:11.000Z",
+    "metadata": {
+      "conversation_id": "2014082873591046176",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014081277159239894",
+    "source": "twitter",
+    "author": "ksazerac",
+    "content": "Has anyone done a deep dive comparison of @FactoryAI and @blackboxai ? \n\nIs it that big a gap for those of us running @opencode and the @justsisyphus oMo plugin with our .md workflows",
+    "url": "https://x.com/ksazerac/status/2014081277159239894",
+    "timestamp": "2026-01-21T21:02:50.000Z",
+    "metadata": {
+      "conversation_id": "2014081277159239894",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014081101942104066",
+    "source": "twitter",
+    "author": "MatthewSchrager",
+    "content": "@alvinsng @FactoryAI For long-running jobs, I assume you guys put a lot of thought into detailed specs and verifiability? \n\nHow do you handle very iterative workflows, where you're not totally sure what you need upfront? Or do you design the process around eliminating this kind of situation?",
+    "url": "https://x.com/MatthewSchrager/status/2014081101942104066",
+    "timestamp": "2026-01-21T21:02:09.000Z",
+    "metadata": {
+      "conversation_id": "2014081101942104066",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014080335718363363",
+    "source": "twitter",
+    "author": "WilcoKr",
+    "content": "@FactoryAI basically checks if some rudimentary best practices are followed?",
+    "url": "https://x.com/WilcoKr/status/2014080335718363363",
+    "timestamp": "2026-01-21T20:59:06.000Z",
+    "metadata": {
+      "conversation_id": "2014080335718363363",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014079097710780662",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@alvinsng @FactoryAI Whats the secret sauce? Do these engineers already have high agency/are good, or do you think you can grab in a grad or non tech engineer (@bentossell ?) &amp; have them be high performance?",
+    "url": "https://x.com/launchaddict/status/2014079097710780662",
+    "timestamp": "2026-01-21T20:54:11.000Z",
+    "metadata": {
+      "conversation_id": "2014079097710780662",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014078534042407095",
     "source": "twitter",
     "author": "ankitml",
