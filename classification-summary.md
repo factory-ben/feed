@@ -1,9 +1,10 @@
 # Classification Summary
 
-**Date:** 2026-01-21 15:12 UTC
+**Date:** 2026-01-21 17:04 UTC
 
-**Items classified:** 1
+**Items classified:** 2
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| love     | 1     | 100%       |
+| mention  | 1     | 50%        |
+| love     | 1     | 50%        |
