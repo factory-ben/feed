@@ -1,11 +1,9 @@
 # Classification Summary
 
-**Date**: 2026-01-22 19:30 UTC
+**Date:** 2026-01-22 19:48 UTC
 
-## Results
-- **Total classified**: 2 items
-- **mention**: 2 (100.0%)
-- **bug**: 0 (0.0%)
-- **love**: 0 (0.0%)
-- **question**: 0 (0.0%)
-- **other**: 0 (0.0%)
+**Items Classified:** 1
+
+| Category | Count | Percentage |
+|----------|-------|------------|
+| bug      | 1     | 100.0%     |
