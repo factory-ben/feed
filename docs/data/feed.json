@@ -32,6 +32,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2014415610831044963",
+    "source": "twitter",
+    "author": "gilhildebrand",
+    "content": "@EnoReyes @FactoryAI Hmm, what I'm looking for is a guide so I can design Droid Exec implementations without having to copy and paste all the Factory Docs pages into agent so it knows about all the features",
+    "url": "https://x.com/gilhildebrand/status/2014415610831044963",
+    "timestamp": "2026-01-22T19:11:22.000Z",
+    "metadata": {
+      "conversation_id": "2014415610831044963",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014413769741684801",
     "source": "twitter",
     "author": "marcelochaman",
@@ -62,6 +77,81 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2014411357672579241",
+    "source": "twitter",
+    "author": "etka_01",
+    "content": "@dctmfoo @FactoryAI This is great!",
+    "url": "https://x.com/etka_01/status/2014411357672579241",
+    "timestamp": "2026-01-22T18:54:28.000Z",
+    "metadata": {
+      "conversation_id": "2014411357672579241",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014410483315704148",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@nichochar @FactoryAI Thank you! 😁",
+    "url": "https://x.com/alvinsng/status/2014410483315704148",
+    "timestamp": "2026-01-22T18:50:59.000Z",
+    "metadata": {
+      "conversation_id": "2014410483315704148",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014407938350154044",
+    "source": "twitter",
+    "author": "RtKazakov",
+    "content": "@FactoryAI I cover a pretty neat concept that is useful for Superset over here in this article: https://t.co/vVcQMdtZtZ",
+    "url": "https://x.com/RtKazakov/status/2014407938350154044",
+    "timestamp": "2026-01-22T18:40:53.000Z",
+    "metadata": {
+      "conversation_id": "2014407938350154044",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014405845954736314",
+    "source": "twitter",
+    "author": "nichochar",
+    "content": "@alvinsng @FactoryAI jk i think you guys are a great team / product, met Eno a couple of times, great opinion of factory overall!",
+    "url": "https://x.com/nichochar/status/2014405845954736314",
+    "timestamp": "2026-01-22T18:32:34.000Z",
+    "metadata": {
+      "conversation_id": "2014405845954736314",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014405766103335396",
+    "source": "twitter",
+    "author": "hansjohnsonlive",
+    "content": "@alvinsng @FactoryAI Feel bad for those still believing AI code is “slop”.",
+    "url": "https://x.com/hansjohnsonlive/status/2014405766103335396",
+    "timestamp": "2026-01-22T18:32:15.000Z",
+    "metadata": {
+      "conversation_id": "2014405766103335396",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2014405605528895920",
