@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014413769741684801",
+    "source": "twitter",
+    "author": "marcelochaman",
+    "content": "@matanSF @FactoryAI @droid @claudeai @cursor_ai thanks for the quick response! just downloaded the desktop app, and will play around with it this wknd.\n\ni will email u w/ any feedback.",
+    "url": "https://x.com/marcelochaman/status/2014413769741684801",
+    "timestamp": "2026-01-22T19:04:03.000Z",
+    "metadata": {
+      "conversation_id": "2014413769741684801",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014411941284851726",
     "source": "twitter",
     "author": "realZachi007",
@@ -15196,6 +15211,19 @@
       "number": 579
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_579",
+    "source": "github",
+    "author": "abhid1234",
+    "content": "[Issue] panic(main thread): Segmentation fault at address 0x7FFF46505925 oh no: Bun has crashed. This indicates a bug in Bun, not your code.\n\nBun v1.3.3 ([`274e01c`](<https://github.com/oven-sh/bun/tree/274e01c737e85f8142070a9745b43a2ba09fce4c>)) on linux x86_64 [_]\n\nSegmentation fault at address 0x7FFF46505925\n\n- [`ld-temp.o:0`](<https://github.com/oven-sh/bun/blob/274e01c737e85f8142070a9745b43a2ba09fce4c/ld-temp.o#L0>): `wasm_trampoline_wasm_ipint_call_wide32`\n- [`ld-temp.o:0`](<https://github.com/oven-sh/bun/blob/274e01c737e85f8142070a9745b43a2ba09fce4c/ld-temp.o#L0>): `wasm_trampoline_wasm_ipint_call_wide32`\n- [`ld-temp.o:0`](<htt",
+    "url": "https://github.com/Factory-AI/factory/issues/579",
+    "timestamp": "2026-01-11T22:44:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 579
+    }
   },
   {
     "id": "twitter_2010467788008071679",
