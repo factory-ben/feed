@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014475094165213684",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "2. Subagents\n\nYou can easily orchestrate an army of subagents in factory. Those are called @droid and it applies the same easy setup as for skills.\n\nJust use /droid -&gt; import from claude.",
+    "url": "https://x.com/realZachi007/status/2014475094165213684",
+    "timestamp": "2026-01-22T23:07:44.000Z",
+    "metadata": {
+      "conversation_id": "2014475094165213684",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014475087265566984",
     "source": "twitter",
     "author": "realZachi007",
