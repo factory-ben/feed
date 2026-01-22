@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2014217466797498440",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@gilhildebrand @FactoryAI You should be able to do this with subagents out of the box!",
+    "url": "https://x.com/EnoReyes/status/2014217466797498440",
+    "timestamp": "2026-01-22T06:04:01.000Z",
+    "metadata": {
+      "conversation_id": "2014217466797498440",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014211497853862368",
+    "source": "twitter",
+    "author": "mneves75",
+    "content": "Next time an AI agent \"doesn't work\" on your codebase:\n\nDon't blame the model.\nRun a readiness check first.\n\n🔗 https://t.co/LzA4d4ZYUs\n\n Apache 2.0 licensed.\n Works with Claude Code, Cursor, Copilot, Aider, and others.\n\n@FactoryAI - thank you for the inspiration and great work.",
+    "url": "https://x.com/mneves75/status/2014211497853862368",
+    "timestamp": "2026-01-22T05:40:17.000Z",
+    "metadata": {
+      "conversation_id": "2014211497853862368",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014210606791008527",
+    "source": "twitter",
+    "author": "rs545837",
+    "content": "@FactoryAI environment bootstrapping is still hard.",
+    "url": "https://x.com/rs545837/status/2014210606791008527",
+    "timestamp": "2026-01-22T05:36:45.000Z",
+    "metadata": {
+      "conversation_id": "2014210606791008527",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014207682962772041",
     "source": "twitter",
     "author": "galuh1300d",
