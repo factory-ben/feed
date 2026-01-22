@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2014260680224845973",
+    "source": "twitter",
+    "author": "Sd98507Sdg",
+    "content": "@alvinsng @nichochar @FactoryAI You make no sens...",
+    "url": "https://x.com/Sd98507Sdg/status/2014260680224845973",
+    "timestamp": "2026-01-22T08:55:43.000Z",
+    "metadata": {
+      "conversation_id": "2014260680224845973",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014257165507117159",
+    "source": "twitter",
+    "author": "AlexDotEth",
+    "content": "@alvinsng @FactoryAI We like this version better https://t.co/FMam4ZLjOs",
+    "url": "https://x.com/AlexDotEth/status/2014257165507117159",
+    "timestamp": "2026-01-22T08:41:46.000Z",
+    "metadata": {
+      "conversation_id": "2014257165507117159",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014256194857119818",
+    "source": "twitter",
+    "author": "muotaz5",
+    "content": "@alvinsng @FactoryAI Seems too polished to be true",
+    "url": "https://x.com/muotaz5/status/2014256194857119818",
+    "timestamp": "2026-01-22T08:37:54.000Z",
+    "metadata": {
+      "conversation_id": "2014256194857119818",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014255503740719117",
+    "source": "twitter",
+    "author": "_DSAlliance",
+    "content": "@FactoryAI Enterprise readiness unlocked",
+    "url": "https://x.com/_DSAlliance/status/2014255503740719117",
+    "timestamp": "2026-01-22T08:35:09.000Z",
+    "metadata": {
+      "conversation_id": "2014255503740719117",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014254078314819897",
+    "source": "twitter",
+    "author": "sebuzdugan",
+    "content": "@alvinsng @FactoryAI how are you validating droid reviews before merge",
+    "url": "https://x.com/sebuzdugan/status/2014254078314819897",
+    "timestamp": "2026-01-22T08:29:29.000Z",
+    "metadata": {
+      "conversation_id": "2014254078314819897",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014251433533600114",
+    "source": "twitter",
+    "author": "Lat3ntG3nius",
+    "content": "@FactoryAI Agent Readiness is what separates teams shipping with AI from teams drowning in generated code debt.\n\nYou can't bolt autonomous development onto a codebase with weak tests, ambiguous patterns, and slow feedback loops. The environment is the bottleneck.",
+    "url": "https://x.com/Lat3ntG3nius/status/2014251433533600114",
+    "timestamp": "2026-01-22T08:18:59.000Z",
+    "metadata": {
+      "conversation_id": "2014251433533600114",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014251148002365633",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "feature reqiest for @FactoryAI Would be really helpful if a context window size is added to each model in /model",
+    "url": "https://x.com/launchaddict/status/2014251148002365633",
+    "timestamp": "2026-01-22T08:17:51.000Z",
+    "metadata": {
+      "conversation_id": "2014251148002365633",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014249907884892598",
     "source": "twitter",
     "author": "tomosman",
