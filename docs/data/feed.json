@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2014427990231548399",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@marcelochaman @FactoryAI @droid @claudeai @cursor_ai It's faster than codex and cursor, more flexible than claudeai; works great in the terminal!\n\nI automate my coding with @FactoryAI. \n\nI write specs, coding standards, task orchestration, then I run it. I work on several projects in parallel while trying to make it BIG on X. 😎👇 https://t.co/PVElTqbl5M",
+    "url": "https://x.com/AriesTheCoder/status/2014427990231548399",
+    "timestamp": "2026-01-22T20:00:33.000Z",
+    "metadata": {
+      "conversation_id": "2014427990231548399",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014427387287466051",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "Thinking about switching from Claude Code to @FactoryAI but don't want to mess with switching your current workflow and configuration?\n\nHere's how simple it REALLY is to switch. Droid picks up all your work with ease. 🧵 https://t.co/w2C9bscu2Q",
+    "url": "https://x.com/realZachi007/status/2014427387287466051",
+    "timestamp": "2026-01-22T19:58:10.000Z",
+    "metadata": {
+      "conversation_id": "2014427387287466051",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014418515944735011",
     "source": "twitter",
     "author": "marcelochaman",
@@ -15232,6 +15262,19 @@
       "number": 580
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_580",
+    "source": "github",
+    "author": "fanorama",
+    "content": "[Issue] [BUG] Arrow keys and Escape not working in Kitty/Ghostty terminals (CSI u keyboard protocol issue)\n\nWhen using Factory Droid CLI in Kitty terminal, arrow keys and Escape key don't work\n   properly. Instead of functioning normally:\n\n   •  Arrow keys output: 9A, 9B, 9C, 9D\n   •  Escape key outputs: 9u\n\n   Environment:\n   •  OS: Arch Linux (linux 6.17.9-arch1-1)\n   •  Terminal: Kitty (also affects Ghostty)\n   •  Factory CLI version: [your version]\n\n   Expected behavior:\n   Arrow keys should navigate and Escape should cancel/exit as expected.\n\n   Actual behavior:\n   Keys output raw CSI u escape se",
+    "url": "https://github.com/Factory-AI/factory/issues/580",
+    "timestamp": "2026-01-11T23:56:58Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 580
+    }
   },
   {
     "id": "twitter_2010500055116263700",
