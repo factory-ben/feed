@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014757823130042738",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "UI has been great especially after a bunch of QOL fixes last week.  \n\nOverall less code centric than cursor. \n\nEasy toggle between other models and BYOK. \n\nReadiness provides analysis from multiple angles I have no context with. \n\nProbably the biggest issue has been some of the integrations. Linear fails a lot for me.",
+    "url": "https://x.com/iamkevchan/status/2014757823130042738",
+    "timestamp": "2026-01-23T17:51:12.000Z",
+    "metadata": {
+      "conversation_id": "2014757823130042738",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014756055754944673",
     "source": "twitter",
     "author": "yeabu369",
@@ -15266,6 +15281,19 @@
       "number": 585
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_585",
+    "source": "github",
+    "author": "bogorad",
+    "content": "[Issue] BUG: falls out of spec mode against user intent\n\nIn spec mode, the agent asks a question:\n\n```\nYes, allow\nYes, and always allow low impact commands (file edits and read-only commands)\nNo, cancel\n```\n\nIf I select `Yes, and always allow` the mode is changed from spec to normal, the model changes etc. This is unwanted behavior!",
+    "url": "https://github.com/Factory-AI/factory/issues/585",
+    "timestamp": "2026-01-13T18:02:09Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 585
+    }
   },
   {
     "id": "github_issue_584",
