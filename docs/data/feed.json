@@ -15076,6 +15076,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_583",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] [BUG] mcp tools error\n\n<img width=\"724\" height=\"484\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d9581efe-9169-4244-9053-9393abb0daf8\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/583",
+    "timestamp": "2026-01-13T02:07:29Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 583
+    }
+  },
+  {
     "id": "twitter_2010888939708825890",
     "source": "twitter",
     "author": "Alberto8793",
