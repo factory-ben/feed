@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_612",
+    "source": "github",
+    "author": "didasy",
+    "content": "[Issue] Mode Indicator Does Not Exist\n\nIn curren (0.55.1) version, mode indicator is no longer exist so I cannot know if I am in spec mode or regular mode. Can we fix this and maybe return the purple (Spec) indicator?",
+    "url": "https://github.com/Factory-AI/factory/issues/612",
+    "timestamp": "2026-01-23T03:42:19Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 612
+    }
+  },
+  {
     "id": "twitter_2014505357071012342",
     "source": "twitter",
     "author": "erd0xbc",
