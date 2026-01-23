@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2014771282253168874",
+    "source": "twitter",
+    "author": "cgoddard",
+    "content": "@EnoReyes @droid @FactoryAI Not sure if related but seeing a bunch of log errors that say \"failed to sync session settings to cloud\". When I run it with proxyman I see some 403 errors on Patch requests to the sessions/{id} endpoint with responses that say \"Sessions API is not enabled for your organization\"",
+    "url": "https://x.com/cgoddard/status/2014771282253168874",
+    "timestamp": "2026-01-23T18:44:40.000Z",
+    "metadata": {
+      "conversation_id": "2014771282253168874",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014769084408463864",
+    "source": "twitter",
+    "author": "cgoddard",
+    "content": "@EnoReyes @droid @FactoryAI Apple M1 Ultra / Tahoe 26.2\n\nWhat's weird is I'm not having the issue on my Intel Macbook Pro (also 26.2)",
+    "url": "https://x.com/cgoddard/status/2014769084408463864",
+    "timestamp": "2026-01-23T18:35:56.000Z",
+    "metadata": {
+      "conversation_id": "2014769084408463864",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014767442288115883",
     "source": "twitter",
     "author": "cgoddard",
@@ -32,6 +62,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2014763324697944411",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "Session switching in @droid has gotten so slow when you have larger sessions. \n\nIs it loading all the data just to be able to switch to it?  Or generating a summary on the fly?\n\nIt’s gotten to the point where I avoid switching sessions cause it takes 15sec to bring up the menu. \n\nCc: @bentossell",
+    "url": "https://x.com/KirkMarple/status/2014763324697944411",
+    "timestamp": "2026-01-23T18:13:03.000Z",
+    "metadata": {
+      "conversation_id": "2014763324697944411",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014757823130042738",
     "source": "twitter",
     "author": "iamkevchan",
@@ -46,6 +91,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2014757358304690321",
+    "source": "twitter",
+    "author": "cgoddard",
+    "content": "@bierlingm @droid I'm having a ton of issues with the new build this morning too - no Execute tool calls are working - not sure if related",
+    "url": "https://x.com/cgoddard/status/2014757358304690321",
+    "timestamp": "2026-01-23T17:49:21.000Z",
+    "metadata": {
+      "conversation_id": "2014757358304690321",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2014756055754944673",
@@ -222,6 +282,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2014744938806677617",
+    "source": "twitter",
+    "author": "bierlingm",
+    "content": "@droid hey, my droid keeps glitching, i've uninstalled it, i've tried to fix it, but it seems like this is part of the release itself?\n\nput up an issue here: https://t.co/mW6wICldod",
+    "url": "https://x.com/bierlingm/status/2014744938806677617",
+    "timestamp": "2026-01-23T17:00:00.000Z",
+    "metadata": {
+      "conversation_id": "2014744938806677617",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "github_issue_615",
