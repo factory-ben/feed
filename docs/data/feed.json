@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_2014737608299946036",
+    "source": "twitter",
+    "author": "willIsbillls",
+    "content": "@marcelochaman @FactoryAI @droid @claudeai @cursor_ai honestly loving it. you should give it a try. maybe you wont go back to cc\nhaven't tries @cursor_ai yet maybe unless they have byok",
+    "url": "https://x.com/willIsbillls/status/2014737608299946036",
+    "timestamp": "2026-01-23T16:30:52.000Z",
+    "metadata": {
+      "conversation_id": "2014737608299946036",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_614",
+    "source": "github",
+    "author": "sherrybabe1978",
+    "content": "[Issue] Yes, allow triggers agent stop\n\nWhen working in VS Code I get kicked out of factory when hitting \"yes, allow\"\n\n<img width=\"465\" height=\"440\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/58e3b608-4148-4a24-a453-57aa65ae2296\" />\n\n",
+    "url": "https://github.com/Factory-AI/factory/issues/614",
+    "timestamp": "2026-01-23T16:16:44Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 614
+    }
+  },
+  {
+    "id": "twitter_2014731994396295180",
+    "source": "twitter",
+    "author": "troymartig",
+    "content": "@iandmacomber Agree - we're doing this daily with @droid internally. Rebuilding ops workflows straight in Python + APIs + warehouse queries. Kills hours long manual processes daily.",
+    "url": "https://x.com/troymartig/status/2014731994396295180",
+    "timestamp": "2026-01-23T16:08:34.000Z",
+    "metadata": {
+      "conversation_id": "2014731994396295180",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014718618894844320",
     "source": "twitter",
     "author": "muzikdinle",
