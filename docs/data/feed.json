@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2014505357071012342",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@mert if you can pay for api cost for inference, @AmpCode and @FactoryAI are elite. agent-browser &gt; Chrome MCP. Code reviews, look into @RepoPrompt (you can leverage your Claude / Codex CLIs subscriptions).\n\nhttps://t.co/c5U1lCFpDC",
+    "url": "https://x.com/erd0xbc/status/2014505357071012342",
+    "timestamp": "2026-01-23T01:07:59.000Z",
+    "metadata": {
+      "conversation_id": "2014505357071012342",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014505090422382743",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "\"What are you doing this icy weekend?\"\n\n\"Hanging with my bois\" \n\nThe \"bois\": @FactoryAI @OpenAI @claudeai @opencode https://t.co/dG2XPAYIBy",
+    "url": "https://x.com/Alberto8793/status/2014505090422382743",
+    "timestamp": "2026-01-23T01:06:55.000Z",
+    "metadata": {
+      "conversation_id": "2014505090422382743",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014500901654790251",
     "source": "twitter",
     "author": "DimitriosMitsos",
