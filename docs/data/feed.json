@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2014779374260912636",
+    "source": "twitter",
+    "author": "cgoddard",
+    "content": "@EnoReyes @droid @FactoryAI This happens when I'm running droid in vscode or directly in terminal (I use fishshell but same thing happened in bash)",
+    "url": "https://x.com/cgoddard/status/2014779374260912636",
+    "timestamp": "2026-01-23T19:16:50.000Z",
+    "metadata": {
+      "conversation_id": "2014779374260912636",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014778393011859672",
+    "source": "twitter",
+    "author": "cgoddard",
+    "content": "@EnoReyes @droid @FactoryAI So that's the other thing... calling /bug is freezing droid",
+    "url": "https://x.com/cgoddard/status/2014778393011859672",
+    "timestamp": "2026-01-23T19:12:56.000Z",
+    "metadata": {
+      "conversation_id": "2014778393011859672",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014778154876088636",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@cgoddard @droid @FactoryAI Tbh it’s hard to tell, do you mind running /bug and DMing me the ID? We can debug from there!",
+    "url": "https://x.com/EnoReyes/status/2014778154876088636",
+    "timestamp": "2026-01-23T19:11:59.000Z",
+    "metadata": {
+      "conversation_id": "2014778154876088636",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014777858846294094",
+    "source": "twitter",
+    "author": "cgoddard",
+    "content": "@EnoReyes @droid @FactoryAI OK - what could be causing the failure of the Execute tool then? It's such a strange error - could it be permissions related? How does factory actually execute shell commands under the hood? I assume it's just child_process right?",
+    "url": "https://x.com/cgoddard/status/2014777858846294094",
+    "timestamp": "2026-01-23T19:10:48.000Z",
+    "metadata": {
+      "conversation_id": "2014777858846294094",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014777195605197001",
     "source": "twitter",
     "author": "EnoReyes",
