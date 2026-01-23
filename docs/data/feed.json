@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2014747124445991329",
+    "source": "twitter",
+    "author": "yengiyegen",
+    "content": "@ardabalkandev @KorOglan @FactoryAI dolarsa he de abi",
+    "url": "https://x.com/yengiyegen/status/2014747124445991329",
+    "timestamp": "2026-01-23T17:08:41.000Z",
+    "metadata": {
+      "conversation_id": "2014747124445991329",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014746150079729793",
+    "source": "twitter",
+    "author": "ardabalkandev",
+    "content": "@KorOglan @FactoryAI Bastım, 10M verim mi diyo... https://t.co/bu4a2sKoKp",
+    "url": "https://x.com/ardabalkandev/status/2014746150079729793",
+    "timestamp": "2026-01-23T17:04:49.000Z",
+    "metadata": {
+      "conversation_id": "2014746150079729793",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014745809460371779",
+    "source": "twitter",
+    "author": "ardabalkandev",
+    "content": "@KorOglan @FactoryAI Login diyo, basim mi? https://t.co/odlptOOzzt",
+    "url": "https://x.com/ardabalkandev/status/2014745809460371779",
+    "timestamp": "2026-01-23T17:03:27.000Z",
+    "metadata": {
+      "conversation_id": "2014745809460371779",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014745488239538276",
+    "source": "twitter",
+    "author": "mrfelton",
+    "content": "@FactoryAI The repo maturity scoring is useful. We've been tracking something similar internally - the delta between \"agent-ready\" and \"agent-hostile\" codebases is often small changes: better README structure, explicit conventions, fewer magic patterns.",
+    "url": "https://x.com/mrfelton/status/2014745488239538276",
+    "timestamp": "2026-01-23T17:02:11.000Z",
+    "metadata": {
+      "conversation_id": "2014745488239538276",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014745340209955039",
+    "source": "twitter",
+    "author": "ardabalkandev",
+    "content": "@KorOglan @FactoryAI Varsa alırım bi dal!",
+    "url": "https://x.com/ardabalkandev/status/2014745340209955039",
+    "timestamp": "2026-01-23T17:01:35.000Z",
+    "metadata": {
+      "conversation_id": "2014745340209955039",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_615",
     "source": "github",
     "author": "bierlingm",
