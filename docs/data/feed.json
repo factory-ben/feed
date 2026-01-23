@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014668144116113811",
+    "source": "twitter",
+    "author": "MejiasDev",
+    "content": "I'm testing now a new AI agentic coding setup. \n\nUsing @droid with custom models pointing to VibeProxy endpoints that reuse my existing GPT Pro and Claude Max subscriptions.\n\nSpec/Plan agent using GPT-5.2-Codex XHigh.\nMain agent using Claude Opus 4.5 High.\n\nWorks great so far.",
+    "url": "https://x.com/MejiasDev/status/2014668144116113811",
+    "timestamp": "2026-01-23T11:54:50.000Z",
+    "metadata": {
+      "conversation_id": "2014668144116113811",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014629136984371541",
     "source": "twitter",
     "author": "JudeTejada2",
