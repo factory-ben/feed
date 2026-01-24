@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_617",
+    "source": "github",
+    "author": "sumansaurabh",
+    "content": "[Issue] Billing issue\n\n<img width=\"1920\" height=\"1080\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/9cfbeed8-c58c-4458-a910-74fad66491e7\" />\n\nMy subscription plan ended prematurely. A day before the actual scheduled date of 24th January [it was suppose to end on 24th Jan end of day] and I am not even sure how to contact support. Please look into this, I do not find any support channel.",
+    "url": "https://github.com/Factory-AI/factory/issues/617",
+    "timestamp": "2026-01-24T09:57:25Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 617
+    }
+  },
+  {
+    "id": "twitter_2015000301879836964",
+    "source": "twitter",
+    "author": "open_cowork",
+    "content": "Also, the \"here\" link doesn't have the full models list. It's on another page. @FactoryAI, you should fix this",
+    "url": "https://x.com/open_cowork/status/2015000301879836964",
+    "timestamp": "2026-01-24T09:54:43.000Z",
+    "metadata": {
+      "conversation_id": "2015000301879836964",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014982142539833472",
     "source": "twitter",
     "author": "andacgvn",
