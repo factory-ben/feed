@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2015057701106327720",
+    "source": "twitter",
+    "author": "cgoddard",
+    "content": "@EnoReyes @droid @FactoryAI Ended up completely wiping ~/.factory and that did it. Not sure what it was - I thought maybe certs directory but apparently you moved to keychain. Fun way to spend 8 hours debugging 🤣",
+    "url": "https://x.com/cgoddard/status/2015057701106327720",
+    "timestamp": "2026-01-24T13:42:48.000Z",
+    "metadata": {
+      "conversation_id": "2015057701106327720",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_617",
     "source": "github",
     "author": "sumansaurabh",
