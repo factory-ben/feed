@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2015101413236396522",
+    "source": "twitter",
+    "author": "Zay878458749421",
+    "content": "not too helpful, unless I have a skill issue. I updated the guidance specifying repos like the example in those docs. I even specified the repo in the comments when I tagged codex. The agent still working in the wrong repo, seems codex defaults to a specific repo. @FactoryAI  keeps failing to create a session but ive reached out to them about that",
+    "url": "https://x.com/Zay878458749421/status/2015101413236396522",
+    "timestamp": "2026-01-24T16:36:30.000Z",
+    "metadata": {
+      "conversation_id": "2015101413236396522",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015099747522986145",
     "source": "twitter",
     "author": "Zay878458749421",
