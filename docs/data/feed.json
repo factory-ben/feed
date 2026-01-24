@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2015115536599024089",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 24: Capacitor Isn't Clawdbot\n\nWent to bed last night after getting Android Studio set up and using npx to forward the app assets to the emulator. \n \nWas hoping for a smooth ride, but ended up with a semi-broken UI. \n\nHonestly, I was wishing for the \"easy way out\" like how Clawdbot apparently saves kittens stuck in trees.\n\nGives me some stuff to mull over today on where to focus next. \n\nEnjoy the busted UI screenshot!",
+    "url": "https://x.com/iamkevchan/status/2015115536599024089",
+    "timestamp": "2026-01-24T17:32:37.000Z",
+    "metadata": {
+      "conversation_id": "2015115536599024089",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015101413236396522",
     "source": "twitter",
     "author": "Zay878458749421",
