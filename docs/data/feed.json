@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014960077971554397",
+    "source": "twitter",
+    "author": "GhwstVR",
+    "content": "@87xysr @0xgaut @rabbit_hmi @claudeai @FactoryAI Oh snap this is genius",
+    "url": "https://x.com/GhwstVR/status/2014960077971554397",
+    "timestamp": "2026-01-24T07:14:53.000Z",
+    "metadata": {
+      "conversation_id": "2014960077971554397",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_616",
     "source": "github",
     "author": "HanCheg0812",
