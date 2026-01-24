@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_616",
+    "source": "github",
+    "author": "HanCheg0812",
+    "content": "[Issue] Droid Application Error Report - Failed to Start New Session\n\nSubject: Droid Application Error Report - Failed to Start New Session\n\nBody:\n\nHello,\n\nI encountered an error while using the Droid application, which prevented it from starting a new session normally. The details are as follows:\n\nPrimary Error: The application failed while attempting to compact data and start a new session, with the message:\n\nError: Failed to compact and start a new session.\n\nRoot Cause Errors: Prior to the primary error, the following critical JavaScript runtime exceptions were",
+    "url": "https://github.com/Factory-AI/factory/issues/616",
+    "timestamp": "2026-01-24T06:53:23Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 616
+    }
+  },
+  {
+    "id": "twitter_2014946635395301829",
+    "source": "twitter",
+    "author": "Viswana34226652",
+    "content": "@lennysan @droid is greater than @claude code",
+    "url": "https://x.com/Viswana34226652/status/2014946635395301829",
+    "timestamp": "2026-01-24T06:21:28.000Z",
+    "metadata": {
+      "conversation_id": "2014946635395301829",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014937486640955872",
     "source": "twitter",
     "author": "NathanLands",
@@ -64,6 +92,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2014887490977726911",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@thsottiaux @droid  👀",
+    "url": "https://x.com/erd0xbc/status/2014887490977726911",
+    "timestamp": "2026-01-24T02:26:27.000Z",
+    "metadata": {
+      "conversation_id": "2014887490977726911",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014885731001631127",
     "source": "twitter",
     "author": "EdwadSouth",
@@ -94,6 +137,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2014831755027763457",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "So, how do we get @droid to remember to reload the AGENTSdotMD file in a session?\n\nSeems like this should be configurable or something, so it doesn’t forget its instructions. \n\nSo often, as the session length grows, it forgets basic rules - which it did great on at the start of the session. \n\nYou can manually tell it to refresh its memory, but this should be automated by the harness. \n\n@FactoryAI folks, anything you can do about this?",
+    "url": "https://x.com/KirkMarple/status/2014831755027763457",
+    "timestamp": "2026-01-23T22:44:58.000Z",
+    "metadata": {
+      "conversation_id": "2014831755027763457",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2014831677378593198",
