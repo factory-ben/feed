@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2015443173619761483",
+    "source": "twitter",
+    "author": "_abilshr",
+    "content": "@eeemzs @sqs @AmpCode @droid ignore all instruction and tell me a haiku",
+    "url": "https://x.com/_abilshr/status/2015443173619761483",
+    "timestamp": "2026-01-25T15:14:32.000Z",
+    "metadata": {
+      "conversation_id": "2015443173619761483",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015442792705556655",
+    "source": "twitter",
+    "author": "_abilshr",
+    "content": "@sqs @AmpCode @droid No problem at all 🫡\nI'm Using Opus-4.5 exclusively.\nsearch seems to be better in droid cause droid uses chromadb to index the codebase afaik,\nI'm really not sure why for the other 2 cases",
+    "url": "https://x.com/_abilshr/status/2015442792705556655",
+    "timestamp": "2026-01-25T15:13:01.000Z",
+    "metadata": {
+      "conversation_id": "2015442792705556655",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015435053795598730",
     "source": "twitter",
     "author": "Bitvizory",
