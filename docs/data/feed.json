@@ -31692,6 +31692,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1q1tzko",
+    "source": "reddit",
+    "author": "OGDusky",
+    "content": "Using Factory with AWS Bedrock BYOK?\n\nThe docs mention using AWS Bedrock as a cloud provider in the BYOK section but doesn't mention how to set this up e.g. with config.json, anyone know how its possible to set this up?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q1tzko/using_factory_with_aws_bedrock_byok/",
+    "timestamp": "2026-01-02T09:09:04.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2007016188124213541",
     "source": "twitter",
     "author": "badlogicgames",
@@ -35558,6 +35571,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1q0h25x",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.41.0 Released - `/wrapped` command and more\n\n## New features\n\n* **`/wrapped` command** - Year-in-review stats showing your Droid usage, badges earned, model preferences, and session metrics (cli)\n* **Fast model switching** - Faster provider/model switches without LLM compaction (cli)\n* **Batched tool permissions** - Parallel tool calls now show single permission prompt (cli)\n* **Custom BYOK models** - Custom models now appear in model selector (cli)\n* **Auto-sync repos** - GitHub/GitLab repos sync when opening template modal (app)\n\n## Bug ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q0h25x/factory_cli_v0410_released_wrapped_command_and/",
+    "timestamp": "2025-12-31T16:29:24.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2006393167311249617",
