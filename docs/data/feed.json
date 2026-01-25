@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2015549706273779997",
+    "source": "twitter",
+    "author": "shekitup",
+    "content": "@realZachi007 @FactoryAI Also all these platforms are going towards feature parity. What is factory going to differentiate themselves on? Slightly better DX for a month at tops",
+    "url": "https://x.com/shekitup/status/2015549706273779997",
+    "timestamp": "2026-01-25T22:17:51.000Z",
+    "metadata": {
+      "conversation_id": "2015549706273779997",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015549083126055021",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@shekitup @FactoryAI You don’t. They have some fair and generous plans, but can’t meet the expectations that you’ll spend $5000 in api costs on a $200 plan. \n\nAnthropic &amp; OpenAI have billions in fundings, which factory lacks. It worries me that the big players will eat them alive.",
+    "url": "https://x.com/realZachi007/status/2015549083126055021",
+    "timestamp": "2026-01-25T22:15:23.000Z",
+    "metadata": {
+      "conversation_id": "2015549083126055021",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015548533227577621",
+    "source": "twitter",
+    "author": "shekitup",
+    "content": "@realZachi007 @FactoryAI Claude Code Max: $200/month. Factory: ???/month. How do you budget that?",
+    "url": "https://x.com/shekitup/status/2015548533227577621",
+    "timestamp": "2026-01-25T22:13:12.000Z",
+    "metadata": {
+      "conversation_id": "2015548533227577621",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015536410812412398",
     "source": "twitter",
     "author": "whynotyou467965",
