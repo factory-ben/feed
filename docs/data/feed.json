@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2015395002558320786",
+    "source": "twitter",
+    "author": "arvislacis",
+    "content": "@candyboobers @_abilshr @AmpCode @droid I think Cursor mostly indexes codebase for it's Tab autocomplete functionality - that's the reason it's hard for any other autocomplete tool to match Cursor's Tab performance.",
+    "url": "https://x.com/arvislacis/status/2015395002558320786",
+    "timestamp": "2026-01-25T12:03:07.000Z",
+    "metadata": {
+      "conversation_id": "2015395002558320786",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015384549186777589",
     "source": "twitter",
     "author": "candyboobers",
