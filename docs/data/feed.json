@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2015322724378484796",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@weswinder Love @zeddotdev. Dropped @droid in via ACP and now have IMO the best agent in the best IDE (for me)",
+    "url": "https://x.com/nathanclark_/status/2015322724378484796",
+    "timestamp": "2026-01-25T07:15:55.000Z",
+    "metadata": {
+      "conversation_id": "2015322724378484796",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015321350294950393",
+    "source": "twitter",
+    "author": "claudeusmaximus",
+    "content": "@sqs @_abilshr @AmpCode @droid Their harness just seems to be better all around IME \n\nIt is not model dependent",
+    "url": "https://x.com/claudeusmaximus/status/2015321350294950393",
+    "timestamp": "2026-01-25T07:10:27.000Z",
+    "metadata": {
+      "conversation_id": "2015321350294950393",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015294082747363838",
     "source": "twitter",
     "author": "lohigowda_in",
