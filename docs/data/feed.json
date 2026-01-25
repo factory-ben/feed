@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2015294082747363838",
+    "source": "twitter",
+    "author": "lohigowda_in",
+    "content": "Hey @FactoryAI Getting intermittent Error: 400 status code (no body) when using BYOK Gemini 3 Flash in Factory Droid. \nFirst 1–2 messages work, then project exploration / multi-step plans fail. API key + direct generateContent curl calls work fine, so looks like a Droid Gemini adapter bug.  Can you check the Gemini BYOK integration?",
+    "url": "https://x.com/lohigowda_in/status/2015294082747363838",
+    "timestamp": "2026-01-25T05:22:06.000Z",
+    "metadata": {
+      "conversation_id": "2015294082747363838",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015277910655910338",
     "source": "twitter",
     "author": "nahcrof",
