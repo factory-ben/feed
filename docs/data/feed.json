@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2015221420263899486",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@_abilshr @sqs @AmpCode @droid What models and setup? Using skills?",
+    "url": "https://x.com/erd0xbc/status/2015221420263899486",
+    "timestamp": "2026-01-25T00:33:22.000Z",
+    "metadata": {
+      "conversation_id": "2015221420263899486",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015217209782481336",
+    "source": "twitter",
+    "author": "_abilshr",
+    "content": "@sqs @AmpCode @droid Things like: \n1) Parsing really long css files\n2) One shotting UI from screenshot\n3) Fixing merge conflicts from diff branches",
+    "url": "https://x.com/_abilshr/status/2015217209782481336",
+    "timestamp": "2026-01-25T00:16:38.000Z",
+    "metadata": {
+      "conversation_id": "2015217209782481336",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015208229215900076",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@_abilshr @AmpCode @droid Where is Droid better than Amp? Want to always be getting better",
+    "url": "https://x.com/sqs/status/2015208229215900076",
+    "timestamp": "2026-01-24T23:40:57.000Z",
+    "metadata": {
+      "conversation_id": "2015208229215900076",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015205947459973267",
     "source": "twitter",
     "author": "iamkevchan",
