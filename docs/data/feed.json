@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2015250736972513396",
+    "source": "twitter",
+    "author": "huntermbown",
+    "content": "alright trying out @FactoryAI again as my codex weekly limit kills me",
+    "url": "https://x.com/huntermbown/status/2015250736972513396",
+    "timestamp": "2026-01-25T02:29:51.000Z",
+    "metadata": {
+      "conversation_id": "2015250736972513396",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015242536177332265",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@nahcrof any idea if this is a model issue or a @FactoryAI harness issue? devstral 2 is the only model that actually seems to make tool calls inside droid ( kimi also has issues with this and early quitting,  but it's always had issues with both ), and only glm \"thinks\" correctly https://t.co/rStAOKh99f",
+    "url": "https://x.com/fire/status/2015242536177332265",
+    "timestamp": "2026-01-25T01:57:16.000Z",
+    "metadata": {
+      "conversation_id": "2015242536177332265",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015225445449695250",
     "source": "twitter",
     "author": "launchaddict",
