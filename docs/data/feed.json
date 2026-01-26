@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2015668508021887165",
+    "source": "twitter",
+    "author": "hidefromcapital",
+    "content": "jeez @FactoryAI 's droid has really gone to shit recently 🤮",
+    "url": "https://x.com/hidefromcapital/status/2015668508021887165",
+    "timestamp": "2026-01-26T06:09:56.000Z",
+    "metadata": {
+      "conversation_id": "2015668508021887165",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015666538356130003",
+    "source": "twitter",
+    "author": "Ra1kshit",
+    "content": "@duttasomrattwt use your claude code sub in @FactoryAI droid, the performance is superior i swear",
+    "url": "https://x.com/Ra1kshit/status/2015666538356130003",
+    "timestamp": "2026-01-26T06:02:06.000Z",
+    "metadata": {
+      "conversation_id": "2015666538356130003",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015658801702035732",
+    "source": "twitter",
+    "author": "hclin0812",
+    "content": "@EnoReyes @FactoryAI Droid is fantastic! Super autonomous &amp; terminal-first. But auto-compress crashes with \"L is not an Object\" error. Bug IDs: be661898-c9cc-4be1-8491-1298ee279c30 and 5f76b51d-918b-4736-90ac-02cbb3090925. Quick fix pls? Thanks! 🚀",
+    "url": "https://x.com/hclin0812/status/2015658801702035732",
+    "timestamp": "2026-01-26T05:31:22.000Z",
+    "metadata": {
+      "conversation_id": "2015658801702035732",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015642225393422463",
+    "source": "twitter",
+    "author": "agrit_tiwari",
+    "content": "@peer_rich @v0 Oh, use @FactoryAI @dictationdaddy",
+    "url": "https://x.com/agrit_tiwari/status/2015642225393422463",
+    "timestamp": "2026-01-26T04:25:30.000Z",
+    "metadata": {
+      "conversation_id": "2015642225393422463",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1qn520n",
     "source": "reddit",
     "author": "Regular-Swordfish814",
@@ -28,6 +88,66 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2015597110042022026",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@FactoryAI @bentossell could we get password or passkey auth on the web portal? waiting for a code by email is a slog https://t.co/8cSBJbGjUL",
+    "url": "https://x.com/fire/status/2015597110042022026",
+    "timestamp": "2026-01-26T01:26:13.000Z",
+    "metadata": {
+      "conversation_id": "2015597110042022026",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015575580121714834",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 25: Forms & Lobster Bots \n\nFinally pulled the trigger on a shiny new home for the lobster bot. Always wanted the new Mac Mini (2010 model was great) but never had the justification…until now.\n\nSpent today shopping form tools for the waitlist page: Tally, Fillout, Buttondown (still waiting on auth - lol). All of them want too much real money to remove branding for my use case. \n\nFeels like you could vibe-code the same thing for a couple bucks in tokens.\n\nLanded on Basin — $7/month, trial has no branding, clean and simple.\n\nSmall win, but progress. Lobster bot is officially moving in. 🦞💻",
+    "url": "https://x.com/iamkevchan/status/2015575580121714834",
+    "timestamp": "2026-01-26T00:00:40.000Z",
+    "metadata": {
+      "conversation_id": "2015575580121714834",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015550222613577913",
+    "source": "twitter",
+    "author": "shekitup",
+    "content": "@realZachi007 @FactoryAI Yes, then I ran out of credits and I stopped.",
+    "url": "https://x.com/shekitup/status/2015550222613577913",
+    "timestamp": "2026-01-25T22:19:54.000Z",
+    "metadata": {
+      "conversation_id": "2015550222613577913",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015549976382754847",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@shekitup @FactoryAI Did you try factory once?",
+    "url": "https://x.com/realZachi007/status/2015549976382754847",
+    "timestamp": "2026-01-25T22:18:56.000Z",
+    "metadata": {
+      "conversation_id": "2015549976382754847",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2015549706273779997",
