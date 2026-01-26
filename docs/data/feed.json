@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1qnmzm4",
+    "source": "reddit",
+    "author": "Rouler4wd",
+    "content": "Factory AI Droid on CLI Issues - Error: Authentication failed &amp; Error 403\n\nEvery Instance that I run on Factory Droid says this. Every time I try to code something, after the first query, it ALWAYS says Error: Authentication fails and needs me to log in again, but once I log in again, it says  \n\nError: 403 {\"detail\":\"User not affiliated with an org. Please check that you have completed onboarding steps on  \n   the dashboard.\",\"status\":403,\"title\":\"Forbidden\",\"requestId\":\"cle1::ls8l4-1769448286394-41bcc806f4f2\"}\n\nThis keeps happening every single time I try to code\n\nhtt",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qnmzm4/factory_ai_droid_on_cli_issues_error/",
+    "timestamp": "2026-01-26T17:42:55.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2015810261178093920",
     "source": "twitter",
     "author": "LoomisLoud",
