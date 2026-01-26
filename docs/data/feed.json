@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2015887399294009702",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@alvinsng @FactoryAI The loop has begun",
+    "url": "https://x.com/EnoReyes/status/2015887399294009702",
+    "timestamp": "2026-01-26T20:39:44.000Z",
+    "metadata": {
+      "conversation_id": "2015887399294009702",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015887368788856832",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@kargarisaac @FactoryAI Love to hear that!",
+    "url": "https://x.com/EnoReyes/status/2015887368788856832",
+    "timestamp": "2026-01-26T20:39:36.000Z",
+    "metadata": {
+      "conversation_id": "2015887368788856832",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015884944493670607",
     "source": "twitter",
     "author": "alvinsng",
