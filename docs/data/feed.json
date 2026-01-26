@@ -16,6 +16,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2015795676173500482",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "@nvidia @droid @claudeai also have to mention @OpenAICodexCli \nI use it as an subagent for CLude and they together have quite aweighted opinion",
+    "url": "https://x.com/orange_boy/status/2015795676173500482",
+    "timestamp": "2026-01-26T14:35:15.000Z",
+    "metadata": {
+      "conversation_id": "2015795676173500482",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015795226615644293",
     "source": "twitter",
     "author": "auster_felix",
@@ -30,6 +45,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2015794715325587909",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "Wake up and made my own super fast WhisprFlow in a 30 minutes.\n\nRead about new @nvidia  voice model.\nWent to @droid  with @claudeai \n\nFew prompts a bit of discovery.\nJust few bugs.\n\nAnd here is my own Voice-To-Text app\n\nWorked using CapsLock as I always dreamed\nAnd have status and auto paste.\nAnd always wok and work immediately.\n\nTired of waiting or paying for such services?\nYou can pay me ;)\n\nOpensource and you build it for yourself\nOr app and I'll build it for Mac",
+    "url": "https://x.com/orange_boy/status/2015794715325587909",
+    "timestamp": "2026-01-26T14:31:26.000Z",
+    "metadata": {
+      "conversation_id": "2015794715325587909",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 1
+    }
   },
   {
     "id": "twitter_2015778829151719698",
