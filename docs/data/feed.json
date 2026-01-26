@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1qn520n",
+    "source": "reddit",
+    "author": "Regular-Swordfish814",
+    "content": "Error: L is not an Object. (evaluating '\"object\"in L')\n\n\\&gt;  Error: A is not an Object. (evaluating '\"object\"in A')  \n  \n●  Error: Failed to compact and start a new session\n\n●  Creating bug report...  \n  \n●  Bug report created successfully!  \n  \n   Bug Report ID: 5f76b51d-918b-4736-90ac-02cbb3090925  \n  \n   Please share this ID with the Factory team for investigation.\n\n  \n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qn520n/error_l_is_not_an_object_evaluating_objectin_l/",
+    "timestamp": "2026-01-26T03:41:30.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2015602896348303632",
     "source": "twitter",
     "author": "orange_boy",
