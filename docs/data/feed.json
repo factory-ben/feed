@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2015999546954834298",
+    "source": "twitter",
+    "author": "lurklaughlaunch",
+    "content": "@EnoReyes @aarush @FactoryAI I want this in my personal workspace memory system applied across all of my agent sessions so I can extract learnings about context usage and patterns in my own codebase/development",
+    "url": "https://x.com/lurklaughlaunch/status/2015999546954834298",
+    "timestamp": "2026-01-27T04:05:22.000Z",
+    "metadata": {
+      "conversation_id": "2015999546954834298",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015993629777526799",
+    "source": "twitter",
+    "author": "joshalexy12",
+    "content": "@FactoryAI This is it. Big move, I don’t use factory but interested now",
+    "url": "https://x.com/joshalexy12/status/2015993629777526799",
+    "timestamp": "2026-01-27T03:41:51.000Z",
+    "metadata": {
+      "conversation_id": "2015993629777526799",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015988768197783988",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "DROID self improving @FactoryAI",
+    "url": "https://x.com/AIFlow_ML/status/2015988768197783988",
+    "timestamp": "2026-01-27T03:22:32.000Z",
+    "metadata": {
+      "conversation_id": "2015988768197783988",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015982111162040332",
+    "source": "twitter",
+    "author": "Seraph_Notitia",
+    "content": "@rokobasili @FactoryAI @ClevrPwn Fal dot ai https://t.co/DXYXyXkq5O",
+    "url": "https://x.com/Seraph_Notitia/status/2015982111162040332",
+    "timestamp": "2026-01-27T02:56:05.000Z",
+    "metadata": {
+      "conversation_id": "2015982111162040332",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015979412395852022",
+    "source": "twitter",
+    "author": "rokobasili",
+    "content": "@kargarisaac @FactoryAI Self improving factories",
+    "url": "https://x.com/rokobasili/status/2015979412395852022",
+    "timestamp": "2026-01-27T02:45:21.000Z",
+    "metadata": {
+      "conversation_id": "2015979412395852022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015962729753018690",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@BrandGrowthOS @FactoryAI Over time we hope that metric goes up!",
+    "url": "https://x.com/alvinsng/status/2015962729753018690",
+    "timestamp": "2026-01-27T01:39:04.000Z",
+    "metadata": {
+      "conversation_id": "2015962729753018690",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015959050614407439",
+    "source": "twitter",
+    "author": "BrandGrowthOS",
+    "content": "@aarush @FactoryAI The per-company angle is the real test. “Self-improving” only holds up with org-specific guardrails: repo policy, severity thresholds, tests as gates, and an audit trail so security and eng can bless it.",
+    "url": "https://x.com/BrandGrowthOS/status/2015959050614407439",
+    "timestamp": "2026-01-27T01:24:27.000Z",
+    "metadata": {
+      "conversation_id": "2015959050614407439",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015950310876041297",
     "source": "twitter",
     "author": "EnoReyes",
