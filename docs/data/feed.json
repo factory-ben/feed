@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2016251975193469304",
+    "source": "twitter",
+    "author": "WebRenew_",
+    "content": "@droid @ctatedev How else can I swarm mobile issues I’m checking in the car rider line awaiting school pickup? lol",
+    "url": "https://x.com/WebRenew_/status/2016251975193469304",
+    "timestamp": "2026-01-27T20:48:25.000Z",
+    "metadata": {
+      "conversation_id": "2016251975193469304",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016249243544256886",
     "source": "twitter",
     "author": "gearheadlabs",
@@ -14984,6 +14999,19 @@
     "category": "question"
   },
   {
+    "id": "github_issue_594",
+    "source": "github",
+    "author": "umairimtiaz9",
+    "content": "[Issue] [Feature] Provide a way to install without bun (with npm)\n\nHi, so Droid is great and is very precise with tool calls but I'm unable to run it on termux because its based on bun, and using Proot the low level system call emulation(bun's low level api calls) cause bottleneck which is why I'm not using opencode either. would be great if you could provide a package that runs using node, like Claude Code and most of other agents provide.\n\nIt will fix:\n1. All the bun related issues\n2. Android iserbase (via Termux)\n3. Instantly accessible to thousand of Termux",
+    "url": "https://github.com/Factory-AI/factory/issues/594",
+    "timestamp": "2026-01-15T17:31:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 594
+    }
+  },
+  {
     "id": "twitter_2011852880530325507",
     "source": "twitter",
     "author": "GitMaxd",
@@ -15268,6 +15296,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1qdn3k3",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.49.0 Released - CLI Axiom skill\n\n## New features\n\n* **CLI Axiom skill** - New skill for querying CLI metrics and logs with relevant datasets and fields\n\n## Bug fixes\n\n* **iTerm scrollback clearing** - Fixed scrollback clearing for iTerm users with \"Disable E3 scrollback clearing\" preference enabled\n* **Memory leak fix** - Fixed memory leak by cleaning up Performance API entries and hinting Bun GC\n* **Session title generation** - Fixed session title generation for empty strings\n* **Warmup requests** - Warmup requests no longer c",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qdn3k3/factory_cli_v0490_released_cli_axiom_skill/",
+    "timestamp": "2026-01-15T15:49:48.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2011821917162938718",
