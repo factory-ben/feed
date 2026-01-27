@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2015939053892567105",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "Totally heard - we go into a bit of the privacy preserving aspect in the article, but basically only LLMs see this data when it's processed. The actual session data is synced when you select \"cloud session sync\" which allows you to access these sessions from web/desktop.\n\nThis is something you can turn off!",
+    "url": "https://x.com/EnoReyes/status/2015939053892567105",
+    "timestamp": "2026-01-27T00:04:59.000Z",
+    "metadata": {
+      "conversation_id": "2015939053892567105",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015929010900107674",
     "source": "twitter",
     "author": "rs545837",
