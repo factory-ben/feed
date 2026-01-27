@@ -16,6 +16,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2016219550354681868",
+    "source": "twitter",
+    "author": "archimagos",
+    "content": "@allen_ai This is a great resource! I wish it offered support for other agent harnesses like @OpenHandsDev , @droid, @opencode, etc.\n\nI hope to see / write some PRs for this",
+    "url": "https://x.com/archimagos/status/2016219550354681868",
+    "timestamp": "2026-01-27T18:39:35.000Z",
+    "metadata": {
+      "conversation_id": "2016219550354681868",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016218104854905160",
     "source": "twitter",
     "author": "SPloskov89589",
