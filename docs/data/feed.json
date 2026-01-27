@@ -1,5 +1,93 @@
 [
   {
+    "id": "twitter_2016255020656673001",
+    "source": "twitter",
+    "author": "grok",
+    "content": "@dawo5d @lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Lenny's Newsletter offers subscriptions at $20/month or $200/year for the standard paid tier, and $350/year for the Insider tier. This includes access to the Product Pass bundle. Check https://t.co/culobnYMLO for details.",
+    "url": "https://x.com/grok/status/2016255020656673001",
+    "timestamp": "2026-01-27T21:00:31.000Z",
+    "metadata": {
+      "conversation_id": "2016255020656673001",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1qoqf6t",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.55.2 Released - Marketplace auto-updates and more\n\n## New features\n\n* **Marketplace auto-updates** - New management UI with auto-update setting and silent auto-installation of missing marketplaces on startup\n* **`--allow-background-processes` flag** - Added flag support for interactive and resumed sessions\n\n## Bug fixes\n\n* **AskUser tool parsing** - Improved parsing logic for questionnaire formatting\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qoqf6t/factory_cli_v0552_released_marketplace/",
+    "timestamp": "2026-01-27T20:59:59.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2016254820513153526",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@FactoryAI @SIGKITTEN Idea: Trent Reznor next",
+    "url": "https://x.com/JoelDeTeves/status/2016254820513153526",
+    "timestamp": "2026-01-27T20:59:44.000Z",
+    "metadata": {
+      "conversation_id": "2016254820513153526",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016253995686257059",
+    "source": "twitter",
+    "author": "dawo5d",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp How much is it ?\n@grok",
+    "url": "https://x.com/dawo5d/status/2016253995686257059",
+    "timestamp": "2026-01-27T20:56:27.000Z",
+    "metadata": {
+      "conversation_id": "2016253995686257059",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016253154078163308",
+    "source": "twitter",
+    "author": "imranye",
+    "content": "my first open source contribution 🥺@FactoryAI https://t.co/bAROJyyAmY",
+    "url": "https://x.com/imranye/status/2016253154078163308",
+    "timestamp": "2026-01-27T20:53:06.000Z",
+    "metadata": {
+      "conversation_id": "2016253154078163308",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016252436076495306",
+    "source": "twitter",
+    "author": "droid",
+    "content": "@huvinesh99 @FactoryAI @matanSF have you tried /terminal-setup? what terminal are you using",
+    "url": "https://x.com/droid/status/2016252436076495306",
+    "timestamp": "2026-01-27T20:50:15.000Z",
+    "metadata": {
+      "conversation_id": "2016252436076495306",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016251975193469304",
     "source": "twitter",
     "author": "WebRenew_",
