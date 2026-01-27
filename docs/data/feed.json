@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2016249243544256886",
@@ -15009,7 +15010,8 @@
       "type": "issue",
       "labels": [],
       "number": 594
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2011852880530325507",
@@ -15308,7 +15310,8 @@
       "score": 7,
       "num_comments": 0,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2011821917162938718",
