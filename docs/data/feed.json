@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2016159191354712486",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 27: Mo Money Mo Models\n\nReading up on the new Kimi K2 update - it actually sounds pretty fun to play with. Gonna give it a moonshot later today.\n\nOne of the unexpectedly cool parts of building this app has been getting exposed to so many different models so quickly: Grok, GPT-5-ish, Sonnet, Opus, Haiku, GLM.\n\nIn hindsight I kinda wish I’d tagged which model built which part.",
+    "url": "https://x.com/iamkevchan/status/2016159191354712486",
+    "timestamp": "2026-01-27T14:39:44.000Z",
+    "metadata": {
+      "conversation_id": "2016159191354712486",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_621",
     "source": "github",
     "author": "zwen64657",
