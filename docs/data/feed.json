@@ -39232,7 +39232,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 509
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_507",
