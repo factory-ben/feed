@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2016273403830059355",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@FactoryAI @launchaddict @AmpCode @opencode https://t.co/buSUTvNoXg",
+    "url": "https://x.com/NickSloggett/status/2016273403830059355",
+    "timestamp": "2026-01-27T22:13:34.000Z",
+    "metadata": {
+      "conversation_id": "2016273403830059355",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016272333917585835",
+    "source": "twitter",
+    "author": "pipelineabuser",
+    "content": "@ksazerac @blackboxai @FactoryAI yeah depends on the use case. they both have their benefits.",
+    "url": "https://x.com/pipelineabuser/status/2016272333917585835",
+    "timestamp": "2026-01-27T22:09:19.000Z",
+    "metadata": {
+      "conversation_id": "2016272333917585835",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016272011962810700",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@launchaddict @AmpCode @FactoryAI @opencode It’s been available in opencode since this morning. I did pull and build with the latest commits from repo though.",
+    "url": "https://x.com/benvargas/status/2016272011962810700",
+    "timestamp": "2026-01-27T22:08:02.000Z",
+    "metadata": {
+      "conversation_id": "2016272011962810700",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016270467464671742",
     "source": "twitter",
     "author": "ksazerac",
