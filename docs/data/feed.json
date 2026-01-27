@@ -1,5 +1,185 @@
 [
   {
+    "id": "twitter_2016286674817294463",
+    "source": "twitter",
+    "author": "LoukilMo",
+    "content": "@FactoryAI I can't see it :/ v0.56.1",
+    "url": "https://x.com/LoukilMo/status/2016286674817294463",
+    "timestamp": "2026-01-27T23:06:18.000Z",
+    "metadata": {
+      "conversation_id": "2016286674817294463",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016286279101722727",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@HsiminR @FactoryAI What open model do you find more performant?",
+    "url": "https://x.com/matanSF/status/2016286279101722727",
+    "timestamp": "2026-01-27T23:04:44.000Z",
+    "metadata": {
+      "conversation_id": "2016286279101722727",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016285598475063446",
+    "source": "twitter",
+    "author": "skull8888888888",
+    "content": "@sqs @FactoryAI @raymondmarkable 2.5 flash",
+    "url": "https://x.com/skull8888888888/status/2016285598475063446",
+    "timestamp": "2026-01-27T23:02:02.000Z",
+    "metadata": {
+      "conversation_id": "2016285598475063446",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016285534784508244",
+    "source": "twitter",
+    "author": "skull8888888888",
+    "content": "@sqs @FactoryAI @raymondmarkable we use batch api for 2.5 very cheap and surprisingly very good with good prompting and good context",
+    "url": "https://x.com/skull8888888888/status/2016285534784508244",
+    "timestamp": "2026-01-27T23:01:46.000Z",
+    "metadata": {
+      "conversation_id": "2016285534784508244",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016284409750544623",
+    "source": "twitter",
+    "author": "saidgust",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp The gift that keeps on giving! Happy subscriber, keep them coming, made a huge difference for me❤️❤️",
+    "url": "https://x.com/saidgust/status/2016284409750544623",
+    "timestamp": "2026-01-27T22:57:18.000Z",
+    "metadata": {
+      "conversation_id": "2016284409750544623",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016284406898401365",
+    "source": "twitter",
+    "author": "HsiminR",
+    "content": "@FactoryAI SOTA? Not quite. But I get why you’d want to market it that way.",
+    "url": "https://x.com/HsiminR/status/2016284406898401365",
+    "timestamp": "2026-01-27T22:57:18.000Z",
+    "metadata": {
+      "conversation_id": "2016284406898401365",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016284151540838560",
+    "source": "twitter",
+    "author": "krzyzanowskim",
+    "content": "@launchaddict @AmpCode @FactoryAI @opencode you can use it with claude via ollama. that's one option",
+    "url": "https://x.com/krzyzanowskim/status/2016284151540838560",
+    "timestamp": "2026-01-27T22:56:17.000Z",
+    "metadata": {
+      "conversation_id": "2016284151540838560",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016283849245000030",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@skull8888888888 @FactoryAI @raymondmarkable thanks - gemini 3 flash?",
+    "url": "https://x.com/sqs/status/2016283849245000030",
+    "timestamp": "2026-01-27T22:55:05.000Z",
+    "metadata": {
+      "conversation_id": "2016283849245000030",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016283569191321917",
+    "source": "twitter",
+    "author": "TSpencer260",
+    "content": "@FactoryAI What token multiple?",
+    "url": "https://x.com/TSpencer260/status/2016283569191321917",
+    "timestamp": "2026-01-27T22:53:58.000Z",
+    "metadata": {
+      "conversation_id": "2016283569191321917",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016283183118004676",
+    "source": "twitter",
+    "author": "dan_ddyo",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp HOLY FUCK",
+    "url": "https://x.com/dan_ddyo/status/2016283183118004676",
+    "timestamp": "2026-01-27T22:52:26.000Z",
+    "metadata": {
+      "conversation_id": "2016283183118004676",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016283075047501931",
+    "source": "twitter",
+    "author": "skull8888888888",
+    "content": "@sqs @FactoryAI @raymondmarkable my only advice would be do go with openai models, use gemini instead",
+    "url": "https://x.com/skull8888888888/status/2016283075047501931",
+    "timestamp": "2026-01-27T22:52:00.000Z",
+    "metadata": {
+      "conversation_id": "2016283075047501931",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016282695299694686",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@skull8888888888 @FactoryAI @raymondmarkable I want to try something quick and dirty on our own team's threads data first, and I will keep this in mind for sure",
+    "url": "https://x.com/sqs/status/2016282695299694686",
+    "timestamp": "2026-01-27T22:50:29.000Z",
+    "metadata": {
+      "conversation_id": "2016282695299694686",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016281795512451217",
     "source": "twitter",
     "author": "ryan0x44",
