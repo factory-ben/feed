@@ -31582,6 +31582,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1q5gb3n",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.42.2 Released\n\n## Bug fixes\n\n* Fixed light mode color themes in expanded mode\n* Fixed memory leak from unbounded tool executions\n* Fixed GitHub app installation OAuth flow\n* Fixed dotenv loading order with settings\n* Fixed token usage not preserved across manual compaction\n* Fixed onboarding error when user has existing org (app)\n* Fixed users getting stuck in onboarding due to stage issues (app)\n* Fixed mobile onboarding layout (app)\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q5gb3n/factory_cli_v0422_released/",
+    "timestamp": "2026-01-06T11:39:33.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2008503121216229554",
     "source": "twitter",
     "author": "lukaspwn",
