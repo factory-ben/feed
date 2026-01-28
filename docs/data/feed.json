@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2016372165000536539",
+    "source": "twitter",
+    "author": "martinpcolley",
+    "content": "@launchaddict @AmpCode @FactoryAI @opencode I probably should of waited for it and got it on factory than getting the sub ill have see if I can get other value from it, I think factory would probably have better TPS",
+    "url": "https://x.com/martinpcolley/status/2016372165000536539",
+    "timestamp": "2026-01-28T04:46:01.000Z",
+    "metadata": {
+      "conversation_id": "2016372165000536539",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016368311282348206",
+    "source": "twitter",
+    "author": "martinpcolley",
+    "content": "@FactoryAI @lennysan The understanding that this cant be applied every year right and only applies to new customers?",
+    "url": "https://x.com/martinpcolley/status/2016368311282348206",
+    "timestamp": "2026-01-28T04:30:42.000Z",
+    "metadata": {
+      "conversation_id": "2016368311282348206",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016367618001940591",
+    "source": "twitter",
+    "author": "JasonrShuman",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp The Amex platinum of newsletter subscriptions",
+    "url": "https://x.com/JasonrShuman/status/2016367618001940591",
+    "timestamp": "2026-01-28T04:27:57.000Z",
+    "metadata": {
+      "conversation_id": "2016367618001940591",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_2016366871272964425",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@karthikr3ddy @FUCORY @FactoryAI @fucory sleeping",
+    "url": "https://x.com/geo_anima/status/2016366871272964425",
+    "timestamp": "2026-01-28T04:24:59.000Z",
+    "metadata": {
+      "conversation_id": "2016366871272964425",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016364991218139343",
     "source": "twitter",
     "author": "DavideFi",
@@ -30745,6 +30805,19 @@
       "number": 565
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_565",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Discussion] Clear tests, whitepaper or anything showing that droid is secure against modern takeovers\n\nhttps://cybernews.com/security/ai-agents-highly-vulnerable-to-prompt-injection-attacks/\r\n\r\nQuick summary:\r\n> Security researchers warns that AI agents like Anthropic's Claude Code, GitHub Copilot, Google Jules, and Devin (**BASICALLY  ANY FRAMEWORK**) are highly vulnerable to prompt injection attacks, enabling hackers to hijack systems with simple words hidden` in websites, documents, or GitHub repos without malware or user input. Demonstrations at the 39th Chaos Communication Congress showed ag",
+    "url": "https://github.com/Factory-AI/factory/discussions/565",
+    "timestamp": "2026-01-06T13:48:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 565
+    }
   },
   {
     "id": "twitter_2008535238524424699",
