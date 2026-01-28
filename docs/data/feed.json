@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2016488714000544167",
+    "source": "twitter",
+    "author": "zeydou",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp This just sounds like a scam because it seems too good to be true",
+    "url": "https://x.com/zeydou/status/2016488714000544167",
+    "timestamp": "2026-01-28T12:29:08.000Z",
+    "metadata": {
+      "conversation_id": "2016488714000544167",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016486345712312427",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@ileppane @lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp :)",
+    "url": "https://x.com/sqs/status/2016486345712312427",
+    "timestamp": "2026-01-28T12:19:43.000Z",
+    "metadata": {
+      "conversation_id": "2016486345712312427",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016478910976823787",
     "source": "twitter",
     "author": "tdh_02",
