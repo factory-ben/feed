@@ -16,6 +16,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2016638960949481956",
+    "source": "twitter",
+    "author": "thehamsti",
+    "content": "@FactoryAI I know models are moving insanely fast, but you guys should probably keep this FAQ question updated. Those models are ancient by modern standards. https://t.co/QzXddaPa47",
+    "url": "https://x.com/thehamsti/status/2016638960949481956",
+    "timestamp": "2026-01-28T22:26:10.000Z",
+    "metadata": {
+      "conversation_id": "2016638960949481956",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016638601652568296",
+    "source": "twitter",
+    "author": "ucanseeofficial",
+    "content": "@lennysan @shaunmmaguire @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp ManusAI looks strong",
+    "url": "https://x.com/ucanseeofficial/status/2016638601652568296",
+    "timestamp": "2026-01-28T22:24:44.000Z",
+    "metadata": {
+      "conversation_id": "2016638601652568296",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016637186955690326",
     "source": "twitter",
     "author": "bentossell",
@@ -62,6 +92,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2016632595170415085",
+    "source": "twitter",
+    "author": "JakeBloom_AI",
+    "content": "@FactoryAI Cost curves like this usually flip adoption faster than benchmark wins, especially once teams can swap models without touching product logic. Do you think Kimi’s edge shows up more in long-context workloads or just straight unit economics at scale?",
+    "url": "https://x.com/JakeBloom_AI/status/2016632595170415085",
+    "timestamp": "2026-01-28T22:00:52.000Z",
+    "metadata": {
+      "conversation_id": "2016632595170415085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016632112401580092",
