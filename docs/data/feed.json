@@ -1,5 +1,215 @@
 [
   {
+    "id": "twitter_2016335755937755391",
+    "source": "twitter",
+    "author": "Esongsofficial",
+    "content": "you got good list here going on, Curious to know  if you’ve tried @kilocode  yet?  \n\nBeen using it for agent-style workflows and big codebases, and the model flexibility plus the orchestrator/debug modes make building stuff like an inbox agent feel a lot smoother. \n\nWould be interesting to hear how it compares to what you’re using.”",
+    "url": "https://x.com/Esongsofficial/status/2016335755937755391",
+    "timestamp": "2026-01-28T02:21:20.000Z",
+    "metadata": {
+      "conversation_id": "2016335755937755391",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016329731327799386",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@nahcrof @FactoryAI does droid work for you? BYOK is free to set up and use\n\nalso if the followup image i posted in that thread is any indication, the tool calls are being created as a _, which is invalid (and weird); I wonder if that causes a malformed response when from the anthropic endpoint",
+    "url": "https://x.com/fire/status/2016329731327799386",
+    "timestamp": "2026-01-28T01:57:24.000Z",
+    "metadata": {
+      "conversation_id": "2016329731327799386",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016328502102880585",
+    "source": "twitter",
+    "author": "pcrowe",
+    "content": "@lennysan @dan_ddyo @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Incredible!",
+    "url": "https://x.com/pcrowe/status/2016328502102880585",
+    "timestamp": "2026-01-28T01:52:31.000Z",
+    "metadata": {
+      "conversation_id": "2016328502102880585",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016328352685068538",
+    "source": "twitter",
+    "author": "nahcrof",
+    "content": "@fire @FactoryAI I’m honestly not sure, every tool I use works just fine and tests pass consistently for me",
+    "url": "https://x.com/nahcrof/status/2016328352685068538",
+    "timestamp": "2026-01-28T01:51:55.000Z",
+    "metadata": {
+      "conversation_id": "2016328352685068538",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016328314911391952",
+    "source": "twitter",
+    "author": "barkleesanders",
+    "content": "@FactoryAI it seems like you guys block the ability for anyone to proxy any API‘s into the framework of droid unless it comes from the fireworks API",
+    "url": "https://x.com/barkleesanders/status/2016328314911391952",
+    "timestamp": "2026-01-28T01:51:46.000Z",
+    "metadata": {
+      "conversation_id": "2016328314911391952",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016328267050242473",
+    "source": "twitter",
+    "author": "sunnypause",
+    "content": "@launchaddict @AmpCode @FactoryAI @opencode Just edit ur json and add the endpoint… works really well wirh droid, ccs",
+    "url": "https://x.com/sunnypause/status/2016328267050242473",
+    "timestamp": "2026-01-28T01:51:35.000Z",
+    "metadata": {
+      "conversation_id": "2016328267050242473",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016327628026675580",
+    "source": "twitter",
+    "author": "TSpencer260",
+    "content": "@samfitz @FactoryAI That’s very reasonable. I used Droid as my main agent but I’ve been through probably half a billion GLM-4.7 tokens the last few weeks 😅",
+    "url": "https://x.com/TSpencer260/status/2016327628026675580",
+    "timestamp": "2026-01-28T01:49:02.000Z",
+    "metadata": {
+      "conversation_id": "2016327628026675580",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016327401001619473",
+    "source": "twitter",
+    "author": "samfitz",
+    "content": "@TSpencer260 @FactoryAI Currently at 0.25",
+    "url": "https://x.com/samfitz/status/2016327401001619473",
+    "timestamp": "2026-01-28T01:48:08.000Z",
+    "metadata": {
+      "conversation_id": "2016327401001619473",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016326932212940949",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@EnoReyes @nahcrof @FactoryAI this is (genuinely!) hilarious though, curious that models can think tool calls failing is the user canceling on them\n\n6195a819-ea37-4581-97a4-611849e69afb https://t.co/ILCobnp4fS",
+    "url": "https://x.com/fire/status/2016326932212940949",
+    "timestamp": "2026-01-28T01:46:16.000Z",
+    "metadata": {
+      "conversation_id": "2016326932212940949",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016326421904564485",
+    "source": "twitter",
+    "author": "mintisan",
+    "content": "@FactoryAI @launchaddict @AmpCode @opencode waiting",
+    "url": "https://x.com/mintisan/status/2016326421904564485",
+    "timestamp": "2026-01-28T01:44:15.000Z",
+    "metadata": {
+      "conversation_id": "2016326421904564485",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016325782134784403",
+    "source": "twitter",
+    "author": "minheo93698092",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp It was the most worthwhile payment I made this year.\nBut you're giving me more?\nThis is insane!",
+    "url": "https://x.com/minheo93698092/status/2016325782134784403",
+    "timestamp": "2026-01-28T01:41:42.000Z",
+    "metadata": {
+      "conversation_id": "2016325782134784403",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016325753147949164",
+    "source": "twitter",
+    "author": "minheo93698092",
+    "content": "It was the most worthwhile payment I made this year.\nBut you're giving me more?\nThis is insane!\n1.@ManusAI\n2.@FactoryAI\n3.@AmpCode\n4.@Railway\n5.@ElevenLabsio\n6. @Canva\n7.@framer\nI'm using them just fine!!!\n\nhttps://t.co/3sL420c9uJ",
+    "url": "https://x.com/minheo93698092/status/2016325753147949164",
+    "timestamp": "2026-01-28T01:41:35.000Z",
+    "metadata": {
+      "conversation_id": "2016325753147949164",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_2016325309327626500",
+    "source": "twitter",
+    "author": "lennysan",
+    "content": "@pcrowe @dan_ddyo @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Yes",
+    "url": "https://x.com/lennysan/status/2016325309327626500",
+    "timestamp": "2026-01-28T01:39:49.000Z",
+    "metadata": {
+      "conversation_id": "2016325309327626500",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016324512644792752",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@EnoReyes @nahcrof @FactoryAI this is BYOK and the provider is tagged. filed a bug as d5500cba-0ad1-4dc0-8a33-4531261e684e\n\nI do wish there was a debug view so I could see what's being passed to / from providers when using BYOK; right now my only options are to stand up a proxy or read illegible session logs",
+    "url": "https://x.com/fire/status/2016324512644792752",
+    "timestamp": "2026-01-28T01:36:39.000Z",
+    "metadata": {
+      "conversation_id": "2016324512644792752",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016323883981537379",
     "source": "twitter",
     "author": "EnoReyes",
@@ -15210,6 +15420,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_598",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] [BUG] mcp tools error ,why not fix ?!!!!!\n\nv0.52.0\n\n<img width=\"882\" height=\"542\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/452c2eab-9a2e-4d36-a317-453f9d84a1e9\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/598",
+    "timestamp": "2026-01-16T13:05:22Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 598
+    }
+  },
+  {
     "id": "twitter_2012144386004722136",
     "source": "twitter",
     "author": "aidailyprimer",
@@ -15286,6 +15509,21 @@
       "number": 597
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_597",
+    "source": "github",
+    "author": "rdmgt1",
+    "content": "[Issue] [BUG] Droid Version:     v0.52.0, before this versiuon safely and always work using BYOK, now getting error 400 INVALID_ARGUMENT\n\n   🤖 Droid Version:     v0.52.0\n      • Mode:            ⚡ Auto Mode (High Impact)\nim using on linux\n\n\"provider\": \"anthropic\",\n\nalso 1 minutes ago i tested on windows droid v 0.47.0, same config is work with \"provider\": \"anthropic\",\n\nbut after auto update to 0.52 , its starts fail for some model that i have on BYOK, few models still worked\n\nthe error : \n\n`Error: 400 {\"error\":{\"code\":400,\"message\":\"Request contains an invalid argument.\",\"status\":\"INVALID_ARGUMENT\"}}`\n\n",
+    "url": "https://github.com/Factory-AI/factory/issues/597",
+    "timestamp": "2026-01-16T10:41:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [
+        "bug"
+      ],
+      "number": 597
+    }
   },
   {
     "id": "twitter_2012100211204841917",
@@ -31866,6 +32104,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1q4jahe",
+    "source": "reddit",
+    "author": "Andsss",
+    "content": "Can I use my minmax code plan API in droid?\n\nHello guys I was trying to test droid with my minmax code plan , and use minmax 2.1 in factory. But I couldn't make it work, it looks like it just works with paide as you go API and not my code plan.\n\nIs there a way for me to make this work or this  is a limitation now?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q4jahe/can_i_use_my_minmax_code_plan_api_in_droid/",
+    "timestamp": "2026-01-05T11:28:15.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2008138129027289387",
