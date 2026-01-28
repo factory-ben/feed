@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2016402724787490829",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@MRehan_5 @FactoryAI Like Codex, but better",
+    "url": "https://x.com/draslan_eth/status/2016402724787490829",
+    "timestamp": "2026-01-28T06:47:27.000Z",
+    "metadata": {
+      "conversation_id": "2016402724787490829",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016395616730153187",
+    "source": "twitter",
+    "author": "_4dinata",
+    "content": "@FactoryAI cc @Trae_ai  when :)",
+    "url": "https://x.com/_4dinata/status/2016395616730153187",
+    "timestamp": "2026-01-28T06:19:12.000Z",
+    "metadata": {
+      "conversation_id": "2016395616730153187",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016394807145361620",
     "source": "twitter",
     "author": "kargarisaac",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2016394599695007996",
+    "source": "twitter",
+    "author": "lemon07r",
+    "content": "@FactoryAI Droid actually tested as number one for Kimi K2.5 on my coding agent leaderboard. It consistently ranks first for all the Open Weight models I've tested, by a very large margin for a few even. https://t.co/k8k0H8dVbc \nMaybe consider giving me a retweet and checking it out :)",
+    "url": "https://x.com/lemon07r/status/2016394599695007996",
+    "timestamp": "2026-01-28T06:15:10.000Z",
+    "metadata": {
+      "conversation_id": "2016394599695007996",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016391865143107744",
