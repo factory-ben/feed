@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2016578533066240349",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "That’s sick! Been a power user since the last 6 months and continue being surprised by these folks at @FactoryAI - keep up the great work 🔥",
+    "url": "https://x.com/pascallammers_/status/2016578533066240349",
+    "timestamp": "2026-01-28T18:26:03.000Z",
+    "metadata": {
+      "conversation_id": "2016578533066240349",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016576629565239700",
+    "source": "twitter",
+    "author": "timurkhakhalev",
+    "content": "@zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen Its Jan 2026 and you still didn't release a git UI. \n \nI know the guy who has implemented a nice git UI like in vscode because he is tired of waiting for this release from Zed https://t.co/NgE7vDgIP1",
+    "url": "https://x.com/timurkhakhalev/status/2016576629565239700",
+    "timestamp": "2026-01-28T18:18:29.000Z",
+    "metadata": {
+      "conversation_id": "2016576629565239700",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016573736455930082",
     "source": "twitter",
     "author": "moinulmoin",
