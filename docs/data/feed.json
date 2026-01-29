@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2016971598541082759",
+    "source": "twitter",
+    "author": "JesseBurge7812",
+    "content": "@FactoryAI @matanSF @bentossell 👀",
+    "url": "https://x.com/JesseBurge7812/status/2016971598541082759",
+    "timestamp": "2026-01-29T20:27:57.000Z",
+    "metadata": {
+      "conversation_id": "2016971598541082759",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016969638983156142",
     "source": "twitter",
     "author": "geo_anima",
@@ -46,6 +61,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2016953441172508842",
+    "source": "twitter",
+    "author": "mktpavlenko",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp “23 premium tools, $25k value” is peak 2026 energy - nobody buys software anymore, we just subscribe to a guy who gives us a loot box of SaaS every quarter.",
+    "url": "https://x.com/mktpavlenko/status/2016953441172508842",
+    "timestamp": "2026-01-29T19:15:48.000Z",
+    "metadata": {
+      "conversation_id": "2016953441172508842",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016936004737716614",
