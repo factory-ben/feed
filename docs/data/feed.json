@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2016777999916683561",
+    "source": "twitter",
+    "author": "mgonto",
+    "content": "After 100M of tokens used and 6 hours of work, I was able to \"vibe update\" my old https://t.co/EYOPsKrWKr website from Jekyll + Grunt + Bower + jQuery to Next 16. \n\nUsing agent-browser for screenshots + iteration was key!\n\nIt was a fun way to test @droid from @FactoryAI! https://t.co/vwhc5Xqmut",
+    "url": "https://x.com/mgonto/status/2016777999916683561",
+    "timestamp": "2026-01-29T07:38:39.000Z",
+    "metadata": {
+      "conversation_id": "2016777999916683561",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016774259834835233",
     "source": "twitter",
     "author": "atmikaw_chii",
@@ -44854,6 +44869,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_309",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] Droid CLI: configurable timeouts per mcp server\n\n**Motivation**: I use a 'Language Server Protocol' mcp for adding tools to query symbols and find_usage and such. But on large projects and during first-time use they can take quite some time before giving responses; causing timeouts in droid cli. If I could configure a larger timeout for this specific mcp server it could work better.",
+    "url": "https://github.com/Factory-AI/factory/discussions/309",
+    "timestamp": "2025-11-04T10:48:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 309
+    }
+  },
+  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -44880,6 +44908,19 @@
       "number": 240
     },
     "category": "mention"
+  },
+  {
+    "id": "github_discussion_240",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Mini Changelog\n\n<img width=\"686\" height=\"397\" alt=\"Screenshot 2025-10-22 at 14 58 16\" src=\"https://github.com/user-attachments/assets/0288d87c-55b1-44b4-91cb-33d745fc052b\" />\r\n",
+    "url": "https://github.com/Factory-AI/factory/discussions/240",
+    "timestamp": "2025-10-23T09:45:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 240
+    }
   },
   {
     "id": "github_discussion_225",
@@ -44910,6 +44951,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_225",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] Change Log\n\nCan we have more updated change logs somewhere if possible. \r\n\r\nSuccessfully updated to version 0.21.5 Just saw this ",
+    "url": "https://github.com/Factory-AI/factory/discussions/225",
+    "timestamp": "2025-10-21T09:52:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 225
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -44936,6 +44990,19 @@
       "number": 223
     },
     "category": "mention"
+  },
+  {
+    "id": "github_discussion_223",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] [Discussion] Droid Exec Headless Streaming with output format (JSON)\n\nDroid Exec (Headless)\r\nIt make sense to use --output-format json if you're running a headless droid exec as that's the best way to programmatically manage the headless droid. The issue for me is i can't see the process and potentially stop it without --output-format debug and i can't run both output format. \r\n\r\nShould we consider having a different parameter for \"streaming\" , it's not so much for debugging but more to manage the task itself. ",
+    "url": "https://github.com/Factory-AI/factory/discussions/223",
+    "timestamp": "2025-10-21T02:46:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 223
+    }
   },
   {
     "id": "reddit_1oazqru",
