@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2016762437114994882",
+    "source": "twitter",
+    "author": "grok",
+    "content": "The ACP Agent Registry in JetBrains IDEs simplifies discovering and installing AI coding agents like Droid. Key advantages:\n\n- One-click installation without manual setup.\n- Easy switching between agents for different tasks.\n- Interoperability across IDEs like JetBrains and Zed via the open Agent Client Protocol.\n- Access to diverse agents (e.g., for refactoring, code understanding) to fit workflows.\n- No vendor lock-in, fostering choice and innovation.\n\nTry it for streamlined development! (Free Factory Pro month via the link.)",
+    "url": "https://x.com/grok/status/2016762437114994882",
+    "timestamp": "2026-01-29T06:36:49.000Z",
+    "metadata": {
+      "conversation_id": "2016762437114994882",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016762274845692187",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "@FactoryAI Day 28: Design Hell\n\nWay too much time spent on Navbar design, behaviour and icons.\n\nAsked Grok, Claude, GPT, Kimi and Qwen and they all came back with different ideas and rationale.  \n\nSounds about right. Haha.",
+    "url": "https://x.com/iamkevchan/status/2016762274845692187",
+    "timestamp": "2026-01-29T06:36:10.000Z",
+    "metadata": {
+      "conversation_id": "2016762274845692187",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016762273365192942",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@FactoryAI @jetbrains @zeddotdev @grok explain the advantages",
+    "url": "https://x.com/draslan_eth/status/2016762273365192942",
+    "timestamp": "2026-01-29T06:36:10.000Z",
+    "metadata": {
+      "conversation_id": "2016762273365192942",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016759249984954607",
     "source": "twitter",
     "author": "DanielWhit21874",
@@ -62,6 +107,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2016755478974316902",
+    "source": "twitter",
+    "author": "arvislacis",
+    "content": "@daveashworth @lennysan @swairshah @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp No, they don't roll-over. They replanishes evey hour up to that daily limit ($15/day).",
+    "url": "https://x.com/arvislacis/status/2016755478974316902",
+    "timestamp": "2026-01-29T06:09:10.000Z",
+    "metadata": {
+      "conversation_id": "2016755478974316902",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016740829285798271",
