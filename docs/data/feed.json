@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2016706558600646730",
+    "source": "twitter",
+    "author": "alancghizzi",
+    "content": "@moinulmoin @droid @grok im lazy, whats droid? Where can i use it? Is it an alternative to claude code?",
+    "url": "https://x.com/alancghizzi/status/2016706558600646730",
+    "timestamp": "2026-01-29T02:54:46.000Z",
+    "metadata": {
+      "conversation_id": "2016706558600646730",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016693605767798924",
     "source": "twitter",
     "author": "jeff_ecom",
@@ -31450,6 +31465,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1q6bqbu",
+    "source": "reddit",
+    "author": "InitiativeNo6089",
+    "content": "Help with glm coding plan\n\nI have the Zhipu GLM Coding Plan (Basic/Lite) and I'm trying to set it up in Droid CLI, but I keep getting 400 errors.\n\nI need help with the correct config.json setup for two things:\n\n1. Coding: Using GLM-4.7 (Text/Code) via my subscription plan.\n2. Vision: Setting up the vision-capable model (since GLM-4.7 is text-only) \n\nDoes anyone have a working JSON config snippet for Droid that covers both?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q6bqbu/help_with_glm_coding_plan/",
+    "timestamp": "2026-01-07T10:17:11.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 14,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2008822031626969373",
