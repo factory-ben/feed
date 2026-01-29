@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2016894160658215324",
+    "source": "twitter",
+    "author": "JesseBurge7812",
+    "content": "@FactoryAI @matanSF @bentossell When will it be possible to use our ChatGPT subscription in Droid? I thought you guys tweeted recently that it’s coming.",
+    "url": "https://x.com/JesseBurge7812/status/2016894160658215324",
+    "timestamp": "2026-01-29T15:20:14.000Z",
+    "metadata": {
+      "conversation_id": "2016894160658215324",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016876814308892958",
+    "source": "twitter",
+    "author": "ChawanPrasql",
+    "content": "@zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen How are the agents updated?",
+    "url": "https://x.com/ChawanPrasql/status/2016876814308892958",
+    "timestamp": "2026-01-29T14:11:18.000Z",
+    "metadata": {
+      "conversation_id": "2016876814308892958",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016870423221125134",
     "source": "twitter",
     "author": "WojciechPiskorz",
