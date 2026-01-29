@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2016674596263694729",
+    "source": "twitter",
+    "author": "csinco",
+    "content": "@desugar_64 @FactoryAI @jetbrains @zeddotdev Nice. We don’t have any plans to support ACP ourselves but seems it’s available if you are using the AI Assistant plugin",
+    "url": "https://x.com/csinco/status/2016674596263694729",
+    "timestamp": "2026-01-29T00:47:46.000Z",
+    "metadata": {
+      "conversation_id": "2016674596263694729",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016673458478866608",
+    "source": "twitter",
+    "author": "zhangjintao9020",
+    "content": "@TheHamzaFarhan @zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen @AmpCode We have an issue for tracking, let me try to release it on Zed's ACP registry.\n\nhttps://t.co/1hRkq4I3Wq",
+    "url": "https://x.com/zhangjintao9020/status/2016673458478866608",
+    "timestamp": "2026-01-29T00:43:15.000Z",
+    "metadata": {
+      "conversation_id": "2016673458478866608",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016670458100216027",
+    "source": "twitter",
+    "author": "desugar_64",
+    "content": "@FactoryAI @jetbrains @zeddotdev cc @csinco 👀",
+    "url": "https://x.com/desugar_64/status/2016670458100216027",
+    "timestamp": "2026-01-29T00:31:19.000Z",
+    "metadata": {
+      "conversation_id": "2016670458100216027",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016650979182018986",
     "source": "twitter",
     "author": "muskforlife",
