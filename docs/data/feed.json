@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2016903545799270693",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@FactoryAI @jetbrains @zeddotdev oh cool, looks like some solid teamwork going on there. kind of curious how this will shake things up.",
+    "url": "https://x.com/BillCrosby/status/2016903545799270693",
+    "timestamp": "2026-01-29T15:57:32.000Z",
+    "metadata": {
+      "conversation_id": "2016903545799270693",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016894160658215324",
     "source": "twitter",
     "author": "JesseBurge7812",
@@ -32524,6 +32539,19 @@
       "number": 566
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_566",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] mcp error\n\nconnect success, tools zero",
+    "url": "https://github.com/Factory-AI/factory/issues/566",
+    "timestamp": "2026-01-07T03:20:49Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 566
+    }
   },
   {
     "id": "twitter_2008718841673834503",
