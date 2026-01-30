@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2017258778656166086",
+    "source": "twitter",
+    "author": "jetbrains",
+    "content": "@FactoryAI @zeddotdev Excited to have Droid join ACP Agent Registry 🙌",
+    "url": "https://x.com/jetbrains/status/2017258778656166086",
+    "timestamp": "2026-01-30T15:29:06.000Z",
+    "metadata": {
+      "conversation_id": "2017258778656166086",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017257769083007264",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@SasuRobert Would be nice to talk shop with the @FactoryAI gang @matanSF &amp; @EnoReyes. Cutting edge collaboration on the edge of agentic engineering.\n\n@lucianmincu fyi",
+    "url": "https://x.com/erd0xbc/status/2017257769083007264",
+    "timestamp": "2026-01-30T15:25:05.000Z",
+    "metadata": {
+      "conversation_id": "2017257769083007264",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017248651425255636",
     "source": "twitter",
     "author": "delaanthonio",
