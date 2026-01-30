@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2017366914356650441",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Oops, chose wrong provider... it's here. It can also read from claude code auth I believe. But at minimum you can select that `Anthropic token` and then run `claude setup-token` to get a long lived token that lasts about a year.\n\nI like to keep a copy of the repo cloned locally even though I'm installed via npm; then easy to point a harness at it and have a model walk you through the capabilities.",
+    "url": "https://x.com/benvargas/status/2017366914356650441",
+    "timestamp": "2026-01-30T22:38:47.000Z",
+    "metadata": {
+      "conversation_id": "2017366914356650441",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017366074812207437",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@LeslieCBarry @FactoryAI It's built into the onboarding and config so running `openclaw config` and going into the model config you should see it. https://t.co/YckeT2rlNg",
+    "url": "https://x.com/benvargas/status/2017366074812207437",
+    "timestamp": "2026-01-30T22:35:27.000Z",
+    "metadata": {
+      "conversation_id": "2017366074812207437",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017364856417227234",
+    "source": "twitter",
+    "author": "LeslieCBarry",
+    "content": "@benvargas @FactoryAI I didn’t know that - how do I do it? And reason two, it was fun to ask droid to do it and watch it hack  away until it worked. Your option is better though",
+    "url": "https://x.com/LeslieCBarry/status/2017364856417227234",
+    "timestamp": "2026-01-30T22:30:37.000Z",
+    "metadata": {
+      "conversation_id": "2017364856417227234",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017361311114432661",
     "source": "twitter",
     "author": "lmstudio",
