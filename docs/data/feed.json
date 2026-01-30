@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2017071197356220695",
+    "source": "twitter",
+    "author": "d0xxed",
+    "content": "@FactoryAI how does one access the mobile app? just got the max plan :P https://t.co/LVMuJ5j2uG",
+    "url": "https://x.com/d0xxed/status/2017071197356220695",
+    "timestamp": "2026-01-30T03:03:43.000Z",
+    "metadata": {
+      "conversation_id": "2017071197356220695",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017057000279224669",
+    "source": "twitter",
+    "author": "LeslieCBarry",
+    "content": "I've got @FactoryAI droid hacking @moltbot to use Vibeproxy to use Claude Max plan instead of API. wish me luck.",
+    "url": "https://x.com/LeslieCBarry/status/2017057000279224669",
+    "timestamp": "2026-01-30T02:07:18.000Z",
+    "metadata": {
+      "conversation_id": "2017057000279224669",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017055115539038716",
     "source": "twitter",
     "author": "colesmcintosh",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2017051277536977204",
+    "source": "twitter",
+    "author": "daveashworth",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp I’m still trying to sort out the @AmpCode value here. Every Amp user already gets $10/day in free credits. The terms say $15/day in credits. Is this added to the $10? Or it’s really $5/day?",
+    "url": "https://x.com/daveashworth/status/2017051277536977204",
+    "timestamp": "2026-01-30T01:44:34.000Z",
+    "metadata": {
+      "conversation_id": "2017051277536977204",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2017036904634491322",
