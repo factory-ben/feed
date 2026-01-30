@@ -16,6 +16,36 @@
     "category": "love"
   },
   {
+    "id": "twitter_2017214585640489234",
+    "source": "twitter",
+    "author": "d0xxed",
+    "content": "@FactoryAI memory leak :c https://t.co/vrvuDb1yVo",
+    "url": "https://x.com/d0xxed/status/2017214585640489234",
+    "timestamp": "2026-01-30T12:33:29.000Z",
+    "metadata": {
+      "conversation_id": "2017214585640489234",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017207101454422382",
+    "source": "twitter",
+    "author": "YaacovCorcos",
+    "content": "@matanSF @FactoryAI I couldn’t find it 😅\nStill use droid in the terminal but no side panel in my IDE. \nAm I missing something?",
+    "url": "https://x.com/YaacovCorcos/status/2017207101454422382",
+    "timestamp": "2026-01-30T12:03:45.000Z",
+    "metadata": {
+      "conversation_id": "2017207101454422382",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017201033106088047",
     "source": "twitter",
     "author": "constantin_e21",
