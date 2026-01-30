@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2017266487820722620",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@LeslieCBarry @FactoryAI @openclaw Why though? OpenClaw already supports claude max oauth directly, you're just adding a middle layer/dependency that isn't needed... unless you're load balancing claude max accounts or something in CLIProxyAPI/Vibeproxy.",
+    "url": "https://x.com/benvargas/status/2017266487820722620",
+    "timestamp": "2026-01-30T15:59:44.000Z",
+    "metadata": {
+      "conversation_id": "2017266487820722620",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017260739052872036",
     "source": "twitter",
     "author": "jorgiting",
