@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2017286461780017496",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@amritwt I’m in love with Kimi on @droid",
+    "url": "https://x.com/JoelDeTeves/status/2017286461780017496",
+    "timestamp": "2026-01-30T17:19:06.000Z",
+    "metadata": {
+      "conversation_id": "2017286461780017496",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017278577104888045",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "@bentossell @droid dont you want to try vision from NVIDIA models?\nIve done couple experiments. its so good when it see not just frames.\n\nBut it costly until i find a way in API or share the server.\nNot necessary though )",
+    "url": "https://x.com/orange_boy/status/2017278577104888045",
+    "timestamp": "2026-01-30T16:47:46.000Z",
+    "metadata": {
+      "conversation_id": "2017278577104888045",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017266487820722620",
     "source": "twitter",
     "author": "benvargas",
