@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2017260739052872036",
+    "source": "twitter",
+    "author": "jorgiting",
+    "content": "@delaanthonio @burkov @opencode @droid Droid is underrated imo",
+    "url": "https://x.com/jorgiting/status/2017260739052872036",
+    "timestamp": "2026-01-30T15:36:53.000Z",
+    "metadata": {
+      "conversation_id": "2017260739052872036",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017258778656166086",
     "source": "twitter",
     "author": "jetbrains",
@@ -30,6 +45,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2017253957618323630",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@droid built everything w/ codex high\n\nthis is the flow (im sure theres better ways to do it - i tried ollama models but this was better result)\n\nCamera → MediaPipe (instant) → Hand detected?\n↓ yes\nCapture frame\n↓\nVision Server\n↓\nClaude Haiku (~700ms)\n↓\n\"wave\" → 👋\n↓\nGateway → Telegram → You",
+    "url": "https://x.com/bentossell/status/2017253957618323630",
+    "timestamp": "2026-01-30T15:09:56.000Z",
+    "metadata": {
+      "conversation_id": "2017253957618323630",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2017248651425255636",
