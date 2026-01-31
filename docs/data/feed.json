@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2017430750837281116",
+    "source": "twitter",
+    "author": "ashitvora",
+    "content": "Been looking for a tutorial / video of someone building an end to end product using @FactoryAI but have not been able to find one.\n\nAny pointers?",
+    "url": "https://x.com/ashitvora/status/2017430750837281116",
+    "timestamp": "2026-01-31T02:52:27.000Z",
+    "metadata": {
+      "conversation_id": "2017430750837281116",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017424385531891893",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@FactoryAI @chainguard_dev Factory is too good.\n\nI noticed the agent is good to navigating the codebase even without having a dedicated explore agent and other harnesses use.\n\nPhenomenal engineering.",
+    "url": "https://x.com/delaanthonio/status/2017424385531891893",
+    "timestamp": "2026-01-31T02:27:10.000Z",
+    "metadata": {
+      "conversation_id": "2017424385531891893",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017422299620618514",
     "source": "twitter",
     "author": "delaanthonio",
