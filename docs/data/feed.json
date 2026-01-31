@@ -31832,6 +31832,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1q7aica",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.44.0 Released - `/statusline` command and more\n\n## New features\n\n* **`/statusline` command** - Configure custom status line, can import PS1 from shell config\n* **Bulk MCP tool management** - Manage multiple MCP tools at once via ToolsOverviewView\n* **Auto-include Skill tool** - Custom droids (subagents) now automatically include the Skill tool\n\n## Bug fixes\n\n* **Session resume system info** - Session resume now shows correct/up-to-date system info and local date\n* **Model display alignment** - Fixed model display alignment in UI\n* **MCP proje",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q7aica/factory_cli_v0440_released_statusline_command_and/",
+    "timestamp": "2026-01-08T12:27:52.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2009238926817677752",
     "source": "twitter",
     "author": "rezaul_arif",
