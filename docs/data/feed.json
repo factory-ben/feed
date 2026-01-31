@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2017722713389854784",
+    "source": "twitter",
+    "author": "SimiStern",
+    "content": "@_genesisdayrit @FactoryAI Bro hop on the @openclaw train it’s a good time",
+    "url": "https://x.com/SimiStern/status/2017722713389854784",
+    "timestamp": "2026-01-31T22:12:37.000Z",
+    "metadata": {
+      "conversation_id": "2017722713389854784",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017691743345672262",
+    "source": "twitter",
+    "author": "_genesisdayrit",
+    "content": "@FactoryAI only thing I really hate is that writing a newline is shift + '\\' instead of just shift + enter\n\ncan't figure out how to update this config, even though the docs says it accepts shift + enter for newlines",
+    "url": "https://x.com/_genesisdayrit/status/2017691743345672262",
+    "timestamp": "2026-01-31T20:09:33.000Z",
+    "metadata": {
+      "conversation_id": "2017691743345672262",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017691412914213212",
+    "source": "twitter",
+    "author": "_genesisdayrit",
+    "content": "tried swapping Claude Code for droid (@FactoryAI ) this week. it's been really nice + comparable to Claude Code\n\nwas good timing to experiment with it because KimiK2.5 came out as well\n\nI still have to evaluate the pricing and relative token efficiency. burned through droid's free trial tokens pretty quickly\n\nworth a try if you want to test out KimiK2.5 imo",
+    "url": "https://x.com/_genesisdayrit/status/2017691412914213212",
+    "timestamp": "2026-01-31T20:08:14.000Z",
+    "metadata": {
+      "conversation_id": "2017691412914213212",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017684725578539149",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@nickchapsas @FactoryAI saw the rise of agents and the decline of the IDE.",
+    "url": "https://x.com/delaanthonio/status/2017684725578539149",
+    "timestamp": "2026-01-31T19:41:40.000Z",
+    "metadata": {
+      "conversation_id": "2017684725578539149",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017681998182289734",
+    "source": "twitter",
+    "author": "LeslieCBarry",
+    "content": "@benvargas @FactoryAI Thanks Ben, appreciate it. I’ll check it out and unhack my ‘fix’ 😁",
+    "url": "https://x.com/LeslieCBarry/status/2017681998182289734",
+    "timestamp": "2026-01-31T19:30:49.000Z",
+    "metadata": {
+      "conversation_id": "2017681998182289734",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017676123308441718",
     "source": "twitter",
     "author": "weswinder",
@@ -14,6 +89,66 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2017675471194894677",
+    "source": "twitter",
+    "author": "CameronPak",
+    "content": "@FrancescoD_Ales @tomaslaucom @lennysan @FactoryAI @AmpCode @cognition @WisprFlow @Lovable @Replit @boltdotnew Yeah, there's room at the table. And I think you'll do great and are actively making good progress!",
+    "url": "https://x.com/CameronPak/status/2017675471194894677",
+    "timestamp": "2026-01-31T19:04:53.000Z",
+    "metadata": {
+      "conversation_id": "2017675471194894677",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017659208913551662",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@LLMJunky @FactoryAI intelligence doesn't come for free (yet).",
+    "url": "https://x.com/draslan_eth/status/2017659208913551662",
+    "timestamp": "2026-01-31T18:00:16.000Z",
+    "metadata": {
+      "conversation_id": "2017659208913551662",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017659085890457836",
+    "source": "twitter",
+    "author": "LLMJunky",
+    "content": "@draslan_eth @FactoryAI Just a wee bit pricey!",
+    "url": "https://x.com/LLMJunky/status/2017659085890457836",
+    "timestamp": "2026-01-31T17:59:47.000Z",
+    "metadata": {
+      "conversation_id": "2017659085890457836",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017652320176079310",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@FactoryAI Agents questions is a nice option, but sometimes a bit silly.\n\n\"Am I allowed to look up the docs?\" Yea, wtf of course!",
+    "url": "https://x.com/draslan_eth/status/2017652320176079310",
+    "timestamp": "2026-01-31T17:32:53.000Z",
+    "metadata": {
+      "conversation_id": "2017652320176079310",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2017638249112465483",
