@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_628",
+    "source": "github",
+    "author": "notdp",
+    "content": "[Issue] Bug: CLI arguments ignored in stream-jsonrpc mode + settings.json overwrite risk\n\n## Summary\n\nTwo issues affecting multi-agent CI/CD workflows using `droid exec` in stream-jsonrpc mode:\n\n1. **CLI arguments ignored**: `--model`, `--auto`, `-r` are ignored in stream-jsonrpc mode\n2. **settings.json overwrite risk**: Changing settings in a session overwrites `settings.json`, affecting subsequent sessions\n\n## Bug 1: CLI arguments ignored in stream-jsonrpc mode\n\n### Description\n\nWhen using `droid exec --input-format stream-jsonrpc --output-format stream-jsonrpc`, CLI arguments (`--",
+    "url": "https://github.com/Factory-AI/factory/issues/628",
+    "timestamp": "2026-01-31T12:09:57Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 628
+    }
+  },
+  {
     "id": "twitter_2017559257432891714",
     "source": "twitter",
     "author": "mentasuave01",
