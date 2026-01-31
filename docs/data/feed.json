@@ -15012,6 +15012,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1qhb8aq",
+    "source": "reddit",
+    "author": "Foreign-Theme-8405",
+    "content": "Bug in GLM 4.7 droid: \"Operation failed - check parameters and try again\"\n\nWhen a plan is executed with GLM 4.7 on droid, in a specific folder, the CREATE file operations fail with the message:\n\n\n\n\"Operation failed - check parameters and try again\"\n\n\n\nIt works correctly in other projects and with other models, such as Codex.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qhb8aq/bug_in_glm_47_droid_operation_failed_check/",
+    "timestamp": "2026-01-19T17:50:49.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2013308123163881933",
     "source": "twitter",
     "author": "jcurtis",
