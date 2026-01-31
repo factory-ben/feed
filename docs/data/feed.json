@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2017525975634821159",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "I don’t know if it’s stupid question but can we have @droid inside of claw molt @openclaw  engine?\n\nI feel like context managing and memory in bot feels very weird after compaction. \n\nAnd I always considered @FactoryAI as a solution for persistent memory for agents (coding mostly). \n\nI’m not sure if this good idea for architecture and not sure what guys from Factory will say :)\n\nBut this was my first reflex after the first compaction in clawdbot.",
+    "url": "https://x.com/orange_boy/status/2017525975634821159",
+    "timestamp": "2026-01-31T09:10:51.000Z",
+    "metadata": {
+      "conversation_id": "2017525975634821159",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017506368044011634",
     "source": "twitter",
     "author": "haritssr",
