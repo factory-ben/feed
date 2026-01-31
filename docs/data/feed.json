@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2017559257432891714",
+    "source": "twitter",
+    "author": "mentasuave01",
+    "content": "@Francesco_Oddo @droid they released a new flash model https://t.co/nTmotN6VWy",
+    "url": "https://x.com/mentasuave01/status/2017559257432891714",
+    "timestamp": "2026-01-31T11:23:06.000Z",
+    "metadata": {
+      "conversation_id": "2017559257432891714",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017558931812344021",
+    "source": "twitter",
+    "author": "Francesco_Oddo",
+    "content": "@mentasuave01 @droid 😂\n\nWill transform soon in a disco ball",
+    "url": "https://x.com/Francesco_Oddo/status/2017558931812344021",
+    "timestamp": "2026-01-31T11:21:48.000Z",
+    "metadata": {
+      "conversation_id": "2017558931812344021",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017558703562432837",
+    "source": "twitter",
+    "author": "mentasuave01",
+    "content": "@Francesco_Oddo @droid Looks good to me, you just need to ajust the refresh rate of your monitor and sync with the flashes https://t.co/NhmbyraCHb",
+    "url": "https://x.com/mentasuave01/status/2017558703562432837",
+    "timestamp": "2026-01-31T11:20:54.000Z",
+    "metadata": {
+      "conversation_id": "2017558703562432837",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017537151060046020",
     "source": "twitter",
     "author": "moinulmoin",
