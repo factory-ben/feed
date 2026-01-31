@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2017676123308441718",
+    "source": "twitter",
+    "author": "weswinder",
+    "content": "@DhruvalGolakiya tbf this is actually okay because it was like 950 lint errors across 177 files that needed logical restructuring\n\ni only trust gpt-5.2 to do massive refactors like this, and this was in the @droid cli so it does a really good job of context management",
+    "url": "https://x.com/weswinder/status/2017676123308441718",
+    "timestamp": "2026-01-31T19:07:29.000Z",
+    "metadata": {
+      "conversation_id": "2017676123308441718",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017638249112465483",
     "source": "twitter",
     "author": "draslan_eth",
