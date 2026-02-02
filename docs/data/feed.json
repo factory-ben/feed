@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018384778152534494",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "Instale numa IDE ou CLI de seu gosto. \n\nEu uso muito o Droid CLI da @FactoryAI é a melhor CLI, tem uma compressão de contexto muito otimizada, melhor que Claude Code.",
+    "url": "https://x.com/_alissonryan/status/2018384778152534494",
+    "timestamp": "2026-02-02T18:03:25.000Z",
+    "metadata": {
+      "conversation_id": "2018384778152534494",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018384727380766991",
+    "source": "twitter",
+    "author": "OMGitsRomi",
+    "content": "@theo Missing @FactoryAI",
+    "url": "https://x.com/OMGitsRomi/status/2018384727380766991",
+    "timestamp": "2026-02-02T18:03:13.000Z",
+    "metadata": {
+      "conversation_id": "2018384727380766991",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018375940989129133",
     "source": "twitter",
     "author": "Codydearkland",
@@ -14,6 +44,66 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2018374962143265191",
+    "source": "twitter",
+    "author": "IronRedSandHive",
+    "content": "@EnoReyes @_genesisdayrit @FactoryAI A good shortcut for the win! Multilines rejoice!",
+    "url": "https://x.com/IronRedSandHive/status/2018374962143265191",
+    "timestamp": "2026-02-02T17:24:25.000Z",
+    "metadata": {
+      "conversation_id": "2018374962143265191",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018374897370640473",
+    "source": "twitter",
+    "author": "IronRedSandHive",
+    "content": "@_genesisdayrit @FactoryAI Dude ran through tokens there in less than a day lol",
+    "url": "https://x.com/IronRedSandHive/status/2018374897370640473",
+    "timestamp": "2026-02-02T17:24:09.000Z",
+    "metadata": {
+      "conversation_id": "2018374897370640473",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018370906272461044",
+    "source": "twitter",
+    "author": "bum_py",
+    "content": "The workplace is kinda collapsing on a coding agent. It’s still not there yet, but raw code views are silently retreating to the background (shoutout to @FactoryAI). \n\nCoupled with a terminal in Claude Code’s case, it effectively removes 1/3 of the interfaces in the workflow.\n\nThere are two ways to go from here: \n\neither bring a browser into the terminal (very unlikely), or\nCreate a terminal in the browser with deep access",
+    "url": "https://x.com/bum_py/status/2018370906272461044",
+    "timestamp": "2026-02-02T17:08:18.000Z",
+    "metadata": {
+      "conversation_id": "2018370906272461044",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_2018370478348595327",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@_genesisdayrit @FactoryAI Are you using ghostty? You can set a new line shortcut which makes this work. Will fix this to work out the box",
+    "url": "https://x.com/EnoReyes/status/2018370478348595327",
+    "timestamp": "2026-02-02T17:06:36.000Z",
+    "metadata": {
+      "conversation_id": "2018370478348595327",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2018366515041431850",
