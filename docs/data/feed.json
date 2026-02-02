@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018333577415426203",
+    "source": "twitter",
+    "author": "ShawkyMesbah",
+    "content": "@anthonyronning @FactoryAI works great for me. might be a prompting/workflow issue more than the tool itself",
+    "url": "https://x.com/ShawkyMesbah/status/2018333577415426203",
+    "timestamp": "2026-02-02T14:39:58.000Z",
+    "metadata": {
+      "conversation_id": "2018333577415426203",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018331167787987163",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "I use Claude Code a few times a month. It really is garbage now but it’s not an opus problem. \n\nUse @FactoryAI",
+    "url": "https://x.com/anthonyronning/status/2018331167787987163",
+    "timestamp": "2026-02-02T14:30:23.000Z",
+    "metadata": {
+      "conversation_id": "2018331167787987163",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018325918347846134",
     "source": "twitter",
     "author": "_alissonryan",
