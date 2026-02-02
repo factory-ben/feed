@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018357906530500887",
+    "source": "twitter",
+    "author": "doesdatmaksense",
+    "content": "@FactoryAI @specstoryai docs: https://t.co/ZXHfoLaH4a",
+    "url": "https://x.com/doesdatmaksense/status/2018357906530500887",
+    "timestamp": "2026-02-02T16:16:38.000Z",
+    "metadata": {
+      "conversation_id": "2018357906530500887",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018355589483811302",
+    "source": "twitter",
+    "author": "doesdatmaksense",
+    "content": "everyone knows how much i like @FactoryAI droid. the context handling, model management, and harness just works the best in droid\n\n@specstoryai cli now supports droid :D\nyou can save all your droid sessions, context, and reasoning through specstory as markdown files in your local\n\ni use droid as my main driver among coding agents, so pretty excited about this release.",
+    "url": "https://x.com/doesdatmaksense/status/2018355589483811302",
+    "timestamp": "2026-02-02T16:07:26.000Z",
+    "metadata": {
+      "conversation_id": "2018355589483811302",
+      "likes": 4,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_2018348729536041365",
     "source": "twitter",
     "author": "sPredictorX1807",
