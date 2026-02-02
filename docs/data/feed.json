@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018450921282527379",
+    "source": "twitter",
+    "author": "rustinb",
+    "content": "@gootecks @FactoryAI Stitch just launched API keys vs OAuth which may help? (PM for Stitch)",
+    "url": "https://x.com/rustinb/status/2018450921282527379",
+    "timestamp": "2026-02-02T22:26:15.000Z",
+    "metadata": {
+      "conversation_id": "2018450921282527379",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018444793991557399",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "I noticed CLIProxyAPI v6.7.41 (ac802a4) removed codex prompt injection during the remapping to the `/backend-api/codex/responses` endpoint.\n\nThis means that using it with @FactoryAI @droid will now be better aligned to the pure experience intended by Factory.\n\nNo more required system/developer prompt validation, no codex prompt mixed in with Factory's prompt.\n\nWelcomed news for Droid users using BYOK with ChatGPT Plus/Pro subscriptions.",
+    "url": "https://x.com/benvargas/status/2018444793991557399",
+    "timestamp": "2026-02-02T22:01:54.000Z",
+    "metadata": {
+      "conversation_id": "2018444793991557399",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018384778152534494",
     "source": "twitter",
     "author": "_alissonryan",
