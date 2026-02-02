@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_630",
+    "source": "github",
+    "author": "funkyidol",
+    "content": "[Issue] /new and /clear do not fire the \"SessionEnd\" hook\n\nIm trying to run some custom hooks on the 'SessionEnd' hook and they run succesfully when calling the /quit command but the same is not fired on /new and /clear commands. I want to run operations on the current session details when the SessionEnd is called. \n\nThe new and clear commands never fire this hook when closing the current session and creating a new one.",
+    "url": "https://github.com/Factory-AI/factory/issues/630",
+    "timestamp": "2026-02-02T13:17:10Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 630
+    }
+  },
+  {
     "id": "twitter_2018294338384711890",
     "source": "twitter",
     "author": "shreyas1009",
