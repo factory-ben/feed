@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2018697044202844651",
+    "source": "twitter",
+    "author": "_apoorvjha",
+    "content": "As the @FactoryAI blog put it \"The end state is an agent that learns from every interaction, improves continuously, and evolves its own capabilities over time.\" Thanks @EnoReyes for sharing it. Would love to see these ideas applied to agents outside of coding!",
+    "url": "https://x.com/_apoorvjha/status/2018697044202844651",
+    "timestamp": "2026-02-03T14:44:15.000Z",
+    "metadata": {
+      "conversation_id": "2018697044202844651",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018689931460104255",
     "source": "twitter",
     "author": "maheaa_07",
@@ -31376,6 +31391,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1q89ov9",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.45.0 Released\n\n## Bug fixes\n\n* **Ctrl+O detailed view** - Now shows full accumulated command output instead of truncated view\n* **File autocomplete** - Menu now closes properly on Ctrl+C\n* **MCP modal** - Fixed modal and status notification display issues\n* **Autonomy level** - Fixed autonomy level not being applied correctly\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q89ov9/factory_cli_v0450_released/",
+    "timestamp": "2026-01-09T14:28:46.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2009631395359113515",
