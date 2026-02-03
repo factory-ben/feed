@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2018794878797529543",
+    "source": "twitter",
+    "author": "andyrewlee",
+    "content": "@alvinsng @FactoryAI thanks for sharing",
+    "url": "https://x.com/andyrewlee/status/2018794878797529543",
+    "timestamp": "2026-02-03T21:13:01.000Z",
+    "metadata": {
+      "conversation_id": "2018794878797529543",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018783249732870396",
+    "source": "twitter",
+    "author": "gmickel",
+    "content": "\"Plugins functionality is fully compatible with Claude Code\" 👀\n\ndroid plugin marketplace add https://t.co/wCny7AhPL9\n\n(then install flow-next from /plugins → Marketplace menu)\n\nFlow-Next on Droid! Thanks @FactoryAI 🎉\n\nCommands don't autocomplete yet but work when typed (/flow-next:plan, /flow-next:work). Skills still load automatically.\n\nOne thing I noticed: adding a Claude Code marketplace auto-installs the first plugin in marketplace.json. Reordered mine so flow-next is first - heads up for other plugin authors.\n\nCross-platform plugins FTW 🚀\n\nhttps://t.co/wCny7AhPL9",
+    "url": "https://x.com/gmickel/status/2018783249732870396",
+    "timestamp": "2026-02-03T20:26:48.000Z",
+    "metadata": {
+      "conversation_id": "2018783249732870396",
+      "likes": 10,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_2018782263295811862",
+    "source": "twitter",
+    "author": "ghumare64",
+    "content": "@alvinsng @FactoryAI $ npx skillkit install Factory-AI/eslint-plugin",
+    "url": "https://x.com/ghumare64/status/2018782263295811862",
+    "timestamp": "2026-02-03T20:22:53.000Z",
+    "metadata": {
+      "conversation_id": "2018782263295811862",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018778942250041817",
+    "source": "twitter",
+    "author": "doesdatmaksense",
+    "content": "@alvinsng @FactoryAI gold stuff!",
+    "url": "https://x.com/doesdatmaksense/status/2018778942250041817",
+    "timestamp": "2026-02-03T20:09:41.000Z",
+    "metadata": {
+      "conversation_id": "2018778942250041817",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018776253193674876",
+    "source": "twitter",
+    "author": "0xChristophRos",
+    "content": "@diakou @FactoryAI Greetings Diakou, check the dm(about sappy)",
+    "url": "https://x.com/0xChristophRos/status/2018776253193674876",
+    "timestamp": "2026-02-03T19:59:00.000Z",
+    "metadata": {
+      "conversation_id": "2018776253193674876",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018768319713812554",
     "source": "twitter",
     "author": "schopenposter",
