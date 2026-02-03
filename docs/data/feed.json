@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018655709370425636",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "O n8n é bom para manutenção, qualquer um que passe um tempo ali aprende a lógica. \n\nO Python já tem um certo nível de experiência, mas você vai poder fazer tudo né. Então ou vc preza por “liberdade” ou pela “manutenção facilitada” \n\nO n8n é muito mais plug and play, colocou as credenciais, conectou tudo ok já era. Já no Python, tem bibliotecas que fazem isso de visualizar o fluxos, mas a grande maioria vai direto no código e ja era",
+    "url": "https://x.com/_alissonryan/status/2018655709370425636",
+    "timestamp": "2026-02-03T12:00:00.000Z",
+    "metadata": {
+      "conversation_id": "2018655709370425636",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018654811999309869",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "@psw_bartolomeu @FactoryAI Eu gostei porque ele tem a opção de trocar de modelo, tem uma janela de compressão muito melhor que o Claude Code. Nos meus testes eu vi que ele se saiu muito melhor, e adotei e já era",
+    "url": "https://x.com/_alissonryan/status/2018654811999309869",
+    "timestamp": "2026-02-03T11:56:26.000Z",
+    "metadata": {
+      "conversation_id": "2018654811999309869",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018650952417599858",
     "source": "twitter",
     "author": "psw_bartolomeu",
