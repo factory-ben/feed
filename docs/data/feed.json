@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018650952417599858",
+    "source": "twitter",
+    "author": "psw_bartolomeu",
+    "content": "@_alissonryan @FactoryAI Se não for abusar muito haha\n\nQuais casos de uso vc acha que o python faz mais sentido do que n8n, no seu ponto de vista?",
+    "url": "https://x.com/psw_bartolomeu/status/2018650952417599858",
+    "timestamp": "2026-02-03T11:41:06.000Z",
+    "metadata": {
+      "conversation_id": "2018650952417599858",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018650697479462933",
+    "source": "twitter",
+    "author": "psw_bartolomeu",
+    "content": "@_alissonryan @FactoryAI Estou há alguns meses estudando n8n e consegui um emprego novo onde temos oportunidade de usar.\n\nFiquei bem curioso da preferência do CLI da Fictor em relação ao Claude Code, teria mais detalhes dos motivos?",
+    "url": "https://x.com/psw_bartolomeu/status/2018650697479462933",
+    "timestamp": "2026-02-03T11:40:05.000Z",
+    "metadata": {
+      "conversation_id": "2018650697479462933",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018642534420087083",
     "source": "twitter",
     "author": "_alissonryan",
