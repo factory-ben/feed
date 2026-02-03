@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2018537574000902255",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "I don’t know, I think they might reach out to or stop any large solution that is breaking cache or causing undo stress. It wasn’t just opencode, many OSS harnesses got the ok.\n\nI can’t speak to the base prompt… they used to require at the endpoint, no longer, any basic request succeeds… simple POC below.\n\nI don’t work for OpenAI though, just a guy on the internet, so just because it works now doesn’t mean it’s policy or won’t change tomorrow. 😅",
+    "url": "https://x.com/benvargas/status/2018537574000902255",
+    "timestamp": "2026-02-03T04:10:34.000Z",
+    "metadata": {
+      "conversation_id": "2018537574000902255",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018535124174778619",
+    "source": "twitter",
+    "author": "SeeLos",
+    "content": "@benvargas @FactoryAI @droid I see. I’m curious if OpenAI is going to give cliproxyapi a hard time about removing the base prompt. From my understanding they’re only allowing oauth codex inference in opencode as long as they keep the base prompt in.",
+    "url": "https://x.com/SeeLos/status/2018535124174778619",
+    "timestamp": "2026-02-03T04:00:50.000Z",
+    "metadata": {
+      "conversation_id": "2018535124174778619",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018532728027902053",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@SeeLos @FactoryAI @droid Yes through BYOK they’ve built in which allows users to easily route through a proxy (of which there are many, I use/contribute to CLIProxyAPI).\n\nFactory is good with users who choose to go that route to use their existing subs.",
+    "url": "https://x.com/benvargas/status/2018532728027902053",
+    "timestamp": "2026-02-03T03:51:19.000Z",
+    "metadata": {
+      "conversation_id": "2018532728027902053",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018532165273981210",
+    "source": "twitter",
+    "author": "SeeLos",
+    "content": "@benvargas @FactoryAI @droid Does factory let you use OpenAI oauth for codex inference?",
+    "url": "https://x.com/SeeLos/status/2018532165273981210",
+    "timestamp": "2026-02-03T03:49:05.000Z",
+    "metadata": {
+      "conversation_id": "2018532165273981210",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018517956872098064",
     "source": "twitter",
     "author": "benvargas",
