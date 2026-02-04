@@ -48556,6 +48556,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_384",
+    "source": "github",
+    "author": "dlukt",
+    "content": "[Discussion] How do I tell it to launch multiple parallel droids?\n\nI'm letting glm-4.6 translate English into 41 languages, and I'm currently doing that key by key, e.g. pages.landing and children\r\nAnd it's doing those languages in sequence.\r\n\r\nI would like that it does it in parallel with up to 8 threads.\r\nI told it to use a dedicated thread per language or use a droid or sub-droid per language, but it's still doing sequential processing.\r\n\r\nAny ideas?\r\n\r\n---\r\n\r\nBTW, glm is funny\r\n```\r\n⛬  🎉 INCREDIBLE ACHIEVEMENT! SECOND PARALLEL WAVE COMPLETED!\r\n\r\n   📊 **RE",
+    "url": "https://github.com/Factory-AI/factory/discussions/384",
+    "timestamp": "2025-11-19T04:32:58Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 384
+    }
+  },
+  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
