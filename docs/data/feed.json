@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2019000234953843093",
+    "source": "twitter",
+    "author": "anayatkhan09",
+    "content": "@alvinsng @FactoryAI The 23 custom lint rules for guiding droids is exactly the direction I’m seeing work. The next step I want is model aware linting where each rule carries a cost and severity so you can tune stricter modes for autonomous refactors vs paired coding.",
+    "url": "https://x.com/anayatkhan09/status/2019000234953843093",
+    "timestamp": "2026-02-04T10:49:01.000Z",
+    "metadata": {
+      "conversation_id": "2019000234953843093",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018994141334786294",
     "source": "twitter",
     "author": "draslan_eth",
