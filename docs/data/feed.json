@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2019490181938835676",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "Fun fact, this whole thing was built in a month with Opus 4.5 in a single thread with @FactoryAI \n\nAlmost 19 hours of active runtime, about 11 thousand messages. And no, I didn't run it in a loop. \n\nDroid's compaction is THAT good. I find that a single thread is very important when working on greenfield.\n\nWith Opus 4.6, and also getting the project to a good place, I'll be saying goodbye to the previous thread but really enjoyed building this so much. I was able to iterate through dozens of ideas, throwing away many things that didn't work along the way. Was so much fun. 🫡",
+    "url": "https://x.com/anthonyronning/status/2019490181938835676",
+    "timestamp": "2026-02-05T19:15:54.000Z",
+    "metadata": {
+      "conversation_id": "2019490181938835676",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019489015133581447",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@iannuttall @FactoryAI 🔜",
+    "url": "https://x.com/matanSF/status/2019489015133581447",
+    "timestamp": "2026-02-05T19:11:16.000Z",
+    "metadata": {
+      "conversation_id": "2019489015133581447",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019485600458355023",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "Donde 5.3codex @FactoryAI",
+    "url": "https://x.com/NickSloggett/status/2019485600458355023",
+    "timestamp": "2026-02-05T18:57:42.000Z",
+    "metadata": {
+      "conversation_id": "2019485600458355023",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019482885552566397",
     "source": "twitter",
     "author": "FaisalFailed",
