@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2019471865241116857",
+    "source": "twitter",
+    "author": "karlkbuilds",
+    "content": "@FactoryAI Going to be fun!",
+    "url": "https://x.com/karlkbuilds/status/2019471865241116857",
+    "timestamp": "2026-02-05T18:03:07.000Z",
+    "metadata": {
+      "conversation_id": "2019471865241116857",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019465959933608320",
+    "source": "twitter",
+    "author": "NirantK",
+    "content": "I believe these results. And then I go look at what Codex can do. \n\nDoes the harness under-deliver on the promise? \n\nWould this be better with something like @FactoryAI's Droid — a more general harness?\n\nNevermind, Opus will learn to use Claude Code even better in 3 months",
+    "url": "https://x.com/NirantK/status/2019465959933608320",
+    "timestamp": "2026-02-05T17:39:39.000Z",
+    "metadata": {
+      "conversation_id": "2019465959933608320",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019445629789872398",
+    "source": "twitter",
+    "author": "gilhildebrand",
+    "content": "@iannuttall @FactoryAI I second this",
+    "url": "https://x.com/gilhildebrand/status/2019445629789872398",
+    "timestamp": "2026-02-05T16:18:52.000Z",
+    "metadata": {
+      "conversation_id": "2019445629789872398",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019431618713383013",
+    "source": "twitter",
+    "author": "udaysy",
+    "content": "@iannuttall @FactoryAI been running 11 skills in claude code with this exact pattern. the skill definition as markdown with clear triggers is the right approach, way better than trying to stuff everything into one system prompt. factory shipping this would be a big deal",
+    "url": "https://x.com/udaysy/status/2019431618713383013",
+    "timestamp": "2026-02-05T15:23:11.000Z",
+    "metadata": {
+      "conversation_id": "2019431618713383013",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019416657236742147",
     "source": "twitter",
     "author": "iannuttall",
