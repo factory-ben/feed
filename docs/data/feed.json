@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2019482885552566397",
+    "source": "twitter",
+    "author": "FaisalFailed",
+    "content": "@FactoryAI i assume just like sonnet it doesn't support 1M context right?",
+    "url": "https://x.com/FaisalFailed/status/2019482885552566397",
+    "timestamp": "2026-02-05T18:46:54.000Z",
+    "metadata": {
+      "conversation_id": "2019482885552566397",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019482142531523030",
+    "source": "twitter",
+    "author": "malikwas1f",
+    "content": "@FactoryAI how does it compares to codex 5.3 on terminal bench for droid?",
+    "url": "https://x.com/malikwas1f/status/2019482142531523030",
+    "timestamp": "2026-02-05T18:43:57.000Z",
+    "metadata": {
+      "conversation_id": "2019482142531523030",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019481495706959873",
+    "source": "twitter",
+    "author": "cmricksen",
+    "content": "@alexalbert__ @FactoryAI collab of the century",
+    "url": "https://x.com/cmricksen/status/2019481495706959873",
+    "timestamp": "2026-02-05T18:41:23.000Z",
+    "metadata": {
+      "conversation_id": "2019481495706959873",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019481082853216479",
+    "source": "twitter",
+    "author": "DakshMalik47",
+    "content": "@alexalbert__ @FactoryAI What was the recipe behind Opus 4.6???  Did they just use scaling laws, or is something else happening under the hood?    Any new discoveries along the way?   Please share if you get any insights",
+    "url": "https://x.com/DakshMalik47/status/2019481082853216479",
+    "timestamp": "2026-02-05T18:39:44.000Z",
+    "metadata": {
+      "conversation_id": "2019481082853216479",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019480205618778541",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@FactoryAI That is a massive leap to dethrone GPT 5.2 from the top of the leaderboard. \n\nI can’t wait to try out Opus 4.6.",
+    "url": "https://x.com/delaanthonio/status/2019480205618778541",
+    "timestamp": "2026-02-05T18:36:15.000Z",
+    "metadata": {
+      "conversation_id": "2019480205618778541",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019479831864566049",
+    "source": "twitter",
+    "author": "alexalbert__",
+    "content": "@FactoryAI opus 🤝 droid",
+    "url": "https://x.com/alexalbert__/status/2019479831864566049",
+    "timestamp": "2026-02-05T18:34:46.000Z",
+    "metadata": {
+      "conversation_id": "2019479831864566049",
+      "likes": 36,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019476876113174978",
     "source": "twitter",
     "author": "DataDeLaurier",
@@ -16,6 +106,51 @@
     "category": "love"
   },
   {
+    "id": "twitter_2019476380463821244",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@anthonyronning @FactoryAI fine since you asked nicely 🤣",
+    "url": "https://x.com/matanSF/status/2019476380463821244",
+    "timestamp": "2026-02-05T18:21:03.000Z",
+    "metadata": {
+      "conversation_id": "2019476380463821244",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019476082861170774",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "@matanSF @FactoryAI You can just add me to that FF if you want 😅",
+    "url": "https://x.com/anthonyronning/status/2019476082861170774",
+    "timestamp": "2026-02-05T18:19:52.000Z",
+    "metadata": {
+      "conversation_id": "2019476082861170774",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019475605750964492",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@anthonyronning @FactoryAI oops one sec, ff on our side",
+    "url": "https://x.com/matanSF/status/2019475605750964492",
+    "timestamp": "2026-02-05T18:17:59.000Z",
+    "metadata": {
+      "conversation_id": "2019475605750964492",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019474454162604498",
     "source": "twitter",
     "author": "NickSloggett",
@@ -30,6 +165,51 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2019473556967424213",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "@FactoryAI How do you force an update? not seeing it.",
+    "url": "https://x.com/anthonyronning/status/2019473556967424213",
+    "timestamp": "2026-02-05T18:09:50.000Z",
+    "metadata": {
+      "conversation_id": "2019473556967424213",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019473377128509626",
+    "source": "twitter",
+    "author": "WKing_Jack",
+    "content": "@FactoryAI wait it",
+    "url": "https://x.com/WKing_Jack/status/2019473377128509626",
+    "timestamp": "2026-02-05T18:09:07.000Z",
+    "metadata": {
+      "conversation_id": "2019473377128509626",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019472848243523864",
+    "source": "twitter",
+    "author": "JBL985994759543",
+    "content": "@FactoryAI Let's go!!!",
+    "url": "https://x.com/JBL985994759543/status/2019472848243523864",
+    "timestamp": "2026-02-05T18:07:01.000Z",
+    "metadata": {
+      "conversation_id": "2019472848243523864",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2019471865241116857",
