@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2019755608010826012",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@Machado2Fabio @Kulshekhar @AmpCode @FactoryAI cool, will do, thx for the pointer",
+    "url": "https://x.com/sqs/status/2019755608010826012",
+    "timestamp": "2026-02-06T12:50:36.000Z",
+    "metadata": {
+      "conversation_id": "2019755608010826012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019754145939337476",
+    "source": "twitter",
+    "author": "Machado2Fabio",
+    "content": "@sqs @Kulshekhar @AmpCode @FactoryAI Look into antigravity's agent manager. That thing would be cool if it werent so buggy.",
+    "url": "https://x.com/Machado2Fabio/status/2019754145939337476",
+    "timestamp": "2026-02-06T12:44:48.000Z",
+    "metadata": {
+      "conversation_id": "2019754145939337476",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019741578298814657",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@ccccjjjjeeee @Kulshekhar @AmpCode @FactoryAI Agreed. It’s very very good.",
+    "url": "https://x.com/sqs/status/2019741578298814657",
+    "timestamp": "2026-02-06T11:54:51.000Z",
+    "metadata": {
+      "conversation_id": "2019741578298814657",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019740988261236846",
+    "source": "twitter",
+    "author": "ccccjjjjeeee",
+    "content": "@sqs @Kulshekhar @AmpCode @FactoryAI codex app feels like the right interface for current codex models\n\nbest interface so far for juggling many tasks, abstraction layer seems correct for codex-like models, worktree implementation is kind of broken atm but makes sense in theory\n\nmight matter less as models get faster",
+    "url": "https://x.com/ccccjjjjeeee/status/2019740988261236846",
+    "timestamp": "2026-02-06T11:52:31.000Z",
+    "metadata": {
+      "conversation_id": "2019740988261236846",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019737040485822575",
+    "source": "twitter",
+    "author": "yijiayidesign",
+    "content": "@FactoryAI Droid + Opus 4.6 is going to be exponential. Finally, a real engine, not just a glorified autocomplete wrapper.",
+    "url": "https://x.com/yijiayidesign/status/2019737040485822575",
+    "timestamp": "2026-02-06T11:36:50.000Z",
+    "metadata": {
+      "conversation_id": "2019737040485822575",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019735273165537484",
+    "source": "twitter",
+    "author": "Kulshekhar",
+    "content": "to be honest, for me the TUI or the desktop app is really the same when I'm simply a user (not a builder). It's just pixels on screen.\n\nWhat I care about most in this case really is the exact combination of information available on the screen at any point. Any combination that minimizes the need to switch across windows is a big winner for me",
+    "url": "https://x.com/Kulshekhar/status/2019735273165537484",
+    "timestamp": "2026-02-06T11:29:48.000Z",
+    "metadata": {
+      "conversation_id": "2019735273165537484",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019734561081725212",
+    "source": "twitter",
+    "author": "Kulshekhar",
+    "content": "It's kind of similar to why TUIs are great as well - the agent is front and center rather than the editor for humans\n\nThe next thing needed is the diffs which comes up right there, as do screenshots and other artifacts as they're generated. This covers most of the things I'd want immediate access to when working with an agent.\n\nI've stayed almost exclusively in the codex app for such a long time that it just felt like the right direction\n\nNote: this is only for cases where I need to be involved closely. For cases where it's fire and forget, it really doesn't matter.",
+    "url": "https://x.com/Kulshekhar/status/2019734561081725212",
+    "timestamp": "2026-02-06T11:26:58.000Z",
+    "metadata": {
+      "conversation_id": "2019734561081725212",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019724705134203357",
     "source": "twitter",
     "author": "indykish",
