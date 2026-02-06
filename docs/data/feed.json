@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2019607351515357540",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@abhishek_a_i @FactoryAI https://t.co/GNnCgsFbcH",
+    "url": "https://x.com/delaanthonio/status/2019607351515357540",
+    "timestamp": "2026-02-06T03:01:29.000Z",
+    "metadata": {
+      "conversation_id": "2019607351515357540",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019606631961723119",
+    "source": "twitter",
+    "author": "mikenguyen_me",
+    "content": "@FactoryAI We need your take on codex 5.3. Can you run the benchmark against it? https://t.co/OgWt0cmCy6",
+    "url": "https://x.com/mikenguyen_me/status/2019606631961723119",
+    "timestamp": "2026-02-06T02:58:38.000Z",
+    "metadata": {
+      "conversation_id": "2019606631961723119",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019605812847813024",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "@abhishek_a_i @FactoryAI Wow!\nIs this droid way of CC Team?",
+    "url": "https://x.com/orange_boy/status/2019605812847813024",
+    "timestamp": "2026-02-06T02:55:22.000Z",
+    "metadata": {
+      "conversation_id": "2019605812847813024",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019585406338216059",
     "source": "twitter",
     "author": "iamzhihui",
@@ -30638,6 +30683,19 @@
       "number": 578
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_578",
+    "source": "github",
+    "author": "1SuperEmployee",
+    "content": "[Issue] Error: 400: Thinking blocks not preserved in conversation history causes API validation errors\n\nI'm experiencing frequent API errors when using extended thinking models (e.g., Opus 4.5 Thinking). The error occurs both in fresh sessions and after compacting conversations:\n\n    ```\n    API Validation Error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"messages.X.content.0.type: Expected `thinking` or `redacted_thinking`, but found\n    `text`. When `thinking` is enabled, a final `assistant` message must start with a thinking block (preceeding the lastmost set of `too",
+    "url": "https://github.com/Factory-AI/factory/issues/578",
+    "timestamp": "2026-01-10T17:02:06Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 578
+    }
   },
   {
     "id": "twitter_2010034375388475637",
