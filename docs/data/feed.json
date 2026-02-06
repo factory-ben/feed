@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2019845269547074024",
+    "source": "twitter",
+    "author": "zuess05",
+    "content": "@delaanthonio @FactoryAI ah good to know",
+    "url": "https://x.com/zuess05/status/2019845269547074024",
+    "timestamp": "2026-02-06T18:46:53.000Z",
+    "metadata": {
+      "conversation_id": "2019845269547074024",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019843924131459394",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@zuess05 It’s a coding agent by @FactoryAI",
+    "url": "https://x.com/delaanthonio/status/2019843924131459394",
+    "timestamp": "2026-02-06T18:41:33.000Z",
+    "metadata": {
+      "conversation_id": "2019843924131459394",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019840066374496573",
+    "source": "twitter",
+    "author": "ChukwurahSomtoo",
+    "content": "@Kulshekhar @sqs @AmpCode @FactoryAI Or to move around files to understand architecture",
+    "url": "https://x.com/ChukwurahSomtoo/status/2019840066374496573",
+    "timestamp": "2026-02-06T18:26:13.000Z",
+    "metadata": {
+      "conversation_id": "2019840066374496573",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019838336022512082",
+    "source": "twitter",
+    "author": "ChukwurahSomtoo",
+    "content": "@Kulshekhar @sqs @AmpCode @FactoryAI Nice details but what if you want to edit text your self? Do you find it more clunky than using an editor",
+    "url": "https://x.com/ChukwurahSomtoo/status/2019838336022512082",
+    "timestamp": "2026-02-06T18:19:20.000Z",
+    "metadata": {
+      "conversation_id": "2019838336022512082",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019833752994869425",
     "source": "twitter",
     "author": "sunnypause",
