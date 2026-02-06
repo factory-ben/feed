@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_637",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Droid Compatibility Issues with Claude Code Plugins\n\nIssue 1: Plugin `commands/` directory is not automatically scanned (Claude Code automatically scans it)\n\nIssue 2: Task tool does not pass Execute permissions when launching droid, preventing plugins from\nexecuting scripts\n\nRoot cause: Insufficient compatibility of Factory with Claude Code plugin format\n\nPlugin: zai-coding-plugins-main\n\nCreate custom slash commands to directly run plugin scripts using the Execute tool bypassing the problematic droid to skill call chain\n\nSpecific implementation\nCr",
+    "url": "https://github.com/Factory-AI/factory/issues/637",
+    "timestamp": "2026-02-06T19:58:45Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 637
+    }
+  },
+  {
     "id": "twitter_2019858118629581236",
     "source": "twitter",
     "author": "alvinsng",
