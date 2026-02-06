@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2019870380593177031",
+    "source": "twitter",
+    "author": "0x_Vivek",
+    "content": "@alvinsng @FactoryAI terminal bench is cool but real world perf is all that matters.",
+    "url": "https://x.com/0x_Vivek/status/2019870380593177031",
+    "timestamp": "2026-02-06T20:26:40.000Z",
+    "metadata": {
+      "conversation_id": "2019870380593177031",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019868711398862929",
+    "source": "twitter",
+    "author": "andyrewlee",
+    "content": "setting this up is a no brainer. thanks for sharing @FactoryAI.\n\none prompt and 5 hours later, my repo is healthier and better set up for success. https://t.co/a4PD73egID",
+    "url": "https://x.com/andyrewlee/status/2019868711398862929",
+    "timestamp": "2026-02-06T20:20:02.000Z",
+    "metadata": {
+      "conversation_id": "2019868711398862929",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_637",
     "source": "github",
     "author": "zwen64657",
