@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2019585406338216059",
+    "source": "twitter",
+    "author": "iamzhihui",
+    "content": "@alvinsng @FactoryAI The coding agent that I like best",
+    "url": "https://x.com/iamzhihui/status/2019585406338216059",
+    "timestamp": "2026-02-06T01:34:17.000Z",
+    "metadata": {
+      "conversation_id": "2019585406338216059",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019579827037294859",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "IF you wanted to try yourself and replicate what I did, you can paste my description into your local agent and ask it to create a workflow using the methodology I've explained.\n\nIt will ask you a bunch of pointed questions, I recommend you use bun as the runtime.\n\nIf you haven't done it before, this is ACTUALLY going to be a LOT of fun for you.",
+    "url": "https://x.com/AriesTheCoder/status/2019579827037294859",
+    "timestamp": "2026-02-06T01:12:07.000Z",
+    "metadata": {
+      "conversation_id": "2019579827037294859",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019578890478653776",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "I achieved this by creating a scaffolding of coding standards, brand guidelines, wireframes, templates and granularly detailed specifications and a pipeline managed via an sqlite database.\n\nI found that this type of setup lent itself well to the way @FactoryAI works.\n\nI literally set everything up as if it were a already fully built out project complete with user documentation. I then used that to give the agent some grounding a source of truth that it can match up against. \n\nPressed enter and walked away after configuring it for a few hours.\n\nCame back from time to time to see where it's at. But confident that it's writing the code that I wanted in the way that I wanted.\n\nWill be doing a video on these techniques when I have time.",
+    "url": "https://x.com/AriesTheCoder/status/2019578890478653776",
+    "timestamp": "2026-02-06T01:08:24.000Z",
+    "metadata": {
+      "conversation_id": "2019578890478653776",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019568977136300157",
     "source": "twitter",
     "author": "AriesTheCoder",
