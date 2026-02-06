@@ -60,7 +60,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 1
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2019555761010143645",
