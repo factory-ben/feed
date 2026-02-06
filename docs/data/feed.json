@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2019683535465116093",
+    "source": "twitter",
+    "author": "johnrtian",
+    "content": "- Reconsider context compaction; I know the Amp team has a strong stance against it, but I think recent performance from Codex and how well it handles context compaction justifies a re-evaluation. It's cleaner to me than handoff and would be an unlock in longer-running agents.\n\n- The Codex app is great at running multiple agents in the same workspace in parallel; however, the worktrees implementation feels off. It's janky and there is no clear way to merge all worktrees into one at the end. This is a huge barrier to true parallelization; some first-class primitive to define not just parallelizable, but reconcilable/mergeable, work would be huge.",
+    "url": "https://x.com/johnrtian/status/2019683535465116093",
+    "timestamp": "2026-02-06T08:04:13.000Z",
+    "metadata": {
+      "conversation_id": "2019683535465116093",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019660819584413740",
     "source": "twitter",
     "author": "sqs",
