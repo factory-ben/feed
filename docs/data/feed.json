@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2019943734960607681",
+    "source": "twitter",
+    "author": "andyrewlee",
+    "content": "@jbeebae @FactoryAI different from readiness report. i downloaded zip of the eslint rules and asked the coding agent to adopt the rules that makes sense for the repo. then the coding agent works until there’s no more lint errors.",
+    "url": "https://x.com/andyrewlee/status/2019943734960607681",
+    "timestamp": "2026-02-07T01:18:09.000Z",
+    "metadata": {
+      "conversation_id": "2019943734960607681",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019927615365345576",
     "source": "twitter",
     "author": "mollycantillon",
@@ -14,6 +29,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2019926244289311054",
+    "source": "twitter",
+    "author": "xlcizor",
+    "content": "@Kulshekhar @AmpCode @FactoryAI You can try https://t.co/pESwiCInde, it has built-in ghostty with full support of @AmpCode and @FactoryAI , and support all the features you need inclusing running parallel agents, worktrees, code editor, diff, browser, etc",
+    "url": "https://x.com/xlcizor/status/2019926244289311054",
+    "timestamp": "2026-02-07T00:08:39.000Z",
+    "metadata": {
+      "conversation_id": "2019926244289311054",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2019922666468307235",
