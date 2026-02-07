@@ -31046,6 +31046,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1q9jyyh",
+    "source": "reddit",
+    "author": "Church_Greater_Being",
+    "content": "Version 0.46 High Autonomy Bug\n\nIs anyone else running into a bug on this version:\n\npermissions for relatively trivial commands are constantly requested?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q9jyyh/version_046_high_autonomy_bug/",
+    "timestamp": "2026-01-11T00:01:49.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2010134868987109791",
     "source": "twitter",
     "author": "fire",
