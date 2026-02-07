@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2020207899881140312",
+    "source": "twitter",
+    "author": "A9kitSingh",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf Nice rollout. Fast mode where it matters, normal mode everywhere else feels like the right balance. Curious to try it in real workloads.",
+    "url": "https://x.com/A9kitSingh/status/2020207899881140312",
+    "timestamp": "2026-02-07T18:47:51.000Z",
+    "metadata": {
+      "conversation_id": "2020207899881140312",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020207325215404082",
+    "source": "twitter",
+    "author": "claudeai",
+    "content": "Fast mode is available now for Claude Code users with extra usage enabled (use /fast).\n\nIt’s also available in research preview on @cursor_ai, @emergentlabs, @FactoryAI, @figma, @github Copilot, @Lovable, @v0, and @windsurf.",
+    "url": "https://x.com/claudeai/status/2020207325215404082",
+    "timestamp": "2026-02-07T18:45:34.000Z",
+    "metadata": {
+      "conversation_id": "2020207325215404082",
+      "likes": 74,
+      "retweets": 6,
+      "replies": 2,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_2020192325704773651",
     "source": "twitter",
     "author": "draslan_eth",
