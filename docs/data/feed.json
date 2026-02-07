@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2020192325704773651",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@FactoryAI DROID running since 8,5 hours straight. 0,5 h was planning and adjusting autonomy. https://t.co/cCw3LP8GNu",
+    "url": "https://x.com/draslan_eth/status/2020192325704773651",
+    "timestamp": "2026-02-07T17:45:58.000Z",
+    "metadata": {
+      "conversation_id": "2020192325704773651",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020191846836641797",
+    "source": "twitter",
+    "author": "ayushporwalhq",
+    "content": "@OfficialLoganK @krzyzanowskim @FactoryAI Ohh well, need something like codex as well. You can let go cli in that case. Wudn't care",
+    "url": "https://x.com/ayushporwalhq/status/2020191846836641797",
+    "timestamp": "2026-02-07T17:44:04.000Z",
+    "metadata": {
+      "conversation_id": "2020191846836641797",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1qygv4w",
     "source": "reddit",
     "author": "Reasonable-Sector192",
