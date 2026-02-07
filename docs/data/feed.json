@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2019927615365345576",
+    "source": "twitter",
+    "author": "mollycantillon",
+    "content": "@_julianschiavo @caelin_sutch No, as in you can hard code it into their config to never run @droid I’ve seen do this well. Certain commands are blacklisted.",
+    "url": "https://x.com/mollycantillon/status/2019927615365345576",
+    "timestamp": "2026-02-07T00:14:06.000Z",
+    "metadata": {
+      "conversation_id": "2019927615365345576",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019922666468307235",
     "source": "twitter",
     "author": "codewithimanshu",
