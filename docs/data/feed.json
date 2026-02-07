@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2020269890444329462",
+    "source": "twitter",
+    "author": "LLMJunky",
+    "content": "@juliandeangeIis @thsottiaux @droid No I haven't but I've only heard good things about it",
+    "url": "https://x.com/LLMJunky/status/2020269890444329462",
+    "timestamp": "2026-02-07T22:54:11.000Z",
+    "metadata": {
+      "conversation_id": "2020269890444329462",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020268881374314497",
+    "source": "twitter",
+    "author": "juliandeangeIis",
+    "content": "@LLMJunky @thsottiaux Have you tried @droid ? They dont have an own model, but are like 2x faster with sota models (gpt codex or opus) without losing quality. Really dont know how yet lol",
+    "url": "https://x.com/juliandeangeIis/status/2020268881374314497",
+    "timestamp": "2026-02-07T22:50:10.000Z",
+    "metadata": {
+      "conversation_id": "2020268881374314497",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020246879133638985",
     "source": "twitter",
     "author": "matanSF",
