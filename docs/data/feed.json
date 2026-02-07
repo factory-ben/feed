@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2020226677549453463",
+    "source": "twitter",
+    "author": "Conor_D_Dart",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf My Max plan will get half way and be finished for the week with one prompt.",
+    "url": "https://x.com/Conor_D_Dart/status/2020226677549453463",
+    "timestamp": "2026-02-07T20:02:28.000Z",
+    "metadata": {
+      "conversation_id": "2020226677549453463",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020226313408377087",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@imlinosuarez @FactoryAI @AnthropicAI 👀",
+    "url": "https://x.com/EnoReyes/status/2020226313408377087",
+    "timestamp": "2026-02-07T20:01:01.000Z",
+    "metadata": {
+      "conversation_id": "2020226313408377087",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020226151013314867",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@FactoryAI @FactoryAI, using fast mode can definitely improve Claude Opus's inference speed on Droid.",
+    "url": "https://x.com/codewithimanshu/status/2020226151013314867",
+    "timestamp": "2026-02-07T20:00:23.000Z",
+    "metadata": {
+      "conversation_id": "2020226151013314867",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020222697884774608",
     "source": "twitter",
     "author": "imlinosuarez",
