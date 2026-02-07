@@ -80,6 +80,51 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2019970199206916414",
+    "source": "twitter",
+    "author": "superzac",
+    "content": "@nathanclark_ @raycast @Zai_org @droid I think my next upgrade for my AI trainer is a full iOS app.\n\nGonna just let it cook.",
+    "url": "https://x.com/superzac/status/2019970199206916414",
+    "timestamp": "2026-02-07T03:03:19.000Z",
+    "metadata": {
+      "conversation_id": "2019970199206916414",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019966027669651478",
+    "source": "twitter",
+    "author": "NotionHQ",
+    "content": "@nathanclark_ @raycast @Zai_org @droid 🔥",
+    "url": "https://x.com/NotionHQ/status/2019966027669651478",
+    "timestamp": "2026-02-07T02:46:44.000Z",
+    "metadata": {
+      "conversation_id": "2019966027669651478",
+      "likes": 10,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019963273429545040",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "Fun little personal example of AI being super useful in my life - building a training plan for upcoming half marathon. \n\nUsed a @raycast extension on top of yt-dlp to get some video transcripts\n\nUsed @Zai_org websearch MCP to pull some content off the web (from within @droid in @zeddotdev) \n\nAgain in Droid+Zed gave Opus 4.6 my goals, constraints, preferences etc and asked it to build a training plan. Got 5.3-Codex to score and review then made some updates. \n\nGot it to convert to CSV and dropped into @NotionHQ table. \n\nNow I have a full plan with frictionless @NotionCalendar  integration too. \n\n(could have done most of this in Notion directly but wanted to give 5.3 a run and it wasn't (yet) in there.",
+    "url": "https://x.com/nathanclark_/status/2019963273429545040",
+    "timestamp": "2026-02-07T02:35:48.000Z",
+    "metadata": {
+      "conversation_id": "2019963273429545040",
+      "likes": 12,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019959519502344229",
     "source": "twitter",
     "author": "kr0der",
