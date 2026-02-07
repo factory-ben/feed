@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2020246879133638985",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@Hamzaa_i @aidenybai @FactoryAI 🤝",
+    "url": "https://x.com/matanSF/status/2020246879133638985",
+    "timestamp": "2026-02-07T21:22:45.000Z",
+    "metadata": {
+      "conversation_id": "2020246879133638985",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020245876334309734",
+    "source": "twitter",
+    "author": "Gunvir",
+    "content": "@v0 for mvp\n@cursor_ai for anything I can do in an hour and for browser\n\n@conductor_build for literally any major feature or work\n@FactoryAI for multi model work\n\nDo not fall for vendor/model lock in please",
+    "url": "https://x.com/Gunvir/status/2020245876334309734",
+    "timestamp": "2026-02-07T21:18:45.000Z",
+    "metadata": {
+      "conversation_id": "2020245876334309734",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020245681693450435",
+    "source": "twitter",
+    "author": "charliehmoss",
+    "content": "Love the Agent Readiness framing. For GTM systems the test is simple: can an agent remove action from the CRM without a human sanity-checking the record first? Most teams can’t, because the environment isn’t stable: ownership is unclear, lifecycle timestamps are missing, and stages don’t enforce the required facts. Fix the environment and agents get leverage. Skip it and you automate mistakes.\n\nWhat is the low risk ‘agent action’ that could be safe in most CRMs?",
+    "url": "https://x.com/charliehmoss/status/2020245681693450435",
+    "timestamp": "2026-02-07T21:17:59.000Z",
+    "metadata": {
+      "conversation_id": "2020245681693450435",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020245377304391963",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@FactoryAI We’re gonna need bigger plans guys what happened to the $2k plan we also need $500 and $1000 plans so we can scale up",
+    "url": "https://x.com/JoelDeTeves/status/2020245377304391963",
+    "timestamp": "2026-02-07T21:16:46.000Z",
+    "metadata": {
+      "conversation_id": "2020245377304391963",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020243416475643959",
+    "source": "twitter",
+    "author": "andersmarksen",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf just think: 12 months from now we'll have models that are:\n1. more capable than opus 4.6\n2. quicker than fast mode\n3. more context than 1M\n4. cheaper than all this",
+    "url": "https://x.com/andersmarksen/status/2020243416475643959",
+    "timestamp": "2026-02-07T21:08:59.000Z",
+    "metadata": {
+      "conversation_id": "2020243416475643959",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020241777899500027",
+    "source": "twitter",
+    "author": "Pavan_Kumar_Pal",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf Nice, gotta go fast! Modes and previews everywhere, like a tech treasure hunt!",
+    "url": "https://x.com/Pavan_Kumar_Pal/status/2020241777899500027",
+    "timestamp": "2026-02-07T21:02:28.000Z",
+    "metadata": {
+      "conversation_id": "2020241777899500027",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020237864769056801",
     "source": "twitter",
     "author": "rhysdotme",
