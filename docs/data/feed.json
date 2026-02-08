@@ -15024,6 +15024,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_615",
+    "source": "github",
+    "author": "bierlingm",
+    "content": "[Issue] Infinite Redraw Loop in Interactive Mode on macOS (All Terminals)\n\n## Title: Infinite Redraw Loop in Interactive Mode on macOS (All Terminals)\n\n### Environment\n- **Droid Version:** 0.55.1 (freshly installed from https://app.factory.ai/cli)\n- **OS:** macOS 26.3 (build 25D5101c)\n- **Architecture:** arm64 (Apple Silicon)\n- **Terminals Affected:** WezTerm 20240203-110809-5046fc22, Ghostty, iTerm2\n- **Shell:** zsh\n\n### Description\nRunning `droid` without arguments (interactive mode) triggers an infinite redraw loop across **all tested terminal emulators**. The TUI r",
+    "url": "https://github.com/Factory-AI/factory/issues/615",
+    "timestamp": "2026-01-23T16:35:00Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 615
+    }
+  },
+  {
     "id": "twitter_2014737608299946036",
     "source": "twitter",
     "author": "willIsbillls",
