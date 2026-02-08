@@ -30588,6 +30588,19 @@
     "category": "question"
   },
   {
+    "id": "github_issue_584",
+    "source": "github",
+    "author": "kevinywchan",
+    "content": "[Issue] Feature Request / Bug Report: Improved Session Management in Droid (Rename, Delete, Archive)\n\n**Summary**\nAs a user of Droid (Factory.ai), the session/chat interface closely mirrors typical LLM tools (e.g., Claude, ChatGPT), but it lacks basic session controls like renaming and deleting/archiving old sessions. This leads to clutter in the history and makes it hard to organize work across projects or tasks.\nAdditionally, manual cleanup via the local filesystem (removing files from ~/.factory/sessions or similar) is unreliable—especially for cloud-synced sessions—and doesn't resolve all is",
+    "url": "https://github.com/Factory-AI/factory/issues/584",
+    "timestamp": "2026-01-13T17:56:52Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 584
+    }
+  },
+  {
     "id": "twitter_2011124916276384080",
     "source": "twitter",
     "author": "Madeby_Don",
