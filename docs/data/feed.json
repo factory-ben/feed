@@ -14990,6 +14990,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_614",
+    "source": "github",
+    "author": "sherrybabe1978",
+    "content": "[Issue] Yes, allow triggers agent stop\n\nWhen working in VS Code I get kicked out of factory when hitting \"yes, allow\"\n\n<img width=\"465\" height=\"440\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/58e3b608-4148-4a24-a453-57aa65ae2296\" />\n\n",
+    "url": "https://github.com/Factory-AI/factory/issues/614",
+    "timestamp": "2026-01-23T16:16:44Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 614
+    }
+  },
+  {
     "id": "twitter_2014731994396295180",
     "source": "twitter",
     "author": "troymartig",
