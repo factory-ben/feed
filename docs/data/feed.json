@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2020604748597166298",
+    "source": "twitter",
+    "author": "pmsorhaindo",
+    "content": "@beffjezos @yacineMTB @FactoryAI This can still be whipped up in house, no moat on the agent front, and acquisition here would just be buying customers",
+    "url": "https://x.com/pmsorhaindo/status/2020604748597166298",
+    "timestamp": "2026-02-08T21:04:47.000Z",
+    "metadata": {
+      "conversation_id": "2020604748597166298",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020599091265184014",
+    "source": "twitter",
+    "author": "tdh_02",
+    "content": "@Maxvdvloet Claude via @FactoryAI with Kimi for light work backend or setting up at 0.25% cost - then heavy backend with Claude / reviewing Kimi code. Codex for security.",
+    "url": "https://x.com/tdh_02/status/2020599091265184014",
+    "timestamp": "2026-02-08T20:42:18.000Z",
+    "metadata": {
+      "conversation_id": "2020599091265184014",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020593090030092350",
+    "source": "twitter",
+    "author": "Alejandr0tero",
+    "content": "@draslan_eth @1macksheppard @FactoryAI Ok got it. What was the result of the improvements?",
+    "url": "https://x.com/Alejandr0tero/status/2020593090030092350",
+    "timestamp": "2026-02-08T20:18:28.000Z",
+    "metadata": {
+      "conversation_id": "2020593090030092350",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_638",
     "source": "github",
     "author": "mikez93",
