@@ -14,6 +14,21 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2020863386557308945",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@SasuRobert Where this man is going only a @droid CNA take him",
+    "url": "https://x.com/erd0xbc/status/2020863386557308945",
+    "timestamp": "2026-02-09T14:12:31.000Z",
+    "metadata": {
+      "conversation_id": "2020863386557308945",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020843419573113280",
     "source": "twitter",
     "author": "FrancoE114696",
@@ -30528,6 +30543,19 @@
       "number": 586
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_586",
+    "source": "github",
+    "author": "kaan-escober",
+    "content": "[Issue] [URGENT] provide a way to disable auto update\n\nAdd a way to disable the auto update. because it sucks when you just open it and it starts auto uodating.",
+    "url": "https://github.com/Factory-AI/factory/issues/586",
+    "timestamp": "2026-01-13T22:56:34Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 586
+    }
   },
   {
     "id": "twitter_2011202607977775459",
