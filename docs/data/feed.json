@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2020947621922381896",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "This resonates with our philosophy at @FactoryAI. We know we won't make perfect decisions, but as long as we adapt quickly, we’ll be okay.\n\nThe world is shifting rapidly; shipping slowly means losing more ground than ever before.\n\nWith agents coding, refactoring is cheap. Hesitation is expensive. You can’t refactor lost ground.",
+    "url": "https://x.com/alvinsng/status/2020947621922381896",
+    "timestamp": "2026-02-09T19:47:15.000Z",
+    "metadata": {
+      "conversation_id": "2020947621922381896",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020944219859452273",
+    "source": "twitter",
+    "author": "TradeUp247",
+    "content": "@FactoryAI Do you all actually respond to support emails? I sent a message yesterday and today with issues, no response. What's up?",
+    "url": "https://x.com/TradeUp247/status/2020944219859452273",
+    "timestamp": "2026-02-09T19:33:43.000Z",
+    "metadata": {
+      "conversation_id": "2020944219859452273",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020929933980336514",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -14,6 +44,51 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2020924873959407958",
+    "source": "twitter",
+    "author": "jazzyalex",
+    "content": "Agent Sessions for CLI agents:\n@OpenAICodexCli\n@claudeai\n@opencode\n@FactoryAI\n@geminicli\n@GitHubCopilot \n&amp; @OpenClaw bot\n\nApple Notes‑style search, clean timeline with readability, Session Resume and Archive, limit tracking\n\nhttps://t.co/ARM1ZTyCWO\nnative macOS app • open source https://t.co/epjl93eVMf",
+    "url": "https://x.com/jazzyalex/status/2020924873959407958",
+    "timestamp": "2026-02-09T18:16:51.000Z",
+    "metadata": {
+      "conversation_id": "2020924873959407958",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020899174309355568",
+    "source": "twitter",
+    "author": "mcraddock",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf I'd prefer the credits were available for the 1 million context windows [m]",
+    "url": "https://x.com/mcraddock/status/2020899174309355568",
+    "timestamp": "2026-02-09T16:34:44.000Z",
+    "metadata": {
+      "conversation_id": "2020899174309355568",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020886989537476859",
+    "source": "twitter",
+    "author": "whazzhat",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf Can we get % to compaction option to show the entire time? Would be nice to see where we are in the conversation un the Claude Code CLI.\n\nAlso, how long until the Max 20x users get the Opus 4.6 1M context window?",
+    "url": "https://x.com/whazzhat/status/2020886989537476859",
+    "timestamp": "2026-02-09T15:46:19.000Z",
+    "metadata": {
+      "conversation_id": "2020886989537476859",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "github_issue_639",
