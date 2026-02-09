@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_639",
+    "source": "github",
+    "author": "0xSero",
+    "content": "[Issue] Droid <> Zed terminal - Intense flickering issue\n\n## Issue: Huge flickering issue in the Zed IDE terminal \n\n### Details \n\n- OS: Mac OS v26\n- Device Macbook Pro M1 Max\n- IDE: Zed\n- Environment: Zed IDE's built in terminal \n- Bug: intense flickering \n\n### Behaviour\n\n- During window resizes, or accessing either models list or settings \n- The screen flickers for 1-2 minutes before settling down \n- Nothing fixes this, it happens when conversations get long as well\n- This behaviour is especially bad within the Zed terminal \n\n### How to reproduce:\n\n1.",
+    "url": "https://github.com/Factory-AI/factory/issues/639",
+    "timestamp": "2026-02-09T15:06:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 639
+    }
+  },
+  {
     "id": "twitter_2020843419573113280",
     "source": "twitter",
     "author": "FrancoE114696",
