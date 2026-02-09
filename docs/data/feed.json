@@ -14941,6 +14941,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_616",
+    "source": "github",
+    "author": "HanCheg0812",
+    "content": "[Issue] Droid Application Error Report - Failed to Start New Session\n\nSubject: Droid Application Error Report - Failed to Start New Session\n\nBody:\n\nHello,\n\nI encountered an error while using the Droid application, which prevented it from starting a new session normally. The details are as follows:\n\nPrimary Error: The application failed while attempting to compact data and start a new session, with the message:\n\nError: Failed to compact and start a new session.\n\nRoot Cause Errors: Prior to the primary error, the following critical JavaScript runtime exceptions were",
+    "url": "https://github.com/Factory-AI/factory/issues/616",
+    "timestamp": "2026-01-24T06:53:23Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 616
+    }
+  },
+  {
     "id": "twitter_2014946635395301829",
     "source": "twitter",
     "author": "Viswana34226652",
