@@ -1,5 +1,170 @@
 [
   {
+    "id": "twitter_2020712972814049688",
+    "source": "twitter",
+    "author": "Codydearkland",
+    "content": "@droid @Railway @sentry More errors during deployment... more MCP to fix it. Code breaks sometimes it turns out, especially when you're weak AF at building in Swift. https://t.co/rHU8IZ0iDz",
+    "url": "https://x.com/Codydearkland/status/2020712972814049688",
+    "timestamp": "2026-02-09T04:14:50.000Z",
+    "metadata": {
+      "conversation_id": "2020712972814049688",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020709934145634629",
+    "source": "twitter",
+    "author": "Codydearkland",
+    "content": "@droid @Railway @sentry Also, while we're talking about the dopeness of @sentry - End to end tracing setup, with Agent Monitoring also. Input/output from the agent, token usage, error rates, duration, and even DB performance. \n\nNot to mention logs / metrics / the works - from the IOS app down to node. https://t.co/c4L601WXE5",
+    "url": "https://x.com/Codydearkland/status/2020709934145634629",
+    "timestamp": "2026-02-09T04:02:45.000Z",
+    "metadata": {
+      "conversation_id": "2020709934145634629",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020700028332036188",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@ZixuanLi_ IF it outperforms Kimi 2.5 in @droid it might become my daily driver",
+    "url": "https://x.com/JoelDeTeves/status/2020700028332036188",
+    "timestamp": "2026-02-09T03:23:24.000Z",
+    "metadata": {
+      "conversation_id": "2020700028332036188",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020699028166705169",
+    "source": "twitter",
+    "author": "Codydearkland",
+    "content": "@droid @Railway We've talked about this a ton, but @sentry is NOT just useful in prod... this is local dev, throwing an error when I try to upload photos for analysis. \n\nTossed the Sentry error into Droid, it hit the MCP and pulled down all the context from Sentry. Fix = One-shotted. https://t.co/qkLp92WBHd",
+    "url": "https://x.com/Codydearkland/status/2020699028166705169",
+    "timestamp": "2026-02-09T03:19:25.000Z",
+    "metadata": {
+      "conversation_id": "2020699028166705169",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020698583801143575",
+    "source": "twitter",
+    "author": "Codydearkland",
+    "content": "@stolinski @droid It's pretty slick overall. Very big fan of how they've built it out... plus... I get strong R2-D2 vibes. \n\nPlus they had fast mode available so... that was necessary LOL",
+    "url": "https://x.com/Codydearkland/status/2020698583801143575",
+    "timestamp": "2026-02-09T03:17:39.000Z",
+    "metadata": {
+      "conversation_id": "2020698583801143575",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020694595152281781",
+    "source": "twitter",
+    "author": "stolinski",
+    "content": "@Codydearkland @droid I haven't tried Droid yet. Will check.",
+    "url": "https://x.com/stolinski/status/2020694595152281781",
+    "timestamp": "2026-02-09T03:01:48.000Z",
+    "metadata": {
+      "conversation_id": "2020694595152281781",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020690884627755033",
+    "source": "twitter",
+    "author": "Codydearkland",
+    "content": "@droid Someones going to say \"Oh that was a small change\" - I'm really just looking at the comparison of similar actions between the 2. \n\nAnother one, broader set of changes. Tasks fly by real quick. \n\nThrowing the server up on @Railway now. Preparing for Testflight. https://t.co/lkgzX4JFkI",
+    "url": "https://x.com/Codydearkland/status/2020690884627755033",
+    "timestamp": "2026-02-09T02:47:04.000Z",
+    "metadata": {
+      "conversation_id": "2020690884627755033",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020687175508234535",
+    "source": "twitter",
+    "author": "Codydearkland",
+    "content": "There's a lot to say around the capabilities of the different agent harnesses right now. \n\nI love what Anthropic built in Claude Code, but using @droid and Opus 4.6 on Fast mode is a whole different experience entirely. \n\nNot sped up at all. Droid cooks Claude Code speed. https://t.co/eIKivr4P3O",
+    "url": "https://x.com/Codydearkland/status/2020687175508234535",
+    "timestamp": "2026-02-09T02:32:19.000Z",
+    "metadata": {
+      "conversation_id": "2020687175508234535",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020685985521299507",
+    "source": "twitter",
+    "author": "haritssr",
+    "content": "@FrancoE114696 @EnoReyes @droid Is 94% context left or used?",
+    "url": "https://x.com/haritssr/status/2020685985521299507",
+    "timestamp": "2026-02-09T02:27:36.000Z",
+    "metadata": {
+      "conversation_id": "2020685985521299507",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020683366316867911",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@OpenAIDevs Try @Droid",
+    "url": "https://x.com/GitMaxd/status/2020683366316867911",
+    "timestamp": "2026-02-09T02:17:11.000Z",
+    "metadata": {
+      "conversation_id": "2020683366316867911",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020671851421192480",
+    "source": "twitter",
+    "author": "helderbuilds",
+    "content": "@FrancoE114696 @droid The context management in those tools is impressive!",
+    "url": "https://x.com/helderbuilds/status/2020671851421192480",
+    "timestamp": "2026-02-09T01:31:26.000Z",
+    "metadata": {
+      "conversation_id": "2020671851421192480",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020651773514703272",
     "source": "twitter",
     "author": "matanSF",
