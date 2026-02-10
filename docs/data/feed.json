@@ -1,5 +1,48 @@
 [
   {
+    "id": "github_issue_641",
+    "source": "github",
+    "author": "igoor-asso",
+    "content": "[Issue] I've received confirmation that the specification has been approved and edited.\n\nIn Droid BYOK, on Windows 11 inside VSCode, with GLM-4.7, when I'm in spec mode and Droid creates a plan, I choose to edit manually in VSCode. As soon as I start editing, I get \n\nI've received confirmation that the specification has been approved and edited.\n\neven if I didn't even save the newly created file. \nSometimes it actually starts developing without me accepting any modification.",
+    "url": "https://github.com/Factory-AI/factory/issues/641",
+    "timestamp": "2026-02-10T16:38:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 641
+    }
+  },
+  {
+    "id": "twitter_2021255606724932041",
+    "source": "twitter",
+    "author": "diaz_662",
+    "content": "@joshuaday @FactoryAI @supabase @Tesla @Starlink Sounds like you’ll be out of a job soon.",
+    "url": "https://x.com/diaz_662/status/2021255606724932041",
+    "timestamp": "2026-02-10T16:11:04.000Z",
+    "metadata": {
+      "conversation_id": "2021255606724932041",
+      "likes": 0,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021255393650016554",
+    "source": "twitter",
+    "author": "KAB656",
+    "content": "@joshuaday @FactoryAI @supabase @Tesla @Starlink Neither done well",
+    "url": "https://x.com/KAB656/status/2021255393650016554",
+    "timestamp": "2026-02-10T16:10:13.000Z",
+    "metadata": {
+      "conversation_id": "2021255393650016554",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021252869119177076",
     "source": "twitter",
     "author": "geo_anima",
