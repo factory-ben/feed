@@ -1,5 +1,33 @@
 [
   {
+    "id": "reddit_1r1bepg",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.57.10 Released - `/skills` UX overhaul and more\n\n## New features\n\n* **`/skills` UX overhaul** - Tabbed layout with pagination and a dedicated detail view for browsing and importing skills\n* **Terminal tab titles** - Terminal tab now displays the session name so you can identify Droid sessions across multiple tabs\n* **`droid update` command** - New command to manually update the CLI, plus ability to disable autoupdate via `/settings`\n* **Session end hooks** - Hooks now fire when running `/clear` or `/new`, enabling custom cleanup workflows\n* **",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1r1bepg/factory_cli_v05710_released_skills_ux_overhaul/",
+    "timestamp": "2026-02-10T20:01:23.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2021311899413918207",
+    "source": "twitter",
+    "author": "ezDecode",
+    "content": "Exploring more design treasures from @FactoryAI—reverse engineering has never been this fun!  \n\nShoutout to @claudeai @AnthropicAI for nailing it in one shot, but I got hands-on to make it design-perfect! https://t.co/taRUssnZOa",
+    "url": "https://x.com/ezDecode/status/2021311899413918207",
+    "timestamp": "2026-02-10T19:54:45.000Z",
+    "metadata": {
+      "conversation_id": "2021311899413918207",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021306203142258927",
     "source": "twitter",
     "author": "ezDecode",
