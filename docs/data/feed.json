@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2021223386609819906",
+    "source": "twitter",
+    "author": "WKing_Jack",
+    "content": "@ahmad40167 @tristanbob @AmpCode @OpenAI @geminicli @github @Kimi_Moonshot @opencode @FactoryAI Just found out that Droid also supports ~/.agents/skills/, cool \n\nChangelog version update is out, the latest version is: v0.57.10\n\nhttps://t.co/lNePnNzPvd",
+    "url": "https://x.com/WKing_Jack/status/2021223386609819906",
+    "timestamp": "2026-02-10T14:03:02.000Z",
+    "metadata": {
+      "conversation_id": "2021223386609819906",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021217406266302544",
+    "source": "twitter",
+    "author": "ahmad40167",
+    "content": "@WKing_Jack @tristanbob @AmpCode @OpenAI @geminicli @github @Kimi_Moonshot @opencode @FactoryAI FactoryAI has skills.",
+    "url": "https://x.com/ahmad40167/status/2021217406266302544",
+    "timestamp": "2026-02-10T13:39:16.000Z",
+    "metadata": {
+      "conversation_id": "2021217406266302544",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021213295743488187",
     "source": "twitter",
     "author": "ileppane",
