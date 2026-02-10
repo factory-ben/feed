@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2021322525809291681",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "If you're using @FactoryAI @droid with CLIProxyAPI, be sure you're using `extraArgs` in your BYOK model definitions to set the adaptive thinking for Opus 4.6 - supports: low|medium|high|max\n\nExample attached... https://t.co/HMvDMxexHj",
+    "url": "https://x.com/benvargas/status/2021322525809291681",
+    "timestamp": "2026-02-10T20:36:59.000Z",
+    "metadata": {
+      "conversation_id": "2021322525809291681",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1r1bepg",
     "source": "reddit",
     "author": "bentossell",
