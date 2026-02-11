@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_2021608143403241796",
+    "source": "twitter",
+    "author": "Berezin12345",
+    "content": "@kyleanthony @FactoryAI ha, the droid team was smart enough 😄 great stuff as always",
+    "url": "https://x.com/Berezin12345/status/2021608143403241796",
+    "timestamp": "2026-02-11T15:31:55.000Z",
+    "metadata": {
+      "conversation_id": "2021608143403241796",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021607119695323421",
+    "source": "twitter",
+    "author": "theajdesign",
+    "content": "@kyleanthony @FactoryAI Distinct",
+    "url": "https://x.com/theajdesign/status/2021607119695323421",
+    "timestamp": "2026-02-11T15:27:51.000Z",
+    "metadata": {
+      "conversation_id": "2021607119695323421",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021600625293684986",
+    "source": "twitter",
+    "author": "kyleanthony",
+    "content": "@Beast_speaks @FactoryAI 🫡🫡🫡",
+    "url": "https://x.com/kyleanthony/status/2021600625293684986",
+    "timestamp": "2026-02-11T15:02:03.000Z",
+    "metadata": {
+      "conversation_id": "2021600625293684986",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021600603147780207",
+    "source": "twitter",
+    "author": "kyleanthony",
+    "content": "@grffeai @FactoryAI Thank you!",
+    "url": "https://x.com/kyleanthony/status/2021600603147780207",
+    "timestamp": "2026-02-11T15:01:57.000Z",
+    "metadata": {
+      "conversation_id": "2021600603147780207",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021599764266057983",
+    "source": "twitter",
+    "author": "Beast_speaks",
+    "content": "@kyleanthony @FactoryAI Looks cool",
+    "url": "https://x.com/Beast_speaks/status/2021599764266057983",
+    "timestamp": "2026-02-11T14:58:37.000Z",
+    "metadata": {
+      "conversation_id": "2021599764266057983",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021598325577756677",
+    "source": "twitter",
+    "author": "grffeai",
+    "content": "@kyleanthony @FactoryAI so nice",
+    "url": "https://x.com/grffeai/status/2021598325577756677",
+    "timestamp": "2026-02-11T14:52:54.000Z",
+    "metadata": {
+      "conversation_id": "2021598325577756677",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021598168056496628",
+    "source": "twitter",
+    "author": "kyleanthony",
+    "content": "@iamnotsrc @FactoryAI Thanks man 🫡",
+    "url": "https://x.com/kyleanthony/status/2021598168056496628",
+    "timestamp": "2026-02-11T14:52:17.000Z",
+    "metadata": {
+      "conversation_id": "2021598168056496628",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021597471869181975",
+    "source": "twitter",
+    "author": "iamnotsrc",
+    "content": "@kyleanthony @FactoryAI this is awesome",
+    "url": "https://x.com/iamnotsrc/status/2021597471869181975",
+    "timestamp": "2026-02-11T14:49:31.000Z",
+    "metadata": {
+      "conversation_id": "2021597471869181975",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021596247790964878",
+    "source": "twitter",
+    "author": "AI_chemyst",
+    "content": "Is there a \"slow mode\" or is this just \"Ultrathink\" in prompt. I think it's worth having modest that maximise quality accuracy and verification internal steps to validate. Sometimes I'm happy to wait for 10mins (plus progress updates) if it's high stakes work. Fast is good, fast but correct is better",
+    "url": "https://x.com/AI_chemyst/status/2021596247790964878",
+    "timestamp": "2026-02-11T14:44:39.000Z",
+    "metadata": {
+      "conversation_id": "2021596247790964878",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021593923768955336",
+    "source": "twitter",
+    "author": "cloudxdev",
+    "content": "You can test @Zai_org GLM-5(coding plan) with @FactoryAI droid https://t.co/Crgv9UN5I1",
+    "url": "https://x.com/cloudxdev/status/2021593923768955336",
+    "timestamp": "2026-02-11T14:35:25.000Z",
+    "metadata": {
+      "conversation_id": "2021593923768955336",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021593183898009841",
     "source": "twitter",
     "author": "kyleanthony",
