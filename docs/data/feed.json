@@ -30496,6 +30496,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_588",
+    "source": "github",
+    "author": "rstander7777",
+    "content": "[Discussion] Option to disable TodoWrite as it is interfering with my own tasks lists\n\nHi,\r\n\r\nI need a way to disable ALL built in tool calls even TodoWrite. \r\n\r\nThe TodoWrite is interfering with my local file based task list. The LLMs uses your TodoWrite tool and then does not update my task list.",
+    "url": "https://github.com/Factory-AI/factory/discussions/588",
+    "timestamp": "2026-01-14T19:09:16Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 588
+    }
+  },
+  {
     "id": "twitter_2011512018822746116",
     "source": "twitter",
     "author": "laurenmhreeder",
