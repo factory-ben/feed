@@ -30816,6 +30816,19 @@
     "category": "other"
   },
   {
+    "id": "reddit_1qdn3k3",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.49.0 Released - CLI Axiom skill\n\n## New features\n\n* **CLI Axiom skill** - New skill for querying CLI metrics and logs with relevant datasets and fields\n\n## Bug fixes\n\n* **iTerm scrollback clearing** - Fixed scrollback clearing for iTerm users with \"Disable E3 scrollback clearing\" preference enabled\n* **Memory leak fix** - Fixed memory leak by cleaning up Performance API entries and hinting Bun GC\n* **Session title generation** - Fixed session title generation for empty strings\n* **Warmup requests** - Warmup requests no longer c",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qdn3k3/factory_cli_v0490_released_cli_axiom_skill/",
+    "timestamp": "2026-01-15T15:49:48.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2011821917162938718",
     "source": "twitter",
     "author": "theplgeek",
