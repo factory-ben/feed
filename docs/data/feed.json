@@ -64,6 +64,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2021822960395305211",
+    "source": "twitter",
+    "author": "brandon_galang",
+    "content": "@zeeg I like @droid a lot if I'm not directly in Claude Code or Codex personally. They have had a lot of benchmarks showing their incrementally superior performance over the first party harnesses.",
+    "url": "https://x.com/brandon_galang/status/2021822960395305211",
+    "timestamp": "2026-02-12T05:45:32.000Z",
+    "metadata": {
+      "conversation_id": "2021822960395305211",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021822736449122523",
     "source": "twitter",
     "author": "RayScript",
@@ -94,6 +109,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2021820689716576534",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@theo Try @droid",
+    "url": "https://x.com/delaanthonio/status/2021820689716576534",
+    "timestamp": "2026-02-12T05:36:30.000Z",
+    "metadata": {
+      "conversation_id": "2021820689716576534",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2021816354236690653",
@@ -128,6 +158,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2021814427084107866",
+    "source": "twitter",
+    "author": "kshvbgde",
+    "content": "@JoelDeTeves @droid droid is amazing, been using it for the last few weeks... built an iOS app from scratch just by using it!",
+    "url": "https://x.com/kshvbgde/status/2021814427084107866",
+    "timestamp": "2026-02-12T05:11:37.000Z",
+    "metadata": {
+      "conversation_id": "2021814427084107866",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021811347860992301",
     "source": "twitter",
     "author": "Alokvats28",
@@ -142,6 +187,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2021811195884478858",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "Me but with @droid",
+    "url": "https://x.com/JoelDeTeves/status/2021811195884478858",
+    "timestamp": "2026-02-12T04:58:47.000Z",
+    "metadata": {
+      "conversation_id": "2021811195884478858",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2021789744569455098",
