@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2021835689445535827",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "When is GLM 5 coming to @FactoryAI https://t.co/0s5Hw3hbMh",
+    "url": "https://x.com/launchaddict/status/2021835689445535827",
+    "timestamp": "2026-02-12T06:36:06.000Z",
+    "metadata": {
+      "conversation_id": "2021835689445535827",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021829988354601346",
     "source": "twitter",
     "author": "Justo_LLC",
@@ -30342,6 +30357,19 @@
       "number": 594
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_594",
+    "source": "github",
+    "author": "kaan-escober",
+    "content": "[Issue] [Feature] Provide a way to install without bun (with npm)\n\nHi, so Droid is great and is very precise with tool calls but I'm unable to run it on termux because its based on bun, and using Proot the low level system call emulation(bun's low level api calls) cause bottleneck which is why I'm not using opencode either. would be great if you could provide a package that runs using node, like Claude Code and most of other agents provide.\n\nIt will fix:\n1. All the bun related issues\n2. Android iserbase (via Termux)\n3. Instantly accessible to thousand of Termux",
+    "url": "https://github.com/Factory-AI/factory/issues/594",
+    "timestamp": "2026-01-15T17:31:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 594
+    }
   },
   {
     "id": "twitter_2011852880530325507",
