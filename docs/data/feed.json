@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2022388617025564712",
+    "source": "twitter",
+    "author": "nathanwchan",
+    "content": "even opening Xcode is a dying paradigm and workflow. your agents should be talking to xcode directly via CLI. every day there is less and less reason to even opening Xcode (we are not 100% there but i think very very close).\n\ni would try just being as close to 100% in the Codex Mac app (or similar agent orchestrator app) and see how far you can get without opening Xcode. I think you might be surprised.\n\nMy guess is many in xcode are simply clinging to the old patterns and habits of being in that IDE. but clearly if you are doing that, you are just going to be far less productive than those who delegate those Xcode/IDE manual tasks to an agent.",
+    "url": "https://x.com/nathanwchan/status/2022388617025564712",
+    "timestamp": "2026-02-13T19:13:15.000Z",
+    "metadata": {
+      "conversation_id": "2022388617025564712",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022387791326298377",
+    "source": "twitter",
+    "author": "vfnuness",
+    "content": "I believe it's not the use of a pirated version of Xcode, but I agree with you that the iOS community is well behind when it comes to AI agent software, the idea of ​​@parsaa_ai is not to be another IDE but rather a complete Xcode itself, the classic sidebar app, having something that integrates with Xcode, making this connection with AI and Xcode more fluid and speeds up the development flow. As an iOS developer, I also miss having a specialized and non-generic tool on the market to use in my day-to-day development. I've tested both the cursor, vscode and CLI and none of them delivered a really productive development experience.",
+    "url": "https://x.com/vfnuness/status/2022387791326298377",
+    "timestamp": "2026-02-13T19:09:58.000Z",
+    "metadata": {
+      "conversation_id": "2022387791326298377",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022386028510957759",
+    "source": "twitter",
+    "author": "nathanwchan",
+    "content": "appreciate it, but honest opinion: Cursor for Xcode is going in the completely wrong direction. I think you may do well because iOS devs may be the dev community that is the farthest behind and slowest adopters for where this is all going, but building Cursor for Xcode is building for the past.\n\nsaid more simply: a cracked iOS dev using Cursor for Xcode will be far less productive than a cracked iOS dev using agent orchestrator apps ~> wherever these tools are headed. very very difficult to pivot Xcode usage toward that direction.",
+    "url": "https://x.com/nathanwchan/status/2022386028510957759",
+    "timestamp": "2026-02-13T19:02:57.000Z",
+    "metadata": {
+      "conversation_id": "2022386028510957759",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022384560441561486",
+    "source": "twitter",
+    "author": "vfnuness",
+    "content": "@nathanwchan @alexcodes_ai @FactoryAI If you want to check out @parsaa_ai, it is also an AI agent focused on iOS developers (Cursor for Xcode)",
+    "url": "https://x.com/vfnuness/status/2022384560441561486",
+    "timestamp": "2026-02-13T18:57:07.000Z",
+    "metadata": {
+      "conversation_id": "2022384560441561486",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1r3vike",
     "source": "reddit",
     "author": "RaiseRecent5881",
