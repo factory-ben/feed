@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2022230160167367130",
+    "source": "twitter",
+    "author": "JudeTejada2",
+    "content": "@moinulmoin @droid @OpenAI I'm using it on opencode, It's been great overall",
+    "url": "https://x.com/JudeTejada2/status/2022230160167367130",
+    "timestamp": "2026-02-13T08:43:36.000Z",
+    "metadata": {
+      "conversation_id": "2022230160167367130",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022174748122464460",
     "source": "twitter",
     "author": "towrywang",
