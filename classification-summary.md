@@ -1,6 +1,6 @@
 # Classification Summary
 
-**Date:** 2026-02-13 10:29 UTC
+**Date:** 2026-02-13 11:59 UTC
 
 **Total items classified:** 1
 
@@ -10,6 +10,6 @@
 |----------|-------|------------|
 | mention  | 0     | 0%         |
 | bug      | 0     | 0%         |
-| love     | 1     | 100%       |
-| question | 0     | 0%         |
+| love     | 0     | 0%         |
+| question | 1     | 100%       |
 | other    | 0     | 0%         |
