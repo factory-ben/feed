@@ -1,5 +1,78 @@
 [
   {
+    "id": "reddit_1r3ucrn",
+    "source": "reddit",
+    "author": "johannes_bertens",
+    "content": "Raspberry PI 4 support dropped?\n\nRunning droid now gives:\n\n```bash\n❯ droid\nIllegal instruction\n```\n\nVersion 0.57.5 still works:\n`https://downloads.factory.ai/factory-cli/releases/0.57.5/linux/arm64/droid`\n\nBut obviously it's sad if that's (one of?) the last versions!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1r3ucrn/raspberry_pi_4_support_dropped/",
+    "timestamp": "2026-02-13T16:50:39.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2022350627439817012",
+    "source": "twitter",
+    "author": "slobkebap",
+    "content": "@jshchnz Love how @FactoryAI droid had this for ages",
+    "url": "https://x.com/slobkebap/status/2022350627439817012",
+    "timestamp": "2026-02-13T16:42:17.000Z",
+    "metadata": {
+      "conversation_id": "2022350627439817012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022350466034864315",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@sqs @johnrtian @Kulshekhar @AmpCode @FactoryAI I ended up just closing amp and moving over to codex cli for the longer/larger tasks.",
+    "url": "https://x.com/benvargas/status/2022350466034864315",
+    "timestamp": "2026-02-13T16:41:39.000Z",
+    "metadata": {
+      "conversation_id": "2022350466034864315",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022350279254110557",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "I was using amp yesterday and on longer/larger tasks I was wishing Amp had auto compaction. I don't want to sit there man in the middle babysitting context, and don't always want to jump through hoops of spawning subagents to keep main context window small enough for a long run.\n\nRight now I feel like with amp, I can't walk away or do an overly long agentic task, because I need to be there to manually handoff... how are you guys handling this internally? Any tips on performing longer agentic runs without auto compaction available?",
+    "url": "https://x.com/benvargas/status/2022350279254110557",
+    "timestamp": "2026-02-13T16:40:54.000Z",
+    "metadata": {
+      "conversation_id": "2022350279254110557",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022346254173479085",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "Literally unstoppable @FactoryAI https://t.co/PyvYSswrZ1",
+    "url": "https://x.com/MitchBernstein/status/2022346254173479085",
+    "timestamp": "2026-02-13T16:24:55.000Z",
+    "metadata": {
+      "conversation_id": "2022346254173479085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022310593470845187",
     "source": "twitter",
     "author": "ronneevibe",
