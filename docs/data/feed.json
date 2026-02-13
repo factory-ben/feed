@@ -15086,6 +15086,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1qov9hn",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.56.0 Released - ACP daemon mode and more\n\n## New features\n\n* **ACP daemon mode** - New daemon mode for Agent Control Protocol enabling persistent background sessions with improved session loading\n* **Lazy session loading** - Sessions now load messages lazily for faster startup when resuming large sessions\n* **Dynamic default settings** - Settings now support dynamic defaults for better configuration flexibility\n\n## Bug fixes\n\n* **MCP tool schema isolation** - Broken tool schemas in one MCP server no longer affect other MCP servers\n* **S",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qov9hn/factory_cli_v0560_released_acp_daemon_mode_and/",
+    "timestamp": "2026-01-28T00:02:55.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2016300095747047641",
     "source": "twitter",
     "author": "MysticEru",
