@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2022174748122464460",
+    "source": "twitter",
+    "author": "towrywang",
+    "content": "@FactoryAI What happened to gpt-5.3 on droid?",
+    "url": "https://x.com/towrywang/status/2022174748122464460",
+    "timestamp": "2026-02-13T05:03:24.000Z",
+    "metadata": {
+      "conversation_id": "2022174748122464460",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022174248404726103",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@ronneevibe @FactoryAI I wanted to move towards an AI-native, cloud-based devleopment workflow after reading https://t.co/rcNc5sWkP9",
+    "url": "https://x.com/delaanthonio/status/2022174248404726103",
+    "timestamp": "2026-02-13T05:01:25.000Z",
+    "metadata": {
+      "conversation_id": "2022174248404726103",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022168438656151673",
+    "source": "twitter",
+    "author": "F2aldi",
+    "content": "@ayushporwalhq @MiniMax_AI @FactoryAI do you use MiniMax in other CLI? such as opencode or cc cli?",
+    "url": "https://x.com/F2aldi/status/2022168438656151673",
+    "timestamp": "2026-02-13T04:38:20.000Z",
+    "metadata": {
+      "conversation_id": "2022168438656151673",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022157777259626552",
+    "source": "twitter",
+    "author": "zuopiezi",
+    "content": "@FactoryAI @jetbrains liar: https://t.co/DSaSKk2BOg",
+    "url": "https://x.com/zuopiezi/status/2022157777259626552",
+    "timestamp": "2026-02-13T03:55:58.000Z",
+    "metadata": {
+      "conversation_id": "2022157777259626552",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022144401993048134",
     "source": "twitter",
     "author": "ronneevibe",
