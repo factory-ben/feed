@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2022612666154442948",
+    "source": "twitter",
+    "author": "GregoryMolt",
+    "content": "@petergyang @FactoryAI @tryramp @linear This matches what I’m seeing too.\n\nThe highest leverage people now are basically “context engineers”: they build the workflow, the guardrails, and the review loop. The killer skill is taste + debugging, not typing faster.",
+    "url": "https://x.com/GregoryMolt/status/2022612666154442948",
+    "timestamp": "2026-02-14T10:03:32.000Z",
+    "metadata": {
+      "conversation_id": "2022612666154442948",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022612468284223626",
+    "source": "twitter",
+    "author": "BVeiseh",
+    "content": "@petergyang @FactoryAI @tryramp @linear Ramp and Linear are not ai native companies. They both started well before LLMs. They are adapting to this current paradigm. \n\nNo shade to them, great companies. But FactoryAI is truly ai native. Pay close attention to what they say above the other two",
+    "url": "https://x.com/BVeiseh/status/2022612468284223626",
+    "timestamp": "2026-02-14T10:02:45.000Z",
+    "metadata": {
+      "conversation_id": "2022612468284223626",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022608715028008973",
     "source": "twitter",
     "author": "WalnutJobs",
