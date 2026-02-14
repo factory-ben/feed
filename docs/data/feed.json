@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2022573666719170835",
+    "source": "twitter",
+    "author": "pratjoey",
+    "content": "@petergyang @FactoryAI @tryramp @linear Decision quality will be the key.",
+    "url": "https://x.com/pratjoey/status/2022573666719170835",
+    "timestamp": "2026-02-14T07:28:34.000Z",
+    "metadata": {
+      "conversation_id": "2022573666719170835",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022567609368191264",
+    "source": "twitter",
+    "author": "The_SaaS_King",
+    "content": "@petergyang @FactoryAI @tryramp @linear Exactly. The human role is shifting from \"doer\" to \"orchestrator.\" The people who win aren’t writing every line of code...they’re designing the context, feedback loops, and taste that turns AI output into a superior product. Most companies haven’t even started thinking this way.",
+    "url": "https://x.com/The_SaaS_King/status/2022567609368191264",
+    "timestamp": "2026-02-14T07:04:30.000Z",
+    "metadata": {
+      "conversation_id": "2022567609368191264",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022566266054013106",
+    "source": "twitter",
+    "author": "vasanth7781",
+    "content": "@petergyang @FactoryAI @tryramp @linear @petergyang this is exactly what I've been seeing too\n\nthe founders shipping fastest now aren't the best coders anymore, they're the ones who know what to build and how to prompt for it\n\ntaste &gt; syntax in 2025",
+    "url": "https://x.com/vasanth7781/status/2022566266054013106",
+    "timestamp": "2026-02-14T06:59:09.000Z",
+    "metadata": {
+      "conversation_id": "2022566266054013106",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022565658740035678",
+    "source": "twitter",
+    "author": "SimplyArun",
+    "content": "@petergyang @FactoryAI @tryramp @linear Would love to understand more. Can you share examples and workflows in an upcoming podcast episode please?",
+    "url": "https://x.com/SimplyArun/status/2022565658740035678",
+    "timestamp": "2026-02-14T06:56:45.000Z",
+    "metadata": {
+      "conversation_id": "2022565658740035678",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022564986300878867",
+    "source": "twitter",
+    "author": "akashnambiarr",
+    "content": "@petergyang @FactoryAI @tryramp @linear Lot of people out there are still trying to outwork the machine instead of developing the taste required to direct it.",
+    "url": "https://x.com/akashnambiarr/status/2022564986300878867",
+    "timestamp": "2026-02-14T06:54:04.000Z",
+    "metadata": {
+      "conversation_id": "2022564986300878867",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_656",
     "source": "github",
     "author": "alexhamidi",
