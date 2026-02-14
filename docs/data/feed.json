@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2022721869204410661",
+    "source": "twitter",
+    "author": "AlecMey25715067",
+    "content": "GPT 5.3 Codex in @FactoryAI is GOATed... wow",
+    "url": "https://x.com/AlecMey25715067/status/2022721869204410661",
+    "timestamp": "2026-02-14T17:17:28.000Z",
+    "metadata": {
+      "conversation_id": "2022721869204410661",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022721017848959125",
+    "source": "twitter",
+    "author": "petergyang",
+    "content": "@tweetycoolguy @EnoReyes @FactoryAI will link tmr",
+    "url": "https://x.com/petergyang/status/2022721017848959125",
+    "timestamp": "2026-02-14T17:14:05.000Z",
+    "metadata": {
+      "conversation_id": "2022721017848959125",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022720953604616381",
+    "source": "twitter",
+    "author": "tweetycoolguy",
+    "content": "@petergyang @EnoReyes @FactoryAI Do you have link to the skill?",
+    "url": "https://x.com/tweetycoolguy/status/2022720953604616381",
+    "timestamp": "2026-02-14T17:13:50.000Z",
+    "metadata": {
+      "conversation_id": "2022720953604616381",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022717501717569683",
+    "source": "twitter",
+    "author": "mg3z3",
+    "content": "@petergyang @FactoryAI @tryramp @linear The dirty secret: most aren't delegating to AI, they're just using Claude to write their emails faster.\n\nReal AI natives? They've already automated their entire GTM stack while everyone else debates prompt engineering.",
+    "url": "https://x.com/mg3z3/status/2022717501717569683",
+    "timestamp": "2026-02-14T17:00:07.000Z",
+    "metadata": {
+      "conversation_id": "2022717501717569683",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022697202368614707",
     "source": "twitter",
     "author": "computer_agents",
