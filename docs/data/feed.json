@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2022697202368614707",
+    "source": "twitter",
+    "author": "computer_agents",
+    "content": "@FactoryAI That's interesting! Does your team tend more towards GPT-5.3-Codex or Opus 4.6?",
+    "url": "https://x.com/computer_agents/status/2022697202368614707",
+    "timestamp": "2026-02-14T15:39:27.000Z",
+    "metadata": {
+      "conversation_id": "2022697202368614707",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022694842787352664",
+    "source": "twitter",
+    "author": "petergyang",
+    "content": "My next guest, @EnoReyes (co-founder of @FactoryAI), built this AI PM skill that blew my mind. It includes:\n\n→ Product principles and positioning\n→ What an 11-star experience looks like\n→ PRD templates and review rubrics\n→ Prioritization frameworks\n...and more\n\nIt's 700+ words and I'll admit it made me a little worried about my profession 😅\n\nSubscribe to get our interview and Eno's full skill tmr: https://t.co/Ggqaa3F11Z",
+    "url": "https://x.com/petergyang/status/2022694842787352664",
+    "timestamp": "2026-02-14T15:30:05.000Z",
+    "metadata": {
+      "conversation_id": "2022694842787352664",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022693599104709019",
+    "source": "twitter",
+    "author": "GSkrovina",
+    "content": "@petergyang @FactoryAI @tryramp @linear this",
+    "url": "https://x.com/GSkrovina/status/2022693599104709019",
+    "timestamp": "2026-02-14T15:25:08.000Z",
+    "metadata": {
+      "conversation_id": "2022693599104709019",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022691785110155707",
+    "source": "twitter",
+    "author": "orodruin24",
+    "content": "I've noticed the same shift with technical founders who treat AI agents like junior team members they're training up.\n\nWhat's the biggest mental hurdle you've seen people struggle with when trying to make this transition - is it trusting the output, or something deeper about how they structure their own work?",
+    "url": "https://x.com/orodruin24/status/2022691785110155707",
+    "timestamp": "2026-02-14T15:17:56.000Z",
+    "metadata": {
+      "conversation_id": "2022691785110155707",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022683539599462870",
     "source": "twitter",
     "author": "LucasBigandt",
