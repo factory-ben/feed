@@ -30562,7 +30562,8 @@
       "type": "issue",
       "labels": [],
       "number": 598
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2012144386004722136",
@@ -30671,7 +30672,8 @@
         "bug"
       ],
       "number": 597
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2012100211204841917",
