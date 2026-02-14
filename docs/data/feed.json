@@ -1,5 +1,168 @@
 [
   {
+    "id": "github_issue_656",
+    "source": "github",
+    "author": "alexhamidi",
+    "content": "[Issue] Droid incompatible with Grok 4 BYOK due to reasoning_effort param\n\n### Problem\nUsing BYOK with Grok 4.1 returns a 400 error: \n`Error: 400 \"Model grok-4-1-fast-reasoning does not support parameter reasoningEffort.\"`\n\nhere is the `config.json` entry that caused the error:\n```json\n{\n      \"model\": \"grok-4-1-fast-reasoning\",\n      \"id\": \"custom:Grok-4.1-0\",\n      \"index\": 0,\n      \"baseUrl\": \"https://api.x.ai/v1\",\n      \"apiKey\": \"xai-****\",\n      \"displayName\": \"Grok 4.1\",\n      \"maxOutputTokens\": 8192,\n      \"noImageSupport\": false,\n      \"provider\": \"openai\"\n }\n",
+    "url": "https://github.com/Factory-AI/factory/issues/656",
+    "timestamp": "2026-02-14T06:39:57Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 656
+    }
+  },
+  {
+    "id": "twitter_2022553550518391291",
+    "source": "twitter",
+    "author": "smcho91",
+    "content": "@petergyang @FactoryAI @tryramp @linear We should be a orchestrator to lead AI agents efficiently and correctly",
+    "url": "https://x.com/smcho91/status/2022553550518391291",
+    "timestamp": "2026-02-14T06:08:38.000Z",
+    "metadata": {
+      "conversation_id": "2022553550518391291",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022553096396935495",
+    "source": "twitter",
+    "author": "bankrbot",
+    "content": "deployed Readiness contract address is 0xF88060985C0cDf38520F811B3aF51c3a5aCD4bA3\n\nview token: https://t.co/nq82SdQq2i\n\nAs the deployer, you are the primary beneficiary (57% of fees), ensuring they aren't directed elsewhere. The pool is locked and fees will accrue as trading begins.",
+    "url": "https://x.com/bankrbot/status/2022553096396935495",
+    "timestamp": "2026-02-14T06:06:50.000Z",
+    "metadata": {
+      "conversation_id": "2022553096396935495",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022551634803597333",
+    "source": "twitter",
+    "author": "shay_yawn",
+    "content": "The \"onboard and delegate\" framing is exactly right.\n\nI've been building internal tools for GTM teams and the biggest shift is that product thinking now matters in every role. Sales ops people are basically PMs now, scoping what agents should handle vs what humans should own.\n\nThe companies that get this will operate at 2x the speed with half the headcount.",
+    "url": "https://x.com/shay_yawn/status/2022551634803597333",
+    "timestamp": "2026-02-14T06:01:01.000Z",
+    "metadata": {
+      "conversation_id": "2022551634803597333",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022551022976274487",
+    "source": "twitter",
+    "author": "sunnypause",
+    "content": "@MitchBernstein @FactoryAI Mm2.5 is forgetful… u gonna trust it?",
+    "url": "https://x.com/sunnypause/status/2022551022976274487",
+    "timestamp": "2026-02-14T05:58:35.000Z",
+    "metadata": {
+      "conversation_id": "2022551022976274487",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022550550047506730",
+    "source": "twitter",
+    "author": "_buggles",
+    "content": "@petergyang @FactoryAI @tryramp @linear Direct design, iterate in code, self-driving software?",
+    "url": "https://x.com/_buggles/status/2022550550047506730",
+    "timestamp": "2026-02-14T05:56:42.000Z",
+    "metadata": {
+      "conversation_id": "2022550550047506730",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022549926484283640",
+    "source": "twitter",
+    "author": "abakermi",
+    "content": "lol yeah this is exactly what i've been doing with my side projects\n\nthe shift from \"writing code\" to \"directing AI to write code\" hit me hard last year\n\nnow i spend more time setting up the right prompts and feedback loops than actually typing syntax\n\nwild how most companies are still hiring like it's 2019 though 🤷♂️",
+    "url": "https://x.com/abakermi/status/2022549926484283640",
+    "timestamp": "2026-02-14T05:54:14.000Z",
+    "metadata": {
+      "conversation_id": "2022549926484283640",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022548834354905161",
+    "source": "twitter",
+    "author": "Ganjeez",
+    "content": "@petergyang @FactoryAI @tryramp @linear Very well put. How one operates when they have this context is very different from using AI as an assistant for how people work today.",
+    "url": "https://x.com/Ganjeez/status/2022548834354905161",
+    "timestamp": "2026-02-14T05:49:53.000Z",
+    "metadata": {
+      "conversation_id": "2022548834354905161",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022548774477062356",
+    "source": "twitter",
+    "author": "_hey_chethan",
+    "content": "This is wild – real AI-native companies operate with completely different DNA. At places like @FactoryAI and @Linear, every role from eng to sales thinks in terms of delegating to AI. Not using tools. Delegating actual work. That's the model that wins. #AI #Startups",
+    "url": "https://x.com/_hey_chethan/status/2022548774477062356",
+    "timestamp": "2026-02-14T05:49:39.000Z",
+    "metadata": {
+      "conversation_id": "2022548774477062356",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022548300432351492",
+    "source": "twitter",
+    "author": "nurullah_kuus",
+    "content": "@petergyang @FactoryAI @tryramp @linear Are you telling us that they built factory ai with ai agent swarms 👀",
+    "url": "https://x.com/nurullah_kuus/status/2022548300432351492",
+    "timestamp": "2026-02-14T05:47:46.000Z",
+    "metadata": {
+      "conversation_id": "2022548300432351492",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022546659087904995",
+    "source": "twitter",
+    "author": "grankin",
+    "content": "@petergyang @FactoryAI @tryramp @linear It’s not just only tech workers though. Most of the world will have to either learn to manage AI agents in some way, or become replaced by them",
+    "url": "https://x.com/grankin/status/2022546659087904995",
+    "timestamp": "2026-02-14T05:41:15.000Z",
+    "metadata": {
+      "conversation_id": "2022546659087904995",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022545125277045175",
     "source": "twitter",
     "author": "PRCrecluse674",
