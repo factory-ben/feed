@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2022458505542930852",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "@matanSF @launchaddict @FactoryAI https://t.co/IHK6YZglPm",
+    "url": "https://x.com/MitchBernstein/status/2022458505542930852",
+    "timestamp": "2026-02-13T23:50:57.000Z",
+    "metadata": {
+      "conversation_id": "2022458505542930852",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022457426675667222",
     "source": "twitter",
     "author": "matanSF",
@@ -30480,6 +30495,19 @@
       "number": 596
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_596",
+    "source": "github",
+    "author": "khoafullstack",
+    "content": "[Discussion] How to check or see the MCP Call Details\n\n<img width=\"629\" height=\"202\" alt=\"image\" src=\"https://github.com/user-attachments/assets/10e4b6a1-f135-4bd3-8154-1f8e317c8150\" />\r\n\r\nIn my Droid , i can not see the SQL script to run on my own database or details of MCP call.",
+    "url": "https://github.com/Factory-AI/factory/discussions/596",
+    "timestamp": "2026-01-16T08:22:59Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 596
+    }
   },
   {
     "id": "twitter_2012071541908086839",
