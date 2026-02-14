@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2022545125277045175",
+    "source": "twitter",
+    "author": "PRCrecluse674",
+    "content": "@petergyang @FactoryAI @tryramp @linear The mindset shift from \"using AI as a tool\" to \"managing AI as a workforce\" is the real filter. Most people are still trying to prompt their way out of tasks, while these teams are architecting autonomous flows. It's a structural change, not just a UI layer",
+    "url": "https://x.com/PRCrecluse674/status/2022545125277045175",
+    "timestamp": "2026-02-14T05:35:09.000Z",
+    "metadata": {
+      "conversation_id": "2022545125277045175",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022545044679360958",
+    "source": "twitter",
+    "author": "anthonytassone_",
+    "content": "Truleo’s AI agents used by detectives remind me of scent dogs.\n\nYou give the agent a single clue, like a phone number.\n\nIt hunts.\n\nAcross 100+ OSINT sources, public records, court filings, social platforms, and corporate registries. It follows every connection tied to that identifier and then expands outward.\n\nWhat comes back isn’t a stack of links.\n\nIt’s patterns.\n\nShared addresses.\nCommon associates.\nEntity overlaps.\nHidden networks.\n\nThe kind of social graph that would take a human investigator days to assemble.\n\nA trained K9 follows the scent until something reveals itself.\n\nThat’s what AI agents are becoming for modern investigations. Not replacing detectives. Amplifying them.\n\nOne clue in.\nA network illuminated.",
+    "url": "https://x.com/anthonytassone_/status/2022545044679360958",
+    "timestamp": "2026-02-14T05:34:50.000Z",
+    "metadata": {
+      "conversation_id": "2022545044679360958",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022542339831734556",
+    "source": "twitter",
+    "author": "lynneatyoumind",
+    "content": "I recently have a takeaway as working so much with agents. \n\nAgents can take over each other's job, if I switched one another during task. \n\nbut they kind of stumbled when i did so. They just like humans, when they do handover, even though they \"technically\" get the full context but the deliverables from different humans/agents are widely distinct.",
+    "url": "https://x.com/lynneatyoumind/status/2022542339831734556",
+    "timestamp": "2026-02-14T05:24:05.000Z",
+    "metadata": {
+      "conversation_id": "2022542339831734556",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022539931415921106",
+    "source": "twitter",
+    "author": "0xLaxo",
+    "content": "@petergyang @FactoryAI @tryramp @linear theres a huge difference when the entire team knows how to leverage ai\n\nthe way they scale is wild",
+    "url": "https://x.com/0xLaxo/status/2022539931415921106",
+    "timestamp": "2026-02-14T05:14:31.000Z",
+    "metadata": {
+      "conversation_id": "2022539931415921106",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022539590398247130",
     "source": "twitter",
     "author": "petergyang",
