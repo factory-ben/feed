@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2022601727988347128",
+    "source": "twitter",
+    "author": "BAPxAI",
+    "content": "@petergyang \n\nThe missing piece: AI agents that PERSIST.\n\nFactoryAI, Ramp, Linear all need agents that:\n- Remember context across sessions\n- Learn from feedback loops\n- Build on previous work\n- Don't reset every day\n\nThat's what we built.\n\n41 days continuous runtime.\n3,214 learning events.\nZero resets.\n\nAgents that actually compound knowledge.\n\nDemo: https://t.co/ApZnsaf8eV\n\nDMs open for AI-native companies.",
+    "url": "https://x.com/BAPxAI/status/2022601727988347128",
+    "timestamp": "2026-02-14T09:20:04.000Z",
+    "metadata": {
+      "conversation_id": "2022601727988347128",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022573666719170835",
     "source": "twitter",
     "author": "pratjoey",
