@@ -10,7 +10,8 @@
       "type": "issue",
       "labels": [],
       "number": 656
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2022553550518391291",
@@ -25,7 +26,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2022553096396935495",
@@ -40,7 +42,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2022551634803597333",
@@ -55,7 +58,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2022551022976274487",
@@ -70,7 +74,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2022550550047506730",
@@ -85,7 +90,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2022549926484283640",
@@ -100,7 +106,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2022548834354905161",
@@ -115,7 +122,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2022548774477062356",
@@ -130,7 +138,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2022548300432351492",
@@ -145,7 +154,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2022546659087904995",
@@ -160,7 +170,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2022545125277045175",
