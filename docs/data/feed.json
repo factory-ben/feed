@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2023065768087232725",
+    "source": "twitter",
+    "author": "rv_RAJvishnu",
+    "content": "@petergyang @EnoReyes @FactoryAI the PRD templates and review rubrics alone would save hours every week. most PMs I know are still winging it with Google Docs. is this open source or part of Factory's product?",
+    "url": "https://x.com/rv_RAJvishnu/status/2023065768087232725",
+    "timestamp": "2026-02-15T16:04:00.000Z",
+    "metadata": {
+      "conversation_id": "2023065768087232725",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023065162685763943",
+    "source": "twitter",
+    "author": "LFuckingG",
+    "content": "@petergyang @EnoReyes @FactoryAI @meetgranola the pm skill evolution is wild. went from writing docs to training models that write docs. factory ai cracked the personalization piece - not generic prd templates but ones trained on your company's style and principles",
+    "url": "https://x.com/LFuckingG/status/2023065162685763943",
+    "timestamp": "2026-02-15T16:01:36.000Z",
+    "metadata": {
+      "conversation_id": "2023065162685763943",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023059957919498704",
     "source": "twitter",
     "author": "petergyang",
