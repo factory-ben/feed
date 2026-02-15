@@ -1,5 +1,8 @@
 # Social Feed Aggregator
 
+[![Run in Smithery](https://smithery.ai/badge/skills/factory-ben)](https://smithery.ai/skills?ns=factory-ben&utm_source=github&utm_medium=badge)
+
+
 Built with [Droid](https://factory.ai)
 
 A private social media feed aggregator for tracking mentions across Twitter, Reddit, and GitHub. Runs on GitHub Pages with automated scraping via GitHub Actions.
