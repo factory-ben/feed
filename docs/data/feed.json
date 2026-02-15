@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2023057752197660871",
+    "source": "twitter",
+    "author": "0xLaxo",
+    "content": "@petergyang @EnoReyes @FactoryAI @meetgranola Wait this is actually cool\n\nBro is in another league",
+    "url": "https://x.com/0xLaxo/status/2023057752197660871",
+    "timestamp": "2026-02-15T15:32:09.000Z",
+    "metadata": {
+      "conversation_id": "2023057752197660871",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023057321228943394",
+    "source": "twitter",
+    "author": "petergyang",
+    "content": "\"This PM skill has our language, ideas, and principles. It's like a fully onboarded employee.\"\n\nHere's my new episode with @enoreyes (co-founder @FactoryAI) where he shares:\n\n✅ Live demo: Building an app from a @meetgranola meeting transcript\n\n✅ His PM skill for writing PRDs, prioritizing features, and much more\n\n✅ Real talk about competing in the white hot AI coding space\n\nSome quotes from Eno:\n\n\"AI agents aren't just for engineers. Internally, our number three user is in sales.\"\n\n\"Use Opus to plan and GPT to execute. That combo outperforms either alone.\"\n\n\"Everyone in your company should have access to read the code base to ask questions.\"\n\n📌 Watch now: https://t.co/ovkjLY4D2p\n\nThanks to our sponsors:\n\n@linear: The AI agent platform for modern teams https://t.co/lI40xrrDsr\n\n@Replit: From 0 to full stack app in 2 min. https://t.co/w6kab0zMqN",
+    "url": "https://x.com/petergyang/status/2023057321228943394",
+    "timestamp": "2026-02-15T15:30:26.000Z",
+    "metadata": {
+      "conversation_id": "2023057321228943394",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023049383806193703",
     "source": "twitter",
     "author": "Matthewod11",
