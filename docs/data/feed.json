@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2023030856194171085",
+    "source": "twitter",
+    "author": "Roohi_AI",
+    "content": "@FactoryAI Going into a new era.",
+    "url": "https://x.com/Roohi_AI/status/2023030856194171085",
+    "timestamp": "2026-02-15T13:45:16.000Z",
+    "metadata": {
+      "conversation_id": "2023030856194171085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023024692354068734",
+    "source": "twitter",
+    "author": "ahmad40167",
+    "content": "@FactoryAI \"I can't seem to get the @FactoryAI subscription to work. I'm trying to add a monthly plan to my free tier, but it keeps sending a credit note since my free sub is active. not sure how to fix this. If it just asked for a direct debit transaction like claude, I would have pro sub",
+    "url": "https://x.com/ahmad40167/status/2023024692354068734",
+    "timestamp": "2026-02-15T13:20:47.000Z",
+    "metadata": {
+      "conversation_id": "2023024692354068734",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023020117198856455",
+    "source": "twitter",
+    "author": "ysu_ChatData",
+    "content": "@kieranklaassen @claudeai @OpenAI @opencode @FactoryAI @cursor_ai @geminicli Nice, the real win is one plugin surface that can run across agents. How are you handling auth and permission scoping across Claude, Codex, Cursor etc, and do you expose a consistent tool schema so workflows stay portable?",
+    "url": "https://x.com/ysu_ChatData/status/2023020117198856455",
+    "timestamp": "2026-02-15T13:02:36.000Z",
+    "metadata": {
+      "conversation_id": "2023020117198856455",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023014040482783588",
     "source": "twitter",
     "author": "Haofei_Feng",
