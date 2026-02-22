@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2025673603014864928",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@JoelDeTeves @ryancarson @FactoryAI @droid @EnoReyes @bentossell I forgot ralph though,i added it too.",
+    "url": "https://x.com/aeitroc/status/2025673603014864928",
+    "timestamp": "2026-02-22T20:46:36.000Z",
+    "metadata": {
+      "conversation_id": "2025673603014864928",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025670658441789579",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@aeitroc I’m trying to build out @ryancarson’s factory but using @FactoryAI @droid\n\nThe idea being the review and testing happens locally during implementation\n\nIdeally using @EnoReyes Product Manager skill for planning, @bentossell Ralph port for implementation and Ryan’s model via hooks",
+    "url": "https://x.com/JoelDeTeves/status/2025670658441789579",
+    "timestamp": "2026-02-22T20:34:54.000Z",
+    "metadata": {
+      "conversation_id": "2025670658441789579",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025642694563754434",
     "source": "twitter",
     "author": "pietAIdev",
