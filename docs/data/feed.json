@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2025805329527886272",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "Been CLI for 6+ months: via Claude Code, @AmpCode, and @FactoryAI.\n\nFirst time installing @GitHubCopilot CLI after the initial release. Did some quick knowledge work and had it save a report to my @inkdrop_app CLI. Very smooth.\n\nI can see this being a driver at the office.",
+    "url": "https://x.com/erd0xbc/status/2025805329527886272",
+    "timestamp": "2026-02-23T05:30:02.000Z",
+    "metadata": {
+      "conversation_id": "2025805329527886272",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025801426413183158",
+    "source": "twitter",
+    "author": "weswinder",
+    "content": "@erd0xbc @droid frfr",
+    "url": "https://x.com/weswinder/status/2025801426413183158",
+    "timestamp": "2026-02-23T05:14:32.000Z",
+    "metadata": {
+      "conversation_id": "2025801426413183158",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025799249858867690",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@weswinder @droid is good good",
+    "url": "https://x.com/erd0xbc/status/2025799249858867690",
+    "timestamp": "2026-02-23T05:05:53.000Z",
+    "metadata": {
+      "conversation_id": "2025799249858867690",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025798442623303860",
     "source": "twitter",
     "author": "TianweiShe",
