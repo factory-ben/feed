@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2025931148203860384",
+    "source": "twitter",
+    "author": "ChaosCruxFL",
+    "content": "Built an AI support system using @FactoryAI Droid CLI that triages SaaS tickets, analyzes Vercel/Railway logs, drafts friendly replies, and only alerts me when something actually hits the fan.\n4 specialized droids - an orchestrator that classifies and delegates, a KB responder for how-to questions, a log analyzer for bugs, and a code investigator that traces root cause down to the line. Monitoring stack runs 24/7 and creates its own tickets from trends before users even notice.",
+    "url": "https://x.com/ChaosCruxFL/status/2025931148203860384",
+    "timestamp": "2026-02-23T13:50:00.000Z",
+    "metadata": {
+      "conversation_id": "2025931148203860384",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025905563104956715",
     "source": "twitter",
     "author": "LucasBigandt",
