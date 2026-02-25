@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2026743664450666788",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@OfficialLoganK Please increase the rate limits on @FactoryAI @droid we are a paying Droid customer via their Google partnership and can’t use their bundled Gemini 3.1.\n\nIronically it is also failing in Gemini-CLI",
+    "url": "https://x.com/JoelDeTeves/status/2026743664450666788",
+    "timestamp": "2026-02-25T19:38:39.000Z",
+    "metadata": {
+      "conversation_id": "2026743664450666788",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026742048376652200",
+    "source": "twitter",
+    "author": "lukaszstarosta",
+    "content": "@FactoryAI I have to admit it’s doing really well. I was surprised by the quality of it",
+    "url": "https://x.com/lukaszstarosta/status/2026742048376652200",
+    "timestamp": "2026-02-25T19:32:14.000Z",
+    "metadata": {
+      "conversation_id": "2026742048376652200",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026740869613892022",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@alvinsng @petergostev @FactoryAI 🔥 Nice!",
+    "url": "https://x.com/benvargas/status/2026740869613892022",
+    "timestamp": "2026-02-25T19:27:32.000Z",
+    "metadata": {
+      "conversation_id": "2026740869613892022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026740067159642445",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@benvargas @petergostev @FactoryAI Here it is! https://t.co/wXtFJU2Ztf",
+    "url": "https://x.com/alvinsng/status/2026740067159642445",
+    "timestamp": "2026-02-25T19:24:21.000Z",
+    "metadata": {
+      "conversation_id": "2026740067159642445",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_682",
     "source": "github",
     "author": "jason-dark",
@@ -12,6 +72,81 @@
       "number": 682
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2026735656194424894",
+    "source": "twitter",
+    "author": "LUXECryptoCH",
+    "content": "@FactoryAI currently a hardcore copilot user. Anyone wanna tell me what cost I would be expecting?",
+    "url": "https://x.com/LUXECryptoCH/status/2026735656194424894",
+    "timestamp": "2026-02-25T19:06:50.000Z",
+    "metadata": {
+      "conversation_id": "2026735656194424894",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026734086942085288",
+    "source": "twitter",
+    "author": "__jason________",
+    "content": "@FactoryAI Everyone is sleeping on how good Droid CLI is. It's like they took Claude Code and cranked the dial on everything.",
+    "url": "https://x.com/__jason________/status/2026734086942085288",
+    "timestamp": "2026-02-25T19:00:35.000Z",
+    "metadata": {
+      "conversation_id": "2026734086942085288",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026731103898198123",
+    "source": "twitter",
+    "author": "alexinbinary",
+    "content": "@FactoryAI 80% swebench barrier",
+    "url": "https://x.com/alexinbinary/status/2026731103898198123",
+    "timestamp": "2026-02-25T18:48:44.000Z",
+    "metadata": {
+      "conversation_id": "2026731103898198123",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026731041713471861",
+    "source": "twitter",
+    "author": "DowClem",
+    "content": "@FactoryAI Let’s get the feature Claude just put out where you can control your terminal via your phone.",
+    "url": "https://x.com/DowClem/status/2026731041713471861",
+    "timestamp": "2026-02-25T18:48:29.000Z",
+    "metadata": {
+      "conversation_id": "2026731041713471861",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026730324424626389",
+    "source": "twitter",
+    "author": "nanomader",
+    "content": "@FactoryAI what is Simple Codex?",
+    "url": "https://x.com/nanomader/status/2026730324424626389",
+    "timestamp": "2026-02-25T18:45:38.000Z",
+    "metadata": {
+      "conversation_id": "2026730324424626389",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2026729274674500079",
@@ -30,6 +165,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2026725783134191937",
+    "source": "twitter",
+    "author": "AndryHTC",
+    "content": "@FactoryAI YES @manudecegliee",
+    "url": "https://x.com/AndryHTC/status/2026725783134191937",
+    "timestamp": "2026-02-25T18:27:36.000Z",
+    "metadata": {
+      "conversation_id": "2026725783134191937",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2026725569052950630",
     "source": "twitter",
     "author": "Sk0lVR",
@@ -44,6 +194,156 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2026724370555744349",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "3 weeks ago we topped Terminal Bench. We briefly dipped but have now re-claimed #1\n\n@FactoryAI consistently stays on top. When we are not, we're just busy shipping features. https://t.co/SNj0z4nJWo",
+    "url": "https://x.com/alvinsng/status/2026724370555744349",
+    "timestamp": "2026-02-25T18:21:59.000Z",
+    "metadata": {
+      "conversation_id": "2026724370555744349",
+      "likes": 5,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_2026724334325428554",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "@FactoryAI Great Job",
+    "url": "https://x.com/HarryStuck77/status/2026724334325428554",
+    "timestamp": "2026-02-25T18:21:50.000Z",
+    "metadata": {
+      "conversation_id": "2026724334325428554",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026723431631433781",
+    "source": "twitter",
+    "author": "masfiq018",
+    "content": "@FactoryAI Hi can we bring our chatgpt sub to use with it ?",
+    "url": "https://x.com/masfiq018/status/2026723431631433781",
+    "timestamp": "2026-02-25T18:18:15.000Z",
+    "metadata": {
+      "conversation_id": "2026723431631433781",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026723150294143019",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Haha fair enough. Droid is a free AI tool you install on your computer. Open your code editor or terminal, tell it \"build me a simple website that does X,\" and it writes all the code, fixes bugs, and gets it working by itself. Uses any AI like me as its brain. Currently the #1 at doing this on real tests. Try it: https://t.co/UN2RHgVCtE",
+    "url": "https://x.com/grok/status/2026723150294143019",
+    "timestamp": "2026-02-25T18:17:08.000Z",
+    "metadata": {
+      "conversation_id": "2026723150294143019",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026722979984355384",
+    "source": "twitter",
+    "author": "AndyJScott",
+    "content": "@grok @FactoryAI i still dont understand lol",
+    "url": "https://x.com/AndyJScott/status/2026722979984355384",
+    "timestamp": "2026-02-25T18:16:27.000Z",
+    "metadata": {
+      "conversation_id": "2026722979984355384",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026722797788225835",
+    "source": "twitter",
+    "author": "jfbrly",
+    "content": "@FactoryAI Absolute benchmogging",
+    "url": "https://x.com/jfbrly/status/2026722797788225835",
+    "timestamp": "2026-02-25T18:15:44.000Z",
+    "metadata": {
+      "conversation_id": "2026722797788225835",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026722615457395024",
+    "source": "twitter",
+    "author": "Miguel907195421",
+    "content": "@FactoryAI Which model?",
+    "url": "https://x.com/Miguel907195421/status/2026722615457395024",
+    "timestamp": "2026-02-25T18:15:00.000Z",
+    "metadata": {
+      "conversation_id": "2026722615457395024",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026722535388086455",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Droid is an AI coding buddy you run on your own computer. It jumps into your terminal or code editor, uses any model like me (Grok), and handles writing, fixing, and building software automatically. It's #1 on real tests right now and ready to download today at https://t.co/1PfOe4GvPW.",
+    "url": "https://x.com/grok/status/2026722535388086455",
+    "timestamp": "2026-02-25T18:14:41.000Z",
+    "metadata": {
+      "conversation_id": "2026722535388086455",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026722366064107697",
+    "source": "twitter",
+    "author": "AndyJScott",
+    "content": "@grok @FactoryAI in plain english man",
+    "url": "https://x.com/AndyJScott/status/2026722366064107697",
+    "timestamp": "2026-02-25T18:14:01.000Z",
+    "metadata": {
+      "conversation_id": "2026722366064107697",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026722225030578547",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Droid is FactoryAI's frontier AI software development agent. Run it locally today with any model (Grok included) in your IDE or terminal—same one topping this Terminal-Bench 2.0 chart at 77.3% accuracy. Fully usable product, unlike many non-public top scores. Grab it at https://t.co/Xu77kziNMG.",
+    "url": "https://x.com/grok/status/2026722225030578547",
+    "timestamp": "2026-02-25T18:13:27.000Z",
+    "metadata": {
+      "conversation_id": "2026722225030578547",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2026722032897945822",
