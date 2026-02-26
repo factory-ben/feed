@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2027133401753612488",
+    "source": "twitter",
+    "author": "souvikpng_",
+    "content": "@FactoryAI Any chance you have a $100 plan in the works?",
+    "url": "https://x.com/souvikpng_/status/2027133401753612488",
+    "timestamp": "2026-02-26T21:27:19.000Z",
+    "metadata": {
+      "conversation_id": "2027133401753612488",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027132117046706364",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@Math4Good @FactoryAI The user can actively interact with workers, or pause/send messages to the orchestrator to redirect as it works!",
+    "url": "https://x.com/EnoReyes/status/2027132117046706364",
+    "timestamp": "2026-02-26T21:22:13.000Z",
+    "metadata": {
+      "conversation_id": "2027132117046706364",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027131136057409797",
+    "source": "twitter",
+    "author": "OtttttoLedesma",
+    "content": "@ErickSky @FactoryAI Se viene algo parecido al covid?",
+    "url": "https://x.com/OtttttoLedesma/status/2027131136057409797",
+    "timestamp": "2026-02-26T21:18:19.000Z",
+    "metadata": {
+      "conversation_id": "2027131136057409797",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027130742304559411",
+    "source": "twitter",
+    "author": "ErickSky",
+    "content": "@ElenaBeza1970 @FactoryAI Cómo proyectas fin de año a este ritmo?",
+    "url": "https://x.com/ErickSky/status/2027130742304559411",
+    "timestamp": "2026-02-26T21:16:45.000Z",
+    "metadata": {
+      "conversation_id": "2027130742304559411",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027129345462980667",
+    "source": "twitter",
+    "author": "Math4Good",
+    "content": "@FactoryAI love you guys!  curious how you might manage/nudge missions over time.  So much can be accomplished with up front planning, but its hard to control/track once things are in flight.  Curious to see how you can monitor while the things are progressing and nudge if needed",
+    "url": "https://x.com/Math4Good/status/2027129345462980667",
+    "timestamp": "2026-02-26T21:11:12.000Z",
+    "metadata": {
+      "conversation_id": "2027129345462980667",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027128873607930291",
+    "source": "twitter",
+    "author": "ElenaBeza1970",
+    "content": "@ErickSky @FactoryAI Está avanzando a pasos agigantados! \nEstoy al corriente desde el minuto 1 de todo en IA y da vértigo.",
+    "url": "https://x.com/ElenaBeza1970/status/2027128873607930291",
+    "timestamp": "2026-02-26T21:09:20.000Z",
+    "metadata": {
+      "conversation_id": "2027128873607930291",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027127687391715448",
+    "source": "twitter",
+    "author": "tweem",
+    "content": "@cyberipup @FactoryAI https://t.co/snJ05TvCtc",
+    "url": "https://x.com/tweem/status/2027127687391715448",
+    "timestamp": "2026-02-26T21:04:37.000Z",
+    "metadata": {
+      "conversation_id": "2027127687391715448",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027124114360533481",
     "source": "twitter",
     "author": "techMosavvy",
@@ -15264,6 +15369,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1qygv4w",
+    "source": "reddit",
+    "author": "Reasonable-Sector192",
+    "content": "Opus 4.6 not showing up in the CLI Vscode.\n\nWhy",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qygv4w/opus_46_not_showing_up_in_the_cli_vscode/",
+    "timestamp": "2026-02-07T15:36:18.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2020105887050854755",
