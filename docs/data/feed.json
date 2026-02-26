@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2026927090738589824",
+    "source": "twitter",
+    "author": "igoor_org",
+    "content": "@FactoryAI Hi, since version 0.61 and up to today's latest version, in BYOK mode all calls display a \"Thinking...\" and then return a Error: 400 status code (no body). \nTried with 3 different providers: https://t.co/Vjm7zRLCTj, Groq, Cerebras, same result. Is there any breaking change?Thanks",
+    "url": "https://x.com/igoor_org/status/2026927090738589824",
+    "timestamp": "2026-02-26T07:47:31.000Z",
+    "metadata": {
+      "conversation_id": "2026927090738589824",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026917641185603940",
+    "source": "twitter",
+    "author": "ihirwart",
+    "content": "@kyleanthony @FactoryAI Always doing hard stuffs \nImpressive",
+    "url": "https://x.com/ihirwart/status/2026917641185603940",
+    "timestamp": "2026-02-26T07:09:58.000Z",
+    "metadata": {
+      "conversation_id": "2026917641185603940",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026909983506411671",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@matanSF @FactoryAI been pilled the first time i touched ChatGPT in late '22.\n\ninsane posibillities.\n\nway beyond \"software factories\".",
+    "url": "https://x.com/draslan_eth/status/2026909983506411671",
+    "timestamp": "2026-02-26T06:39:32.000Z",
+    "metadata": {
+      "conversation_id": "2026909983506411671",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2026895995171385635",
     "source": "twitter",
     "author": "DeepBlockAI",
