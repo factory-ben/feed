@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2027150734941397263",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@nurullah_kuus @FactoryAI The scale of task that takes days is quite substantial. Oftentimes the validation runtime is 75-90% of the full loop.\n\nGenerally 1 day of pure agent work seems to = 3-4 days of human+agent work.",
+    "url": "https://x.com/EnoReyes/status/2027150734941397263",
+    "timestamp": "2026-02-26T22:36:12.000Z",
+    "metadata": {
+      "conversation_id": "2027150734941397263",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027149213490913289",
+    "source": "twitter",
+    "author": "ErickSky",
+    "content": "@xMrXForce @FactoryAI Trajo de regreso la esclavitud",
+    "url": "https://x.com/ErickSky/status/2027149213490913289",
+    "timestamp": "2026-02-26T22:30:09.000Z",
+    "metadata": {
+      "conversation_id": "2027149213490913289",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027147217606267272",
+    "source": "twitter",
+    "author": "QutaibaAlhajri",
+    "content": "قاعد اجرب الميزه الجديده من @FactoryAI الي المفروض تسمح للAgents أنهم يشتغلون مده طويلة بدون تضحية بالجودة و السياق\n\nالمشروع طويل و معقد ممكن ياخذ يوم كامل من عمل الAgents المتواصل، بخليه شغال و بنام و نشوف النتيجه باجر https://t.co/Wpy56u6ubI",
+    "url": "https://x.com/QutaibaAlhajri/status/2027147217606267272",
+    "timestamp": "2026-02-26T22:22:13.000Z",
+    "metadata": {
+      "conversation_id": "2027147217606267272",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027146760016023694",
     "source": "twitter",
     "author": "QutaibaAlhajri",
