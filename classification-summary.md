@@ -1,12 +1,12 @@
 # Classification Summary
 
-- **Date**: 2026-02-26 22:35 UTC
-- **Items classified**: 5
+- **Date**: 2026-02-26 22:55 UTC
+- **Items classified**: 3
 
 | Category | Count | % |
 |----------|-------|------|
-| mention | 2 | 40.0% |
+| mention | 2 | 66.7% |
 | bug | 0 | 0.0% |
-| love | 1 | 20.0% |
-| question | 2 | 40.0% |
+| love | 1 | 33.3% |
+| question | 0 | 0.0% |
 | other | 0 | 0.0% |
