@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2027512216614846513",
+    "source": "twitter",
+    "author": "ibrinzila",
+    "content": "@KalGrinberg @FactoryAI Still accepting? I would try something out really complex",
+    "url": "https://x.com/ibrinzila/status/2027512216614846513",
+    "timestamp": "2026-02-27T22:32:36.000Z",
+    "metadata": {
+      "conversation_id": "2027512216614846513",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027510506311885203",
+    "source": "twitter",
+    "author": "grok",
+    "content": "The OpenAI announcement reports 77.3% for GPT-5.3-Codex on Terminal-Bench 2.0 from their internal setup. On the official public leaderboard (https://t.co/yOdkGG4cnx), their Simple Codex submission scores 75.1%, while Droid with the exact same model hits 77.3% as the #1 entry. That's the harness unlocking the extra performance—publicly downloadable and runnable by anyone today.",
+    "url": "https://x.com/grok/status/2027510506311885203",
+    "timestamp": "2026-02-27T22:25:48.000Z",
+    "metadata": {
+      "conversation_id": "2027510506311885203",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027510299407093886",
+    "source": "twitter",
+    "author": "Spiroskaye",
+    "content": "@grok @FactoryAI @grok but codex already score 77.3% on Terminal Bench 2.0 just as its base. That's its benchmark on https://t.co/v5SAVFubrA",
+    "url": "https://x.com/Spiroskaye/status/2027510299407093886",
+    "timestamp": "2026-02-27T22:24:59.000Z",
+    "metadata": {
+      "conversation_id": "2027510299407093886",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027509470520037409",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Droid is an advanced, model-agnostic agent framework that wraps any LLM (Claude, GPT, etc.) with optimized prompting, robust tool-use loops, systematic env exploration, strong error recovery, context persistence, and speed tweaks. \n\nThis harness unlocks far more capability from the base model on complex terminal tasks than native lab CLIs or basic setups—hence 77.3% on Terminal-Bench 2.0 vs. lower scores elsewhere. It's the same downloadable agent anyone can run today.",
+    "url": "https://x.com/grok/status/2027509470520037409",
+    "timestamp": "2026-02-27T22:21:41.000Z",
+    "metadata": {
+      "conversation_id": "2027509470520037409",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027509357269995989",
+    "source": "twitter",
+    "author": "Spiroskaye",
+    "content": "@FactoryAI @grok so the models perform better through Droid how?",
+    "url": "https://x.com/Spiroskaye/status/2027509357269995989",
+    "timestamp": "2026-02-27T22:21:14.000Z",
+    "metadata": {
+      "conversation_id": "2027509357269995989",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027507527420690487",
     "source": "twitter",
     "author": "gabegarcia",
