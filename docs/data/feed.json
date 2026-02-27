@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2027504962578878985",
+    "source": "twitter",
+    "author": "Sherry83044277",
+    "content": "@FactoryAI This is super useful. Most teams optimize the agent but never the repo. Good docs, clear test suites, and consistent naming conventions probably 10x agent performance before you even touch the model.",
+    "url": "https://x.com/Sherry83044277/status/2027504962578878985",
+    "timestamp": "2026-02-27T22:03:46.000Z",
+    "metadata": {
+      "conversation_id": "2027504962578878985",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027503741281444347",
+    "source": "twitter",
+    "author": "anasibnanwar",
+    "content": "@FactoryAI  For Missions, is it possible to use Factory’s model for orchestration but configure the implementation agents to run on a user-provided API key (BYOK)? Or do all agents in a mission use Factory-managed models?",
+    "url": "https://x.com/anasibnanwar/status/2027503741281444347",
+    "timestamp": "2026-02-27T21:58:55.000Z",
+    "metadata": {
+      "conversation_id": "2027503741281444347",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027502540313506171",
+    "source": "twitter",
+    "author": "BLUECOW009",
+    "content": "@KalGrinberg @FactoryAI rebuild bloomberg, make no mistakes",
+    "url": "https://x.com/BLUECOW009/status/2027502540313506171",
+    "timestamp": "2026-02-27T21:54:09.000Z",
+    "metadata": {
+      "conversation_id": "2027502540313506171",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027499812510367929",
     "source": "twitter",
     "author": "dvrshil",
