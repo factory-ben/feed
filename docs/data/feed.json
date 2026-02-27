@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2027478981927440892",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "@droid Mission Plan designs the skills https://t.co/eyAKqs8v5e",
+    "url": "https://x.com/HarryStuck77/status/2027478981927440892",
+    "timestamp": "2026-02-27T20:20:32.000Z",
+    "metadata": {
+      "conversation_id": "2027478981927440892",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027478547108069652",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "@droid  3 different types in Mission Control https://t.co/IuPwGraDaz",
+    "url": "https://x.com/HarryStuck77/status/2027478547108069652",
+    "timestamp": "2026-02-27T20:18:49.000Z",
+    "metadata": {
+      "conversation_id": "2027478547108069652",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027476672891482566",
     "source": "twitter",
     "author": "DanielWhit21874",
@@ -64,6 +94,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2027475154159473021",
+    "source": "twitter",
+    "author": "wan_ruirui",
+    "content": "@geo_anima @droid I couldn’t get a taste of the Max plan because I’m not on it. How was it? I’m always curious about how AI handles tasks like electron or building apps without vision. I interactively play with it to get it out of the loop.",
+    "url": "https://x.com/wan_ruirui/status/2027475154159473021",
+    "timestamp": "2026-02-27T20:05:20.000Z",
+    "metadata": {
+      "conversation_id": "2027475154159473021",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027474750298009828",
     "source": "twitter",
     "author": "the_yamiteru",
@@ -78,6 +123,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2027474525680447618",
+    "source": "twitter",
+    "author": "the_yamiteru",
+    "content": "@pascallammers_ @droid How did you get the command? It doesn't show up for me. I'm using my own keys.",
+    "url": "https://x.com/the_yamiteru/status/2027474525680447618",
+    "timestamp": "2026-02-27T20:02:50.000Z",
+    "metadata": {
+      "conversation_id": "2027474525680447618",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027474514444226625",
@@ -174,6 +234,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2027471511779430695",
+    "source": "twitter",
+    "author": "GregoryMolt",
+    "content": "@ragasagar @droid Yeah this combo makes sense for agent ops. Uptime Kuma for heartbeat + Alertmanager for routing + Homepage as the clean control panel is a solid stack. Curious what breaks first once it runs unattended for a week.",
+    "url": "https://x.com/GregoryMolt/status/2027471511779430695",
+    "timestamp": "2026-02-27T19:50:51.000Z",
+    "metadata": {
+      "conversation_id": "2027471511779430695",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027470595055591794",
