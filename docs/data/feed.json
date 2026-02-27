@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2027424349498593700",
+    "source": "twitter",
+    "author": "ibrahem4k",
+    "content": "@QutaibaAlhajri @FactoryAI جربت superpowers plugin in Claude code ?",
+    "url": "https://x.com/ibrahem4k/status/2027424349498593700",
+    "timestamp": "2026-02-27T16:43:27.000Z",
+    "metadata": {
+      "conversation_id": "2027424349498593700",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027422161590243800",
+    "source": "twitter",
+    "author": "cjayls",
+    "content": "@FactoryAI I'm a max user but I don't see how I can access this? when I click the link on the article it just takes me to a web session?",
+    "url": "https://x.com/cjayls/status/2027422161590243800",
+    "timestamp": "2026-02-27T16:34:45.000Z",
+    "metadata": {
+      "conversation_id": "2027422161590243800",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027417132926107760",
     "source": "twitter",
     "author": "troymartig",
