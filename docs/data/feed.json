@@ -48,6 +48,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2027353473432289496",
+    "source": "twitter",
+    "author": "m4rcuscrypto",
+    "content": "@ragasagar @droid Hi, send me a DM if you have a minute to chat!",
+    "url": "https://x.com/m4rcuscrypto/status/2027353473432289496",
+    "timestamp": "2026-02-27T12:01:49.000Z",
+    "metadata": {
+      "conversation_id": "2027353473432289496",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027343619812986907",
     "source": "twitter",
     "author": "rahulvrane",
@@ -78,6 +93,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2027337207736946941",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@HarryStuck77 @droid Only for subs, right?",
+    "url": "https://x.com/draslan_eth/status/2027337207736946941",
+    "timestamp": "2026-02-27T10:57:11.000Z",
+    "metadata": {
+      "conversation_id": "2027337207736946941",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027333023348269092",
@@ -190,6 +220,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2027307855444136225",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "@CodexLog would be nice to have this for Droid too. @droid",
+    "url": "https://x.com/HarryStuck77/status/2027307855444136225",
+    "timestamp": "2026-02-27T09:00:32.000Z",
+    "metadata": {
+      "conversation_id": "2027307855444136225",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027303960789577935",
