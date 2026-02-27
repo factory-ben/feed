@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2027377607369458012",
+    "source": "twitter",
+    "author": "owoldestiny",
+    "content": "@nummanali @FactoryAI @AmpCode model agnostic is the play. whoever stays flexible wins long term",
+    "url": "https://x.com/owoldestiny/status/2027377607369458012",
+    "timestamp": "2026-02-27T13:37:43.000Z",
+    "metadata": {
+      "conversation_id": "2027377607369458012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027371875614027796",
+    "source": "twitter",
+    "author": "nightmaaan",
+    "content": "@FactoryAI Hi, I see that I have:\n* Input 2.3M\n* Output 221.3K\n* Cached 37.6M\n\nBut on https://t.co/arFIzyYiwQ, I see that I'm charged for all cached tokens as if they were regular. Can you explain it? https://t.co/FYnGcGYlQF",
+    "url": "https://x.com/nightmaaan/status/2027371875614027796",
+    "timestamp": "2026-02-27T13:14:56.000Z",
+    "metadata": {
+      "conversation_id": "2027371875614027796",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027370847510385107",
+    "source": "twitter",
+    "author": "ErickSky",
+    "content": "@espina_ti @FactoryAI A lo mejor, pero, y si no?",
+    "url": "https://x.com/ErickSky/status/2027370847510385107",
+    "timestamp": "2026-02-27T13:10:51.000Z",
+    "metadata": {
+      "conversation_id": "2027370847510385107",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027368026299879674",
+    "source": "twitter",
+    "author": "espina_ti",
+    "content": "@ErickSky @FactoryAI todo es chamuyo gente. en 6 meses recuerden esto",
+    "url": "https://x.com/espina_ti/status/2027368026299879674",
+    "timestamp": "2026-02-27T12:59:38.000Z",
+    "metadata": {
+      "conversation_id": "2027368026299879674",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027360500963500111",
     "source": "twitter",
     "author": "nummanali",
