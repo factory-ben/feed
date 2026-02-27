@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2027471704092774713",
+    "source": "twitter",
+    "author": "ssh_sharma135",
+    "content": "@AGI_Tiramisu @KalGrinberg @FactoryAI 👁️ https://t.co/ZP1IYoRrIL",
+    "url": "https://x.com/ssh_sharma135/status/2027471704092774713",
+    "timestamp": "2026-02-27T19:51:37.000Z",
+    "metadata": {
+      "conversation_id": "2027471704092774713",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027471645385031798",
+    "source": "twitter",
+    "author": "DanielWhit21874",
+    "content": "@KalGrinberg @FactoryAI That is actually insane, how does it handle the context and if gets too bloated ?",
+    "url": "https://x.com/DanielWhit21874/status/2027471645385031798",
+    "timestamp": "2026-02-27T19:51:23.000Z",
+    "metadata": {
+      "conversation_id": "2027471645385031798",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027470595055591794",
+    "source": "twitter",
+    "author": "robmerki",
+    "content": "@habibislop @KalGrinberg @FactoryAI 10/10 suggestion btw",
+    "url": "https://x.com/robmerki/status/2027470595055591794",
+    "timestamp": "2026-02-27T19:47:13.000Z",
+    "metadata": {
+      "conversation_id": "2027470595055591794",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027469086666727599",
     "source": "twitter",
     "author": "amit05prakash",
@@ -15222,6 +15267,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1r1bepg",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.57.10 Released - `/skills` UX overhaul and more\n\n## New features\n\n* **`/skills` UX overhaul** - Tabbed layout with pagination and a dedicated detail view for browsing and importing skills\n* **Terminal tab titles** - Terminal tab now displays the session name so you can identify Droid sessions across multiple tabs\n* **`droid update` command** - New command to manually update the CLI, plus ability to disable autoupdate via `/settings`\n* **Session end hooks** - Hooks now fire when running `/clear` or `/new`, enabling custom cleanup workflows\n* **",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1r1bepg/factory_cli_v05710_released_skills_ux_overhaul/",
+    "timestamp": "2026-02-10T20:01:23.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2021311899413918207",
