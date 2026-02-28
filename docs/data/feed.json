@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027871016106566060",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027870326881661188",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027870261635096959",
@@ -57,7 +60,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027869429967601981",
@@ -72,7 +76,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027869027297554847",
@@ -87,7 +92,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027868949266710752",
@@ -102,7 +108,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027868828911239588",
@@ -117,7 +124,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027868484269441268",
@@ -132,7 +140,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027868329961263184",
@@ -147,7 +156,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2027868221785751594",
@@ -162,7 +172,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2027867637296869599",
@@ -177,7 +188,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2027867587221069993",
@@ -76676,7 +76688,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 309
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_240",
@@ -76745,7 +76758,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_225",
@@ -76814,7 +76828,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_223",
@@ -76883,7 +76898,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1oazqru",
@@ -76966,7 +76982,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1o98xc1",
