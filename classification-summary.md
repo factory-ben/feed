@@ -2,7 +2,7 @@
 
 **Date:** 2026-02-28 22:00 UTC
 
-**New items classified:** 20
+**New items classified:** 8
 
 | Category | Count | Percentage |
 |----------|-------|------------|
@@ -10,4 +10,4 @@
 | bug      | 0     | 0.0%       |
 | love     | 0     | 0.0%       |
 | question | 0     | 0.0%       |
-| other    | 20    | 100.0%     |
+| other    | 8     | 100.0%     |
