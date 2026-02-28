@@ -48804,6 +48804,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1qcq9xn",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.48.0 Released\n\n## Bug fixes\n\n* **Tool result rendering** - Internal placeholder markers no longer displayed in CLI output\n* **Session loading** - Fixed \"Failed to load session\" errors on cloud sessions\n* **Droid startup timeout** - Increased timeout for start droid to prevent timeouts\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qcq9xn/factory_cli_v0480_released/",
+    "timestamp": "2026-01-14T15:31:25.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2011460804256636959",
     "source": "twitter",
     "author": "chillzaza_",
