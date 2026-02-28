@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2027649992576659575",
+    "source": "twitter",
+    "author": "rishistyping",
+    "content": "@KalGrinberg @FactoryAI system similar to @Dynamicland1 @worrydream  — https://t.co/hPWxcfeVmT for humane computer interfaces — computation embedded in the physical world",
+    "url": "https://x.com/rishistyping/status/2027649992576659575",
+    "timestamp": "2026-02-28T07:40:04.000Z",
+    "metadata": {
+      "conversation_id": "2027649992576659575",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027645979684389361",
+    "source": "twitter",
+    "author": "michabbb",
+    "content": "@KalGrinberg @FactoryAI How about answering support questions?\n\nhttps://t.co/hWnubji26u",
+    "url": "https://x.com/michabbb/status/2027645979684389361",
+    "timestamp": "2026-02-28T07:24:08.000Z",
+    "metadata": {
+      "conversation_id": "2027645979684389361",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027643687703089538",
+    "source": "twitter",
+    "author": "7Psychon",
+    "content": "@KalGrinberg @matanSF @FactoryAI AGI",
+    "url": "https://x.com/7Psychon/status/2027643687703089538",
+    "timestamp": "2026-02-28T07:15:01.000Z",
+    "metadata": {
+      "conversation_id": "2027643687703089538",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027643142162235692",
+    "source": "twitter",
+    "author": "nilag_dev",
+    "content": "@DowClem @FactoryAI it burns like 25M for a run, medium sized task.",
+    "url": "https://x.com/nilag_dev/status/2027643142162235692",
+    "timestamp": "2026-02-28T07:12:51.000Z",
+    "metadata": {
+      "conversation_id": "2027643142162235692",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027643102442492260",
     "source": "twitter",
     "author": "q_yeon_gyu_kim",
@@ -14,6 +74,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2027641828820852866",
+    "source": "twitter",
+    "author": "arb8020",
+    "content": "@KalGrinberg @FactoryAI mario kart world but over google maps",
+    "url": "https://x.com/arb8020/status/2027641828820852866",
+    "timestamp": "2026-02-28T07:07:38.000Z",
+    "metadata": {
+      "conversation_id": "2027641828820852866",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027639944743715245",
+    "source": "twitter",
+    "author": "MichelIvan92347",
+    "content": "@FactoryAI Cool one ! Bravo to the team 👏\n\nI like the continuous learning loop here by the way ...",
+    "url": "https://x.com/MichelIvan92347/status/2027639944743715245",
+    "timestamp": "2026-02-28T07:00:09.000Z",
+    "metadata": {
+      "conversation_id": "2027639944743715245",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027639493311009135",
