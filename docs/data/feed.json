@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2027603034440700247",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@JoelDeTeves @droid 🤖🔥",
+    "url": "https://x.com/geo_anima/status/2027603034440700247",
+    "timestamp": "2026-02-28T04:33:29.000Z",
+    "metadata": {
+      "conversation_id": "2027603034440700247",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027602439428620736",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@DominicDirupo @NotionHQ @OpenAI @droid @zeddotdev @WisprFlow Also true",
+    "url": "https://x.com/nathanclark_/status/2027602439428620736",
+    "timestamp": "2026-02-28T04:31:07.000Z",
+    "metadata": {
+      "conversation_id": "2027602439428620736",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027601322896462124",
     "source": "twitter",
     "author": "KalGrinberg",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2027601140310020543",
+    "source": "twitter",
+    "author": "DominicDirupo",
+    "content": "@nathanclark_ @NotionHQ @OpenAI @droid @zeddotdev @WisprFlow Even just data entry of a single word into a cell",
+    "url": "https://x.com/DominicDirupo/status/2027601140310020543",
+    "timestamp": "2026-02-28T04:25:57.000Z",
+    "metadata": {
+      "conversation_id": "2027601140310020543",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027600939650101388",
@@ -48,6 +93,81 @@
     "category": "love"
   },
   {
+    "id": "twitter_2027598834071982301",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@DominicDirupo @NotionHQ @OpenAI @droid @zeddotdev @WisprFlow It’s just so much faster to work with. \n\nIn particular the amount of context that you default to providing an agent doubles or triples and therefore the number of revisions and the specificity of the output drives way better outcomes",
+    "url": "https://x.com/nathanclark_/status/2027598834071982301",
+    "timestamp": "2026-02-28T04:16:47.000Z",
+    "metadata": {
+      "conversation_id": "2027598834071982301",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027598197879935072",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "This is nice but @droid Missions cooks this",
+    "url": "https://x.com/JoelDeTeves/status/2027598197879935072",
+    "timestamp": "2026-02-28T04:14:15.000Z",
+    "metadata": {
+      "conversation_id": "2027598197879935072",
+      "likes": 6,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027596895233724729",
+    "source": "twitter",
+    "author": "Glowrithm",
+    "content": "@nathanclark_ @NotionHQ @OpenAI @droid @zeddotdev @WisprFlow the hype is unreal, but which one will actually last? ngmi frfr",
+    "url": "https://x.com/Glowrithm/status/2027596895233724729",
+    "timestamp": "2026-02-28T04:09:05.000Z",
+    "metadata": {
+      "conversation_id": "2027596895233724729",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027596077550195138",
+    "source": "twitter",
+    "author": "DominicDirupo",
+    "content": "@nathanclark_ @NotionHQ @OpenAI @droid @zeddotdev @WisprFlow Wispr Flow has been a game changer for me",
+    "url": "https://x.com/DominicDirupo/status/2027596077550195138",
+    "timestamp": "2026-02-28T04:05:50.000Z",
+    "metadata": {
+      "conversation_id": "2027596077550195138",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027595622195343635",
+    "source": "twitter",
+    "author": "zeddotdev",
+    "content": "@NotionHQ @nathanclark_ @OpenAI @droid @WisprFlow 🚢",
+    "url": "https://x.com/zeddotdev/status/2027595622195343635",
+    "timestamp": "2026-02-28T04:04:01.000Z",
+    "metadata": {
+      "conversation_id": "2027595622195343635",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027595570878287939",
     "source": "twitter",
     "author": "matanSF",
@@ -64,6 +184,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2027595256838152389",
+    "source": "twitter",
+    "author": "NotionHQ",
+    "content": "@nathanclark_ @OpenAI @droid @zeddotdev @WisprFlow And we will keep on shipping 🚢",
+    "url": "https://x.com/NotionHQ/status/2027595256838152389",
+    "timestamp": "2026-02-28T04:02:34.000Z",
+    "metadata": {
+      "conversation_id": "2027595256838152389",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027594621816344988",
     "source": "twitter",
     "author": "EnoReyes",
@@ -78,6 +213,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2027594130310963408",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "wild to me how much my tech stack has changed so much in the last ~6 months\n\n@notionhq → 3x more off an already high base\n@openai → for codex + pro reasoning\n@droid → the best agent harness \n@zeddotdev → acp > terminal/extensions all day\n@wisprflow → what even is typing \n@tailscale → magical, seamless service \n@diabrowser → so far winning the new browser war",
+    "url": "https://x.com/nathanclark_/status/2027594130310963408",
+    "timestamp": "2026-02-28T03:58:06.000Z",
+    "metadata": {
+      "conversation_id": "2027594130310963408",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027588963339252083",
