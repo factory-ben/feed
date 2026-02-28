@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2027635595074539604",
+    "source": "twitter",
+    "author": "decruz",
+    "content": "@KalGrinberg @FactoryAI Create AGI. No mistakes",
+    "url": "https://x.com/decruz/status/2027635595074539604",
+    "timestamp": "2026-02-28T06:42:52.000Z",
+    "metadata": {
+      "conversation_id": "2027635595074539604",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027634046298112380",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@KalGrinberg @FactoryAI Rebuild M365 but in better UI/UX and much better perfomance.",
+    "url": "https://x.com/draslan_eth/status/2027634046298112380",
+    "timestamp": "2026-02-28T06:36:42.000Z",
+    "metadata": {
+      "conversation_id": "2027634046298112380",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027627769040146494",
     "source": "twitter",
     "author": "YiCasillas",
@@ -14,6 +44,51 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2027626620597739697",
+    "source": "twitter",
+    "author": "ramnanimanan",
+    "content": "@FactoryAI \nJust did a 13h Mission with droid and it was beautiful ! Indeed passing e2e tests in an existing production codebase and almost no slop. Cant thank you enough for this … orch - Opus ; worker - 5.3-Codex and validator - Opus.",
+    "url": "https://x.com/ramnanimanan/status/2027626620597739697",
+    "timestamp": "2026-02-28T06:07:12.000Z",
+    "metadata": {
+      "conversation_id": "2027626620597739697",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027623930027266459",
+    "source": "twitter",
+    "author": "ArielFrischer",
+    "content": "@KalGrinberg @FactoryAI Create a self-evolving AI agent system that runs in the cloud. It's main goal is to fund itself through various means: marketing, products, saas, trading - anything that can effectively fund itself in token usage and stay net positive.",
+    "url": "https://x.com/ArielFrischer/status/2027623930027266459",
+    "timestamp": "2026-02-28T05:56:31.000Z",
+    "metadata": {
+      "conversation_id": "2027623930027266459",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027622369540648978",
+    "source": "twitter",
+    "author": "Dhruv14588676",
+    "content": "@justsisyphus @FactoryAI @EnoReyes @opencode No problem we can reverse engineer droid also, codex did it for me in claude code also",
+    "url": "https://x.com/Dhruv14588676/status/2027622369540648978",
+    "timestamp": "2026-02-28T05:50:18.000Z",
+    "metadata": {
+      "conversation_id": "2027622369540648978",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027621877573685600",
@@ -32106,6 +32181,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1qnmzm4",
+    "source": "reddit",
+    "author": "Rouler4wd",
+    "content": "Factory AI Droid on CLI Issues - Error: Authentication failed &amp; Error 403\n\nEvery Instance that I run on Factory Droid says this. Every time I try to code something, after the first query, it ALWAYS says Error: Authentication fails and needs me to log in again, but once I log in again, it says  \n\nError: 403 {\"detail\":\"User not affiliated with an org. Please check that you have completed onboarding steps on  \n   the dashboard.\",\"status\":403,\"title\":\"Forbidden\",\"requestId\":\"cle1::ls8l4-1769448286394-41bcc806f4f2\"}\n\nThis keeps happening every single time I try to code\n\nhtt",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qnmzm4/factory_ai_droid_on_cli_issues_error/",
+    "timestamp": "2026-01-26T17:42:55.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2015831738749214753",
