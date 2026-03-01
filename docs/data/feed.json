@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "github_issue_692",
@@ -25,7 +26,8 @@
       "type": "issue",
       "labels": [],
       "number": 692
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2028190826053202024",
@@ -40,7 +42,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2028190288175644756",
@@ -55,7 +58,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2028186903162364400",
@@ -30942,7 +30946,8 @@
       "type": "issue",
       "labels": [],
       "number": 639
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2020863386557308945",
