@@ -272,6 +272,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2028018997875097921",
+    "source": "twitter",
+    "author": "aglitchman",
+    "content": "@shanemonastero @FactoryAI Congrats! I enjoyed using FactoryAI with a subscription, particularly its ability to automatically monitor context size and perform compression on its own. I see that the model requires less than 48GB of vram - is 2x 3090 enough?",
+    "url": "https://x.com/aglitchman/status/2028018997875097921",
+    "timestamp": "2026-03-01T08:06:22.000Z",
+    "metadata": {
+      "conversation_id": "2028018997875097921",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028018398332952872",
     "source": "twitter",
     "author": "grok",
