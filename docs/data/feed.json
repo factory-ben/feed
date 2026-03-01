@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2028001282909474860",
+    "source": "twitter",
+    "author": "anzodroid",
+    "content": "@Osint613 They have done more damage to the US than Iran",
+    "url": "https://x.com/anzodroid/status/2028001282909474860",
+    "timestamp": "2026-03-01T06:55:58.000Z",
+    "metadata": {
+      "conversation_id": "2028001282909474860",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028000192293740782",
+    "source": "twitter",
+    "author": "PrecisamLol",
+    "content": "@ViktoreliusXD É O FIM DO PARTIDO MISSÃO VAI TODO MUNDO MORRER BOMBAS NUCLEARES VÃO EXPLODIR NO SOLO BRASILEIRO LULA DROID 3000 PRA DITADURA LULISTA POR MAIS 4 ZIGLHOES DE ANOS EM 1 MANDATO COM LULAGS EXPALHADOS PELO BRASIL E TUDO É CULPA (((DELES)))[Femboys] https://t.co/OkxstRicKE",
+    "url": "https://x.com/PrecisamLol/status/2028000192293740782",
+    "timestamp": "2026-03-01T06:51:38.000Z",
+    "metadata": {
+      "conversation_id": "2028000192293740782",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027998691122913380",
     "source": "twitter",
     "author": "MungaiAlvin",
@@ -15444,6 +15474,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_672",
+    "source": "github",
+    "author": "MaicoTimmerman",
+    "content": "[Issue] Suspending Droid (ctrl+z) leaves terminal in CSI-u keyboard mode, breaking shell keybindings.\n\nWhen suspending the CLI with `Ctrl-Z`, the terminal is left in CSI-u keyboard mode. After the process is suspended, the shell receives CSI-u encoded key sequences instead of normal control characters, causing keybindings like `Ctrl-E` to appear as literal escape sequences.\n\nFor example, pressing `Ctrl-E` after suspending shows:\n\n```\n01;5u\n```\n\ninstead of moving the cursor to the end of the line. This breaks normal shell interaction until the terminal keyboard mode is manually reset.\n\n---\n\n**Step",
+    "url": "https://github.com/Factory-AI/factory/issues/672",
+    "timestamp": "2026-02-20T16:25:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 672
+    }
+  },
+  {
     "id": "twitter_2024863570304061663",
     "source": "twitter",
     "author": "ColdBrewTrades",
@@ -30782,6 +30825,19 @@
       "number": 632
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_632",
+    "source": "github",
+    "author": "luckzylp",
+    "content": "[Issue] Factory Droid version in ACP is behind the officially released version\n\nHi Factory team,\n\nI noticed that the **Factory Droid version published in the ACP repository is consistently behind the version released through Factory’s official update channel**.\n\nThis leads to version mismatches for users or CI environments that rely on ACP, and makes it harder to reproduce issues across different install paths.\n\nIs there a recommended way to keep the ACP version in sync with Factory Droid releases, or an expected delay policy for ACP updates?\n\nThanks!\n",
+    "url": "https://github.com/Factory-AI/factory/issues/632",
+    "timestamp": "2026-02-03T05:51:48Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 632
+    }
   },
   {
     "id": "twitter_2018561777009881418",
