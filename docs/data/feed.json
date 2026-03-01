@@ -1,5 +1,213 @@
 [
   {
+    "id": "twitter_2028011672539996265",
+    "source": "twitter",
+    "author": "ironcrakka",
+    "content": "&gt;droid slave and zygerrian slaver https://t.co/YxtseUenYe",
+    "url": "https://x.com/ironcrakka/status/2028011672539996265",
+    "timestamp": "2026-03-01T07:37:16.000Z",
+    "metadata": {
+      "conversation_id": "2028011672539996265",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028011557087838243",
+    "source": "twitter",
+    "author": "droid_friends",
+    "content": "@filigranpflanze 그러면 누가 개설레서 하냐?",
+    "url": "https://x.com/droid_friends/status/2028011557087838243",
+    "timestamp": "2026-03-01T07:36:48.000Z",
+    "metadata": {
+      "conversation_id": "2028011557087838243",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028009894419325377",
+    "source": "twitter",
+    "author": "elmer_joselito",
+    "content": "Today I decided to use Factory Droid @droid  with Kimi,\nand it feels smooth. By the way, I built a CLI\nto synchronize your commands across different agents.\nI’ve called it Opito.\n\nWhat’s the reason for this?\n\nFor some reason, when @opencode  works with my worktree,\n\nit finishes a task but doesn’t edit the files properly.\nIt ends up inserting functions without braces, without semicolons.\nIt’s as if the editing tool is failing.\n\nhttps://t.co/nCpURot6UP\n\n#droid",
+    "url": "https://x.com/elmer_joselito/status/2028009894419325377",
+    "timestamp": "2026-03-01T07:30:12.000Z",
+    "metadata": {
+      "conversation_id": "2028009894419325377",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028009859011006701",
+    "source": "twitter",
+    "author": "ncq_syh",
+    "content": "I use droid, claude code, amp, pi, copilot cli. All worked pretty well for me. But seems like no one talked about copilot on here.",
+    "url": "https://x.com/ncq_syh/status/2028009859011006701",
+    "timestamp": "2026-03-01T07:30:03.000Z",
+    "metadata": {
+      "conversation_id": "2028009859011006701",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028009825934737485",
+    "source": "twitter",
+    "author": "NineDroid",
+    "content": "@Jkylebass @nytimes 🎯🎯",
+    "url": "https://x.com/NineDroid/status/2028009825934737485",
+    "timestamp": "2026-03-01T07:29:55.000Z",
+    "metadata": {
+      "conversation_id": "2028009825934737485",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_691",
+    "source": "github",
+    "author": "HaydenLundin",
+    "content": "[Issue] Subagents (Task tool) fail 100% on all BYOK models — \"No output received\" / \"Task failed\"\n\n\n## Summary\n\nThe Task tool fails to execute **any** subagent when using BYOK custom models. Tested across 5 different models, 2 different providers, and 2 different provider types — all produce the same `⚠ Task failed` with no output. The simplest possible task (\"respond with the word hello\") fails every time.\n\nThe default `worker` droid (shipped by Factory) fails on every BYOK model. This is not a droid configuration issue.\n\nThis appears related to closed #211 (same symptoms). The underlying is",
+    "url": "https://github.com/Factory-AI/factory/issues/691",
+    "timestamp": "2026-03-01T07:29:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 691
+    }
+  },
+  {
+    "id": "twitter_2028009499399741747",
+    "source": "twitter",
+    "author": "NineDroid",
+    "content": "@Jkylebass @globaltimesnews Lawn Art 😂",
+    "url": "https://x.com/NineDroid/status/2028009499399741747",
+    "timestamp": "2026-03-01T07:28:37.000Z",
+    "metadata": {
+      "conversation_id": "2028009499399741747",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028009339542249550",
+    "source": "twitter",
+    "author": "NineDroid",
+    "content": "@WallStreetApes @elonmusk 😂😂🎯🎯",
+    "url": "https://x.com/NineDroid/status/2028009339542249550",
+    "timestamp": "2026-03-01T07:27:59.000Z",
+    "metadata": {
+      "conversation_id": "2028009339542249550",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028009315500462374",
+    "source": "twitter",
+    "author": "thissitesucksFU",
+    "content": "@nonregemesse I have bad news https://t.co/rwfhWa6fiS",
+    "url": "https://x.com/thissitesucksFU/status/2028009315500462374",
+    "timestamp": "2026-03-01T07:27:54.000Z",
+    "metadata": {
+      "conversation_id": "2028009315500462374",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028009168150421725",
+    "source": "twitter",
+    "author": "NineDroid",
+    "content": "@tedcruz @guypbenson Track them down.",
+    "url": "https://x.com/NineDroid/status/2028009168150421725",
+    "timestamp": "2026-03-01T07:27:18.000Z",
+    "metadata": {
+      "conversation_id": "2028009168150421725",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028008849119064407",
+    "source": "twitter",
+    "author": "NineDroid",
+    "content": "@AlexWGoldenberg @guypbenson 🎯🎯🎯",
+    "url": "https://x.com/NineDroid/status/2028008849119064407",
+    "timestamp": "2026-03-01T07:26:02.000Z",
+    "metadata": {
+      "conversation_id": "2028008849119064407",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028008823709962742",
+    "source": "twitter",
+    "author": "Windows_droidbr",
+    "content": "@SenhorLinguica \"102 graus\" disse o otarrio que não conhece o gamehub....\n\nTem cara querendo que l red magic seja equiparavel a um PC com uma 4090, sem contar que tem muito fdm pobre comentando que nem Cell nem o Pc tem... Kkkkkkkkkkkkkkkk eu amo o Brasil sfd",
+    "url": "https://x.com/Windows_droidbr/status/2028008823709962742",
+    "timestamp": "2026-03-01T07:25:56.000Z",
+    "metadata": {
+      "conversation_id": "2028008823709962742",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028008624908374499",
+    "source": "twitter",
+    "author": "andrew_levine",
+    "content": "Keep Android Open https://t.co/U5BxTypQPP Support DROID! ✊",
+    "url": "https://x.com/andrew_levine/status/2028008624908374499",
+    "timestamp": "2026-03-01T07:25:09.000Z",
+    "metadata": {
+      "conversation_id": "2028008624908374499",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028008453101203817",
+    "source": "twitter",
+    "author": "NineDroid",
+    "content": "@Eric_Erins A view and a garage spot for $150k? What a deal.",
+    "url": "https://x.com/NineDroid/status/2028008453101203817",
+    "timestamp": "2026-03-01T07:24:28.000Z",
+    "metadata": {
+      "conversation_id": "2028008453101203817",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028007985239273491",
     "source": "twitter",
     "author": "NineDroid",
@@ -94,6 +302,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028006210121682992",
+    "source": "twitter",
+    "author": "NdroidRyan",
+    "content": "@docmartimcfly @WhippedHybrids “Unfounded” when she has harassed and stalked someone to a suicide attempt over a misunderstanding, and has made fun of incest victims. Right. I’d give receipts for the harassment victim but they want peace from the situation and I’m respecting that",
+    "url": "https://x.com/NdroidRyan/status/2028006210121682992",
+    "timestamp": "2026-03-01T07:15:33.000Z",
+    "metadata": {
+      "conversation_id": "2028006210121682992",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028006202274410880",
@@ -15304,6 +15527,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_674",
+    "source": "github",
+    "author": "dalisoft",
+    "content": "[Issue] `droid` not running\n\n## Excepted behavior\n\nRunning `droid` terminal instance.\n\n## Actual \n\nhttps://github.com/user-attachments/assets/ca86a49b-c064-4e99-a5b4-cbdf7e7ac199\n\n\n## Additional details\n\nDroid: 0.60.0\nZed: 0.224.10\nOS: Darwin 24.6.0 (macOS 15.7.4), Apple Silicon",
+    "url": "https://github.com/Factory-AI/factory/issues/674",
+    "timestamp": "2026-02-21T12:12:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 674
+    }
+  },
+  {
     "id": "twitter_2025179943638823261",
     "source": "twitter",
     "author": "_alissonryan",
@@ -15348,6 +15584,19 @@
       "number": 673
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_673",
+    "source": "github",
+    "author": "1PercentSync",
+    "content": "[Issue] Bug: All models disabled in blocklist mode\n\n---\n\n## Bug: All models disabled in blocklist mode\n\n### Description\n\nWhen configuring model policy in the admin panel, disabling \"Allow All Factory Models\" while enabling \"Auto-allow New Models\" (blocklist mode) causes all models to be disabled, instead of the expected behavior where models not in the blocklist should be available.\n\n### Steps to Reproduce\n\n1. Go to Factory Droid admin panel\n2. Disable \"Allow All Factory Models\"\n3. Enable \"Auto-allow New Models\"\n4. Add some models to the blocklis",
+    "url": "https://github.com/Factory-AI/factory/issues/673",
+    "timestamp": "2026-02-21T05:27:20Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 673
+    }
   },
   {
     "id": "twitter_2025056984186392921",
