@@ -1,5 +1,305 @@
 [
   {
+    "id": "twitter_2028165131864072532",
+    "source": "twitter",
+    "author": "bitsizeshoes1",
+    "content": "Hey Grok, will this work?  Here is Grok's answer:\n\n- Yeah, this is some beautiful, galaxy-brain degen math wrapped in Star Wars droid packaging. The setup is real, the numbers mostly check out on paper, and the vibe is pure 2026 finance Twitter chaos. But \"will it work?\" Let's rip the spreadsheet open.\n\nThe Good (Why It Looks Sexy)\n\n- STRK is legit: Strategy Inc.'s (the company formerly known as MicroStrategy) 8% Series A Perpetual Strike Preferred. $100 liquidation preference, 8% fixed coupon ($8/share/year), currently trading ~$78.34 → 10.21% effective yield. Matches your post exactly.\n\n- Conversion: Holder option (any business day, with limits) to convert 1 STRK → 0.1 MSTR shares. Effective strike ~$1,000 on MSTR. Your 1,276.49 STRK → 127.65 MSTR shares if you exercise when it's deep ITM. Perfect for the bull case.\n\n- Morpho borrow: USDC borrow rates on Morpho (Ethereum/Base markets) are indeed in the 2.5–4% range right now depending on the specific vault/utilization. 2.87% is realistic on a low-utilization or blue-chip market. Net carry ~7.34% before taxes/fees = real cash.\n\n- The flywheel: Dividends come quarterly (cash or shares at company's election), you skim the spread, recycle into MSTR. If MSTR does ~37.5% CAGR (your 30% BTC + leverage premium), the conversion pile alone is ~$398k in year 10. The DCA pile adds real meat.\n\nYour end math (post-accrual debt) lands in the $700–950k net range depending on exact DCA timing and growth path — still life-changing off $100k borrowed if the gods smile.\n    ---------------------\n\nThe \"But...\" (Where It Can Explode in Your Face)\n\nThis isn't \"set and forget.\" It's a leveraged, cross-protocol, 10-year BTC-maximalist prayer with multiple kill switches:\n\n1). You need collateral to borrow on Morpho\n- You can't just \"borrow $100k USDC\" naked. You supply crypto (BTC, ETH, cbBTC, etc.) at 50–70% LTV max. Drop 30–40% on the collateral and you get liquidated. STRK and MSTR will also be bleeding in that scenario → you lose the collateral and your STRK position tanks while still owing the debt. Classic degen double-tap.\n\n2).  Rates aren't fixed at 2.87%\n- Utilization spikes? Borrow APR can rip to 10–20%+. Your 7.34% carry turns negative overnight. Morpho is variable — not a 10-year fixed mortgage.\n\n3). Conversion isn't automatic\n- You have to manually convert when MSTR > ~$1,000. If BTC only does 10–15% CAGR and MSTR stays sub-$800 forever, you just own a high-yield perpetual preferred... that trades at a discount because the market prices in risk.\n\n4).  Execution tax hell + ops drag\n- Bridge USDC → fiat → brokerage (fees, slippage, possible taxable events).\n- STRK dividends are taxable (qualified or not).\n- MSTR DCA every year = more taxes on gains later.\n- Monitoring health factor 24/7 or get rekt.  Real-world drag easily eats 1–2% of the carry.\n\n5).  Strategy Inc risk\n- This whole thing is one company issuing preferreds to buy more BTC. They can dilute, pay dividends in shares, call/redeem at par (hurting your discount yield), or just have a prolonged bear market where arrears pile up. Preferreds are senior to common, but not bulletproof.\n\n6).  10 years is forever\n- Regs, black swans, Saylor retires, Fed does something psychotic, DeFi gets clamped — any of it kills the setup.\n\nBottom Line:\nOn a perfect spreadsheet where BTC does 30% CAGR, rates stay low, no liquidation, and you never blink? \nYeah, it works. You turn borrowed stables into seven figures and meme about it forever.\n\nIn real life?\n High-conviction, high-leverage BTC bull thesis with extra steps and extra ways to die. The edge is real (cheap borrow + discounted yield + embedded long-dated call on MSTR), but the risk of ruin is not zero.\n\nIf you're doing this:\n- Size it tiny (1–5% of net worth max).\n- Use the safest Morpho market with highest LTV buffer.\nStress test for 50% BTC drawdown.\n- Have a Plan B to repay the loan without selling at the bottom.\nOtherwise it's just expensive entertainment. Respect for running the numbers though — this is exactly the kind of structured degeneracy that makes the game fun.\nYou actually pulling the trigger or just flexing the spreadsheet? 😏\n ----- ------ ------ ------\n\nThat was Grok's actual answer.\n\nI am not this smart.  LOL.  Glad there is Grok!!",
+    "url": "https://x.com/bitsizeshoes1/status/2028165131864072532",
+    "timestamp": "2026-03-01T17:47:03.000Z",
+    "metadata": {
+      "conversation_id": "2028165131864072532",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028165130932871518",
+    "source": "twitter",
+    "author": "OlivierDDR",
+    "content": "@anasibnanwar @HarryStuck77 @FactoryAI @droid like 90% is cached",
+    "url": "https://x.com/OlivierDDR/status/2028165130932871518",
+    "timestamp": "2026-03-01T17:47:03.000Z",
+    "metadata": {
+      "conversation_id": "2028165130932871518",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028164545940685193",
+    "source": "twitter",
+    "author": "NachoR__",
+    "content": "@SoyITPro El mundo Apple es increíble es tena suscripciones. Que falta le hace una tienda tipo F-Droid.",
+    "url": "https://x.com/NachoR__/status/2028164545940685193",
+    "timestamp": "2026-03-01T17:44:43.000Z",
+    "metadata": {
+      "conversation_id": "2028164545940685193",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028164459328651714",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@ninjaparticle @droid @FactoryAI You can import Claude code capabilities (skills, commands, etc.) automatically!",
+    "url": "https://x.com/EnoReyes/status/2028164459328651714",
+    "timestamp": "2026-03-01T17:44:23.000Z",
+    "metadata": {
+      "conversation_id": "2028164459328651714",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028164405159219358",
+    "source": "twitter",
+    "author": "droidbuilds",
+    "content": "@Swayamzz18 Sad for sanju so close yet so far but happy overall 🥰🥳",
+    "url": "https://x.com/droidbuilds/status/2028164405159219358",
+    "timestamp": "2026-03-01T17:44:10.000Z",
+    "metadata": {
+      "conversation_id": "2028164405159219358",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028164295180116462",
+    "source": "twitter",
+    "author": "Neysinceroo2",
+    "content": "@blackloll12 @gabigolu Chora n vice kakakaa",
+    "url": "https://x.com/Neysinceroo2/status/2028164295180116462",
+    "timestamp": "2026-03-01T17:43:44.000Z",
+    "metadata": {
+      "conversation_id": "2028164295180116462",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028164112467812399",
+    "source": "twitter",
+    "author": "Neysinceroo2",
+    "content": "@MarioEmie Kkkkkkkkkkkkk que post vergonhoso",
+    "url": "https://x.com/Neysinceroo2/status/2028164112467812399",
+    "timestamp": "2026-03-01T17:43:00.000Z",
+    "metadata": {
+      "conversation_id": "2028164112467812399",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028163892573073672",
+    "source": "twitter",
+    "author": "Jborgwing",
+    "content": "@JoelDeTeves @droid Capability is very impressive, but how are we doing on a cost basis for these items.  \n\nAre we seeing cost for performance exploding due to the long run times on high token use?",
+    "url": "https://x.com/Jborgwing/status/2028163892573073672",
+    "timestamp": "2026-03-01T17:42:08.000Z",
+    "metadata": {
+      "conversation_id": "2028163892573073672",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028163744883228713",
+    "source": "twitter",
+    "author": "Command_Droid",
+    "content": "@0hour1 Duh",
+    "url": "https://x.com/Command_Droid/status/2028163744883228713",
+    "timestamp": "2026-03-01T17:41:32.000Z",
+    "metadata": {
+      "conversation_id": "2028163744883228713",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028163532949422241",
+    "source": "twitter",
+    "author": "JHostage",
+    "content": "@Matt_Pinner 13",
+    "url": "https://x.com/JHostage/status/2028163532949422241",
+    "timestamp": "2026-03-01T17:40:42.000Z",
+    "metadata": {
+      "conversation_id": "2028163532949422241",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028163389739139557",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "@HarryStebbings That is one of my projects at @droid . Missions with Orchestrator, Workers and Validators. All on different models. It is running over 40hours. The race is real. https://t.co/BQKGZyFzt3",
+    "url": "https://x.com/HarryStuck77/status/2028163389739139557",
+    "timestamp": "2026-03-01T17:40:08.000Z",
+    "metadata": {
+      "conversation_id": "2028163389739139557",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028163377646932169",
+    "source": "twitter",
+    "author": "anasibnanwar",
+    "content": "@HarryStuck77 @FactoryAI @droid For 200$ 200Million tokens aren't enough for big tasks ngl",
+    "url": "https://x.com/anasibnanwar/status/2028163377646932169",
+    "timestamp": "2026-03-01T17:40:05.000Z",
+    "metadata": {
+      "conversation_id": "2028163377646932169",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028163346235818077",
+    "source": "twitter",
+    "author": "JHostage",
+    "content": "@Amelia558rs Bigotry",
+    "url": "https://x.com/JHostage/status/2028163346235818077",
+    "timestamp": "2026-03-01T17:39:57.000Z",
+    "metadata": {
+      "conversation_id": "2028163346235818077",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028163185606574186",
+    "source": "twitter",
+    "author": "JHostage",
+    "content": "@nobleisawinner smoking!",
+    "url": "https://x.com/JHostage/status/2028163185606574186",
+    "timestamp": "2026-03-01T17:39:19.000Z",
+    "metadata": {
+      "conversation_id": "2028163185606574186",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028163079478161807",
+    "source": "twitter",
+    "author": "JHostage",
+    "content": "@Shreya_bhyl Me!",
+    "url": "https://x.com/JHostage/status/2028163079478161807",
+    "timestamp": "2026-03-01T17:38:54.000Z",
+    "metadata": {
+      "conversation_id": "2028163079478161807",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028162979628515720",
+    "source": "twitter",
+    "author": "JHostage",
+    "content": "@Trevor_Allan_1 both can be true!",
+    "url": "https://x.com/JHostage/status/2028162979628515720",
+    "timestamp": "2026-03-01T17:38:30.000Z",
+    "metadata": {
+      "conversation_id": "2028162979628515720",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028162783179624542",
+    "source": "twitter",
+    "author": "terescavs",
+    "content": "@TheSports_Shift John Elway",
+    "url": "https://x.com/terescavs/status/2028162783179624542",
+    "timestamp": "2026-03-01T17:37:43.000Z",
+    "metadata": {
+      "conversation_id": "2028162783179624542",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028162607580926420",
+    "source": "twitter",
+    "author": "TBestig",
+    "content": "@Man_InLondon @SWCultureLive Yes, they absolutely thought it was suspicious, but at that point they had no choice. They KNEW FOR A FACT the separatists were controlled by the Sith, and they knew they were unable to stop the droid army without an army of their own. They needed to buy time to unravel the plot",
+    "url": "https://x.com/TBestig/status/2028162607580926420",
+    "timestamp": "2026-03-01T17:37:01.000Z",
+    "metadata": {
+      "conversation_id": "2028162607580926420",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028162557601812864",
+    "source": "twitter",
+    "author": "droidbuilds",
+    "content": "@0xPrajwal_ Lmao 🤣🤣 it is good the reason I have not put my real name bcoz I think you will focus more on what they will think rather than your growth.. Once I reach at certain level which I have aimed for than I might change my name n all till than it's better like this only",
+    "url": "https://x.com/droidbuilds/status/2028162557601812864",
+    "timestamp": "2026-03-01T17:36:49.000Z",
+    "metadata": {
+      "conversation_id": "2028162557601812864",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028162135927468325",
+    "source": "twitter",
+    "author": "droid_friends",
+    "content": "@p111kuu 그러거나 말거나 니언니도 아닌데 뭔걱정이노 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "url": "https://x.com/droid_friends/status/2028162135927468325",
+    "timestamp": "2026-03-01T17:35:09.000Z",
+    "metadata": {
+      "conversation_id": "2028162135927468325",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028161090274918589",
     "source": "twitter",
     "author": "ninjaparticle",
@@ -15270,6 +15570,19 @@
       "number": 688
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_688",
+    "source": "github",
+    "author": "fanenr",
+    "content": "[Issue] Can native shell keyboard shortcuts be supported?\n\nIn the native shell, I can efficiently move the cursor using shortcuts like `C-f`, `C-b`, `C-a`, `C-e`, `M-f`, `M-b`, and so on, which is far faster than using arrow keys. Codex CLI supports this wonderfully; is there any hope that Droid will support it as well?",
+    "url": "https://github.com/Factory-AI/factory/issues/688",
+    "timestamp": "2026-02-27T04:37:07Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 688
+    }
   },
   {
     "id": "twitter_2027233282015015399",
@@ -46228,6 +46541,19 @@
       "number": 613
     },
     "category": "bug"
+  },
+  {
+    "id": "github_discussion_613",
+    "source": "github",
+    "author": "NTQ-TaiHX",
+    "content": "[Discussion] Authentication failed:\n\nEPERM: operation not permitted, rename 'C:\\Users\\xxx\\.factory\\auth.encrypted.tmp' -> 'C:\\Users\\xxx\\.factory\\auth.encrypted'\r\n\r\n> Press Enter to try again\r\n\r\nFor security reasons, I am not allowed to create .encrypted files; as soon as the new version is updated, I cannot use Droid.\r\n",
+    "url": "https://github.com/Factory-AI/factory/discussions/613",
+    "timestamp": "2026-01-23T04:58:29Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 613
+    }
   },
   {
     "id": "twitter_2014560190884876599",
