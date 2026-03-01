@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1ri8p0k",
+    "source": "reddit",
+    "author": "carchengue626",
+    "content": "20x Claude Code user here. Just tried Factory Droid and it feels like cheating.\n\nI've been deep in Claude Code for months. Love it, use it daily, 20x subscriber. Not switching away from it.\n\nBut I just tried Droid from Factory and honestly... what the hell? Why is nobody talking about this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ri8p0k/20x_claude_code_user_here_just_tried_factory/",
+    "timestamp": "2026-03-01T20:50:49.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2028210597649646047",
     "source": "twitter",
     "author": "Command_Droid",
@@ -192,6 +205,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2028207721636655372",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "It just keeps going - 21 hours in",
+    "url": "https://x.com/NickSloggett/status/2028207721636655372",
+    "timestamp": "2026-03-01T20:36:17.000Z",
+    "metadata": {
+      "conversation_id": "2028207721636655372",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028207531546321268",
     "source": "twitter",
     "author": "KoroYubii",
@@ -206,6 +234,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028206935695311057",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@cursor_ai harness and @FactoryAI harness are https://t.co/Ew9EI0KZNl",
+    "url": "https://x.com/NickSloggett/status/2028206935695311057",
+    "timestamp": "2026-03-01T20:33:10.000Z",
+    "metadata": {
+      "conversation_id": "2028206935695311057",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028206669423911309",
@@ -61836,6 +61879,19 @@
       "number": 588
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_588",
+    "source": "github",
+    "author": "rstander7777",
+    "content": "[Discussion] Option to disable TodoWrite as it is interfering with my own tasks lists\n\nHi,\r\n\r\nI need a way to disable ALL built in tool calls even TodoWrite. \r\n\r\nThe TodoWrite is interfering with my local file based task list. The LLMs uses your TodoWrite tool and then does not update my task list.",
+    "url": "https://github.com/Factory-AI/factory/discussions/588",
+    "timestamp": "2026-01-14T19:09:16Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 588
+    }
   },
   {
     "id": "twitter_2011512018822746116",
