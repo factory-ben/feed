@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028059579674685525",
@@ -15255,7 +15256,8 @@
       "type": "issue",
       "labels": [],
       "number": 678
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2026441512511262962",
