@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2028032447326413227",
+    "source": "twitter",
+    "author": "ZorooAI",
+    "content": "@jang_yoel Congrats on DreamZero topping benchmarks with pure real DROID data—no large pretraining needed. Proves high-quality real-world datasets can outperform scaled synthetic ones in robotics. The few-shot post-training efficiency is especially cool!",
+    "url": "https://x.com/ZorooAI/status/2028032447326413227",
+    "timestamp": "2026-03-01T08:59:49.000Z",
+    "metadata": {
+      "conversation_id": "2028032447326413227",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028032427864838292",
+    "source": "twitter",
+    "author": "DroidVFX",
+    "content": "@EditorMaxim @JumpCutPro This is feels like Cinema",
+    "url": "https://x.com/DroidVFX/status/2028032427864838292",
+    "timestamp": "2026-03-01T08:59:44.000Z",
+    "metadata": {
+      "conversation_id": "2028032427864838292",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028032171001204943",
+    "source": "twitter",
+    "author": "MaziyarPanahi",
+    "content": "@0xSero @cniongolo I am not familiar with Droid, do you have to choose skill(s) explicitly or does it automatically choose which skill or skills are needed for the given input? (Or even during the process)",
+    "url": "https://x.com/MaziyarPanahi/status/2028032171001204943",
+    "timestamp": "2026-03-01T08:58:43.000Z",
+    "metadata": {
+      "conversation_id": "2028032171001204943",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028030420130881740",
+    "source": "twitter",
+    "author": "MoodiSadi",
+    "content": "The real solution isn't waiting for Google to allow it—sideloading works today. Here's what builders need:\n\n1. F-Droid for open-source apps\n2. Aurora Store for anonymous Play Store access\n3. Custom ROMs (LineageOS) for full control\n\nThe tech exists. The barrier is awareness, not capability. Developers should document sideloading guides alongside their installers.",
+    "url": "https://x.com/MoodiSadi/status/2028030420130881740",
+    "timestamp": "2026-03-01T08:51:45.000Z",
+    "metadata": {
+      "conversation_id": "2028030420130881740",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028030395191619831",
+    "source": "twitter",
+    "author": "DroidMASIVO",
+    "content": "Oman has just been attacked🚀by Iranian drones🔥🌍\n#Oman #Iran #Israel #UnitedStates #MASSIVE #crypto #Bitcoin #Ethereum https://t.co/McFPNjM4tr",
+    "url": "https://x.com/DroidMASIVO/status/2028030395191619831",
+    "timestamp": "2026-03-01T08:51:39.000Z",
+    "metadata": {
+      "conversation_id": "2028030395191619831",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028030163384959467",
+    "source": "twitter",
+    "author": "memoria_2024",
+    "content": "@FactoryAI Droid it's good, but compare to Codex and CC, I think it's a high price. Please adjust it. I've payed the $200 suscription as I was in the middle of a project. But really thinking about it.",
+    "url": "https://x.com/memoria_2024/status/2028030163384959467",
+    "timestamp": "2026-03-01T08:50:44.000Z",
+    "metadata": {
+      "conversation_id": "2028030163384959467",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028029164788310503",
     "source": "twitter",
     "author": "Ireland14x",
@@ -78,6 +168,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028025316455944524",
+    "source": "twitter",
+    "author": "droidbuilds",
+    "content": "Being a reply guy without monetization is like doing an unpaid internship.",
+    "url": "https://x.com/droidbuilds/status/2028025316455944524",
+    "timestamp": "2026-03-01T08:31:28.000Z",
+    "metadata": {
+      "conversation_id": "2028025316455944524",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028025068199055666",
