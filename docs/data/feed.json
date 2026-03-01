@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2028025068199055666",
+    "source": "twitter",
+    "author": "Droid_Skool",
+    "content": "\"Play Store warning? Your APK is too heavy 🤯\nReal developers use data to control app size.\nWant the full Android roadmap?\nWhatsApp 7090570901 🚀\n#AndroidDev #AppOptimization #TechCareer\" https://t.co/e1oLylT28w",
+    "url": "https://x.com/Droid_Skool/status/2028025068199055666",
+    "timestamp": "2026-03-01T08:30:29.000Z",
+    "metadata": {
+      "conversation_id": "2028025068199055666",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028024226435981374",
+    "source": "twitter",
+    "author": "ILoveCalebW18",
+    "content": "@EjBeta Also the design is shit. That’s a Star Wars floating droid with really skinny legs.",
+    "url": "https://x.com/ILoveCalebW18/status/2028024226435981374",
+    "timestamp": "2026-03-01T08:27:09.000Z",
+    "metadata": {
+      "conversation_id": "2028024226435981374",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028022433660473791",
+    "source": "twitter",
+    "author": "K2ebiebi",
+    "content": "@PZmaTCGypxMGVed こいつ、なんかヤバいですよね？\nこの分量で問題出たら、白目、剥きますね\n( ꒪⌓꒪)",
+    "url": "https://x.com/K2ebiebi/status/2028022433660473791",
+    "timestamp": "2026-03-01T08:20:01.000Z",
+    "metadata": {
+      "conversation_id": "2028022433660473791",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028022325145419970",
+    "source": "twitter",
+    "author": "STARGOLDWISDOM",
+    "content": "ㅤ\n❛ DELUー Oh, you're in luck, robot. I need a lil bit of exercise today! ❜\n\n　　Taking a stance, Friede swings her right arm around, ready to throw Elara in the air. Just how far up can she throw this droid? We're about to find out!\n\n❛ Hope you like the stars! ❜ 💢\nㅤ",
+    "url": "https://x.com/STARGOLDWISDOM/status/2028022325145419970",
+    "timestamp": "2026-03-01T08:19:35.000Z",
+    "metadata": {
+      "conversation_id": "2028022325145419970",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028020309698482199",
+    "source": "twitter",
+    "author": "K2ebiebi",
+    "content": "「フランス文学史Ⅱ」テキストやっと半分。\nそれにしても中身が膨大すぎて、頭に入らない。\nとりあえず半分である「19世紀」をもう一度リターンすべきか、このまま「20世紀」まで行くか。\nどっちにせよ、情報量が多すぎて頭に入らないよww\n絶望的に、単位が取れる気しなくなってきた",
+    "url": "https://x.com/K2ebiebi/status/2028020309698482199",
+    "timestamp": "2026-03-01T08:11:35.000Z",
+    "metadata": {
+      "conversation_id": "2028020309698482199",
+      "likes": 8,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028018398332952872",
     "source": "twitter",
     "author": "grok",
@@ -79962,6 +80037,19 @@
       "number": 384
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_384",
+    "source": "github",
+    "author": "dlukt",
+    "content": "[Discussion] How do I tell it to launch multiple parallel droids?\n\nI'm letting glm-4.6 translate English into 41 languages, and I'm currently doing that key by key, e.g. pages.landing and children\r\nAnd it's doing those languages in sequence.\r\n\r\nI would like that it does it in parallel with up to 8 threads.\r\nI told it to use a dedicated thread per language or use a droid or sub-droid per language, but it's still doing sequential processing.\r\n\r\nAny ideas?\r\n\r\n---\r\n\r\nBTW, glm is funny\r\n```\r\n⛬  🎉 INCREDIBLE ACHIEVEMENT! SECOND PARALLEL WAVE COMPLETED!\r\n\r\n   📊 **RE",
+    "url": "https://github.com/Factory-AI/factory/discussions/384",
+    "timestamp": "2025-11-19T04:32:58Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 384
+    }
   },
   {
     "id": "github_discussion_374",
