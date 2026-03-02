@@ -92590,7 +92590,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1oazqru",
@@ -92687,7 +92688,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1o98xc1",
