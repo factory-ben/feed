@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2028590077115568486",
+    "source": "twitter",
+    "author": "evisdrenova",
+    "content": "@andrewtjoslin @EntireHQ @claudeai @geminicli @opencode @cursor_ai @FactoryAI Hey @andrewtjoslin Entire engineer here - sorry that you're seeing some issues with it. Would love to help you debug if you're open to it? Will send you a DM.",
+    "url": "https://x.com/evisdrenova/status/2028590077115568486",
+    "timestamp": "2026-03-02T21:55:38.000Z",
+    "metadata": {
+      "conversation_id": "2028590077115568486",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028589764224667828",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "We made the cut!",
+    "url": "https://x.com/alvinsng/status/2028589764224667828",
+    "timestamp": "2026-03-02T21:54:23.000Z",
+    "metadata": {
+      "conversation_id": "2028589764224667828",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028588818920562932",
     "source": "twitter",
     "author": "SenhorDivine",
@@ -94,6 +124,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028586093558337619",
+    "source": "twitter",
+    "author": "mfishbein",
+    "content": "Built a workflow where AI interrogates me about new client projects. Onboarded a client in 7 minutes with this.\n\nFull discovery doc, PRD, 18 Linear tasks, repo pushed to Github. Done for you.\n\nWent from \"let me re-explain this project for the 10th time\" to \"pick the next Linear issue and point Claude Code at it\".\n\nHere's how to do this with Claude Code or Factory:\n\n1/ Feed it the raw kickoff call transcript.\n\nI dumped the 40-min call transcript and a kickoff deck into the chat. AI pulled both simultaneously and extracted the key context without me summarizing anything.\n\n2/ Let it interrogate you with structured questions.\n\nInstead of writing paragraphs, @FactoryAI's AskUser tool hit me with 6 multiple choice questions. Hosting , tech stack, auth method, integrations, etc.. All decisions documented.\n\n3/ Generate discovery. md with explicit TBDs.\n\nThe output wasn't just a polished doc pretending we had all the answers. It flagged 5 open questions we still have for the client. No silent assumptions.\n\n4/ Auto-generate the PRD and task breakdown.\n\nOne command produced a 10-section PRD with acceptance criteria, then decomposed it into 18 discrete tasks with complexity estimates and dependencies.\n\n5/ Push tasks to Linear via API.\n\nFactory hit the @linear GraphQL API directly. Created the project, pushed all 18 issues with descriptions, set priorities. No manual entry, no copy-paste.\n\n6/ Scaffold the repo with persistent context.\n\nRan create-next-app, installed @supabase, generated CLAUDE. md with the full project brain. Every future session in this repo starts with context instead of from zero.\n\n7/ Commit and push to github.\n\nOne commit with everything. Discovery doc, PRD, task plan, and code. Walked away with a Linear board ready for Claude Code delegation.",
+    "url": "https://x.com/mfishbein/status/2028586093558337619",
+    "timestamp": "2026-03-02T21:39:48.000Z",
+    "metadata": {
+      "conversation_id": "2028586093558337619",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028584779315085544",
@@ -30702,6 +30747,19 @@
       "number": 672
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_672",
+    "source": "github",
+    "author": "MaicoTimmerman",
+    "content": "[Issue] Suspending Droid (ctrl+z) leaves terminal in CSI-u keyboard mode, breaking shell keybindings.\n\nWhen suspending the CLI with `Ctrl-Z`, the terminal is left in CSI-u keyboard mode. After the process is suspended, the shell receives CSI-u encoded key sequences instead of normal control characters, causing keybindings like `Ctrl-E` to appear as literal escape sequences.\n\nFor example, pressing `Ctrl-E` after suspending shows:\n\n```\n01;5u\n```\n\ninstead of moving the cursor to the end of the line. This breaks normal shell interaction until the terminal keyboard mode is manually reset.\n\n---\n\n**Step",
+    "url": "https://github.com/Factory-AI/factory/issues/672",
+    "timestamp": "2026-02-20T16:25:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 672
+    }
   },
   {
     "id": "twitter_2024863570304061663",
