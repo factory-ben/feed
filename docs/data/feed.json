@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2028564992270999927",
+    "source": "twitter",
+    "author": "Viswana34226652",
+    "content": "@rakeshgohel01 you definetly missed @FactoryAI",
+    "url": "https://x.com/Viswana34226652/status/2028564992270999927",
+    "timestamp": "2026-03-02T20:15:57.000Z",
+    "metadata": {
+      "conversation_id": "2028564992270999927",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028560641875976453",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "The alliance grows! Natively integrated with @EntireHQ who's vision of the future of software development couldn't be more aligned!",
+    "url": "https://x.com/EnoReyes/status/2028560641875976453",
+    "timestamp": "2026-03-02T19:58:40.000Z",
+    "metadata": {
+      "conversation_id": "2028560641875976453",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028560598623994173",
     "source": "twitter",
     "author": "pitsch",
@@ -144,6 +174,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2028558028983951479",
+    "source": "twitter",
+    "author": "EntireHQ",
+    "content": "@ethanchang_ @claudeai @geminicli @opencode @cursor_ai @FactoryAI Need the hooks configured for Codex to work. We are working with the team @OpenAIDevs on this",
+    "url": "https://x.com/EntireHQ/status/2028558028983951479",
+    "timestamp": "2026-03-02T19:48:17.000Z",
+    "metadata": {
+      "conversation_id": "2028558028983951479",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028558019181572198",
     "source": "twitter",
     "author": "MrB1BattleDroid",
@@ -174,6 +219,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028557712569835619",
+    "source": "twitter",
+    "author": "ethanchang_",
+    "content": "@EntireHQ @claudeai @geminicli @opencode @cursor_ai @FactoryAI why not codex?",
+    "url": "https://x.com/ethanchang_/status/2028557712569835619",
+    "timestamp": "2026-03-02T19:47:02.000Z",
+    "metadata": {
+      "conversation_id": "2028557712569835619",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028557462505169303",
@@ -432,6 +492,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2028553711220379832",
+    "source": "twitter",
+    "author": "AskerSpencer",
+    "content": "@EntireHQ @claudeai @geminicli @opencode @cursor_ai @FactoryAI Cool",
+    "url": "https://x.com/AskerSpencer/status/2028553711220379832",
+    "timestamp": "2026-03-02T19:31:08.000Z",
+    "metadata": {
+      "conversation_id": "2028553711220379832",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028553708359889131",
     "source": "twitter",
     "author": "FaultyMotivator",
@@ -446,6 +521,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028553201050624288",
+    "source": "twitter",
+    "author": "EntireHQ",
+    "content": "✅@claudeai \n✅@geminicli \n✅@opencode \n✅@cursor_ai \n✅@FactoryAI \n\nThe universal reasoning layer for agents is forming. More agents coming soon. 🫡",
+    "url": "https://x.com/EntireHQ/status/2028553201050624288",
+    "timestamp": "2026-03-02T19:29:06.000Z",
+    "metadata": {
+      "conversation_id": "2028553201050624288",
+      "likes": 12,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028553165176553796",
@@ -30684,6 +30774,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1r96pv4",
+    "source": "reddit",
+    "author": "TennisGroundbreaking",
+    "content": "Error: Streaming is required for operations that may take longer than 10 minutes\n\nI keep randomly getting this:  \nError: Streaming is required for operations that may take longer than 10 minutes. See [https://github.com/anthropics/anthropic-sdk-typescript#long-requests](https://github.com/anthropics/anthropic-sdk-typescript#long-requests) for more details\n\nThis only happens in droid, nothing else using same keys.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1r96pv4/error_streaming_is_required_for_operations_that/",
+    "timestamp": "2026-02-19T18:14:10.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2024543389731926289",
