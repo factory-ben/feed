@@ -96,6 +96,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2028940299020485012",
+    "source": "twitter",
+    "author": "MingtaKaivo",
+    "content": "@petergyang @linear @tryramp @FactoryAI living this at a 3-person startup. half my week is writing CLAUDE.md files and reviewing agent outputs. managing AI is management—just faster feedback loops and weirder failure modes",
+    "url": "https://x.com/MingtaKaivo/status/2028940299020485012",
+    "timestamp": "2026-03-03T21:07:17.000Z",
+    "metadata": {
+      "conversation_id": "2028940299020485012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028940194251002066",
     "source": "twitter",
     "author": "YOUWAANN",
@@ -286,6 +301,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028938613589786640",
+    "source": "twitter",
+    "author": "TomSolidPM",
+    "content": "@petergyang @linear @tryramp @FactoryAI \"Codify expertise into reusable AI skills\" is the part most teams skip. They hand everyone ChatGPT and hope for the best. The companies pulling ahead built shared systems where AI has context, memory, and SOPs baked in. Managing agents is the new management skill.",
+    "url": "https://x.com/TomSolidPM/status/2028938613589786640",
+    "timestamp": "2026-03-03T21:00:35.000Z",
+    "metadata": {
+      "conversation_id": "2028938613589786640",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028938467204387299",
