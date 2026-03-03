@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_699",
+    "source": "github",
+    "author": "thezzisu",
+    "content": "[Issue] AskUser tool in Droid CLI fails to proceed under Agent Client Protocol (ACP) sessions\n\nWhen using the `AskUser` tool within a Droid CLI session over ACP, the session hangs after the initial tool invocation. Only a single `session/update` notification is triggered with the following payload:\n\n```json\n{\n  \"jsonrpc\": \"2.0\",\n  \"method\": \"session/update\",\n  \"params\": {\n    \"sessionId\": \"6e55f85f-b15d-40cd-b312-abf6392f418d\",\n    \"update\": {\n      \"sessionUpdate\": \"tool_call\",\n      \"toolCallId\": \"toolu_bdrk_01HfQsZHng6Si5KxDa8TYS8n\",\n      \"title\": \"AskUser\",\n      \"kind\": \"other\",\n   ",
+    "url": "https://github.com/Factory-AI/factory/issues/699",
+    "timestamp": "2026-03-03T12:26:50Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 699
+    }
+  },
+  {
     "id": "reddit_1rjnpbe",
     "source": "reddit",
     "author": "mylifeasacoder",
