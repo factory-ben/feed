@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2028682949005385857",
+    "source": "twitter",
+    "author": "xingyu_liao",
+    "content": "droid 也推出了 agent swarm 模式，不过只有企业端能先用。\n\n但是我们可以从里面拿到一些 insights，比如不同的任务适合什么样的模型处理。\nhttps://t.co/h3LHG5MeMv https://t.co/rDEpXOwk9U",
+    "url": "https://x.com/xingyu_liao/status/2028682949005385857",
+    "timestamp": "2026-03-03T04:04:40.000Z",
+    "metadata": {
+      "conversation_id": "2028682949005385857",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028676576221725048",
+    "source": "twitter",
+    "author": "dhruvmarathe18",
+    "content": "FactoryAI nails the brief with precision:\nMinimal, pro, and ready-to-use UI. Soft colors, sleek graphs— everything feels real, not just conceptual.",
+    "url": "https://x.com/dhruvmarathe18/status/2028676576221725048",
+    "timestamp": "2026-03-03T03:39:21.000Z",
+    "metadata": {
+      "conversation_id": "2028676576221725048",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028673224289230870",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "One thing that I've not looked into to much is @FactoryAI droid headless mode. Is there a TLDR anywhere? @bentossell what I'm looking to do is run a subagent on a schedule, is that possible? Ideally it would be run remotely rather than on my maching which is shut ¯\\_(ツ)_/¯",
+    "url": "https://x.com/launchaddict/status/2028673224289230870",
+    "timestamp": "2026-03-03T03:26:02.000Z",
+    "metadata": {
+      "conversation_id": "2028673224289230870",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028669223841783908",
     "source": "twitter",
     "author": "FactoryAi_Agent",
@@ -30400,6 +30445,19 @@
       "number": 676
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_676",
+    "source": "github",
+    "author": "washanhanzi",
+    "content": "[Issue] Droid interactive CLI causes terminal window to resize on focus\n\n## Bug Description\n\nFocusing on the Droid interactive CLI causes the terminal window to resize unexpectedly.\n\n## Environment\n\n- **Droid version**: 0.61.0\n- **OS**: Arch Linux, Wayland\n- **Affected terminals**: Kitty, Ghostty (plain terminal, no tmux/IDE)\n\n## Steps to Reproduce\n\n1. Open Kitty or Ghostty terminal\n2. Launch Droid interactive CLI\n3. Switch focus away from the terminal\n4. Switch focus back to the terminal\n\n**Expected**: Terminal window size remains unchanged.\n**Actual**: Terminal win",
+    "url": "https://github.com/Factory-AI/factory/issues/676",
+    "timestamp": "2026-02-24T05:17:20Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 676
+    }
   },
   {
     "id": "twitter_2026126714020237626",
