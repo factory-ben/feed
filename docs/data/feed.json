@@ -1,5 +1,331 @@
 [
   {
+    "id": "twitter_2029032318044709029",
+    "source": "twitter",
+    "author": "bingheqiu",
+    "content": "@M44ZES vc sendo igual ❤️",
+    "url": "https://x.com/bingheqiu/status/2029032318044709029",
+    "timestamp": "2026-03-04T03:12:56.000Z",
+    "metadata": {
+      "conversation_id": "2029032318044709029",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_706",
+    "source": "github",
+    "author": "7ampon",
+    "content": "[Issue] [BUG] CLI authentication fails on Windows\n\n## Description\n\nUnable to log in via the Droid CLI on Windows. Selecting `Login` from the welcome screen results in an endless loop of \"Authentication failed: Was there a typo in the url or port?\".\n\n<img width=\"1200\" height=\"554\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a723b284-b022-49f6-8ca9-8e1598728dcd\" />\n\n## Environment\n\n- **Droid version:** 0.67.1\n- **Bun version**: 1.2.22 and 1.3.10 (tested on both)\n\n## Steps to Reproduce\n\n1. Install on Windows `irm https://app.factory",
+    "url": "https://github.com/Factory-AI/factory/issues/706",
+    "timestamp": "2026-03-04T03:11:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 706
+    }
+  },
+  {
+    "id": "twitter_2029031319372775670",
+    "source": "twitter",
+    "author": "droidbuilds",
+    "content": "@Thrishal_Shetty Let's connect bro",
+    "url": "https://x.com/droidbuilds/status/2029031319372775670",
+    "timestamp": "2026-03-04T03:08:58.000Z",
+    "metadata": {
+      "conversation_id": "2029031319372775670",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029030653766074840",
+    "source": "twitter",
+    "author": "SnowMist3r",
+    "content": "@ahelllove gooner droid",
+    "url": "https://x.com/SnowMist3r/status/2029030653766074840",
+    "timestamp": "2026-03-04T03:06:20.000Z",
+    "metadata": {
+      "conversation_id": "2029030653766074840",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029030618445775165",
+    "source": "twitter",
+    "author": "droidbuilds",
+    "content": "Make a list of how much money have you spend on all of your YouTube videos too",
+    "url": "https://x.com/droidbuilds/status/2029030618445775165",
+    "timestamp": "2026-03-04T03:06:11.000Z",
+    "metadata": {
+      "conversation_id": "2029030618445775165",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029030475650478444",
+    "source": "twitter",
+    "author": "DroidMASIVO",
+    "content": "@MrBeast @MrBeast  Que MASIVO esas ganancias 👑🚀🍀",
+    "url": "https://x.com/DroidMASIVO/status/2029030475650478444",
+    "timestamp": "2026-03-04T03:05:37.000Z",
+    "metadata": {
+      "conversation_id": "2029030475650478444",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029030080719061459",
+    "source": "twitter",
+    "author": "Injury_19",
+    "content": "I completed the game Little Droid, via @TrueAchievement https://t.co/nOzd0zUp5c",
+    "url": "https://x.com/Injury_19/status/2029030080719061459",
+    "timestamp": "2026-03-04T03:04:03.000Z",
+    "metadata": {
+      "conversation_id": "2029030080719061459",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029029984405536783",
+    "source": "twitter",
+    "author": "time_droid",
+    "content": "／\n#ピッコマ で毎日📣\n#マンガ読んでポイ活🎉\n＼\n本日👇の作品を読むと最大100,000マイルGET🎁\n\n✅「勇者パーティー辞めます。」\n✅「錬金術師のゆるふわ離島開拓記（コミック）」\n\n他にもミッション開催中❗️\nhttps://t.co/YXZxaK1Rlo",
+    "url": "https://x.com/time_droid/status/2029029984405536783",
+    "timestamp": "2026-03-04T03:03:40.000Z",
+    "metadata": {
+      "conversation_id": "2029029984405536783",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029029606947168268",
+    "source": "twitter",
+    "author": "HecticGifts",
+    "content": "NEW Kenner - Star Wars A New Hope VC R2-D2 Action Figure\n\nhttps://t.co/cjzaXzviCQ\n\n #New #HecticGifts #Kenner #StarWars #ANewHope #ArtooDetoo #R2D2 #VintageCollection #VC149 #ActionFigure #Toy #Collectible #Droid #FreeShipping #AustraliaWide #FastShipping https://t.co/3SCJuxruq4",
+    "url": "https://x.com/HecticGifts/status/2029029606947168268",
+    "timestamp": "2026-03-04T03:02:10.000Z",
+    "metadata": {
+      "conversation_id": "2029029606947168268",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029029551624613903",
+    "source": "twitter",
+    "author": "droidbuilds",
+    "content": "@JoseInNorte Got it ty jose",
+    "url": "https://x.com/droidbuilds/status/2029029551624613903",
+    "timestamp": "2026-03-04T03:01:57.000Z",
+    "metadata": {
+      "conversation_id": "2029029551624613903",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029029215304376530",
+    "source": "twitter",
+    "author": "droidbuilds",
+    "content": "@namwon_h Done",
+    "url": "https://x.com/droidbuilds/status/2029029215304376530",
+    "timestamp": "2026-03-04T03:00:37.000Z",
+    "metadata": {
+      "conversation_id": "2029029215304376530",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029029032432681140",
+    "source": "twitter",
+    "author": "droidbuilds",
+    "content": "@JoseInNorte @despia @Claude Shipping to the App Store is a big step. Respect the grind, rooting for the launch 🚀",
+    "url": "https://x.com/droidbuilds/status/2029029032432681140",
+    "timestamp": "2026-03-04T02:59:53.000Z",
+    "metadata": {
+      "conversation_id": "2029029032432681140",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029028821941244215",
+    "source": "twitter",
+    "author": "DroidMASIVO",
+    "content": "@Binance_intern GM MASIVO @binance",
+    "url": "https://x.com/DroidMASIVO/status/2029028821941244215",
+    "timestamp": "2026-03-04T02:59:03.000Z",
+    "metadata": {
+      "conversation_id": "2029028821941244215",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_704",
+    "source": "github",
+    "author": "symulacr",
+    "content": "[Issue] bug report 751f3bbd: session context isolation failure\n\nbug report id: 751f3bbd-bfd9-436e-9c42-a320f7709504\n\nsession context isolation failure. previous request artifacts (files + thinking metadata) appearing in subsequent unrelated request context.\n\ntechnical details:\n- session a created: matrix_engine.hpp, test_matrix_engine.cpp\n- session b (unrelated) showed session a files in `ls` output\n- session b thinking block contained session a description metadata\n- working directory state persisting across session boundaries\n\nimpact: assistant provided in",
+    "url": "https://github.com/Factory-AI/factory/issues/704",
+    "timestamp": "2026-03-04T02:57:14Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 704
+    }
+  },
+  {
+    "id": "twitter_2029027514023330107",
+    "source": "twitter",
+    "author": "iPhone_Droid",
+    "content": "MacBook Neo รุ่นประหยัดมาแน่ๆ หลุดเอกสาร แล้วสเปคบางส่วนด้วยแหละ 😆\nhttps://t.co/cd0rkb7tXC\n\n#iphonedroid #Apple #MacBookNeo",
+    "url": "https://x.com/iPhone_Droid/status/2029027514023330107",
+    "timestamp": "2026-03-04T02:53:51.000Z",
+    "metadata": {
+      "conversation_id": "2029027514023330107",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029027266869481736",
+    "source": "twitter",
+    "author": "thissitesucksFU",
+    "content": "@AFpost Back to sail the seven seas with ye old one eye https://t.co/M5SHq5Y183",
+    "url": "https://x.com/thissitesucksFU/status/2029027266869481736",
+    "timestamp": "2026-03-04T02:52:52.000Z",
+    "metadata": {
+      "conversation_id": "2029027266869481736",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029027076234215600",
+    "source": "twitter",
+    "author": "Aymorfuss",
+    "content": "The Droid was made by me in lswtcs character creator and started this whole thing (not in canon just the concept)\n\nand the Jedi was imagined by me years ago where she held her ground against Grevious through dodging and mocking \n\nthe rest were made just for this",
+    "url": "https://x.com/Aymorfuss/status/2029027076234215600",
+    "timestamp": "2026-03-04T02:52:07.000Z",
+    "metadata": {
+      "conversation_id": "2029027076234215600",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029026546065817781",
+    "source": "twitter",
+    "author": "bingheqiu",
+    "content": "cause i just had a dream i was dead and i only cared cause i was taken from you youre the only thing that i own i hear my bell ring id only answer for you",
+    "url": "https://x.com/bingheqiu/status/2029026546065817781",
+    "timestamp": "2026-03-04T02:50:00.000Z",
+    "metadata": {
+      "conversation_id": "2029026546065817781",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029026533889695787",
+    "source": "twitter",
+    "author": "mystrioustrmors",
+    "content": "Yeah ok https://t.co/37D8kLLzMn",
+    "url": "https://x.com/mystrioustrmors/status/2029026533889695787",
+    "timestamp": "2026-03-04T02:49:57.000Z",
+    "metadata": {
+      "conversation_id": "2029026533889695787",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029026338804240654",
+    "source": "twitter",
+    "author": "mystrioustrmors",
+    "content": "Sure you take credit for arrests you haven’t done and your also a fatass who really likes donuts but I can’t complain, more for me",
+    "url": "https://x.com/mystrioustrmors/status/2029026338804240654",
+    "timestamp": "2026-03-04T02:49:11.000Z",
+    "metadata": {
+      "conversation_id": "2029026338804240654",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029026184596705522",
+    "source": "twitter",
+    "author": "mystrioustrmors",
+    "content": "He’s a pathetic wet cat while simultaneously being the most annoying son of a bitch alive💔",
+    "url": "https://x.com/mystrioustrmors/status/2029026184596705522",
+    "timestamp": "2026-03-04T02:48:34.000Z",
+    "metadata": {
+      "conversation_id": "2029026184596705522",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029026118112534678",
+    "source": "twitter",
+    "author": "SkyeBlu15",
+    "content": "@SakuRose9 I’d z power em if I could since I’m about to finish the last droid lf and well not like I’d get anymore to z power \nhoping I maybe grab him off a random ticket banner at some point",
+    "url": "https://x.com/SkyeBlu15/status/2029026118112534678",
+    "timestamp": "2026-03-04T02:48:18.000Z",
+    "metadata": {
+      "conversation_id": "2029026118112534678",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2029018052881195293",
     "source": "twitter",
     "author": "thissitesucksFU",
@@ -93676,6 +94002,19 @@
       "number": 565
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_565",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Discussion] Clear tests, whitepaper or anything showing that droid is secure against modern takeovers\n\nhttps://cybernews.com/security/ai-agents-highly-vulnerable-to-prompt-injection-attacks/\r\n\r\nQuick summary:\r\n> Security researchers warns that AI agents like Anthropic's Claude Code, GitHub Copilot, Google Jules, and Devin (**BASICALLY  ANY FRAMEWORK**) are highly vulnerable to prompt injection attacks, enabling hackers to hijack systems with simple words hidden` in websites, documents, or GitHub repos without malware or user input. Demonstrations at the 39th Chaos Communication Congress showed ag",
+    "url": "https://github.com/Factory-AI/factory/discussions/565",
+    "timestamp": "2026-01-06T13:48:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 565
+    }
   },
   {
     "id": "twitter_2008535238524424699",
