@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2029183226795704694",
+    "source": "twitter",
+    "author": "niwoerner",
+    "content": "Tried out the new mission control in @FactoryAI today and I'm impressed. As someone who is building long running agents on my own, I know that this stuff isn't easy but my _first_ test was really really good. Obviously not all of the  code was slop free but still very promising https://t.co/Kap8sjyA7q",
+    "url": "https://x.com/niwoerner/status/2029183226795704694",
+    "timestamp": "2026-03-04T13:12:36.000Z",
+    "metadata": {
+      "conversation_id": "2029183226795704694",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2029180124856500577",
     "source": "twitter",
     "author": "jhosephebtc",
@@ -142,6 +157,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2029177831457005901",
+    "source": "twitter",
+    "author": "adcv_",
+    "content": "The ultimate wordcel tool is the Mission, prompt carefully then come back in 10h to a fully tested and feature-complete prototype\n\n/enter-mission",
+    "url": "https://x.com/adcv_/status/2029177831457005901",
+    "timestamp": "2026-03-04T12:51:09.000Z",
+    "metadata": {
+      "conversation_id": "2029177831457005901",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2029177544205869106",
@@ -430,6 +460,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2029162287211409670",
+    "source": "twitter",
+    "author": "Remoty_AI",
+    "content": "the agent onboarding parallel to remote hiring is strong here. async-first teams already have to make every context and expectation explicit in writing because you can't rely on physical proximity. adding AI agents to that workflow is a natural extension for remote orgs, not a new system to build from scratch.",
+    "url": "https://x.com/Remoty_AI/status/2029162287211409670",
+    "timestamp": "2026-03-04T11:49:23.000Z",
+    "metadata": {
+      "conversation_id": "2029162287211409670",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2029160783548940385",
