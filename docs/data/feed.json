@@ -45928,6 +45928,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_670",
+    "source": "github",
+    "author": "Pull2MAX",
+    "content": "[Issue] Table column alignment broken with CJK (Chinese/Japanese/Korean) characters\n\n## Description\n\nWhen the AI response contains a Markdown table with CJK (Chinese/Japanese/Korean) characters, the column alignment is completely broken in the terminal output.\n\n## Environment\n\n- OS: Windows 11\n- Terminal: PowerShell\n- Factory version: latest\n\n## Screenshot\n\n<!-- drag your screenshot here -->\n\n## Root Cause (likely)\n\nThe table rendering logic probably calculates column widths based on character count (`str.len()` or similar) rather than terminal display width. CJK characters are ",
+    "url": "https://github.com/Factory-AI/factory/issues/670",
+    "timestamp": "2026-02-19T10:04:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 670
+    }
+  },
+  {
     "id": "twitter_2024399067888091383",
     "source": "twitter",
     "author": "nateberkopec",
@@ -46408,6 +46421,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1r7qj5o",
+    "source": "reddit",
+    "author": "yusufg",
+    "content": "Did Minimax-2.5 get pulled out\n\nI thought I saw it earlier as a Droid Core model, don't see it as of 0.57.16 ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1r7qj5o/did_minimax25_get_pulled_out/",
+    "timestamp": "2026-02-18T02:21:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2023922259845341234",
