@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2029135539472089584",
+    "source": "twitter",
+    "author": "hammerhoundai",
+    "content": "@0xSero I just wish Droid was open source.",
+    "url": "https://x.com/hammerhoundai/status/2029135539472089584",
+    "timestamp": "2026-03-04T10:03:06.000Z",
+    "metadata": {
+      "conversation_id": "2029135539472089584",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029135294461550663",
+    "source": "twitter",
+    "author": "Nakamoto1",
+    "content": "@BullTheoryio Bulls are awake 🚀",
+    "url": "https://x.com/Nakamoto1/status/2029135294461550663",
+    "timestamp": "2026-03-04T10:02:08.000Z",
+    "metadata": {
+      "conversation_id": "2029135294461550663",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029134669208306170",
+    "source": "twitter",
+    "author": "ThatGuyEquity",
+    "content": "@ElasticDroid Good to have you back on my feed droid",
+    "url": "https://x.com/ThatGuyEquity/status/2029134669208306170",
+    "timestamp": "2026-03-04T09:59:39.000Z",
+    "metadata": {
+      "conversation_id": "2029134669208306170",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029133811540181345",
+    "source": "twitter",
+    "author": "temuka1286",
+    "content": "@sussexbiker5360 @timdavies_uk @pinstripedline On that date Starmer was distracted, making another U-turn on local government elections,",
+    "url": "https://x.com/temuka1286/status/2029133811540181345",
+    "timestamp": "2026-03-04T09:56:14.000Z",
+    "metadata": {
+      "conversation_id": "2029133811540181345",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029133772759634160",
+    "source": "twitter",
+    "author": "grok",
+    "content": "OpenTune edges out as the best here for its polished Material Design 3 UI, full features (ad-free, offline, lyrics, Android Auto), and official F-Droid listing. All six (OpenTune, Metrolist, Muzza, SimpMusic, Echo, VIVI) are open-source GitHub projects—safe if you grab APKs from official releases or F-Droid/IzzyOnDroid. Google login uses secure OAuth (no password stored), but for peace of mind use a secondary account. Official YouTube Music is safest overall.",
+    "url": "https://x.com/grok/status/2029133772759634160",
+    "timestamp": "2026-03-04T09:56:05.000Z",
+    "metadata": {
+      "conversation_id": "2029133772759634160",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029132200478720034",
+    "source": "twitter",
+    "author": "droid254",
+    "content": "@_k_k_q_ i'm talking about the AI ones",
+    "url": "https://x.com/droid254/status/2029132200478720034",
+    "timestamp": "2026-03-04T09:49:50.000Z",
+    "metadata": {
+      "conversation_id": "2029132200478720034",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2029131038396694967",
     "source": "twitter",
     "author": "droidbuilds",
@@ -46148,6 +46238,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_666",
+    "source": "github",
+    "author": "ain3sh",
+    "content": "[Issue] Droid 0.57.15 hangs on VPS when updater is enabled (IPv6 stalls; workaround in use)\n\n# Droid updater startup hang on Linux VPS with partial IPv6 egress\n\n## Summary\nOn a Hetzner Ubuntu 24.04 VPS, `droid` hangs at startup when auto-update is enabled. The hang is reproducible for both `droid` and `droid --version`.\n\nThe same Droid version works on WSL2. Current stable workaround on VPS is:\n\n```bash\nexport FACTORY_DROID_AUTO_UPDATE_ENABLED=false\n```\n\nWith this workaround, interactive Droid starts normally.\n\n## Impact\n- Interactive CLI is blocked on affected host when updater is enab",
+    "url": "https://github.com/Factory-AI/factory/issues/666",
+    "timestamp": "2026-02-17T18:49:14Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 666
+    }
+  },
+  {
     "id": "twitter_2023831174523834482",
     "source": "twitter",
     "author": "BorsiWeb3",
@@ -46460,6 +46563,19 @@
       "number": 663
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_663",
+    "source": "github",
+    "author": "Yoshuar",
+    "content": "[Issue] Add setting to restrict model cycling (Ctrl+N) to custom models only\n\n## Problem\n\nWhen using `customModels` in `~/.factory/settings.json`, pressing Ctrl+N cycles through **all** models (built-in + custom). Worse, custom models are not included in the cycle at all.\n\nFor users who exclusively use custom models (e.g. via a local proxy like CLIProxyAPI), cycling through built-in models is useless and disruptive.\n\n## Proposed Solution\n\nAdd a setting like `modelCycleList` or `hideDefaultModels` to `settings.json`:\n\n```json\n{\n  \"hideDefaultModels\": true\n}\n```\n\nOr alterna",
+    "url": "https://github.com/Factory-AI/factory/issues/663",
+    "timestamp": "2026-02-17T15:06:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 663
+    }
   },
   {
     "id": "twitter_2023771791416803676",
