@@ -188,7 +188,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2029208839464100239",
@@ -30253,7 +30254,8 @@
       "type": "issue",
       "labels": [],
       "number": 691
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2028009499399741747",
@@ -46022,7 +46024,8 @@
       "type": "issue",
       "labels": [],
       "number": 674
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2025179943638823261",
@@ -46109,7 +46112,8 @@
       "type": "issue",
       "labels": [],
       "number": 673
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2025056984186392921",
