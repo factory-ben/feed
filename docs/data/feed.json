@@ -30592,6 +30592,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_692",
+    "source": "github",
+    "author": "gobrandwave",
+    "content": "[Issue] Auto-compaction fails to trigger when context window fills up — garbled gzip error responses\n\n# Bug: Auto-compaction fails to trigger when context window fills up — garbled gzip error responses\n\n## The problem\n\nWhen a Droid CLI session fills its context window, the session hard-fails instead of auto-compacting. The user is left with an unresponsive session and must manually run `/compress` to recover. This happens consistently every time the context window fills up.\n\nThe underlying cause is that the API error response body is gzip-compressed but never decompressed before being parsed. In",
+    "url": "https://github.com/Factory-AI/factory/issues/692",
+    "timestamp": "2026-03-01T19:32:07Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 692
+    }
+  },
+  {
     "id": "twitter_2028190826053202024",
     "source": "twitter",
     "author": "towrywang",
