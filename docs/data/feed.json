@@ -222,6 +222,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2029427012079628554",
+    "source": "twitter",
+    "author": "NoSQLNerd",
+    "content": "Case study: FactoryAI consolidated a multi-database stack into MongoDB Atlas to scale faster. Read how they simplified operations and sped up development - practical takeaways for teams facing multi-store complexity: https://t.co/kipWlYfJnp",
+    "url": "https://x.com/NoSQLNerd/status/2029427012079628554",
+    "timestamp": "2026-03-05T05:21:19.000Z",
+    "metadata": {
+      "conversation_id": "2029427012079628554",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2029426934099366064",
     "source": "twitter",
     "author": "ViT0ViT0ViT0",
